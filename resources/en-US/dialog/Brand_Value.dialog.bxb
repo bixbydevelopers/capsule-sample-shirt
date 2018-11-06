@@ -1,0 +1,11 @@
+dialog (Value) {
+  match: Brand (brand)
+  switch (brand) {
+    case (TommyHilfiger) {
+      template("Tommy Hilfiger")
+    }
+    case (RalphLauren) {
+      template ("Ralph Lauren")
+    }
+  }
+}

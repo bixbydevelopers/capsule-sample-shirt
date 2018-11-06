@@ -1,0 +1,38 @@
+action (CreateRemovedItem) {
+  type (Constructor)
+  collect {
+    //the order that is updated
+    input (order) {
+      type (Order)
+      min (Required)
+    }
+    //the item to be removed, resolved by searching the order items
+    input (item) {
+      type (SelectedItem)
+      min (Required)
+      default-init {
+        intent {
+          goal: SelectItem
+          value: $expr(order.items)
+        }
+      }
+    }
+
+    //how many should be removed
+    //all will be removed if not specified
+    input (quantity) {
+      type (Quantity)
+      min (Optional)
+    }
+
+  }
+
+  output (RemovedItem) {
+    evaluate {
+      RemovedItem {
+        item : $expr (item)
+        removedQuantity: $expr (quantity)
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+dialog (Concept) {
+  match {
+    Size (this)
+  }
+  switch (plural(this)) {
+    case (One) {
+      template (size)
+    }
+    default {
+      template (sizes)
+    }
+  }
+}

@@ -1,0 +1,13 @@
+structure (RemovedItem) {
+  features {
+    transient
+  }
+  property (item) {
+    type (SelectedItem)
+    min (Required)
+  }
+  property (removedQuantity) {
+    type (Quantity)
+    min (Optional)
+  }
+}

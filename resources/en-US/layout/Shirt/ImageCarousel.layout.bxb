@@ -1,0 +1,17 @@
+layout-macro-def (shirt-image-carousel) {
+  params {
+    param (shirt) {
+      type (Shirt)
+      min (Required) max (One)
+    }
+  }
+  content {
+    section {
+      content {
+        image-carousel {
+          images (shirt.images)
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+description {
+  name (ShirtTest)
+  iconUrl (/images/icons/shirt.png)
+  description (Example shopping cart capsule)
+  displayName (Shirt Example)
+  companyName (Viv Labs, Inc.)
+}

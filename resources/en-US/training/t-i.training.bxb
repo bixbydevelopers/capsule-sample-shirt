@@ -1,0 +1,12 @@
+train (t-i5yv8y8o0b8ac2hd3wr3mnho2) {
+  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Order {[g:example.shirt.Item] (2)[v:example.shirt.Quantity] (Polo Shirts)[v:example.shirt.SearchTerm]} and {[g:example.shirt.Item] (1)[v:example.shirt.Quantity] (V-Neck)[v:example.shirt.SearchTerm]} Shirt")
+  plan (3VHLasNADBwnrvNq3nXS3ntNLv2EQKCnkMcPLI4gC13byCq0fx/ZJoc1ya2nrkBCM6ORYLFATD/G5V+0Li6WZX2ghGwuePPhTeaclR2fiTH3qRps6pmMUE3NfOpTyN3FXu9ZVMzHI+Y9ydJC2NhUVlb7Vc5ZTiyWin+yYuEP7b9NKlZ+H+KNzzmWGUsf3Nr0XBONY49kOLmciN2f+SwRoIU2QjwhQgdd9NDHAM8YYoSxxgRTzDDXeEEMePqw0oeVvq/TQ62lPlK01AeVHoo28+0FXu1pjdS9q7tjdR3r5pZ2gys=)
+}
+train (t-iv7m4bbb8k3n2tb3wgykthgz9) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder,r:example.shirt.GetQuantity] Change the quantity of the (polo shirt)[v:example.shirt.SearchTerm]")
+  plan (hZDdTgIxEIUPLgKK6AUxAS/gxkuXh9ALwxXy4wM03QnbhO42s0Oib2+zNYTuYuwkk8n5zvykuMcjfSnrDrSocsOy2JAm4wTTWH4rrTWy4owY4xgFseH/dJkSCujlT/Ssy6ISVqaQ9FjLVWtxroo9ZUshi3kDMfmOc8PrP4bzfTrIqfF66rh0xGL8/lk844NL64Sy9VEVYuS7ed87yQk9xWhLB9Lye9rkEqvJxe9s2RXrfEds8YAOrpCgi2v00McAN7jFEHd1jIAW73me+Dz00ak5ohyq8Lq+d+QnJsAP)
+}
+train (t-iws07glq1mghw46ipa72os5xa) {
+  utterance ([g:example.shirt.CheckStatus] Check on my shirt order)
+  plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zkhNzg4uSSwpLcalg4mBEYgZgCQjAwOMBgA=)
+}

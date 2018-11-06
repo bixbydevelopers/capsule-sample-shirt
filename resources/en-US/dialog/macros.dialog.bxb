@@ -1,0 +1,3 @@
+template-macro-def(NoItemsInCart) {
+  content: template("No items in shopping cart!")
+}

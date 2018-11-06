@@ -1,0 +1,43 @@
+layout-macro-def (shirt-details) {
+  params {
+    param (shirt) {
+      type (Shirt)
+      min (Required) max (One)
+    }
+  }
+  content {
+    section {
+      content {
+        title-area {
+          hAlign (Start)
+          slot1 {
+            text {
+              value ("#{value(shirt.title)}")
+              style (Title_L)
+            }
+          }
+          slot2 {
+            single-line {
+              text {
+                value ("#{value(shirt.price)}")
+                style (Title_S)
+              }
+            }
+          }
+          slot3 {
+            single-line {
+              text {
+                value ("#{value(shirt.gender)} #{value(shirt.style)}")
+                style (Detail_L_Soft)
+              }
+            }
+          }
+        }
+        paragraph {
+          value ("#{value(shirt.description)}")
+          style (Detail_M)
+        }
+      }
+    }
+  }
+}

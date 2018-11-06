@@ -1,0 +1,119 @@
+activity-support {
+  match {
+    Receipt (this)
+  }
+  time (statusRefreshTime)
+  states {
+    if (orderState == 'Ordered') {
+      state (Scheduled) {
+        expires(statusRefreshTime)
+        summary-view {
+          message {
+            template ("#{value(orderState)} #{value(order)}")
+          }
+          title {
+            template ("#{value(order)}")
+          }
+          details {
+            template ("#{value(orderState)}")
+          }
+        }
+        detail-view {
+          layout-macro (common:orderTotalDisplay) {
+            param (total) {
+              dialog-template ("#{value(order.totalPrice)}")
+            }
+            param (line1) {
+              if ("size(order.items) > 0") {
+                dialog-template ("#{value(order.items[0])}")
+              }
+            }
+            param (line2) {
+              if ("size(order.items) > 1") {
+                dialog-template ("#{value(order.items[1])}")
+              }
+            }
+            param (line3) {
+              if ("size(order.items) > 2") {
+                dialog-template ("and #{size(order.items) - 2} more...")
+              }
+            }
+          }
+        }
+      }
+    } else-if (orderState == 'Shipped') {
+      state (Relevant) {
+        expires(statusRefreshTime)
+        summary-view {
+          message {
+            template ("#{value(orderState)} #{value(order)}")
+          }
+          title {
+            template ("#{value(order)}")
+          }
+          details {
+            template ("#{value(orderState)}")
+          }
+        }
+        detail-view {
+          layout-macro (common:orderTotalDisplay) {
+            param (total) {
+              dialog-template ("#{value(order.totalPrice)}")
+            }
+            param (line1) {
+              if ("size(order.items) > 0") {
+                dialog-template ("#{value(order.items[0])}")
+              }
+            }
+            param (line2) {
+              if ("size(order.items) > 1") {
+                dialog-template ("#{value(order.items[1])}")
+              }
+            }
+            param (line3) {
+              if ("size(order.items) > 2") {
+                dialog-template ("and #{size(order.items) - 2} more...")
+              }
+            }
+          }
+        }
+      }
+    } else-if (orderState == 'Delivered' || orderState == 'Cancelled') {
+      state (Recent) {
+        summary-view {
+          message {
+            template ("#{value(orderState)} #{value(order)}")
+          }
+          title {
+            template ("#{value(order)}")
+          }
+          details {
+            template ("#{value(orderState)}")
+          }
+        }
+        detail-view {
+          layout-macro (common:orderTotalDisplay) {
+            param (total) {
+              dialog-template ("#{value(order.totalPrice)}")
+            }
+            param (line1) {
+              if ("size(order.items) > 0") {
+                dialog-template ("#{value(order.items[0])}")
+              }
+            }
+            param (line2) {
+              if ("size(order.items) > 1") {
+                dialog-template ("#{value(order.items[1])}")
+              }
+            }
+            param (line3) {
+              if ("size(order.items) > 2") {
+                dialog-template ("and #{size(order.items) - 2} more...")
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

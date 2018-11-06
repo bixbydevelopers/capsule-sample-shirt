@@ -1,0 +1,4 @@
+train (t-w6hx8w0xv1v0ejkcd366iipxw) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Remove the {[g:example.shirt.RemovedItem] (Polo Shirt)[v:example.shirt.SearchTerm]} and the {[g:example.shirt.RemovedItem] (V-Neck)[v:example.shirt.SearchTerm]} Shirt")
+  plan (rZDdDsFAEIWPlv5Qf0GCGzcu8RKuXEmKB2jaSdrEarNd4vGNVtCmXIiZZGd2zrdnN4s+RnT1RHKkVRpGUq1c8ilKFCbF8ToWIlJbGZDEoCjlwxJ/SAJPUS4tPkpzPz6lSnrRSS3P2TgtG7kk4gsFG0XimzQrPVcSm/3r7LQI7OhIvnpo4yqtWvGkH+5J/upX+e2fLxmiBg066mjAgAkLNppowUEbHXSf2QMKZINJMyNtJnXube47nLWMvIfD1Xnb5+srjMzPYMZif4076wY=)
+}

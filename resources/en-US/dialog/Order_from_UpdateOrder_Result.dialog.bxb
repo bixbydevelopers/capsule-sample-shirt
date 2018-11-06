@@ -1,0 +1,11 @@
+dialog (Result) {
+  match {
+    Order(order) {
+      from-output {
+        UpdateOrder(update)
+      }
+    }
+  }
+
+  template ("#{joinAs('input', update.changedItems, update.addedItems, update.removedItems)}.")
+}

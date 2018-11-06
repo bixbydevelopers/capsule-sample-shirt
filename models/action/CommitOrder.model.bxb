@@ -1,0 +1,15 @@
+action (CommitOrder) {
+  type (Commit)
+  collect {
+    input (order) {
+      type (Order)
+      min (Required)
+    }
+  }
+
+  confirm {
+    by (Confirmation)
+  }
+
+  output (Receipt)
+}

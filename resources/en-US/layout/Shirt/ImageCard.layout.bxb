@@ -1,0 +1,39 @@
+layout-macro-def (shirt-image-card) {
+  params {
+    param (shirt) {
+      type (Shirt)
+      min (Required) max (One)
+    }
+  }
+  content {
+    image-card {
+      size (L)
+      image-url ("#{value(shirt.images[0].url)}")
+      title-area {
+        hAlign (Start)
+        slot1 {
+          text {
+            value ("#{value(shirt.title)}")
+            style (Title_M)
+          }
+        }
+        slot2 {
+          single-line {
+            text {
+              value ("#{value(shirt.brand)}")
+              style (Title_XS)
+            }
+          }
+        }
+        slot3 {
+          single-line {
+            text {
+              value ("#{value(shirt.price)}")
+              style (Detail_L)
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+integer (Quantity) {
+  description (Number of shirts)
+}

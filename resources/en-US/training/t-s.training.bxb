@@ -1,0 +1,12 @@
+train (t-s19hikllsrvenjow0778h9qft) {
+  utterance ([g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder,r:example.shirt.GetSize] Change the size)
+  plan (hZBNC4JAEIZfsy/NW3SoS5eO6Y+oQ3Qqkn6A6JALri7rBNGvb9EotSIWhuV53mFmFx5mdIukyigoU6E5OFFMQjHmbbwtpBR80AlpTNuqhp38WSURU63WP9UqLvKSdSRy9q8VLj8Gp1F+oWTPJLHsKE2moxnY/Ak058U19oXhvtKFIs3CzP/6ukUbHnUhFVMSijt1P3BHXOFOS0gZxfzc04OFHmz0McAQI4zNceBiArSMXVnHVKsyeNX3zTZ511Q8AA==)
+}
+train (t-s9v9om8ukz3rlfexka7krfiff) {
+  utterance ([g:example.shirt.Shirt] Show a list of all shirts)
+  plan (Y2BkEE6tSMwtyEnVK87ILCrRCwaRDCDACCIA)
+}
+train (t-siwq2u49bd22awnjrivrsgpw9) {
+  utterance ([g:example.shirt.CommitOrder:continue:example.shirt.Order] Commit my order)
+  plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
+}

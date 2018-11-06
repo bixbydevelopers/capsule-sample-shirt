@@ -1,0 +1,4 @@
+integer (HoldTime) {
+  extends (time.UTCInstant)
+  description(Expiration time for shirt purchase transation confirmation as miliseconds from epoch)
+}

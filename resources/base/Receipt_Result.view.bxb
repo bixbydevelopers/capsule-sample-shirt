@@ -1,0 +1,32 @@
+result-view {
+  match {
+    Receipt (this)
+  }
+
+  render {
+    layout {
+      section {
+        content {
+          title-area {
+            hAlign (Center)
+            slot1 {
+              text {
+                value ("#{value(order.totalPrice)}")
+                style (Title_XL)
+              }
+            }
+          }
+          for-each (this.order.items) {
+            as (item) {
+              layout-macro (item-highlight) {
+                param (item) {
+                  expression (item)
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+action (SelectItem) {
+  type (Search)
+  collect {
+    input (searchTerm) {
+      type (SearchTerm)
+      min (Optional)
+    }
+    input (order) {
+      description (order that is being updated)
+      type (Order)
+      min (Required)
+      hidden
+    }
+    computed-input (items) {
+      description (The items to select from, should be more than one)
+      type (Item)
+      min (Optional) //this is optional as the shopping cart may be empty
+      max (Many)
+      compute {
+        if (exists(order.items)) {
+          intent {
+            goal: Item
+            value: $expr(order.items)
+          }
+        }
+      }
+    }
+  }
+  output (SelectedItem) {
+    throws {
+
+      error(MultipleMatches) {
+        property (matches) {
+          type (Item)
+          max (Many)
+        }
+        on-catch {
+          //prompt for matched items, clear searchTerm
+          prompt (items) {
+            min (1) max (1) 
+            candidates (matches)
+          }
+        }
+      }
+    }
+    on-empty {
+      //prompt for items, clear searchTerm
+      ordered-effects {
+        drop (searchTerm)
+        prompt (items) {
+          min (1) max (1) 
+          candidates (items)
+        }
+      }
+    } 
+  }
+}

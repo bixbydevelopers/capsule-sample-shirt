@@ -1,0 +1,88 @@
+action (CreateChangedItem) {
+  type (Constructor)
+  collect {
+    //the order that is updated
+    input (order) {
+      type (Order)
+      min (Required)
+    }
+    //the item to be updated, resolved by searching the order items
+    input (item) {
+      type (SelectedItem)
+      min (Required)
+      default-init {
+        intent {
+          goal: SelectItem
+          value: $expr(order.items)
+        }
+      }
+    }
+
+    //the input group representing the target properties to be updated
+    input-group (changed-item-properties) {
+      requires (OneOrMoreOf)
+      collect {
+
+        //the new size (straight from a prompt) to be assigned to the item
+        input (promptedSize) {
+          type (PromptedSize)
+          min (Optional)
+        }
+        //the new size (straight from utterance) to be assigned to the item
+        input (size) {
+          type (Size)
+          min (Optional)
+          plan-behavior (Direct)
+        }
+
+        //the new quantity (straight from a prompt) to be assigned to the item
+        input (promptedQuantity) {
+          type (PromptedQuantity)
+          min (Optional)
+        }
+        //the new quantity (straight from utterance) to be assigned to the item
+        input (quantity) {
+          type (Quantity)
+          min (Optional)
+          plan-behavior (Direct)
+        }
+      }
+    }
+
+  }
+
+  output (ChangedItem) {
+   
+    evaluate {
+      if (exists(promptedSize)) {
+        if (exists(promptedQuantity)) {
+          ChangedItem {
+            item : $expr (item)
+            newSize: $expr (promptedSize)
+            newQuantity: $expr (promptedQuantity)
+          }
+
+        } else {
+          ChangedItem {
+            item : $expr (item)
+            newSize: $expr (promptedSize)
+            newQuantity: $expr (quantity)
+          }
+        }
+      } else-if (exists(promptedQuantity)) {
+          ChangedItem {
+            item : $expr (item)
+            newSize: $expr (size)
+            newQuantity: $expr (promptedQuantity)
+          }
+      } else {
+        ChangedItem {
+          item : $expr (item)
+          newSize: $expr (size)
+          newQuantity: $expr (quantity)
+        }
+
+      }
+    }
+  }
+}

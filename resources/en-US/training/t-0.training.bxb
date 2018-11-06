@@ -1,0 +1,16 @@
+train (t-09ho9ck49xshjfifjeh8uy4ll) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Add {[g:example.shirt.AddedItem] (a)[v:example.shirt.Quantity:1] (Large)[v:example.shirt.Size:Large] (Polo Shirt)[v:example.shirt.SearchTerm]} and {[g:example.shirt.AddedItem] (two)[v:example.shirt.Quantity:2] (V-Neck)[v:example.shirt.SearchTerm]} shirts")
+  plan (vZHfSsMwFMY/t7q6dXO6uj/ee+l24xMMQfBKtPoAoTmwgG1DmoH69KZnm5hAvRAxIYHzfb+cc5JggSm9iUK/0qreKGNXT5ST0haXvnxbFYWyD0aSQepbOzHgX7QUln7gr1v5q7wqa2uEKu1yy3KNuU+vpSR5b6n4hTHxDdYWwWUNuars3LQ537tULl5qU2kyVrlu/6HEzD/0uBWlVfa9VQ/+IGv28I3uVCl3RtBsRsLkm2cyxZ/lCZ4oUx+EOY7QQRcRjtFDjBP0MUCCIUY4xRhnOMcEKS4wxczR2PNd5nt7PmY+cSdGzA+YTxwLXs0YuhlxFH1pB/cQ9zl37KqmLvOYK3aarj4B)
+}
+train (t-0rwiea5s67kfb105zmd9lqt0b) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Change the size to {[g:example.shirt.ChangedItem] (Large)[v:example.shirt.Size:Large]}")
+  plan (hY/LCsIwEEVvbeurO8WFbty4tP0IXbkSFD+gpIMN9BHSEcSvN7YqTVVMyCzOucMlCDCja5yrjKIqlZqjAwmSijG38bbMc8l7nZDG1FYN7ORPKomZGrX+qVaiLCrWsSw4vNS4+ihO4+JMyY4px7KjNJmNdmDzJ9DuEw0OpeGh0qUizdL0f/3dwoZHykjws3TScfJGCOCgBxcefPQxwNDcEcaAxV3zHtapOd7zdbw665s9B/4d)
+}
+train (t-0xt790ce3hpy5dmqj2hum0l4e) {
+  utterance ([g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy a shirt)
+  plan (dY6xCgJBDERHz1VrRdDe9q7xE6ysBP2C5QwYcG+XbAo/35wH4h4aSJiZN0WwxIaePqQHNfnOos2FWuKk2JXxMYbAepYbCdYlGsJxX8grDWhVopNSwPZX/U0O/8i+jV1W8dxpzebrJDGRKFMev3TtLxaYYIoKMzjMzeHLO9P4bD+VKWcXLw==)
+}
+train (t-0yz4gb8mdusuwylvfoeo4i7th) {
+  utterance ([g:example.shirt.CancelCommittedOrder] Cancel my latest order)
+  plan (Y2BiEE2tSMwtyEnVK87ILCrRC0pNTs0sKGFQQhV2TsxLTs1xzs/NzSwpSU3xL0pJLWJgBEIGKAaSAA==)
+}

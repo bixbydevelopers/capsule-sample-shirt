@@ -1,0 +1,6 @@
+dialog (Value) {
+  match {
+    Order (order)
+  }
+  template ("#{size (order.items)} #{concept(order.items)} for #{value (order.totalPrice)}")
+}

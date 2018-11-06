@@ -1,0 +1,6 @@
+enum (PromptedSize) {
+  role-of(Size)
+  features {
+    transient
+  }
+}

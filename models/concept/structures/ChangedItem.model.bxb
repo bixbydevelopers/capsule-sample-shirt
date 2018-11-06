@@ -1,0 +1,14 @@
+structure (ChangedItem) {
+  property (item) {
+    type (SelectedItem)
+    min (Required)
+  }
+  property (newSize) {
+    type (Size)
+    min (Optional)
+  }
+  property (newQuantity) {
+    type (Quantity)
+    min (Optional)
+  }
+}

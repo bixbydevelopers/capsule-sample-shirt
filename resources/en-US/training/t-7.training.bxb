@@ -1,0 +1,12 @@
+train (t-7907ye1h7qolqtjr8jm2zjhfl) {
+  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (a)[v:example.shirt.Quantity:1] (medium)[v:example.shirt.Size:Medium] shirt")
+  plan (dY5BCsJADEV/1Vp1qSi6d9tuPIIrV6I9wVADDTjtkEZQT++0xcUUDSSQ934gWGBNT2PdnbKmZNHsSgWxU+xCfKytZT3LjQSrUPVwmBcySr1ahuqkZLH9Fe/M4Z/ZF3XVqBiuNGW/p05qR6JMDTbh0eVhKmV9DV/N2zn8J+c3YY4II4wxQYwpEsw8QcDajjrW97divyU+HfskPg==)
+}
+train (t-7rqyhfcn6e503xio6q0l6z31s) {
+  utterance ("[g:example.shirt.Shirt] Show (Polo Shirts)[v:example.shirt.SearchTerm]")
+  plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+}
+train (t-7sxpgby1hd1mvniyiepohxriu) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Change the size of the {[g:example.shirt.ChangedItem] (Polo Shirt)[v:example.shirt.SearchTerm] to (small)[v:example.shirt.Size:Small]}")
+  plan (hZDNagJBEIRLzfqTxBwUQb14yTHrQ8STJ8GfBxhmG3fA2R16W5A8fYbZCM5qcJrpQ33VXdAYYkIXZd2JllVuWJZb0mScYBbLq9JaIxvOiDGOUS02/AeXKaEaff2LPnVZVMLKFJKeg1zdBeeqOFK2FrJYNBCTn7g1fD8x3ObpWk6N11PHpSMW4/Pn8Y4dnUjL3/7pIxbIw5vc2RXrfE9sMWoQ80P4QAttdPCCBF300McAr6He8A5EtOtpx/eBr54nCD/u15eEuSRsaSH5BQ==)
+}

@@ -1,0 +1,13 @@
+collection {
+  
+  match {
+    Size(this)
+  }
+  
+  //disable details view for shirt size
+  group-by {
+    group (this) {
+      details-widget-mode (Hide)
+    }
+  }
+}

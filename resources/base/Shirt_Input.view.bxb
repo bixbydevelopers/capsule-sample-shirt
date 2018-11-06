@@ -1,0 +1,17 @@
+input-view {
+  match: Shirt (this)
+
+  message (Which shirt?)
+
+  render {
+    selection-of (this) {
+      where-each (one) {
+        layout-macro (shirt-image-card) {
+          param (shirt) {
+            expression (one)
+          }
+        }
+      }
+    }
+  }
+}

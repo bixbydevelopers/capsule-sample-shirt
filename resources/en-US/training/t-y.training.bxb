@@ -1,0 +1,8 @@
+train (t-yst9jrc012ozcxprbshrf0ecr) {
+  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (3)[v:example.shirt.Quantity] (Large)[v:example.shirt.Size:Large] (Polo Shirts)[v:example.shirt.SearchTerm]")
+  plan (dY/LCsJADEWvj1pfK8XX3q1u/ARBcCVaf2BoAwacaUkjqF9vbUGcoovJkHNyIcEQE7obm11pnV9YdH2imDhTLHy8Ta1lPUhCgrGvKlifFzJKlRr5aq9kMf81XprNP7OMU5erGHa64qJfZZJmJMqUY+qHjjfjlPVRXzV6V8x8uGOXVKK2VERG4suZxNZPiPhJGKCBJlpoI0AHIbrooV9QeDwoeadg+Dx8/W8TlrmgyOAF)
+}
+train (t-yyod5anwhb5pykxw15fqhlnj9) {
+  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (a)[v:example.shirt.Quantity:1] (Men's)[v:example.shirt.Gender:Male] (Ralph Lauren)[v:example.shirt.Brand:RalphLauren] Shirt")
+  plan (dY/LCsIwEEWv1rZWXfl277bd+AcKiitRvyC0AwZsGtIR9O9NWxBTdJHJzDl3IMEIM3qKXN8pKW/ScHKhlKRmrFy8K/Jc8slkZDBxVQPbeUOCqVFjVx2Zcix/xWuz+WfWaaFKNkIqjqWdY20KTYYllZi7S+eHUCz51X7qtapYuHAvVdaIVnprhMowdeGBVPWnITrowkMPPgKE6CPCwFI43K95ZBk+B193YLtqK7RJD3gD)
+}

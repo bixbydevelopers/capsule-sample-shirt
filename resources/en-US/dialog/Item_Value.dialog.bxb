@@ -1,0 +1,6 @@
+dialog (Value) {
+  match {
+    Item (item)
+  }
+  template ("#{value (item.quantity)} #{value (item.size)} #{value (item.shirt.title)}")
+}

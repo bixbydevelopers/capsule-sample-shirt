@@ -1,0 +1,4 @@
+train (t-qqpnq0fyhg7ttyf1he223q8tu) {
+  utterance ([g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder,r:example.shirt.GetQuantity] Change the quantity)
+  plan (hY/LCsIwEEWv1md1Jy50oRuX1o/QhbjyhR8Q2sEGTBvSKejfG1pRUxUJDOGcG+4EfQzpKpS+0CKLpeHFgUKSmjFy8SpVSvLWRGQwcFUJK/mTjgRTqeY/1SxMk4yNkAkHeYGzj+JYJGeKNkwK04oyZF+8B5Z/Au99YYkDaXmgTarJsLT9X383ceHOpEozRftcJCz5Vl16TfxUY1cd6UIhP/bto4Y6PDTQRAttdOzpwkcPcIxX2K6dtcLgOV83z+Z9O3EH)
+}

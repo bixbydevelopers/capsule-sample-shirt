@@ -1,0 +1,5 @@
+structure (Price) {
+  extends (money.Currency)
+  
+  description (The amount due on an order.)
+}

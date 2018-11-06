@@ -1,0 +1,15 @@
+input-view {
+  match: Size (sizes)
+  render {
+
+    selection-of (sizes) {
+      where-each (size) {
+        layout-macro (shirt-size) {
+          param (size) {
+            expression (size)
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+train (t-fb1bwa7ouzv4nggjulhghrg0d) {
+  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (a)[v:example.shirt.Quantity:1] (men's)[v:example.shirt.Gender:Male] shirt")
+  plan (dY7LCsIwEEVv1fioO9/u3bYbP0FQXIn6BaEdMGDSkI6gf2/agBDRxcww59yBwRhzekpt75TXN+U4v1BByjLWMd5VWis+uZIcprEK8DvvSDIFNYnVkUlj9Svemu0/sykqU7OTynCm/J5ZV1lyrKjGIj46P6Rhxa/vV69NxzKGe2XKIGaxOJBp3k+RoIMuehDoY4AhRp4hoqKlSUtD4TOFn6m/Ez6NNw==)
+}
+train (t-fircvzgetu1zb1rt1c7n9t3yy) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Change that to {[g:example.shirt.ChangedItem] (3)[v:example.shirt.Quantity] (Polo Shirts)[v:example.shirt.SearchTerm]}")
+  plan (hZDNbsIwEISHhkD5KRdUVLhw4Uh4iHLqqSrQB7CcFbGEE2uzSPTt6zqoJQFUr7QrzTe7IxlPeKaTsu5AqzIzLKsNaTJOMK3L68JaI++cEmNcR5XY8H+6VAlVaHkXLXSRl8LK5JIcg1xeBWcq31P6JmQxbyAmv3FpeP3HcJmnKzkxXk8cF45YjM+f1G98HFUuRr4wq+tbOpCWc+7LLRbIzb+6sivW2Y7YYoQWHhChjRgddPGIHvoYhBoCDdrxNPK976sVKH773/x5cdiL/b2h1+Nv)
+}

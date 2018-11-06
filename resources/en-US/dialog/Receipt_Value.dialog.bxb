@@ -1,0 +1,6 @@
+dialog (Value) {
+  match {
+    Receipt(receipt)
+  }
+  template ("#{value (receipt.orderState)} #{value (receipt.order)}")
+}

@@ -1,0 +1,14 @@
+structure (Item) {
+  property (shirt) {
+    type (Shirt)
+    min (Required)
+  }
+  property (size) {
+    type (Size)
+    min (Required)
+  }
+  property (quantity) {
+    type (Quantity)
+    min (Required)
+  }
+}

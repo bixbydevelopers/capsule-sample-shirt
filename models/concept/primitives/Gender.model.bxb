@@ -1,0 +1,8 @@
+enum (Gender) {
+
+  //shirt gender
+  symbol (Male)
+  symbol (Female)
+
+  //feature(ProfileStoredUnique)
+}

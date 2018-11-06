@@ -1,0 +1,35 @@
+structure (Shirt) {
+  property (title) {
+    type (Title)
+    min (Required)
+  }
+  property (price) {
+    type (Price)
+    min (Required)
+  }
+  property (gender) {
+    type (Gender)
+    min (Required)
+  }
+  property (brand) {
+    type (Brand)
+    min (Required)
+  }
+  property (style) {
+    type (Style)
+    min (Required)
+  }
+  property (availableSizes) {
+    type (Size)
+    min (Optional)
+    max (Many)
+  }
+  property (description) {
+    type (Description)
+    min (Required)
+  }
+  property (images) {
+    type (Image)
+    min (Required) max (Many)
+  }
+}

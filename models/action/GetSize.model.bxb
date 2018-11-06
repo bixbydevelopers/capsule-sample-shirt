@@ -1,0 +1,22 @@
+action (GetSize) {
+  type (Constructor)
+  collect {
+    input (size) {
+      type(Size)
+      min(Required)
+      max(One)
+      plan-behavior (Never)
+      prompt-behavior (AlwaysSelection)
+      //Lists all available options
+      default-init {
+        intent {
+          goal: Size
+          value-set: Size { Size(ExtraSmall) Size(Small) Size(Medium) Size(Large) Size(ExtraLarge) }
+        }
+      }
+    }
+  }
+  output (PromptedSize) {
+    evaluate { $expr(size) }
+  }
+}

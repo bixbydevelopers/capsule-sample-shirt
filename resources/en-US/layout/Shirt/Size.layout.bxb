@@ -1,0 +1,21 @@
+layout-macro-def (shirt-size) {
+  params {
+    param (size) {
+      type (Size)
+      min (Required) max (One)
+    }
+  }
+  content {
+    title-area {
+      hAlign (Center)
+      slot2 {
+        single-line {
+          text {
+            value ("#{value(size)}")
+            style (Title_M)
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+train (t-cnk4g00a7c32a7628rvwzm9ss) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Add {[g:example.shirt.AddedItem] (2)[v:example.shirt.Quantity] (Medium)[v:example.shirt.Size:Medium] (Polo Shirts)[v:example.shirt.SearchTerm]} to my order")
+  plan (fY9dSwJBFIbf0jZNLSjKuu8yvekXhBB4JbX1A4adAx5wd4ezR1B/veNo4UzYwHy9z3u+cIN7WpnSLWjczFl0/EkFsVM8xfKkLkvWmVgS3MVoLyb+b2eN0j/+l5P+56KuGhXDlY6WQW4wjN1v1pKdKpW4jUHQHpPWhXyOQF5PkeOa7P8jJ7UjUfa1H+Kgj6WplHWdjpXvzrTRd67sHiRN5WSkmH+R/Bkh5w3hGmc4RwttXCDDJTro4go99DHwDAfaOqKdQLueIOzdav++fu4sxGU+1yDUyLY=)
+}

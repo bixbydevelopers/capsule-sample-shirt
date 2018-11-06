@@ -1,0 +1,13 @@
+dialog (Concept) {
+  match {
+    Order (this)
+  } 
+  switch (plural(this)) {
+    case (One) {
+      template (shirt order)
+    }
+    default {
+      template (shirt orders)
+    }
+  }
+}

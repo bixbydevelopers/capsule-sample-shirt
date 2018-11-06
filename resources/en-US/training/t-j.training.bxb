@@ -1,0 +1,12 @@
+train (t-jucbdo6f6g4lqt5wq2c53aka3) {
+  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (a)[v:example.shirt.Quantity:1] (T-Shirt)[v:example.shirt.Style:Tee] for me!")
+  plan (dY7LCsIwEEVv1VgfO8XX3m278RMEwZWoXxDaAQNNGtIR7N8bGxBSdDEzzDl3YDDHil5S24ry5qEc5zcqSFnGLsbHWmvFF1eSwzJWAfbzjiRTUItYnZk0tr/inTn8M/uiNg07qQxnyu+ZdbUlx4oarOOj61MaVtz2X71/OjYxPClTBtFPc1sRZkgwwBAjCIyRYoKpZ4io6GjS0VD4TuFn6i+ET+MN)
+}
+train (t-jweg6987nuvtqcn4ydv6n7bmf) {
+  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (2)[v:example.shirt.Quantity] (medium)[v:example.shirt.Size:Medium] shirts")
+  plan (dY5BCsJADEV/1Vp1qSi6d9tuPIIrV6I9wVADDTjtkEZQT++0xcUUDSSQ934gWGBNT2PdnbKmZNHsSgWxU+xCfKytZT3LjQSrUPVwmBcySr1ahuqkZLH9Fe/M4Z/ZF3XVqBiuNGW/p05qR6JMDTbh0eVhKmV9DV/N2zn8J+c3YY4II4wxQYwpEsw8QcDajjrW97divyU+HfskPg==)
+}
+train (t-jyfqvgzl5yz19s2roxyyzubhv) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Change the size of the {[g:example.shirt.ChangedItem] (Polo Shirt)[v:example.shirt.SearchTerm] to (Extra Large)[v:example.shirt.Size:ExtraLarge]}")
+  plan (hZDNagJBEIRLzfqTxBwUQb14yTHrQ8STJ8GfBxhmG3fA2R16W5A8fYbZCM5qcJrpQ33VXdAYYkIXZd2JllVuWJZb0mScYBbLq9JaIxvOiDGOUS02/AeXKaEaff2LPnVZVMLKFJKeg1zdBeeqOFK2FrJYNBCTn7g1fD8x3ObpWk6N11PHpSMW4/Pn8Y4dnUjL3/7pIxbIw5vc2RXrfE9sMWoQ80P4QAttdPCCBF300McAr6He8A5EtOtpx/eBr54nCD/u15eEuSRsaSH5BQ==)
+}

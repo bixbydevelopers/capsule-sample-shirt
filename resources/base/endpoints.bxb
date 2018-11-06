@@ -1,0 +1,70 @@
+endpoints {
+  authorization {
+    none
+  }
+
+  action-endpoints {
+
+    action-endpoint (FindShirt) {
+      accepted-inputs (searchTerm, style, brand, gender, minPrice, maxPrice)
+      local-endpoint ("FindShirt.js")
+    }
+    action-endpoint (CreateOrder) {
+      accepted-inputs (items)
+      local-endpoint ("CreateOrder.js")
+    }
+    action-endpoint (UpdateOrder) {
+      accepted-inputs (order, addedItems, changedItems, removedItems)
+      local-endpoint ("UpdateOrder.js")
+    }
+    action-endpoint (CancelOrder) {
+      accepted-inputs (order)
+      local-endpoint ("CancelOrder.js")
+    }
+    action-endpoint (CommitOrder) {
+      accepted-inputs (order)
+      local-endpoint ("CommitOrder.js")
+
+       //Samsung pay is still under construction
+//       payment-methods {
+//         sps {
+//           merchant-id (shirt-example)
+//
+//           merchant-api {
+//             url {
+//               template (http://ptsv2.com/t/vivspstest/post) //test endpoint
+//             }
+//             spreedly-receiver-type (test)
+//             test-api-hostname (http://ptsv2.com/)
+//             supported-card(VISA)
+//             supported-card(MASTER)
+//             cvv-verification (false)
+//           }
+//           payment-amount (order.totalPrice.value)
+//           payment-currency (order.totalPrice.currencyType)
+//
+//         }
+//       }
+    }
+    action-endpoint (CheckStatus) {
+      accepted-inputs (receipt)
+      local-endpoint ("CheckStatus.js")
+    }
+    action-endpoint (CancelCommittedOrder) {
+      accepted-inputs (receipt)
+      local-endpoint ("CancelCommittedOrder.js")
+    }
+    action-endpoint (CreateItem) {
+      accepted-inputs (shirt, quantity, size)
+      local-endpoint ("CreateItem.js")
+    }
+    action-endpoint (SelectItem) {
+      accepted-inputs (searchTerm, items)
+      local-endpoint ("SelectItem.js")
+    }
+    action-endpoint (FindLastReceipt) {
+      accepted-inputs ()
+      local-endpoint ("FindLastReceipt.js")
+    }
+  }
+}

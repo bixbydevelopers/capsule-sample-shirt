@@ -1,0 +1,32 @@
+action (FindShirt) {
+  type (Search)
+  collect {
+    input (searchTerm) {
+      type (SearchTerm)
+      min (Optional)
+    }
+    input (brand) {
+      type (Brand)
+      min (Optional)
+    }
+    input (style) {
+      type (Style)
+      min (Optional)
+    }
+    input (gender) {
+      type (Gender)
+      min (Optional)
+    }
+    input (minPrice) {
+      type (money.MinPrice)
+      min (Optional)
+      max (One)
+    }
+    input (maxPrice) {
+      type (money.MaxPrice)
+      min (Optional)
+      max (One)
+    }
+  }
+  output (Shirt)
+}

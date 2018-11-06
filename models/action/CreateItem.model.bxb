@@ -1,0 +1,55 @@
+action (CreateItem) {
+  type (Constructor)
+  collect {
+    input (shirt) {
+      type (Shirt)
+      min (Required)
+
+      default-init {
+        intent {
+          goal: FindShirt
+        }
+      }
+    }
+    input-group (item-properties) {
+      requires (OneOrMoreOf)
+      collect {
+        input (size) {
+          type (Size)
+          min (Optional)
+
+          //Lists all available options - this is used by default-select
+          default-init {
+            intent {
+              goal: Size
+              value-set: Size { Size(ExtraSmall) Size(Small) Size(Medium) Size(Large) Size(ExtraLarge) }
+            }
+          }
+          default-select {
+            //picks Medium, otherwise pick first item from the list of candidates
+            with-rule {
+              select-min {
+                expression (size == 'Medium' ? 0 : 1)
+              }
+            }
+            with-learning {
+            }
+          }
+        }
+
+        input (quantity) {
+          type (Quantity)
+          min (Optional)
+
+          default-init {
+            intent {
+              goal: Quantity(1)
+            }
+          }
+        }
+      }
+    }
+  }
+
+  output (Item)
+}

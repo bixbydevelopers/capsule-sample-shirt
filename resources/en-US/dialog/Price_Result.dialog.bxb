@@ -1,0 +1,6 @@
+dialog (Result) {
+  match {
+    Price(price)
+  } 
+  template("Total price is #{value (price)}")
+}

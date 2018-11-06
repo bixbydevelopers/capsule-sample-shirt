@@ -1,0 +1,16 @@
+train (t-v3ev8ozc3d54sypdiqrcnmlmq) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder,r:example.shirt.GetSize] Change the size of the (Polo Shirt)[v:example.shirt.SearchTerm]")
+  plan (hZDBbsIwDIZ/KGMDxjhMSIMLF46Uh9gOaKdNAx4gSi0aibSRayS0p1+UcKAtE7FkWf/3246MF0zprKw70rrKDcv6hzQZJ5jV5Y/SWiNfnBHjtY6i2PDvXaaEIlr9i5a6LCphZQpJT0GuWotzVRwo+xSyWDQQk++4NrzfMVzv01FOjddTx6UjFuP3z+szvrm0Tijbml9q3mpDEuRGy5aOpOXypbdbLJCbZ2zZFet8R2wxQQddJOjhAX084gkDDDHCc4gx0OJ9zxOfRz46gaOWYxVfz/eO/cQE+AM=)
+}
+train (t-v6lj8i56vguq2ktu8mlylu6n5) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Change the size of the {[g:example.shirt.ChangedItem] (Polo Shirt)[v:example.shirt.SearchTerm] to (Large)[v:example.shirt.Size:Large]}")
+  plan (hZDNagJBEIRLzfqTxBwUQb14yTHrQ8STJ8GfBxhmG3fA2R16W5A8fYbZCM5qcJrpQ33VXdAYYkIXZd2JllVuWJZb0mScYBbLq9JaIxvOiDGOUS02/AeXKaEaff2LPnVZVMLKFJKeg1zdBeeqOFK2FrJYNBCTn7g1fD8x3ObpWk6N11PHpSMW4/Pn8Y4dnUjL3/7pIxbIw5vc2RXrfE9sMWoQ80P4QAttdPCCBF300McAr6He8A5EtOtpx/eBr54nCD/u15eEuSRsaSH5BQ==)
+}
+train (t-vcrh1pbsuatpygryt3jbbe9s6) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Remove {[g:example.shirt.RemovedItem] (Polo Shirt)[v:example.shirt.SearchTerm]} from my order")
+  plan (dY/LCsIwEEVvbav1sRNB3bhxqf0JV66Eqh8Q0oEGmrako/j5lqQLGzUDQ7jnzJBgjhW9hG5KSttCGU4zkqQaxmYYn2qtFV9MTgbLIXKh59+bXDA5dPiL9rKuWjZCVXx82Lj1F2Wk6yflZyaNnfcmQ93Ep7AdClcqSXLP1r+YJT//86ULI4sbGY0FAowQIkKMMSZIMLU1AzwSdj3pKrAEfXc3dyLrx91sgPgN)
+}
+train (t-ve2k5m14rohcx4wvbrap6b5pf) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Add {[g:example.shirt.AddedItem] (a)[v:example.shirt.Quantity:1] (large)[v:example.shirt.Size:Large] (vneck)[v:example.shirt.SearchTerm]} tee")
+  plan (fY9dSwJBFIbf0jZNLSjKuu8yvekXhBB4JbX1A4adAx5wd4ezR1B/veNo4UzYwHy9z3u+cIN7WpnSLWjczFl0/EkFsVM8xfKkLkvWmVgS3MVoLyb+b2eN0j/+l5P+56KuGhXDlY6WQW4wjN1v1pKdKpW4jUHQHpPWhXyOQF5PkeOa7P8jJ7UjUfa1H+Kgj6WplHWdjpXvzrTRd67sHiRN5WSkmH+R/Bkh5w3hGmc4RwttXCDDJTro4go99DHwDAfaOqKdQLueIOzdav++fu4sxGU+1yDUyLY=)
+}

@@ -1,0 +1,35 @@
+result-view {
+  match {
+    Order (this)
+  }
+
+  render {
+    if ("size(this.items) > 1") {
+      list-of (this.items) {
+        where-each (item) {
+          layout-macro (item-highlight) {
+            param (item) {
+              expression (item)
+            }
+          }
+        }
+        has-details (false)
+      }
+    } else-if ("size(this.items) == 1") {
+      layout-macro (item-highlight) {
+        param (item) {
+          expression (this.items)
+        }
+      }
+    }
+  }
+
+  conversation-drivers {
+    if ("size(this.items) > 1") {
+      // Hacky fix to add Buy button when there is multiple items in cart
+      conversation-driver {
+        template ("Buy")
+      }
+    }
+  }
+}

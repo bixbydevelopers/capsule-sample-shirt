@@ -1,0 +1,10 @@
+dialog (Result) {
+  match {
+    Order(order) {
+      from-output {
+        CreateOrder
+      }
+    }
+  }
+  template ("#{list (order.items, 'value')} is ready for ordering")
+}

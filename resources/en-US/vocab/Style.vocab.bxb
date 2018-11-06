@@ -1,0 +1,20 @@
+vocab (Style) {
+  "Tee" {
+    "T-Shirt"
+  }
+  "Polo" {
+    "polo"
+  }
+  "Polo" {
+    "polo"
+  }
+  "Henley" {
+    "henley"
+  }
+  "Sweatshirt" {
+    "Sweatshirt"
+  }
+  "DressShirt" {
+    "Dress shirt"
+  }
+}

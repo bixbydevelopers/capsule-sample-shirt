@@ -1,0 +1,6 @@
+dialog (Input) {
+  match {
+    RemovedItem (removedItem)
+  }
+  template ("Removed #{value (removedItem.item)}")
+}

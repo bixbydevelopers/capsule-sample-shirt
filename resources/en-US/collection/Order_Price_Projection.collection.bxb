@@ -1,0 +1,13 @@
+//property projection on total price
+collection {
+  match {
+    Price {
+      from-property: Order (order)
+    }
+  }
+
+  //Keep the order layout at front. The property will be mentioned in the dialog.
+  group-by {
+    group (order)
+  }
+}

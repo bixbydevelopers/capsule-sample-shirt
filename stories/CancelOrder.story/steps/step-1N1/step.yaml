@@ -1,0 +1,8 @@
+data:
+  intent: |-
+    intent {
+      goal:viv.core.Confirmation
+      value:viv.core.Confirmation (true)
+    }
+label: Order Cancelled
+type: intent

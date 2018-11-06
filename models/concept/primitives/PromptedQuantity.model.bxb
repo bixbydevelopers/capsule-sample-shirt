@@ -1,0 +1,6 @@
+integer (PromptedQuantity) {
+  role-of(Quantity)
+  features {
+    transient
+  }
+}

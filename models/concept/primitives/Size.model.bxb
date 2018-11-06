@@ -1,0 +1,9 @@
+enum (Size) {
+
+  //shirt sizes
+  symbol (ExtraSmall)
+  symbol (Small)
+  symbol (Medium)
+  symbol (Large)
+  symbol (ExtraLarge)
+}

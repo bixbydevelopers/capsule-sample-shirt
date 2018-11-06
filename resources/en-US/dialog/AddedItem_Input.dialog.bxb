@@ -1,0 +1,6 @@
+dialog (Input) {
+  match {
+    AddedItem (item)
+  }
+  template ("added #{value (item)}")
+}

@@ -1,0 +1,15 @@
+action (GetQuantity) {
+  type (Constructor)
+  collect {
+    input (quantity) {
+      type(Quantity)
+      min(Required)
+      max(One)
+      plan-behavior (Never)
+      prompt-behavior (AlwaysElicitation)
+    }
+  }
+  output (PromptedQuantity) {
+    evaluate { $expr(quantity) }
+  }
+}

@@ -1,0 +1,4 @@
+train (t-uyrsdwhgz1r70gbj3yfcvibeu) {
+  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (a)[v:example.shirt.Quantity:1] (Large)[v:example.shirt.Size:Large] (Sweatshirt)[v:example.shirt.Style:Sweatshirt]")
+  plan (dY7LDoIwEEUvKuBrpfG1dwsbP8HExJVRv4DAJE4ChZQxEb/eSjcWddFp55y5zWCKBT2Sosoprm+sJb5QSlwJNi7el0XBctIZacxdZWF3XlMiZNXMVUehAutf463Z/TPbtFS16ISVRGz6qNJlRVqYaizd0PmeKGFpuqte3xUrFx5YZVZ0Fr3yk75+kCYnTOChhz4G8BEgxBAjjA2Fw33DA2O8ltuDjzswr7DN+SaDFw==)
+}

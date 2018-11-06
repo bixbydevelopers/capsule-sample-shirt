@@ -1,0 +1,31 @@
+data:
+  intent: |
+    intent {
+      goal {
+        example.shirt.CommitOrder
+        @context (Outer)
+      }
+      subplan {
+      goal {
+        example.shirt.CreateOrder
+        @context (Outer)
+      }
+    value {
+        example.shirt.Size (Large)
+      }
+    value {
+        example.shirt.Brand (TommyHilfiger)
+      }
+    value {
+        example.shirt.Gender (Male)
+      }
+    value {
+        example.shirt.Title (title)
+      }
+    value {
+        example.shirt.Style (Tee)
+      }
+    }
+    }
+label: Place Order
+type: intent

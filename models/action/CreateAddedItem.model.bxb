@@ -1,0 +1,24 @@
+action (CreateAddedItem) {
+  type (Constructor)
+  collect {
+    //the order that is updated
+    input (order) {
+      type (Order)
+      min (Required)
+    }
+    input (item) {
+      type (Item)
+      min (Required)
+      default-init {
+        intent {
+          goal: CreateItem
+          value: SearchTerm("")
+        }
+      }
+    }
+  }
+
+  output (AddedItem) {
+    evaluate: $expr(item)
+  }
+}

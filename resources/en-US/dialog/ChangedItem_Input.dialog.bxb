@@ -1,0 +1,14 @@
+dialog (Input) {
+  match {
+    ChangedItem (changedItem)
+  }
+  if (exists(changedItem.newSize)) {
+    if (exists(changedItem.newQuantity)) {
+      template ("changed #{value (changedItem.item.shirt.title)} size to #{value (changedItem.newSize)} and quantity to #{value (changedItem.newQuantity)}")
+    } else {
+      template ("changed #{value (changedItem.item.shirt.title)} size to #{value (changedItem.newSize)}")
+    }
+  } else-if (exists(changedItem.newQuantity)) {
+      template ("changed #{value (changedItem.item.shirt.title)} quantity to #{value (changedItem.newQuantity)}")
+  }
+}

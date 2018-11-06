@@ -1,0 +1,28 @@
+input-view {
+
+  match: Quantity (this)
+
+  message {
+    template (How many?)
+  }
+
+  render {
+    form {
+      // the intent that will be used when the form is submitted
+      on-submit {
+        goal: Quantity
+        value {
+          viv.core.FormElement(quantity)
+        }
+      }
+      elements {
+        number-input {
+          id ("quantity")
+          label ("Number of shirts")
+          type (Quantity)
+          value ("#{raw(this)}")
+        }
+      }
+    }
+  }
+}

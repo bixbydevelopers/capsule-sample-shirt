@@ -1,0 +1,27 @@
+structure (Order) {
+  property (items) {
+    type (Item)
+    min (Optional)
+    max (Many)
+  }
+  property (orderNumber) {
+    type (OrderNumber)
+    min (Required)
+  }
+  property (totalPrice) {
+    type (Price)
+    min (Required)
+  }
+  property (holdTime) {
+    type (HoldTime)
+    min (Required)
+  }
+  features {
+    transaction
+  }
+  named-consumer (commitOrder) {
+    description (Buy the order)
+    action (CommitOrder)
+    input (order)
+  }
+}

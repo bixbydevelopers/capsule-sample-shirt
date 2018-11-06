@@ -1,0 +1,17 @@
+structure (Receipt) {
+  property (order) {
+    type (Order)
+    min (Required)
+    max (Many)
+  }
+  property (orderState) {
+    type (OrderState)
+    min (Required)
+  }
+  property(statusRefreshTime) {
+    type(time.DateTime)
+    visibility(Private)
+    min (Optional)
+  }
+  features {activity}
+}

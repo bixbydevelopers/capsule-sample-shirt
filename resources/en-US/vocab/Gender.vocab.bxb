@@ -1,0 +1,10 @@
+vocab (Gender) {
+  "Male" {
+    "Men"
+    "Men's"
+  }
+  "Female" {
+    "Women"
+    "Women's"
+  }
+}

@@ -1,0 +1,6 @@
+dialog (Value) {
+  match {
+    Shirt (shirt)
+  }
+  template ("#{value (shirt.title)}")
+}

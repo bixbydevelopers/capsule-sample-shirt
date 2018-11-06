@@ -1,0 +1,6 @@
+structure (AddedItem) {
+  role-of (Item)
+  features {
+    transient
+  }
+}

@@ -1,0 +1,40 @@
+layout-macro-def (item-highlight) {
+  params {
+    param (item) {
+      type (Item)
+      min (Required) max (One)
+    }
+  }
+  content {
+    thumbnail-card {
+      image-url {
+        template ("#{value(item.shirt.images[0].url)}")
+      }
+      title-area {
+        hAlign (Start)
+        slot1 {
+          text {
+            value ("#{value(item)}")
+            style (Title_S)
+          }
+        }
+        slot2 {
+          single-line {
+            text {
+              value ("#{value(item.shirt.price)}")
+              style (Label_L)
+            }
+          }
+        }
+        slot3 {
+          single-line {
+            text {
+              value ("#{value(item.shirt.brand)}")
+              style (Label_M_Soft)
+            }
+          }
+        }
+      }
+    }
+  }
+}

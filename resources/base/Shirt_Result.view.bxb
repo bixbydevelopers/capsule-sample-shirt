@@ -1,0 +1,30 @@
+result-view {
+  match: Shirt (this)
+
+  render {
+    if ("size(this) > 1") {
+      list-of (this) {
+        where-each (shirt) {
+          layout-macro (shirt-image-card) {
+            param (shirt) {
+              expression (shirt)
+            }
+          }
+        }
+      }
+    } else-if ("size(this) == 1") {
+      layout {
+        layout-macro (shirt-image-carousel) {
+          param (shirt) {
+            expression (this)
+          }
+        }
+        layout-macro (shirt-details) {
+          param (shirt) {
+            expression (this)
+          }
+        }
+      }
+    }
+  }
+}

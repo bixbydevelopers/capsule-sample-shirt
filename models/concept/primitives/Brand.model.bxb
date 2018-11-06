@@ -1,0 +1,6 @@
+enum (Brand) {
+
+  //shirt brands
+  symbol (RalphLauren)
+  symbol (TommyHilfiger)
+}

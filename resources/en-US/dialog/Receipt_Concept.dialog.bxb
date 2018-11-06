@@ -1,0 +1,13 @@
+dialog (Concept) {
+  match {
+    Receipt(this)
+  }
+  switch (plural(this)) {
+    case (One) {
+      template (receipt)
+    }
+    default {
+      template (receipts)
+    }
+  }
+}

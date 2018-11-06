@@ -1,0 +1,10 @@
+dialog (Result) {
+  match {
+    Receipt(receipt) {
+      from-output {
+        CancelOrder
+      }
+    }
+  }
+  template ("order number #{value (receipt.order.orderNumber)} is cancelled!")
+}

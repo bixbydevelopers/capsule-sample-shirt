@@ -1,0 +1,8 @@
+vocab (Brand) {
+  "RalphLauren" {
+    "Ralph Lauren"
+  }
+  "TommyHilfiger" {
+    "Tommy Hilfiger"
+  }
+}

@@ -1,0 +1,6 @@
+structure (SelectedItem) {
+  role-of (Item)
+  features {
+    transient
+  }
+}

@@ -1,0 +1,4 @@
+train (t-88czvbpceamwqhin4n80c9cq3) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Change the size to {[g:example.shirt.ChangedItem] (Medium)[v:example.shirt.Size:Medium]}")
+  plan (hY/LCsIwEEVvbeurO8WFbty4tP0IXbkSFD+gpIMN9BHSEcSvN7YqTVVMyCzOucMlCDCja5yrjKIqlZqjAwmSijG38bbMc8l7nZDG1FYN7ORPKomZGrX+qVaiLCrWsSw4vNS4+ihO4+JMyY4px7KjNJmNdmDzJ9DuEw0OpeGh0qUizdL0f/3dwoZHykjws3TScfJGCOCgBxcefPQxwNDcEcaAxV3zHtapOd7zdbw665s9B/4d)
+}

@@ -1,0 +1,17 @@
+input-view {
+  match: Item (this)
+
+  message (Which item?)
+
+  render {
+    selection-of (this) {
+      where-each (one) {
+        layout-macro (item-highlight) {
+          param (item) {
+            expression (one)
+          }
+        }
+      }
+    }
+  }
+}

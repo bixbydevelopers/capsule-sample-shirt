@@ -1,0 +1,9 @@
+enum (Style) {
+
+  //shirt styles
+  symbol (Tee)
+  symbol (Polo)
+  symbol (Henley)
+  symbol (Sweatshirt)
+  symbol (DressShirt)
+}

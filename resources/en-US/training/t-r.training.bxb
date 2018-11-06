@@ -1,0 +1,4 @@
+train (t-r9mjfyqotnxjv3cxmtdmm5se0) {
+  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] make that {[g:example.shirt.ChangedItem] (2)[v:example.shirt.Quantity:2] (polo shirts)[v:example.shirt.SearchTerm] and size (medium)[v:example.shirt.Size:Medium]}")
+  plan (hZDdTgIxEIUPwi4/iiYaCXDjjZcuDyFXXhERHqDpTtgmdLeZHRLl6aldjeyCoZNOk/OdmZMUt3ikT2XdlmZlZlhmS9JknGBSl+eFtUYWnBLjoY4qseFfu1QJVejlX/Ssi7wUViaXZBfk8iQ4U/mG0jchi6cGYvITx4bXC4bjPF3JifF64rhwxGJ8/qi+432ncjHyhWld/6AtafnJHZ9jgZz9qxO7Yp2tiC3uG8TsCXdo4QptdBAhRhc99DHAdagbDIEGjz1v+z7w1fUM4f72v7c6cZiN/NbvXS1EBw==)
+}

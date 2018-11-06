@@ -1,0 +1,4 @@
+data:
+  aligned: '[g:example.shirt.CancelCommittedOrder] Cancel latest order'
+label: Confirm the Cancel Order
+type: intent

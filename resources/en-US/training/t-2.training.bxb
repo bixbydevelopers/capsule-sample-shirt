@@ -1,0 +1,4 @@
+train (t-2tzs0racs5zztz2qvbm77kx4m) {
+  utterance ([g:example.shirt.CancelOrder] Cancel this order)
+  plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2TsxLTs3xL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
+}

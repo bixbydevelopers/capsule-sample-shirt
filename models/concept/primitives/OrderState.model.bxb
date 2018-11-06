@@ -1,0 +1,7 @@
+enum (OrderState) {
+
+  symbol (Ordered)
+  symbol (Shipped)
+  symbol (Delivered)
+  symbol (Cancelled)
+}

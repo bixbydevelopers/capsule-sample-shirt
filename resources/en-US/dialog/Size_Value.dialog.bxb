@@ -1,0 +1,22 @@
+dialog (Value) {
+  match {
+    Size (this)
+  }
+  switch (this) {
+    case (ExtraSmall) {
+      template("Extra Small")
+    }
+    case (Small) {
+      template("Small")
+    }
+    case (Medium) {
+      template("Medium")
+    }
+    case (Large) {
+      template("Large")
+    }
+    case (ExtraLarge) {
+      template("Extra Large")
+    }
+  }
+}
