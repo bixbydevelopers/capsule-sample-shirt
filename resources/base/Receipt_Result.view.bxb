@@ -8,7 +8,7 @@ result-view {
       section {
         content {
           title-area {
-            hAlign (Center)
+            halign (Center)
             slot1 {
               text {
                 value ("#{value(order.totalPrice)}")

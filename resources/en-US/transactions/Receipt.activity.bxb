@@ -78,7 +78,7 @@ activity-support {
           }
         }
       }
-    } else-if (orderState == 'Delivered' || orderState == 'Cancelled') {
+    } else { //orderState == 'Delivered' || orderState == 'Cancelled'
       state (Recent) {
         summary-view {
           message {

@@ -7,7 +7,7 @@ layout-macro-def (shirt-size) {
   }
   content {
     title-area {
-      hAlign (Center)
+      halign (Center)
       slot2 {
         single-line {
           text {
