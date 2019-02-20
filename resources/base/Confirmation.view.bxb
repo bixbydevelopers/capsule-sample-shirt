@@ -40,9 +40,9 @@ confirmation-view {
               as (item) {
                 image-card {
                   size (L)
-                  image-url ("#{value(item.shirt.images[0].url)}")
+                  image-url ("[#{value(item.shirt.images[0].url)}]")
                   title-area {
-                    hAlign (Start)
+                    halign (Start)
                     slot1 {
                       text {
                         value ("")
@@ -52,7 +52,7 @@ confirmation-view {
                   }
                 }
                 title-area {
-                  hAlign (Start)
+                  halign (Start)
                   slot1 {
                     text {
                       value ("#{value(item.shirt.title)}")

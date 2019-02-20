@@ -6,5 +6,5 @@ dialog (Result) {
       }
     }
   }
-  template ("order number #{value (receipt.order.orderNumber)} is cancelled!")
+  template ("Order number #{value (receipt.order.orderNumber)} is cancelled!")
 }

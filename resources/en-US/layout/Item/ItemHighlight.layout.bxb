@@ -8,10 +8,10 @@ layout-macro-def (item-highlight) {
   content {
     thumbnail-card {
       image-url {
-        template ("#{value(item.shirt.images[0].url)}")
+        template ("[#{value(item.shirt.images[0].url)}]")
       }
       title-area {
-        hAlign (Start)
+        halign (Start)
         slot1 {
           text {
             value ("#{value(item)}")
@@ -22,7 +22,7 @@ layout-macro-def (item-highlight) {
           single-line {
             text {
               value ("#{value(item.shirt.price)}")
-              style (Label_L)
+              style (Detail_L)
             }
           }
         }
@@ -30,7 +30,7 @@ layout-macro-def (item-highlight) {
           single-line {
             text {
               value ("#{value(item.shirt.brand)}")
-              style (Label_M_Soft)
+              style (Detail_M_Soft)
             }
           }
         }
