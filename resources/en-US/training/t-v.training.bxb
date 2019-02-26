@@ -1,16 +1,20 @@
 train (t-v3ev8ozc3d54sypdiqrcnmlmq) {
-  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder,r:example.shirt.GetSize] Change the size of the (Polo Shirt)[v:example.shirt.SearchTerm]")
-  plan (hZDBbsIwDIZ/KGMDxjhMSIMLF46Uh9gOaKdNAx4gSi0aibSRayS0p1+UcKAtE7FkWf/3246MF0zprKw70rrKDcv6hzQZJ5jV5Y/SWiNfnBHjtY6i2PDvXaaEIlr9i5a6LCphZQpJT0GuWotzVRwo+xSyWDQQk++4NrzfMVzv01FOjddTx6UjFuP3z+szvrm0Tijbml9q3mpDEuRGy5aOpOXypbdbLJCbZ2zZFet8R2wxQQddJOjhAX084gkDDDHCc4gx0OJ9zxOfRz46gaOWYxVfz/eO/cQE+AM=)
+  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder,r:GetSize] Change the size of the (Polo Shirt)[v:SearchTerm]")
+  plan (hZBNasMwEIWfa+enTdwsQiDtpvQAyTYHyCJ01ZKfAwh7iAVRLSZTKF3k7BFSF5XtEg0Mo/ne04jBI2b0rYw90fJcaZbllgrSVvAUt9e1MVreuSTGNEah2dAfbKmEAnr9F12+fH1uTavU55HKNyGDlwZico6/gtUNwaUI9UK7y8JybYlFu6HPsfGDa2OFyp3+oeZWNiS+3bDs6ESF/P5j3sU86VxYS664qPbEBhMkuEOKDD30McAQ93jACGMfOdDifcdTl0cuEs8R5VCFkzlv7l5MgSs=)
+  last-modified (1551201433627)
 }
 train (t-v6lj8i56vguq2ktu8mlylu6n5) {
-  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Change the size of the {[g:example.shirt.ChangedItem] (Polo Shirt)[v:example.shirt.SearchTerm] to (Large)[v:example.shirt.Size:Large]}")
-  plan (hZDNagJBEIRLzfqTxBwUQb14yTHrQ8STJ8GfBxhmG3fA2R16W5A8fYbZCM5qcJrpQ33VXdAYYkIXZd2JllVuWJZb0mScYBbLq9JaIxvOiDGOUS02/AeXKaEaff2LPnVZVMLKFJKeg1zdBeeqOFK2FrJYNBCTn7g1fD8x3ObpWk6N11PHpSMW4/Pn8Y4dnUjL3/7pIxbIw5vc2RXrfE9sMWoQ80P4QAttdPCCBF300McAr6He8A5EtOtpx/eBr54nCD/u15eEuSRsaSH5BQ==)
+  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (Large)[v:Size:Large]}")
+  plan (hY9NCsIwEIVf1aj1b6EI6kY8QN16AFeuBH8OUNLBBhob0gjiwrMbUgVTFTNkmMz33gxBH2O6xlJltCxSoc1yR5yEMpj67XUupTBbnZDGyEdls6I/qiQ2VKLFT3S/uLr42JbG5xMlG0MS8wrSZB3vgtUfwZ2XdSTsI1I6V6SNsEtnvnFPGXHzHDr5xhz5+vsPeax5eiAtMawQcSMMEKCGOhpgaKKFNkJ0XHTRAzzatLRuc2ijZQnc9fPrMOdjbkoA9gA=)
+  last-modified (1551201433678)
 }
 train (t-vcrh1pbsuatpygryt3jbbe9s6) {
-  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Remove {[g:example.shirt.RemovedItem] (Polo Shirt)[v:example.shirt.SearchTerm]} from my order")
-  plan (dY/LCsIwEEVvbav1sRNB3bhxqf0JV66Eqh8Q0oEGmrako/j5lqQLGzUDQ7jnzJBgjhW9hG5KSttCGU4zkqQaxmYYn2qtFV9MTgbLIXKh59+bXDA5dPiL9rKuWjZCVXx82Lj1F2Wk6yflZyaNnfcmQ93Ep7AdClcqSXLP1r+YJT//86ULI4sbGY0FAowQIkKMMSZIMLU1AzwSdj3pKrAEfXc3dyLrx91sgPgN)
+  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Remove {[g:RemovedItem] (Polo Shirt)[v:SearchTerm]} from my order")
+  plan (dY9NCsIwEIVfbav1ZyeCuhEv0Eu4ciVUPUBpHzTQ0JJGceXZDUkXNtYMDMN834MJltjwlcu2ZtpVQuk0Y0HRauyG61MjpdAXVVJhPURu6fn3tsw1HTr+Re+HnTs/nVE2T5ZnTYmDd4iiSXwL+6FwZc1C92w7xiwZ/cSPnquiulFJrBBgghARYkwxQ4K5rQXgkdD0xFRgCfruJvci68cmGyD+AA==)
+  last-modified (1551201433727)
 }
 train (t-ve2k5m14rohcx4wvbrap6b5pf) {
-  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Add {[g:example.shirt.AddedItem] (a)[v:example.shirt.Quantity:1] (large)[v:example.shirt.Size:Large] (vneck)[v:example.shirt.SearchTerm]} tee")
-  plan (fY9dSwJBFIbf0jZNLSjKuu8yvekXhBB4JbX1A4adAx5wd4ezR1B/veNo4UzYwHy9z3u+cIN7WpnSLWjczFl0/EkFsVM8xfKkLkvWmVgS3MVoLyb+b2eN0j/+l5P+56KuGhXDlY6WQW4wjN1v1pKdKpW4jUHQHpPWhXyOQF5PkeOa7P8jJ7UjUfa1H+Kgj6WplHWdjpXvzrTRd67sHiRN5WSkmH+R/Bkh5w3hGmc4RwttXCDDJTro4go99DHwDAfaOqKdQLueIOzdav++fu4sxGU+1yDUyLY=)
+  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (a)[v:Quantity:1] (large)[v:Size:Large] (vneck)[v:SearchTerm]} tee")
+  plan (fY/LCsIwEEWvVqv1CYqvpTs3+g8iCK5Eqx9QzEADtg0xgrrw243xgYloIJNhzp2ZGzTRoVOUiD1NDjGXarKmHXGhMLDLsyxJuFpKRhJtGz2Kjn4rWKToj374U389mvyAni2ZMkZsoShBywam1nf8StIzDBn9Ileuw1jITJBUXC/s2srVMUoVV2f3A+E9uu7mPGUP4DgJKZK7eEPyy3fIL4QGcsjDQwFF+CihjAAVVFFDXTM8qfdBy4YGmsDc+ym8s9frmz5fz6qbHf4N)
+  last-modified (1551201433789)
 }

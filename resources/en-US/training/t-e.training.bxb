@@ -1,4 +1,5 @@
 train (t-eenivjma32fc9xzfcju8iq2nt) {
-  utterance ([g:example.shirt.Order#totalPrice:continue] What is the total price of the order?)
+  utterance ([g:Order#totalPrice:continue] What is the total price of the order?)
   plan (Y2BiEE6tSMwtyEnVK87ILCrRCyjKTE5FF/QvSkktYmAEQgYGJiAGswA=)
+  last-modified (1551201432398)
 }

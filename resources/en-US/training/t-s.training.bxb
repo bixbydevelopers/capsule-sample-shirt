@@ -1,12 +1,15 @@
 train (t-s19hikllsrvenjow0778h9qft) {
-  utterance ([g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder,r:example.shirt.GetSize] Change the size)
-  plan (hZBNC4JAEIZfsy/NW3SoS5eO6Y+oQ3Qqkn6A6JALri7rBNGvb9EotSIWhuV53mFmFx5mdIukyigoU6E5OFFMQjHmbbwtpBR80AlpTNuqhp38WSURU63WP9UqLvKSdSRy9q8VLj8Gp1F+oWTPJLHsKE2moxnY/Ak058U19oXhvtKFIs3CzP/6ukUbHnUhFVMSijt1P3BHXOFOS0gZxfzc04OFHmz0McAQI4zNceBiArSMXVnHVKsyeNX3zTZ511Q8AA==)
+  utterance ([g:Order#commitOrder:continue,r:UpdateOrder,r:GetSize] Change the size)
+  plan (hZBNCsIwEIVfrX+t3YkL3YgHaLcewIW4UhQPUJrBBhob0hHERc9uaEVtVSTwmHnfGyYJAkzoGiudUVSk0nC0p4SkZkyb9ipXSvLWCDIYN1FttvJHLWKmGi1+ovJS1cXHtjQ+n0hsmBTmLWTITrwHln8CZVLXobRNqE2uybC0S7++Y9Y0dyZXmkkc5I3aX7UmruzWyIEySvhxuQAOOnDRRQ99DDC0x4OPEdAgbkU9q05F8NRX5dq8bxV3)
+  last-modified (1551201433355)
 }
 train (t-s9v9om8ukz3rlfexka7krfiff) {
-  utterance ([g:example.shirt.Shirt] Show a list of all shirts)
+  utterance ([g:Shirt] Show a list of all shirts)
   plan (Y2BkEE6tSMwtyEnVK87ILCrRCwaRDCDACCIA)
+  last-modified (1551201433404)
 }
 train (t-siwq2u49bd22awnjrivrsgpw9) {
-  utterance ([g:example.shirt.CommitOrder:continue:example.shirt.Order] Commit my order)
+  utterance ([g:CommitOrder:continue:Order] Commit my order)
   plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
+  last-modified (1551201433462)
 }
