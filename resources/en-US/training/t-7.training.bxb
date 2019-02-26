@@ -1,12 +1,15 @@
 train (t-7907ye1h7qolqtjr8jm2zjhfl) {
-  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (a)[v:example.shirt.Quantity:1] (medium)[v:example.shirt.Size:Medium] shirt")
-  plan (dY5BCsJADEV/1Vp1qSi6d9tuPIIrV6I9wVADDTjtkEZQT++0xcUUDSSQ934gWGBNT2PdnbKmZNHsSgWxU+xCfKytZT3LjQSrUPVwmBcySr1ahuqkZLH9Fe/M4Z/ZF3XVqBiuNGW/p05qR6JMDTbh0eVhKmV9DV/N2zn8J+c3YY4II4wxQYwpEsw8QcDajjrW97divyU+HfskPg==)
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (a)[v:Quantity:1] (medium)[v:Size:Medium] shirt")
+  plan (dY5BCsIwEEV/1Vh1qSh6Azf2Eq5cifYERQccMDZMR1AXnt20wUWCBmYg773FYII5PSrrrlQ0FxYtjnQidopVjLe1tax7OZNgFqsA016oUgpqGqudksXyV96Z9T/zZr82TmpHokwNFnF5uFc3ZX2m95XtTo8o+UUYI0MPfQxgMESOkSeIWDtZx8J8n/G/3NfGl/gA)
+  last-modified (1551201432296)
 }
 train (t-7rqyhfcn6e503xio6q0l6z31s) {
-  utterance ("[g:example.shirt.Shirt] Show (Polo Shirts)[v:example.shirt.SearchTerm]")
+  utterance ("[g:Shirt] Show (Polo Shirts)[v:SearchTerm]")
   plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1551201432120)
 }
 train (t-7sxpgby1hd1mvniyiepohxriu) {
-  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Change the size of the {[g:example.shirt.ChangedItem] (Polo Shirt)[v:example.shirt.SearchTerm] to (small)[v:example.shirt.Size:Small]}")
-  plan (hZDNagJBEIRLzfqTxBwUQb14yTHrQ8STJ8GfBxhmG3fA2R16W5A8fYbZCM5qcJrpQ33VXdAYYkIXZd2JllVuWJZb0mScYBbLq9JaIxvOiDGOUS02/AeXKaEaff2LPnVZVMLKFJKeg1zdBeeqOFK2FrJYNBCTn7g1fD8x3ObpWk6N11PHpSMW4/Pn8Y4dnUjL3/7pIxbIw5vc2RXrfE9sMWoQ80P4QAttdPCCBF300McAr6He8A5EtOtpx/eBr54nCD/u15eEuSRsaSH5BQ==)
+  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (small)[v:Size:Small]}")
+  plan (hY9NCsIwEIVf1aj1b6EI6kY8QN16AFeuBH8OUNLBBhob0gjiwrMbUgVTFTNkmMz33gxBH2O6xlJltCxSoc1yR5yEMpj67XUupTBbnZDGyEdls6I/qiQ2VKLFT3S/uLr42JbG5xMlG0MS8wrSZB3vgtUfwZ2XdSTsI1I6V6SNsEtnvnFPGXHzHDr5xhz5+vsPeax5eiAtMawQcSMMEKCGOhpgaKKFNkJ0XHTRAzzatLRuc2ijZQnc9fPrMOdjbkoA9gA=)
+  last-modified (1551201432200)
 }

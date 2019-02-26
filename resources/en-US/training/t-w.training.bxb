@@ -1,4 +1,5 @@
 train (t-w6hx8w0xv1v0ejkcd366iipxw) {
-  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Remove the {[g:example.shirt.RemovedItem] (Polo Shirt)[v:example.shirt.SearchTerm]} and the {[g:example.shirt.RemovedItem] (V-Neck)[v:example.shirt.SearchTerm]} Shirt")
-  plan (rZDdDsFAEIWPlv5Qf0GCGzcu8RKuXEmKB2jaSdrEarNd4vGNVtCmXIiZZGd2zrdnN4s+RnT1RHKkVRpGUq1c8ilKFCbF8ToWIlJbGZDEoCjlwxJ/SAJPUS4tPkpzPz6lSnrRSS3P2TgtG7kk4gsFG0XimzQrPVcSm/3r7LQI7OhIvnpo4yqtWvGkH+5J/upX+e2fLxmiBg066mjAgAkLNppowUEbHXSf2QMKZINJMyNtJnXube47nLWMvIfD1Xnb5+srjMzPYMZif4076wY=)
+  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (Polo Shirt)[v:SearchTerm]} and the {[g:RemovedItem] (V-Neck)[v:SearchTerm]} Shirt")
+  plan (rZDLCsIwEEVv1b60vlBB3Yg/0J9w5Urw8QGlHbBgsKRRXPntjqmoKdWFOAPJzdwzkxD0MaJLJLIDhfk+lSpcU0xppjAxy4ujEKlayYQkBqZVFEv8LksiRYU1/2hdT1rn5e41ieOZkqUi8c2ald4oiYf9q3dqAhs6UKwe3rjKq3YiGe+3JH+dV/nXny8ZwkINdTRgw4ELDz6aaCFAGx10n9kDDNJm0tWkz2Sdtc+6w2lp8h4B78HbuVhf4eh5DjMez6+x8m4=)
+  last-modified (1551201433841)
 }

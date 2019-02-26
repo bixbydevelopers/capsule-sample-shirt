@@ -1,4 +1,5 @@
 train (t-l552p693f5ha9i780j5c4qfzq) {
-  utterance ("[g:example.shirt.Shirt] Show (Ralph Lauren)[v:example.shirt.Brand:RalphLauren] Shirts")
+  utterance ("[g:Shirt] Show (Ralph Lauren)[v:Brand:RalphLauren] Shirts")
   plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCTTVTkWJeSkMTAyMQMwAJBkZQIAJggE=)
+  last-modified (1551201433201)
 }

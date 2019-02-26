@@ -1,4 +1,5 @@
 train (t-tfrxp4bk6rxg9881hehgv30s9) {
-  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Make that {[g:example.shirt.ChangedItem] (a)[v:example.shirt.Quantity:1] (Large)[v:example.shirt.Size:Large] (V-Neck)[v:example.shirt.SearchTerm]} and add {[g:example.shirt.AddedItem] (an)[v:example.shirt.Quantity:1] (Oxford Dress Shirt)[v:example.shirt.SearchTerm]}")
-  plan (hZHNToNAFIWPFiyt1Wpb2urGjUvpxidQExNXRtEHIHAjk5SfDNNEfXqvA6kMPzETZoZzvjn3wmAJlz6DJN/SpoiFVJtXCknkChem/JAliVDPMiKJuWmVYoN/z6NAUWnd9FrXYZYWSgYiVd5OywVWJn0XRRQ9KUpaHcVB+lFZVw1LEkfVgft/gHojYSl7gnUvl1lOUglubGZm6Nx1V652bvuceqlmiaV56GUXpEqor1790tR92lKoqk9ed3na6by/Fh7IMH4j2cL937l5S48ijUqjP6fx/3zxTVjhAIcYwIKNIwzhYIQxjjHBCU4xxZke55hhjgVcYM9bmrc17/CJIfMDnqc8xpp3mIV+UK3W/g213d9+pLNtrr3g9AnXdVnhzn4A)
+  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Make that {[g:ChangedItem] (a)[v:Quantity:1] (Large)[v:Size:Large] (V-Neck)[v:SearchTerm]} and add {[g:AddedItem] (an)[v:Quantity:1] (Oxford Dress Shirt)[v:SearchTerm]}")
+  plan (hZFfT8IwFMWPsslAFAUG6IvxzRd49dmYmPhkdPoBlvXGNWFjKSVRH/bZuXYL0v2JadbdnvPr6d2KKXz6CpNsRctNLJVevlFEMtO4suXHdZJI/aIEKYxtqxAr/EcmQk2Fddtq5VtTbzCzkQchSDxrSmptxGH6WVo3FUsRRx0C9/8AeVTUC8mLRabWGSktuZuRvdGEzZvCjHPX5uTV3KlNvm7DVEv93apf23pAK4p0+XHzJs84jddTw0MVxe+kanjwO1fv40mmojDacyo/LZA/hBmOcIwOHLg4QRceeujjFAOc4RxDXJhxiRHGmMAH9rxjeNfwHu/oMt/hecijb3iPWZgH5dvZr3BQ/dU9k+3y2RNOH/C5Pivc2Q4=)
+  last-modified (1551201433516)
 }

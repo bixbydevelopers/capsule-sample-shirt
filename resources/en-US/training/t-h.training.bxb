@@ -1,8 +1,10 @@
 train (t-hfleak8i1izg13hcu1k0slwav) {
-  utterance ([g:example.shirt.CommitOrder:continue:example.shirt.Order] Buy it)
+  utterance ([g:CommitOrder:continue:Order] Buy it)
   plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
+  last-modified (1551201432707)
 }
 train (t-hg3krq7e4zqq30hib9n12tqq6) {
-  utterance ("[g:example.shirt.Size:prompt] I'm (Extra Large)[v:example.shirt.Size:ExtraLarge]!")
+  utterance ("[g:Size:prompt] I'm (Extra Large)[v:Size:ExtraLarge]!")
   plan (Y2BiEEqtSMwtyEnVK87ILCrRC86sSsUqxgiEDAw8QMwExEA2AA==)
+  last-modified (1551201432803)
 }

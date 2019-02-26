@@ -1,6 +1,6 @@
 capsule {
   id (example.shirt)
-  version (2.12.4) // Removed warnings
+  version (2.12.5) // Removed namespace from training examples
   format(3)
   targets {
     target (bixby-mobile-en-US)

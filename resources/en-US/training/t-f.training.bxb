@@ -1,8 +1,10 @@
 train (t-fb1bwa7ouzv4nggjulhghrg0d) {
-  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (a)[v:example.shirt.Quantity:1] (men's)[v:example.shirt.Gender:Male] shirt")
-  plan (dY7LCsIwEEVv1fioO9/u3bYbP0FQXIn6BaEdMGDSkI6gf2/agBDRxcww59yBwRhzekpt75TXN+U4v1BByjLWMd5VWis+uZIcprEK8DvvSDIFNYnVkUlj9Svemu0/sykqU7OTynCm/J5ZV1lyrKjGIj46P6Rhxa/vV69NxzKGe2XKIGaxOJBp3k+RoIMuehDoY4AhRp4hoqKlSUtD4TOFn6m/Ez6NNw==)
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (a)[v:Quantity:1] (men's)[v:Gender:Male] shirt")
+  plan (dY5LCsJAEEQr6viJO//ewI25hKC4EvUEIWlwwEmGSQu68exOMiB00EV3w3vVUBhjTs/U2Dsl1U07Ti6UkbaMtcS70hjNJ5eTw1SqANt5RylTUBOpjkwGq1/xxmz+mbf2a2tdacmxpgoLmTw/0oI1v9r9rvXGUsK9LvIgZlIcqKg7x4jQQRc9KPQxwBAjzyCoamjU0DD4XuVv7P+UT+MD)
+  last-modified (1551201432508)
 }
 train (t-fircvzgetu1zb1rt1c7n9t3yy) {
-  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Change that to {[g:example.shirt.ChangedItem] (3)[v:example.shirt.Quantity] (Polo Shirts)[v:example.shirt.SearchTerm]}")
-  plan (hZDNbsIwEISHhkD5KRdUVLhw4Uh4iHLqqSrQB7CcFbGEE2uzSPTt6zqoJQFUr7QrzTe7IxlPeKaTsu5AqzIzLKsNaTJOMK3L68JaI++cEmNcR5XY8H+6VAlVaHkXLXSRl8LK5JIcg1xeBWcq31P6JmQxbyAmv3FpeP3HcJmnKzkxXk8cF45YjM+f1G98HFUuRr4wq+tbOpCWc+7LLRbIzb+6sivW2Y7YYoQWHhChjRgddPGIHvoYhBoCDdrxNPK976sVKH773/x5cdiL/b2h1+Nv)
+  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Change that to {[g:ChangedItem] (3)[v:Quantity] (Polo Shirts)[v:SearchTerm]}")
+  plan (hZDdDgExEIXPWuufGyG4EQ/ArQdw5Ur8PUCzO7FN1DY1Em48u+oKdhGdZGZ6vjOdpGiiQ2eh9J4mx1ganqwoJKkZ/aw8S5SSvDARGbSzKBVz/q2OBFOKRj/R9eT648e2WBx2FM2ZFIY5ZMhOvBumfwzXMO3H0l7G2iSaDEu7tJsdXJ7EgSVfMMjqa9pTyI9lvW/Mka+/8mEXJow3ZBRa8FCAjyIClFBGBVXUUHfRAHK0ZKlvc82G5yie+VXvJ3BzgX2vYfXgBg==)
+  last-modified (1551201432610)
 }

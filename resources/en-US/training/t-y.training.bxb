@@ -1,8 +1,10 @@
 train (t-yst9jrc012ozcxprbshrf0ecr) {
-  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (3)[v:example.shirt.Quantity] (Large)[v:example.shirt.Size:Large] (Polo Shirts)[v:example.shirt.SearchTerm]")
-  plan (dY/LCsJADEWvj1pfK8XX3q1u/ARBcCVaf2BoAwacaUkjqF9vbUGcoovJkHNyIcEQE7obm11pnV9YdH2imDhTLHy8Ta1lPUhCgrGvKlifFzJKlRr5aq9kMf81XprNP7OMU5erGHa64qJfZZJmJMqUY+qHjjfjlPVRXzV6V8x8uGOXVKK2VERG4suZxNZPiPhJGKCBJlpoI0AHIbrooV9QeDwoeadg+Dx8/W8TlrmgyOAF)
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (3)[v:Quantity] (Large)[v:Size:Large] (Polo Shirts)[v:SearchTerm]")
+  plan (dY7LCsIwEEWvj7a+VoqvP3Bjf0IQXInWHwjtQAOmDekI6sJvN21BTNDFzMA5d+BigjndhdJXiqtcGo7PlJLUjLWLd6VSko8mI4OZq1ro5w0JplZNXXVgUlj9ijdm88+8pF1bbUpNhiVVWLjJ000ULPnh90vqjaUL97LIWuE1SUiYNL+QUX7vRD4JY3TQRQ99BAgRYYAhRpbC4UHDQ8vwGXzd2kTNX2B/8AY=)
+  last-modified (1551201433963)
 }
 train (t-yyod5anwhb5pykxw15fqhlnj9) {
-  utterance ("[g:example.shirt.CommitOrder,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy (a)[v:example.shirt.Quantity:1] (Men's)[v:example.shirt.Gender:Male] (Ralph Lauren)[v:example.shirt.Brand:RalphLauren] Shirt")
-  plan (dY/LCsIwEEWv1rZWXfl277bd+AcKiitRvyC0AwZsGtIR9O9NWxBTdJHJzDl3IMEIM3qKXN8pKW/ScHKhlKRmrFy8K/Jc8slkZDBxVQPbeUOCqVFjVx2Zcix/xWuz+WfWaaFKNkIqjqWdY20KTYYllZi7S+eHUCz51X7qtapYuHAvVdaIVnprhMowdeGBVPWnITrowkMPPgKE6CPCwFI43K95ZBk+B193YLtqK7RJD3gD)
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (a)[v:Quantity:1] (Men's)[v:Gender:Male] (Ralph Lauren)[v:Brand:RalphLauren] Shirt")
+  plan (dY9NCsIwEEY/rW2tuvLfG7ixh1BQXIl6gmAHDJg0pCPoxrObtiCm6CKT8N4LJBhgQg+hzI3S4iotpye6kDSMhY83uVKSDzYji5GvatjsLQmmWg19tWdSmP/KK7P8Z17SjZWxuSHLkgpM/fJ4F5olP5vvO5cTMx9upc5q0ajXVugMYx/uSJcf6aOFNgJ0ECJCjC4S9ByFx8OKJ47hs/C1R+5U3opdGQBv)
+  last-modified (1551201434035)
 }

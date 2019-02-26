@@ -1,4 +1,5 @@
 train (t-88czvbpceamwqhin4n80c9cq3) {
-  utterance ("[g:example.shirt.Order#commitOrder:continue,r:example.shirt.UpdateOrder] Change the size to {[g:example.shirt.ChangedItem] (Medium)[v:example.shirt.Size:Medium]}")
-  plan (hY/LCsIwEEVvbeurO8WFbty4tP0IXbkSFD+gpIMN9BHSEcSvN7YqTVVMyCzOucMlCDCja5yrjKIqlZqjAwmSijG38bbMc8l7nZDG1FYN7ORPKomZGrX+qVaiLCrWsSw4vNS4+ihO4+JMyY4px7KjNJmNdmDzJ9DuEw0OpeGh0qUizdL0f/3dwoZHykjws3TScfJGCOCgBxcefPQxwNDcEcaAxV3zHtapOd7zdbw665s9B/4d)
+  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Medium)[v:Size:Medium]}")
+  plan (hY9NCsIwEIVfbetfd4oL3YgHaLcewJUrQfEApR3aQGNDOoK46NmNrYqpigkTZt73hkcQYEaXWKqCoioXmqM9JSQUY27Lm1JKwTudksbURq3Y8R9VGjO1aPUT1eemrz7S8viUUbplklh2kCaz8W5Y/zHUSduHwgyh0qUizcKEfv3HwhYPVFDCj6RJh4krIYCDHlx48NHHAENzRxgDlu6aulOn0fF6n8drvL7Zc+DfAA==)
+  last-modified (1551201432135)
 }
