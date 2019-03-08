@@ -1,3 +1,4 @@
+var textLib = require('textLib')
 exports.findItem = findItem
 exports.findItemIndex = findItemIndex
 exports.findShirtsWithSize = findShirtsWithSize

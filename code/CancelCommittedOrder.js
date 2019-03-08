@@ -1,3 +1,5 @@
+var dates = require('dates')
+var config = require('config')
 //CancelCommittedOrder
 exports.function = function(receipt) {
   if (receipt.orderState == "Ordered") {
