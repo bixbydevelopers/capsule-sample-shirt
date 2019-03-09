@@ -1,3 +1,4 @@
+var fail = require('fail')
 var lib = require("./lib/util.js");
 
 //UpdateOrder

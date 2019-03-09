@@ -1,3 +1,5 @@
+var dates = require('dates')
+var config = require('config')
 //CheckStatus
 exports.function = function (receipt) {
   // These conditions are here to simulate the order being shipped and delivered.
