@@ -1,5 +1,5 @@
 train (t-s19hikllsrvenjow0778h9qft) {
-  utterance ([g:Order#commitOrder:continue,r:UpdateOrder,r:GetSize] Change the size)
+  utterance ([g:CommitOrder:continue,r:UpdateOrder,r:GetSize] Change the size)
   plan (hZBNCsIwEIVfrX+t3YkL3YgHaLcewIW4UhQPUJrBBhob0hHERc9uaEVtVSTwmHnfGyYJAkzoGiudUVSk0nC0p4SkZkyb9ipXSvLWCDIYN1FttvJHLWKmGi1+ovJS1cXHtjQ+n0hsmBTmLWTITrwHln8CZVLXobRNqE2uybC0S7++Y9Y0dyZXmkkc5I3aX7UmruzWyIEySvhxuQAOOnDRRQ99DDC0x4OPEdAgbkU9q05F8NRX5dq8bxV3)
   last-modified (1551201433355)
 }

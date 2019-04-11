@@ -1,5 +1,5 @@
 train (t-cnk4g00a7c32a7628rvwzm9ss) {
-  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (2)[v:Quantity] (Medium)[v:Size:Medium] (Polo Shirts)[v:SearchTerm]} to my order")
-  plan (fY/LCsIwEEWvVqv1CYqvpTs3+g8iCK5Eqx9QzEADtg0xgrrw243xgYloIJNhzp2ZGzTRoVOUiD1NDjGXarKmHXGhMLDLsyxJuFpKRhJtGz2Kjn4rWKToj374U389mvyAni2ZMkZsoShBywam1nf8StIzDBn9Ileuw1jITJBUXC/s2srVMUoVV2f3A+E9uu7mPGUP4DgJKZK7eEPyy3fIL4QGcsjDQwFF+CihjAAVVFFDXTM8qfdBy4YGmsDc+ym8s9frmz5fz6qbHf4N)
-  last-modified (1551201432240)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (2)[v:Quantity] (Medium)[v:Size:Medium] (Polo Shirts)[v:SearchTerm]} to my order")
+  plan (fY/LCsIwEEVvba1vBcXX0p0b/QcRBFei1Q8oZsCAbUOMoC78dmN8YCIayMxlzmVygwbadIoTsafxYcelGq9oS1wo9O3xNEsSrhaSkUTLRo+h498IFiv64x/89F+PRh/QtS0TxojNFSVo2sDMek5eSXqHIcNf5Mp1GQmZCZKK6wc7tnN5jFPF1dn9QHSvbroZT9kDOEkiiuV2tyb5lTviF0IdHnLwESCPEAUUUUIZFVRR0wxP6n/QoqElTWDu/QRv9eqhVr6uZbPHQ3gD)
+  last-modified (1555003903735)
 }

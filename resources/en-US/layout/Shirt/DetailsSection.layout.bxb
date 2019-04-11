@@ -37,6 +37,7 @@ layout-macro-def (shirt-details) {
           value ("#{value(shirt.description)}")
           style (Detail_M)
         }
+        
       }
     }
   }

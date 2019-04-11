@@ -1,12 +1,12 @@
 train (t-09ho9ck49xshjfifjeh8uy4ll) {
-  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (a)[v:Quantity:1] (Large)[v:Size:Large] (Polo Shirt)[v:SearchTerm]} and {[g:AddedItem] (two)[v:Quantity:2] (V-Neck)[v:SearchTerm]} shirts")
-  plan (tZDPTgIxEMY/ZWWXvyLILh69eZF3MCQmnoyuPsCGTkITC00piXrg2R0GMGmT9WC0TSft9/060w4mGNN7ZewbTdcL7fz0meakrcdVKM9Wxmj/6BQ5jEJrL0b8q1WVpx/461p+u5H9GkWI3ClF6sGT+YUxDA3RJtEPHXFVcW7qnK3mcGvdypLzmp/4X3nzkHzaVEuv/UetHrW43MW4G/d6qfZG9MKSKjdfvJAzf5Yn6kupPwkFTnCKBhKcoYkUGVpoo4MueujjHANcYIgRLjFGzjQOfEP45oFPhe/wjZ7wbeH7zELWbnR5JnJKvrWjezy3JHfGdXPOOeC6BSsZ0i8=)
-  last-modified (1551201431833)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (a)[v:Quantity:1] (Large)[v:Size:Large] (Polo Shirt)[v:SearchTerm]} and {[g:AddedItem] (two)[v:Quantity:2] (V-Neck)[v:SearchTerm]} shirts")
+  plan (tZDdSgMxEIWP3bVr/2vX/njpnTf2HaQgeFV09QGWZqAB04Y0BfWiz+502goJrBeiCQmZc77MJIMJhvReGvtG081SOz99pgVp63EdyrO1MdrPnSKHPLQOYsS/WlV6+oG/qeR3WzlvMA6Re6VIPXoyvzAGoSHaJPqhI64qzm2Vs9O83Vm3tuS85if+V95RSD5ty5XX/qNSj1pc7Pe4Gw96pQ5G9MKCSrdYvpAzf5Yn6kuhPwljnKGGBCnOUUeGCzTQRAttdNBFD31cYoAcVxhixDSOfCJ8/chnwrf4Rkf4pvBdZiFrP9o8U4nSb+3knuIGnxLO2eNaGdfOuWKN4+wL)
+  last-modified (1555003880001)
 }
 train (t-0rwiea5s67kfb105zmd9lqt0b) {
-  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Large)[v:Size:Large]}")
-  plan (hY9NCsIwEIVfbetfd4oL3YgHaLcewJUrQfEApR3aQGNDOoK46NmNrYqpigkTZt73hkcQYEaXWKqCoioXmqM9JSQUY27Lm1JKwTudksbURq3Y8R9VGjO1aPUT1eemrz7S8viUUbplklh2kCaz8W5Y/zHUSduHwgyh0qUizcKEfv3HwhYPVFDCj6RJh4krIYCDHlx48NHHAENzRxgDlu6aulOn0fF6n8drvL7Zc+DfAA==)
-  last-modified (1551201431882)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Large)[v:Size:Large]}")
+  plan (hY9NDoIwEIUfAv7ATuNCN8YDwNYDuHJlovEABCbShEpTamJccHZHUGNRY5tOZ973mpcixJQuiVQFxVUutIl3lJJQBjNbXpdSCrPVGWlMbNSKHf9BZYmhFi1/ovrc9NVHWp6cjpRtDEksOkgTv3g3rP4Y6rTtI8FDpHSpSBvBoV//MbfFPRWUmkfSuMPElRDCQQ8uPPjoY4Ah7xECwNJdPnfqNDpe9bk8nl12Bnz7Nw==)
+  last-modified (1555003884942)
 }
 train (t-0xt790ce3hpy5dmqj2hum0l4e) {
   utterance ([g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a shirt)
