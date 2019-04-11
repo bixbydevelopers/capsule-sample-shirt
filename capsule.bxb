@@ -1,7 +1,10 @@
 capsule {
   id (example.shirt)
-  version (2.12.5) // Removed namespace from training examples
+  version (2.12.6) // Removed deprecation warnings
   format(3)
+  runtime-flags {
+    support-halt-effect-in-computed-inputs
+  }
   targets {
     target (bixby-mobile-en-US)
   }
@@ -10,10 +13,10 @@ capsule {
       as (core) 
     }
     import (viv.entity) {
-      as (entity) version(3.14.9)
+      as (entity) version(3.18.2)
     }
     import (viv.money) {
-      as (money) version (2.18.9)
+      as (money) version (2.19.0)
     }
     import (viv.time) { 
       as (time) version-from (entity)
