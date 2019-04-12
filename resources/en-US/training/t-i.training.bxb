@@ -4,7 +4,7 @@ train (t-i5yv8y8o0b8ac2hd3wr3mnho2) {
   last-modified (1551201432862)
 }
 train (t-iv7m4bbb8k3n2tb3wgykthgz9) {
-  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder,r:GetQuantity] Change the quantity of the (polo shirt)[v:SearchTerm]")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder,r:GetQuantity] Change the quantity of the (polo shirt)[v:SearchTerm]")
   plan (hZDPagIxEMY/XautVnuQQttDxQfQqw/gQTxp/fMAYXfoBowbxhH04rMbNiJmVzEDw2R+35cZgg4+6aCM3dBwl2qW4YJi0lbwHbbHmTFaZpwQoxsi3yzo1zZRQh71H6LTPq93pWmp2v5TMhUy6BUQk3PcCkZPBKfY1wPtLgPLmSUW7Yb+hsY5Z8YKJX97tRUtx+JSE5Ir+gnRkjYUy2Wfr3ssJ3c/riRXHKcrYoMPVFBFhBpeUEcDr3hDEy2859EGSrzueORyy0Ul5wiyr/ypOW/bvRgBZw==)
   last-modified (1551201432912)
 }

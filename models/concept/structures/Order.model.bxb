@@ -19,9 +19,4 @@ structure (Order) {
   features {
     transaction
   }
-  named-consumer (commitOrder) {
-    description (Buy the order)
-    action (CommitOrder)
-    input (order)
-  }
 }

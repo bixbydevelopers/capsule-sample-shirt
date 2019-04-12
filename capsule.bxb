@@ -8,6 +8,9 @@ capsule {
   targets {
     target (bixby-mobile-en-US)
   }
+  runtime-flags {
+    support-halt-effect-in-computed-inputs
+  }
   capsule-imports {
     import (viv.core) { 
       as (core) 

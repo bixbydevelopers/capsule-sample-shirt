@@ -1,5 +1,5 @@
 train (t-88czvbpceamwqhin4n80c9cq3) {
-  utterance ("[g:Order#commitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Medium)[v:Size:Medium]}")
-  plan (hY9NCsIwEIVfbetfd4oL3YgHaLcewJUrQfEApR3aQGNDOoK46NmNrYqpigkTZt73hkcQYEaXWKqCoioXmqM9JSQUY27Lm1JKwTudksbURq3Y8R9VGjO1aPUT1eemrz7S8viUUbplklh2kCaz8W5Y/zHUSduHwgyh0qUizcKEfv3HwhYPVFDCj6RJh4krIYCDHlx48NHHAENzRxgDlu6aulOn0fF6n8drvL7Zc+DfAA==)
-  last-modified (1551201432135)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Medium)[v:Size:Medium]}")
+  plan (hY9NDoIwEIUfAv7ATuNCN8YDwNYDuHJlovEABCbShEpTamJccHZHUGNRY5tOZ973mpcixJQuiVQFxVUutIl3lJJQBjNbXpdSCrPVGWlMbNSKHf9BZYmhFi1/ovrc9NVHWp6cjpRtDEksOkgTv3g3rP4Y6rTtI8FDpHSpSBvBoV//MbfFPRWUmkfSuMPElRDCQQ8uPPjoY4Ah7xECwNJdPnfqNDpe9bk8nl12Bnz7Nw==)
+  last-modified (1555003899768)
 }
