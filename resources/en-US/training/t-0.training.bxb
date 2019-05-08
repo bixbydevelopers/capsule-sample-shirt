@@ -1,8 +1,3 @@
-train (t-09ho9ck49xshjfifjeh8uy4ll) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (a)[v:Quantity:1] (Large)[v:Size:Large] (Polo Shirt)[v:SearchTerm]} and {[g:AddedItem] (two)[v:Quantity:2] (V-Neck)[v:SearchTerm]} shirts")
-  plan (tZDdSgMxEIWP3bVr/2vX/njpnTf2HaQgeFV09QGWZqAB04Y0BfWiz+502goJrBeiCQmZc77MJIMJhvReGvtG081SOz99pgVp63EdyrO1MdrPnSKHPLQOYsS/WlV6+oG/qeR3WzlvMA6Re6VIPXoyvzAGoSHaJPqhI64qzm2Vs9O83Vm3tuS85if+V95RSD5ty5XX/qNSj1pc7Pe4Gw96pQ5G9MKCSrdYvpAzf5Yn6kuhPwljnKGGBCnOUUeGCzTQRAttdNBFD31cYoAcVxhixDSOfCJ8/chnwrf4Rkf4pvBdZiFrP9o8U4nSb+3knuIGnxLO2eNaGdfOuWKN4+wL)
-  last-modified (1555003880001)
-}
 train (t-0rwiea5s67kfb105zmd9lqt0b) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Large)[v:Size:Large]}")
   plan (hY9NDoIwEIUfAv7ATuNCN8YDwNYDuHJlovEABCbShEpTamJccHZHUGNRY5tOZ973mpcixJQuiVQFxVUutIl3lJJQBjNbXpdSCrPVGWlMbNSKHf9BZYmhFi1/ovrc9NVHWp6cjpRtDEksOkgTv3g3rP4Y6rTtI8FDpHSpSBvBoV//MbfFPRWUmkfSuMPElRDCQQ8uPPjoY4Ah7xECwNJdPnfqNDpe9bk8nl12Bnz7Nw==)

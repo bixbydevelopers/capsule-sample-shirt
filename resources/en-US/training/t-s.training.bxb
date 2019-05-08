@@ -1,7 +1,7 @@
 train (t-s19hikllsrvenjow0778h9qft) {
   utterance ([g:CommitOrder:continue,r:UpdateOrder,r:GetSize] Change the size)
-  plan (hZBNCsIwEIVfrX+t3YkL3YgHaLcewIW4UhQPUJrBBhob0hHERc9uaEVtVSTwmHnfGyYJAkzoGiudUVSk0nC0p4SkZkyb9ipXSvLWCDIYN1FttvJHLWKmGi1+ovJS1cXHtjQ+n0hsmBTmLWTITrwHln8CZVLXobRNqE2uybC0S7++Y9Y0dyZXmkkc5I3aX7UmruzWyIEySvhxuQAOOnDRRQ99DDC0x4OPEdAgbkU9q05F8NRX5dq8bxV3)
-  last-modified (1551201433355)
+  plan (hZBNCsIwEIVfrX+t3YkL3YgHaLcewIW4UhQPUJrBBhob0hHERc9uaEVtVSTw8vK+GSYJAkzoGiudUVSk0nC0p4SkZkyb8SpXSvLWCDIYN1EdtuqPWsRMNVr8ROWl8sXHtDQ+n0hsmBTmLWTIdrwXLP8UlEntQ2kPoTa5JsPSDv36jlkz3JlcaSZxkDdqf9WauIpbLQfKKOHH5QI46MBFFz30McDQLg8+RkCDuBX1rDoVwVNfzrW7bxV3)
+  last-modified (1557351489578)
 }
 train (t-s9v9om8ukz3rlfexka7krfiff) {
   utterance ([g:Shirt] Show a list of all shirts)
