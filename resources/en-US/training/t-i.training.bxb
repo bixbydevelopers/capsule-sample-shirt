@@ -1,12 +1,7 @@
-train (t-i5yv8y8o0b8ac2hd3wr3mnho2) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Order {[g:Item] (2)[v:Quantity] (Polo Shirts)[v:SearchTerm]} and {[g:Item] (1)[v:Quantity] (V-Neck)[v:SearchTerm]} Shirt")
-  plan (1VBLCsIwEH3VVqu2fqr1cwM3eglBcCV+LlDaAQNGS4ygG8/utMVFSt25MQMzvE/ehGCMkB6RTM+0vJ2E0ss9xSRSjZlJr65SCr1VCSkMTakgy35FkaZCCkxpo0lWctOqiFyZf1NegtsiVdeUlBZ0+7vcsenc3aOLFvr5lS/9/SHrmJjkWlySQii98ECRik9HUvJnORNYqKEOGw4aaMJFC2104MFHFz2uPgYIMOQaIQQMv5377dzf5Hs+o8zfYJz5rdwPRuX+OZYxWzw9Tnd4d8jZPd5cY+S+AQ==)
-  last-modified (1551201432862)
-}
 train (t-iv7m4bbb8k3n2tb3wgykthgz9) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder,r:GetQuantity] Change the quantity of the (polo shirt)[v:SearchTerm]")
-  plan (hZDPagIxEMY/XautVnuQQttDxQfQqw/gQTxp/fMAYXfoBowbxhH04rMbNiJmVzEDw2R+35cZgg4+6aCM3dBwl2qW4YJi0lbwHbbHmTFaZpwQoxsi3yzo1zZRQh71H6LTPq93pWmp2v5TMhUy6BUQk3PcCkZPBKfY1wPtLgPLmSUW7Yb+hsY5Z8YKJX97tRUtx+JSE5Ir+gnRkjYUy2Wfr3ssJ3c/riRXHKcrYoMPVFBFhBpeUEcDr3hDEy2859EGSrzueORyy0Ul5wiyr/ypOW/bvRgBZw==)
-  last-modified (1551201432912)
+  plan (hZBLagJBEIZ/HaOJRrOQQJJFxAPo1gO4EFcaHwdoZopMg+00ZQm68ew20yL2jGIXFFX1/fWg0cEnHZSxGxruUs0yXFBM2gq+w/I4M0bLjBNidEPkiwX92iZKyKP+Q3Ta5/GutC1V239KpkIGvQJich23gtETwSn28UC7ZGA5s8Si3dLfsHHOmbFCyd9ebUXLsXjUhOSKfkK0pA3Fcrnn6x7Lyd2PK8kVx+mK2OADFVQRoYYX1NHAK97QRAvvubWBEq87HjnfclbJOQLvI/9qLmu7iRFwBg==)
+  last-modified (1557351109928)
 }
 train (t-iws07glq1mghw46ipa72os5xa) {
   utterance ([g:CheckStatus] Check on my shirt order)
