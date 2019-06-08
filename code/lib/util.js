@@ -28,6 +28,10 @@ function findItems(items, searchTerm) {
    for (var i=0; i<items.length; i++) {
       if (textLib.fuzzyMatch(items[i].shirt.title, searchTerm)) {
         matches.push(items[i])
+      } else if (textLib.fuzzyMatch(items[i].shirt.style, searchTerm)) {
+        matches.push(items[i])
+      } else if (textLib.fuzzyMatch(items[i].shirt.brand, searchTerm)) {
+        matches.push(items[i])
       }
    }
    return matches

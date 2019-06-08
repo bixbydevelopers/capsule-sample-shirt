@@ -1,3 +1,8 @@
+train (t-8334cuuvv8n5co5rqd55ombx0) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (oxford dress shirt)[v:SearchTerm] sizes to (large)[v:Size:Large]}")
+  plan (hY9LCsJADIb/Wmt9LxRB3YgH0K0HcOVK8HGAMg12oKPDdARx4dmNrYJTFSdMSPL9SQg6GNAlUjqleZZIY+cbEiS1xcgtL09KSbs2MRn0XVQUS/q9jiNLBZr+RLdzHmcf25LoeKB4ZUlhUkKGuONdsPgjuIkinklOZtqcNBkreenYbdxSSsI+hw6/sZx8vf5DHhmR7Mgo9EpEXgldeKjARxUBaghRRwPN3FpoAw6tMfXZN9hCJsi/618v4Nxn/5jiIbgD)
+  last-modified (1559953284899)
+}
 train (t-88czvbpceamwqhin4n80c9cq3) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Medium)[v:Size:Medium]}")
   plan (hY9NDoIwEIUfAv7ATuNCN8YDwNYDuHJlovEABCbShEpTamJccHZHUGNRY5tOZ973mpcixJQuiVQFxVUutIl3lJJQBjNbXpdSCrPVGWlMbNSKHf9BZYmhFi1/ovrc9NVHWp6cjpRtDEksOkgTv3g3rP4Y6rTtI8FDpHSpSBvBoV//MbfFPRWUmkfSuMPElRDCQQ8uPPjoY4Ah7xECwNJdPnfqNDpe9bk8nl12Bnz7Nw==)

@@ -1,0 +1,5 @@
+train (t-ottu8a2d6xz20yt0jg4f7hhxc) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] add {[g:AddedItem] (20)[v:Quantity:20] (pullover sweatshirts)[v:SearchTerm]} ")
+  plan (fY/LCsIwEEWv1kd9LhRfS3du7D+IILgSrX5AaQYaMDXECLrptxtTERPQLGaGey4zN+hjRPdEyDNF14wrHR0oJS41Zq68vgjB9U4xUhi6qBQ9/0myRNMf//ynv7jZ+YqJa1kxRmyrSWDgAqtNvbyKzA5LFr9IwU1ZSnWRpDQ3B8euc39Lcs31w/9A/Kp+ug3PWQm8JDElKs2OpAR6qKCKADXU0UATIVpoo4OuIXiz4IuFllUsK1/tM5W9bnpg/G27u/EE)
+  last-modified (1559953431363)
+}

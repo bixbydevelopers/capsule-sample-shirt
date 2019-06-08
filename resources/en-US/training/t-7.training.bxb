@@ -1,15 +1,25 @@
+train (t-77ydft0732o3hxl7zdwz1u0rc) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] add {[g:AddedItem] (7)[v:Quantity] (henley shirts)[v:SearchTerm]} ")
+  plan (fY/LCsIwEEWv1kd9LhRfS3du7D+IILgSrX5AaQYaMDXECLrptxtTERPQLGaGey4zN+hjRPdEyDNF14wrHR0oJS41Zq68vgjB9U4xUhi6qBQ9/0myRNMf//ynv7jZ+YqJa1kxRmyrSWDgAqtNvbyKzA5LFr9IwU1ZSnWRpDQ3B8euc39Lcs31w/9A/Kp+ug3PWQm8JDElKs2OpAR6qKCKADXU0UATIVpoo4OuIXiz4IuFllUsK1/tM5W9bnpg/G27u/EE)
+  last-modified (1559953210613)
+}
 train (t-7907ye1h7qolqtjr8jm2zjhfl) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (a)[v:Quantity:1] (medium)[v:Size:Medium] shirt")
-  plan (dY5BCsIwEEV/1Vh1qSh6Azf2Eq5cifYERQccMDZMR1AXnt20wUWCBmYg773FYII5PSrrrlQ0FxYtjnQidopVjLe1tax7OZNgFqsA016oUgpqGqudksXyV96Z9T/zZr82TmpHokwNFnF5uFc3ZX2m95XtTo8o+UUYI0MPfQxgMESOkSeIWDtZx8J8n/G/3NfGl/gA)
-  last-modified (1551201432296)
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (medium)[v:Size:Medium] shirt")
+  plan (dY5BCsJADEV/bdW6VQS9QTf2Eq5cCfYERT8YcOiQZiEuPLvTzsYpGkhI3gskWGHLZ+v8g3V/F7X6wivFG/YpPnbOiZ31RsUmVRFO95WtMap1qk5Gh92v9dFU/8xbQjl47TzVhP30j2ao02ONvIgSGWbIUWCOBZZhxhcZWDaSmDGK0JfB5cAH)
+  last-modified (1559953213312)
 }
 train (t-7rqyhfcn6e503xio6q0l6z31s) {
   utterance ("[g:Shirt] Show (Polo Shirts)[v:SearchTerm]")
   plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
-  last-modified (1551201432120)
+  last-modified (1559953225149)
 }
 train (t-7sxpgby1hd1mvniyiepohxriu) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (small)[v:Size:Small]}")
   plan (hY9LCsJADIb/Wmt9LxRB3YgH0K0HcOVK8HGAMg12oKPDdARx4dmNrYJTFSdMSPL9SQg6GNAlUjqleZZIY+cbEiS1xcgtL09KSbs2MRn0XVQUS/q9jiNLBZr+RLdzHmcf25LoeKB4ZUlhUkKGuONdsPgjuIkinklOZtqcNBkreenYbdxSSsI+hw6/sZx8vf5DHhmR7Mgo9EpEXgldeKjARxUBaghRRwPN3FpoAw6tMfXZN9hCJsi/618v4Nxn/5jiIbgD)
-  last-modified (1555003895234)
+  last-modified (1559953256730)
+}
+train (t-7vt2pu4so0p7xybeyspqig8wp) {
+  utterance ([g:CommitOrder:continue:Shirt,r:CreateOrder,r:CreateItem] Buy this shirt)
+  plan (Y+BgEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCKKrL0pNLEmFSAmhSnmWpOYySGBTDpbRwCVTlwkkdAuK8gtSi0oyU4vR3REMIhnYGRgZmBiYGVgYWBnYgDwGJD4rkM0AxyDADGSxAkkGAA==)
+  last-modified (1559946185383)
 }

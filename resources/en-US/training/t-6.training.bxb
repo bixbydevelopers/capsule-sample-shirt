@@ -1,0 +1,5 @@
+train (t-6izg5mtxx1642kdclje12xe28) {
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Order a (small)[v:Size:Small] (t-shirt)[v:SearchTerm]")
+  plan (dY5NCsIwEIVf1dS/nSLqDdzYSwiCK8F4gdIOdMDYMM1CXHh2Y4tigi7mLb7vDTOYYkG33NgLZU3F4rITFcTWYR3iXW0Mu6OUJJiHqoNxXyh31KlZqA6ODFa/6q3Z/DMP9rG1UlsSx9TEf+hXYhnCPV/LTkQXNeVSVGcSE/+n+U6YIEEPfQygkGKIEcae4Yuqlqae4DPvhLdJu6F8G08=)
+  last-modified (1559953195853)
+}

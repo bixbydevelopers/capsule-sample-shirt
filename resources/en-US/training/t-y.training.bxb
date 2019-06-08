@@ -1,10 +1,15 @@
+train (t-ykg55zhyo5sicuotzlat5xwd3) {
+  utterance ("[g:Shirt] Find (dress shirts)[v:SearchTerm]")
+  plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1559953547826)
+}
 train (t-yst9jrc012ozcxprbshrf0ecr) {
   utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (3)[v:Quantity] (Large)[v:Size:Large] (Polo Shirts)[v:SearchTerm]")
   plan (dY7LCsIwEEWvj7a+VoqvP3Bjf0IQXInWHwjtQAOmDekI6sJvN21BTNDFzMA5d+BigjndhdJXiqtcGo7PlJLUjLWLd6VSko8mI4OZq1ro5w0JplZNXXVgUlj9ijdm88+8pF1bbUpNhiVVWLjJ000ULPnh90vqjaUL97LIWuE1SUiYNL+QUX7vRD4JY3TQRQ99BAgRYYAhRpbC4UHDQ8vwGXzd2kTNX2B/8AY=)
-  last-modified (1551201433963)
+  last-modified (1559953557322)
 }
 train (t-yyod5anwhb5pykxw15fqhlnj9) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (a)[v:Quantity:1] (Men's)[v:Gender:Male] (Ralph Lauren)[v:Brand:RalphLauren] Shirt")
-  plan (dY9NCsIwEEY/rW2tuvLfG7ixh1BQXIl6gmAHDJg0pCPoxrObtiCm6CKT8N4LJBhgQg+hzI3S4iotpye6kDSMhY83uVKSDzYji5GvatjsLQmmWg19tWdSmP/KK7P8Z17SjZWxuSHLkgpM/fJ4F5olP5vvO5cTMx9upc5q0ajXVugMYx/uSJcf6aOFNgJ0ECJCjC4S9ByFx8OKJ47hs/C1R+5U3opdGQBv)
-  last-modified (1551201434035)
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (Men's)[v:Gender:Male] (Ralph Lauren)[v:SearchTerm] Shirt")
+  plan (dY49CsJAFIQnajRq5w/qDWzMJQTFSlAvEJKBLLjJ8rKFlWd3k6C4QYs3xffNg8EUSz4Sbe6Mq1yJjS9MqYzFxsf7Umtlz5JRMPdVC7t9YWLZqpmvTpYa61/1xmz/madysTNSGopVrLo7rnVi5cODKrJWLHxxZFFv6+y4MpE0v1E0JgjQQx8DhBhihAhjx/BFw4ZGjuBz74SzQfMRujZe)
+  last-modified (1559953570147)
 }

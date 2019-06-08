@@ -1,7 +1,5 @@
 vocab (Quantity) {
   "1" {
-    "a"
-    "an"
     "one"
   }
   "2" {

@@ -1,5 +1,5 @@
 train (t-tfrxp4bk6rxg9881hehgv30s9) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make that {[g:ChangedItem] (a)[v:Quantity:1] (Large)[v:Size:Large] (V-Neck)[v:SearchTerm]} and add {[g:AddedItem] (an)[v:Quantity:1] (Oxford Dress Shirt)[v:SearchTerm]}")
-  plan (hZFLT8JAFIWPtEBBEQF56Ma4cwNb18bExJXR6g9oOjd2ElqaYUjURX+7l2mDTB8xk07P3PPNmdsOZpjSVxCna1ptI6n06o1CkqnGlV1+3MSx1C9KkMLEtvJiif9IRaApt24brWxn9BZzG3kQgsSzprjSRhQkn4V1U7IUcdQxcP8PkIW5XkpeLFO1SUlpyd2M7Y0mbFEXZpy7Jicr585s8nUXJFrq78b6tV33aU2hLj5uUecZp/Z6KnigwuidVAX393P5Pp5kInKjOaf003z5Q5jjBC04cNFGB1146KGPU5xhgHMMcWHGCGNMcIkpcOBdw7cN7/GOLvMOz0MefcN7zMI8KN7uYYUj9ad7rBzOHPBZHe5hxCe29p39Ag==)
-  last-modified (1557351515349)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make that a {[g:ChangedItem] (Large)[v:Size:Large] (V-Neck)[v:SearchTerm]}")
+  plan (hY9LCsJADIb/Wmt9LxRB3YgH0K0HcOVK8HGAMg12oKPDdARx4dmNrYJTFSdMSPL9SQg6GNAlUjqleZZIY+cbEiS1xcgtL09KSbs2MRn0XVQUS/q9jiNLBZr+RLdzHmcf25LoeKB4ZUlhUkKGuONdsPgjuIkinklOZtqcNBkreenYbdxSSsI+hw6/sZx8vf5DHhmR7Mgo9EpEXgldeKjARxUBaghRRwPN3FpoAw6tMfXZN9hCJsi/618v4Nxn/5jiIbgD)
+  last-modified (1559953486399)
 }
