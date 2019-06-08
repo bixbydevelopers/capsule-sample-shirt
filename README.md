@@ -14,7 +14,7 @@ This capsule is the the companion code to the Bixby [Basic Cart Transactional Ca
 Buy a medium V-Neck
 Change the size
 (Select small)
-Make that a large V-Neck and add an Oxford Dress Shirt
+Add an Oxford Dress Shirt
 Remove Polo Shirt from my order
 (Note above won't match any existing shirt so you get a prompt. Select V-Neck)
 Add 2 Medium Polo Shirts to my order
