@@ -1,7 +1,7 @@
 train (t-hg3krq7e4zqq30hib9n12tqq6) {
-  utterance ("[g:Size:prompt] I'm (Extra Large)[v:Size:ExtraLarge]")
+  utterance ("[g:Size:prompt] I'm an (extra large)[v:Size:ExtraLarge]")
   plan (Y2BiEEqtSMwtyEnVK87ILCrRC86sSsUqxgiEDAw8QMwExEA2AA==)
-  last-modified (1559942402074)
+  last-modified (1559955636558)
 }
 train (t-hzit90zcj6gptfubpaa738v0n) {
   utterance ("[g:Shirt] Find (pullover sweatshirts)[v:SearchTerm]")

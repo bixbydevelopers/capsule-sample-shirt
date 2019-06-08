@@ -4,7 +4,7 @@ train (t-zoi8m5pwtqcsfqh32rqro0e3u) {
   last-modified (1559953579428)
 }
 train (t-zpxxdnt3h425qsxo95s73qmss) {
-  utterance ("[g:Shirt:prompt] (Oxford dress shirt)[v:Style:OxfordDressShirt]")
-  plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCXTVJZU5qQxMDIxAzAAkGRlAgAmCAQ==)
-  last-modified (1559946835002)
+  utterance ("[g:Shirt:prompt] (Oxford dress shirt)[v:SearchTerm]")
+  plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1559955718525)
 }
