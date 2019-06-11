@@ -1,5 +1,15 @@
+train (t-e7raheuhrpuncewnoxz8xoos4) {
+  utterance ("[g:Shirt:prompt] The (polo)[v:SearchTerm]")
+  plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1559953331539)
+}
 train (t-eenivjma32fc9xzfcju8iq2nt) {
   utterance ([g:Order#totalPrice:continue] What is the total price of the order?)
   plan (Y2BiEE6tSMwtyEnVK87ILCrRCyjKTE5FF/QvSkktYmAEQgYGJiAGswA=)
-  last-modified (1551201432398)
+  last-modified (1559953723824)
+}
+train (t-elslsjj2ttpsi88plff5ercbl) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] make it a {[g:ChangedItem] (polo)[v:SearchTerm]} instead")
+  plan (hY/LCsIwEEVv7UNrdSWCuhE/oN36Aa5cCT4+oLSDDTQ2pBFc9dsdWhf2IWZgMjPn3gzBDEt6xVLlFJWZ0CY6U0JCGazb40MhpTAnnZLGoo2aYUd/U2lsqEG7n6h61nXZ25bFjzulR0MS2w7SxI5vwf6PoEqaOhTchEoXirQRvHTTNl4op8R8Hl0NsZoM/r4nj3WSXUlLzGFhBBsOXHgYYwIf0zoCoMU8ZjZnn8OqGTq5OQ53NjsCvt03)
+  last-modified (1559953340630)
 }

@@ -1,17 +1,22 @@
 vocab (Size) {
   "ExtraSmall" {
     "extra small"
+    "extra smalls"
   }
   "Small" {
     "small"
+    "smalls"  
   }
   "Medium" {
     "medium"
+    "mediums"    
   }
   "Large" {
     "large"
+    "larges"      
   }
   "ExtraLarge" {
     "extra large"
+    "extra larges"
   }
 }

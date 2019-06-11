@@ -3,3 +3,8 @@ train (t-l552p693f5ha9i780j5c4qfzq) {
   plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCTTVTkWJeSkMTAyMQMwAJBkZQIAJggE=)
   last-modified (1551201433201)
 }
+train (t-lu9ty555mdz0cdsx8s2xyfik2) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] I want {[g:ChangedItem] (2)[v:Quantity:2] (extra smalls)[v:Size:ExtraSmall]}")
+  plan (hY9NCsIwEIVfrfV/pSjoRjxAu/UArlyJigcI7WADrYY4BXXRsxtbUVMVM2SYvO8NM0EPQzqLVCUUnGKpOdhQSFIxxra8OKap5JWOSGNgo1Ks+HcqEkwlmv1EeVbUp49psTjsKVoypZhWkCbT8W6Y/zHkYVn70jx8pY+KNEsz9Os/Rra4zsSBJV8wsfUtJRTyY4N+hckroQcHNbiow0MDTbRMtNFBF7CIW9D7dQqCZ34dzyiuyW3T7cC7AQ==)
+  last-modified (1559946478662)
+}

@@ -1,6 +1,6 @@
 capsule {
   id (example.shirt)
-  version (2.12.6) // Removed deprecation warnings
+  version (2.12.7) // Updated SearchTerm coverage
   format(3)
   runtime-flags {
     support-halt-effect-in-computed-inputs

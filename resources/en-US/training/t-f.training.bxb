@@ -1,10 +1,10 @@
 train (t-fb1bwa7ouzv4nggjulhghrg0d) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (a)[v:Quantity:1] (men's)[v:Gender:Male] shirt")
-  plan (dY5LCsJAEEQr6viJO//ewI25hKC4EvUEIWlwwEmGSQu68exOMiB00EV3w3vVUBhjTs/U2Dsl1U07Ti6UkbaMtcS70hjNJ5eTw1SqANt5RylTUBOpjkwGq1/xxmz+mbf2a2tdacmxpgoLmTw/0oI1v9r9rvXGUsK9LvIgZlIcqKg7x4jQQRc9KPQxwBAjzyCoamjU0DD4XuVv7P+UT+MD)
-  last-modified (1551201432508)
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (men's)[v:Gender:Male] shirt")
+  plan (dY5LCsJAEEQrJlHj0g/qDdyYSwiKK0FPEExDGpxk6PTClWd3kkFwgi66Gt6rRWGGFT0LYx+UtxWL5le6E1vFNsSHxhjWi5QkWITKw2FfqFDyah6qs5LB5le9N7t/5sUu9lYaS6JM7XDHrUusQ3jkuvRiGYoT1d22DBFGiJEgxRgTTB3BF0t7FvXM3ycT9zPnY+AN)
+  last-modified (1559927820032)
 }
 train (t-fircvzgetu1zb1rt1c7n9t3yy) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change that to {[g:ChangedItem] (3)[v:Quantity] (Polo Shirts)[v:SearchTerm]}")
   plan (hZDPToQwEMY/RHDFPxfjRr0YHwCuPoAnTxvd9QEamCxNKDRlSPTCszvCRi1g7CTTmfl90y8pLnBN78rYirK21I6zV8pJW8atP35qjNG8cQU5XPloHE70b7ZQTCN6+BP13VC3M7dS1XsqnpkM7ifIkWz8Fjz+I+jzsU61NKl1jSXHWkzX/uJLp2rW/IE7f76linI+mN0ssYEs/spMrlxe7sgZXCLAEUIcI0KME6xwigRnQ5wDExoLDSUnEsFA8Z1/7q8TSRdKXskrAaJP)
-  last-modified (1555003919717)
+  last-modified (1559953355395)
 }

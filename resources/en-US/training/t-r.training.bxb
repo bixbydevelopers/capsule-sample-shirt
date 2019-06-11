@@ -1,5 +1,15 @@
 train (t-r9mjfyqotnxjv3cxmtdmm5se0) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] make that {[g:ChangedItem] (2)[v:Quantity:2] (polo shirts)[v:SearchTerm] and size (medium)[v:Size:Medium]}")
   plan (hZDPasJAEMY/TY02VQuWiu2l9AH06gN48iRW+wBLMjQLrlnWEdoe8uwOG0WTKO6w8+/3zQ4s+nilX2Xshia7VDuefFFM2jLeyu1ZZozmhUvI4aWMimZF/20TxVSgz5so3/t8V9uWqu0PJXMmg48KciQTl4LpHUEeF/lYSzG2LrPkWMvSYXlwuVdb1vyH93J/RRuK+bhsdI15cvVXanLl4nRNzmBQIfqf8IwGmgjwgBZCtNHBIyI8eeuiB1R4KDwQH4m1hcHfkz/H4oRSBzLZ8W810DoA)
-  last-modified (1557351447341)
+  last-modified (1559953440759)
+}
+train (t-rgdjbupzhn46ql5igoi2a3n8b) {
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Order a (medium)[v:Size:Medium] (tee)[v:SearchTerm]")
+  plan (dY5NCsIwEIVf1dS/nSLqDdzYSwiCK8F4gdIOdMDYMM1CXHh2Y4tigi7mLb7vDTOYYkG33NgLZU3F4rITFcTWYR3iXW0Mu6OUJJiHqoNxXyh31KlZqA6ODFa/6q3Z/DMP9rG1UlsSx9TEf+hXYhnCPV/LTkQXNeVSVGcSE/+n+U6YIEEPfQygkGKIEcae4Yuqlqae4DPvhLdJu6F8G08=)
+  last-modified (1559953458589)
+}
+train (t-rnicdqtu93lxxilsvk312d79y) {
+  utterance ("[g:Order#totalPrice:continue] What's the total")
+  plan (Y2BiEE6tSMwtyEnVK87ILCrRCyjKTE5FF/QvSkktYmAEQgYGJiAGswA=)
+  last-modified (1559953726129)
 }

@@ -1,0 +1,10 @@
+train (t-zoi8m5pwtqcsfqh32rqro0e3u) {
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (4)[v:Quantity:4] (medium)[v:Size:Medium] (sweatshirts)[v:SearchTerm]")
+  plan (dY7LCsIwEEWvj7a+VoqvP3Bjf0IQXInWHwjtQAOmDekI6sJvN21BTNDFzMA5d+BigjndhdJXiqtcGo7PlJLUjLWLd6VSko8mI4OZq1ro5w0JplZNXXVgUlj9ijdm88+8pF1bbUpNhiVVWLjJ000ULPnh90vqjaUL97LIWuE1SUiYNL+QUX7vRD4JY3TQRQ99BAgRYYAhRpbC4UHDQ8vwGXzd2kTNX2B/8AY=)
+  last-modified (1559953579428)
+}
+train (t-zpxxdnt3h425qsxo95s73qmss) {
+  utterance ("[g:Shirt:prompt] (Oxford dress shirt)[v:SearchTerm]")
+  plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1559955718525)
+}

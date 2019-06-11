@@ -3,6 +3,11 @@ train (t-s19hikllsrvenjow0778h9qft) {
   plan (hZBNCsIwEIVfrX+t3YkL3YgHaLcewIW4UhQPUJrBBhob0hHERc9uaEVtVSTw8vK+GSYJAkzoGiudUVSk0nC0p4SkZkyb8SpXSvLWCDIYN1EdtuqPWsRMNVr8ROWl8sXHtDQ+n0hsmBTmLWTIdrwXLP8UlEntQ2kPoTa5JsPSDv36jlkz3JlcaSZxkDdqf9WauIpbLQfKKOHH5QI46MBFFz30McDQLg8+RkCDuBX1rDoVwVNfzrW7bxV3)
   last-modified (1557351489578)
 }
+train (t-s31tifgs6ps56sw9k6ugr73jn) {
+  utterance ("[g:CommitOrder,r:UpdateOrder] Make the {[g:ChangedItem] (v-necks)[v:SearchTerm] an (extra small)[v:Size:ExtraSmall]}")
+  plan (hY9LCsJADIb/Wmt9LxRB3YgH0K0HcOVK8HGAMg12oKPDdARx4dmNrYJTFSdMSPL9SQg6GNAlUjqleZZIY+cbEiS1xcgtL09KSbs2MRn0XVQUS/q9jiNLBZr+RLdzHmcf25LoeKB4ZUlhUkKGuONdsPgjuIkinklOZtqcNBkreenYbdxSSsI+hw6/sZx8vf5DHhmR7Mgo9EpEXgldeKjARxUBaghRRwPN3FpoAw6tMfXZN9hCJsi/618v4Nxn/5jiIbgD)
+  last-modified (1559953470470)
+}
 train (t-s9v9om8ukz3rlfexka7krfiff) {
   utterance ([g:Shirt] Show a list of all shirts)
   plan (Y2BkEE6tSMwtyEnVK87ILCrRCwaRDCDACCIA)
