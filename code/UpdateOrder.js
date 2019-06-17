@@ -1,3 +1,4 @@
+var console = require('console')
 var fail = require('fail')
 var lib = require("./lib/util.js");
 
@@ -11,7 +12,11 @@ exports.function = function(order, addedItems, changedItems, removedItems) {
 }
 
 function change(order, changedItems) {
-   [].concat(changedItems).forEach(function(changedItem) {
+   if (!changedItems) {
+     return order
+   }
+  
+   [].concat(changedItems.items).forEach(function(changedItem) {
      var index = (order.items.length == 1) ? 0 : lib.findItemIndex(order, changedItem.item)
      if (index >= 0) {
        if (changedItem.newSize) {
@@ -50,7 +55,10 @@ function change(order, changedItems) {
 }
 
 function remove(order, removedItems) {
-   [].concat(removedItems).forEach(function(removedItems) {
+   if (!removedItems) {
+     return order
+   }
+   [].concat(removedItems.items).forEach(function(removedItems) {
      var index = lib.findItemIndex(order, removedItems.item)
      if (index >= 0) {
        // deep copy of order.totalPrice, because it refers to the same object as order.items[index].shirt.price for some reason...
@@ -68,8 +76,11 @@ function remove(order, removedItems) {
    return order
 }
 
-function add(order, items) {
-   [].concat(items).forEach(function(item) {
+function add(order, addedItems) {
+   if (!addedItems) {
+     return order
+   }
+   [].concat(addedItems.items).forEach(function(item) {
      //check if there is a shirt with same size in the order already
      var index = lib.findShirtsWithSize(order, item.shirt, item.size)
      if (index >= 0) {

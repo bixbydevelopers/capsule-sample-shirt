@@ -1,7 +1,7 @@
 train (t-r9mjfyqotnxjv3cxmtdmm5se0) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] make that {[g:ChangedItem] (2)[v:Quantity:2] (polo shirts)[v:SearchTerm] and size (medium)[v:Size:Medium]}")
-  plan (hZDPasJAEMY/TY02VQuWiu2l9AH06gN48iRW+wBLMjQLrlnWEdoe8uwOG0WTKO6w8+/3zQ4s+nilX2Xshia7VDuefFFM2jLeyu1ZZozmhUvI4aWMimZF/20TxVSgz5so3/t8V9uWqu0PJXMmg48KciQTl4LpHUEeF/lYSzG2LrPkWMvSYXlwuVdb1vyH93J/RRuK+bhsdI15cvVXanLl4nRNzmBQIfqf8IwGmgjwgBZCtNHBIyI8eeuiB1R4KDwQH4m1hcHfkz/H4oRSBzLZ8W810DoA)
-  last-modified (1559953440759)
+  plan (hZDLTsMwEEVvG+iLPngIRNkAH9Bs+wGsWFW08AGWMyKW6tZyphJ0kW/vyEGCmFT1yPbY516PbVzilr6UdWtKi9x4TpekyTjGtL79srXW8MJn5HFTR9VmpP9wmWKq0PNRVO5CXuAhqparzSdlr0y2wFPEPImlppgedePxhBnzE4JSV/nMyGLm/NaRZyNXvqsb33Zqw4a/46esaE2af4rdN7FAGv/0n1x5nb+Tt7iOiNkTrtBCGwnOcI4OuuihjwEuMMQoxBgToEHTE00i41CiLxyh40/2O1etI+tE3INwZgvdAw==)
+  last-modified (1560530857472)
 }
 train (t-rgdjbupzhn46ql5igoi2a3n8b) {
   utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Order a (medium)[v:Size:Medium] (tee)[v:SearchTerm]")

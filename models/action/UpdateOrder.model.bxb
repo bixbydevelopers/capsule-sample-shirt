@@ -10,19 +10,19 @@ action (UpdateOrder) {
       requires (OneOrMoreOf)
       collect {
         input (addedItems) {
-          type (AddedItem)
+          type (AddedItems)
           min (Optional)
-          max (Many)
+          max (One)
         }
         input (changedItems) {
-          type (ChangedItem)
+          type (ChangedItems)
           min (Optional)
-          max (Many)
+          max (One)
         }
         input (removedItems) {
-          type (RemovedItem)
+          type (RemovedItems)
           min (Optional)
-          max (Many)
+          max (One)
         }
       }
     }

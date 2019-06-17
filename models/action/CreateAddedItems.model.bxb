@@ -1,0 +1,23 @@
+action (CreateAddedItems) {
+  type (Constructor)
+  collect {
+    input (addedItem) {
+      type (AddedItem)
+      min (Required)
+      max (One)
+    }
+    input (addedItem2) {
+      type (AddedItem2)
+      min (Optional)
+      max (One)
+    }
+    input (addedItem3) {
+      type (AddedItem3)
+      min (Optional)
+      max (One)
+    }
+    
+    //more can be added if needed
+  }
+  output (AddedItems)
+}

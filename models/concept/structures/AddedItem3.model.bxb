@@ -1,0 +1,3 @@
+structure (AddedItem3) {
+  role-of (AddedItem)
+}

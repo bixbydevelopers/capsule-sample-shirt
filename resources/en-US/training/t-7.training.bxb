@@ -1,7 +1,7 @@
 train (t-77ydft0732o3hxl7zdwz1u0rc) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] add {[g:AddedItem] (7)[v:Quantity] (henley shirts)[v:SearchTerm]} ")
-  plan (fY/LCsIwEEWv1kd9LhRfS3du7D+IILgSrX5AaQYaMDXECLrptxtTERPQLGaGey4zN+hjRPdEyDNF14wrHR0oJS41Zq68vgjB9U4xUhi6qBQ9/0myRNMf//ynv7jZ+YqJa1kxRmyrSWDgAqtNvbyKzA5LFr9IwU1ZSnWRpDQ3B8euc39Lcs31w/9A/Kp+ug3PWQm8JDElKs2OpAR6qKCKADXU0UATIVpoo4OuIXiz4IuFllUsK1/tM5W9bnpg/G27u/EE)
-  last-modified (1559953210613)
+  plan (fY/JCgIxEERrXMddFLeL4M2L/oMIgidx+4DBNBgwGjIR9OK3m8l4MMExh07Sr6pTQRs9ekRCXmgen7nS8x2diEuNkdte3oTgeqMYKXRdlDY9/VGySNMf/SRT/7rbc4yhK1kwRmytScQYe+EUGcMXH2Q40XGB7Q1/DbNkmkVe3JSZVDdJSnMTte8qt/foqrl++l/fJ9VPt+JXlgIvyZ4idTofSAm0ECCHPAooooQyQlRQRQ11NNA0FB+e93jV8sDydCV7wbnBeALjDM205J3wDQ==)
+  last-modified (1560530890479)
 }
 train (t-7907ye1h7qolqtjr8jm2zjhfl) {
   utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (medium)[v:Size:Medium] shirt")
@@ -15,8 +15,8 @@ train (t-7rqyhfcn6e503xio6q0l6z31s) {
 }
 train (t-7sxpgby1hd1mvniyiepohxriu) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (small)[v:Size:Small]}")
-  plan (hY9LCsJADIb/Wmt9LxRB3YgH0K0HcOVK8HGAMg12oKPDdARx4dmNrYJTFSdMSPL9SQg6GNAlUjqleZZIY+cbEiS1xcgtL09KSbs2MRn0XVQUS/q9jiNLBZr+RLdzHmcf25LoeKB4ZUlhUkKGuONdsPgjuIkinklOZtqcNBkreenYbdxSSsI+hw6/sZx8vf5DHhmR7Mgo9EpEXgldeKjARxUBaghRRwPN3FpoAw6tMfXZN9hCJsi/618v4Nxn/5jiIbgD)
-  last-modified (1559953256730)
+  plan (hZBNCsIwEIVfrVr/FUWwbtQD2K0HcOVK8OcApR1soLEhjSAuPLuxFaRpxQwJM/O9NwnBEFO6+1zE5KURk8o7UEBMKLjF9jbhnKm9DEliUkR509CfRegrytHqJ3resjzF3Lgt8q8XCneKeIqlwSRpS0Hh/nRj8ceMzR/BM8jzNdPFWshEkFSs/OQjxRSoz9BZFctI5d+V5L4MohNJjrFB2IMwgoUabNTRQBMOWmijgy56WfQxAEqKllbY+uzqaGuKbMPIvquha1s739MsOC8=)
+  last-modified (1560534309438)
 }
 train (t-7vt2pu4so0p7xybeyspqig8wp) {
   utterance ([g:CommitOrder:continue:Shirt,r:CreateOrder,r:CreateItem] Buy this shirt)

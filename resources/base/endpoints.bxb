@@ -55,6 +55,18 @@ endpoints {
       accepted-inputs (shirt, quantity, size)
       local-endpoint ("CreateItem.js")
     }
+    action-endpoint (CreateAddedItems) {
+      accepted-inputs (addedItem, addedItem2, addedItem3)
+      local-endpoint ("CreateAddedItems.js")
+    }
+    action-endpoint (CreateChangedItems) {
+      accepted-inputs (changedItem, changedItem2, changedItem3)
+      local-endpoint ("CreateChangedItems.js")
+    }
+    action-endpoint (CreateRemovedItems) {
+      accepted-inputs (removedItem, removedItem2, removedItem3)
+      local-endpoint ("CreateRemovedItems.js")
+    }
     action-endpoint (SelectItem) {
       accepted-inputs (searchTerm, items)
       local-endpoint ("SelectItem.js")
