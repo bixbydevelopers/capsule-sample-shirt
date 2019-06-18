@@ -1,0 +1,5 @@
+train (t-kyyni8bldfkix46xptkgvc7ls) {
+  utterance ("[g:CommitOrder] Buy a {[g:Item] (large)[v:Size:Large] (V-Neck)[v:SearchTerm]} and a {[g:Item2] (small)[v:Size:Small] (polo shirt)[v:SearchTerm]}")
+  plan (vY/LCsIwEEWvrz58axUfX+BGF/6CILgSrD9Q7IADRkuahbjw200bQRt0JwYyCfeeO5NgiCFdI5GcaJEeWarFjg7EicKkKK8uQrDaypgkgqJlRJuXFCky1rRobc6sODptFIn0c8xYfSumRYy/4Zh9c+6syzyRl4SkYkrt52fM8l/DwqxiVBTXfI6NYU0MKZKH456k+Fkf658h3+ijNkAJZVRQRQ0OXHjwUUcDTbTQRgdd9NBHoDlYZO1JNnLSzUlP50o5+drQCXO+12y5+u7k3X09aaC7O/Af)
+  last-modified (1560832503580)
+}

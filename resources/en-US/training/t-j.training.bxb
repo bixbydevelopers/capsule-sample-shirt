@@ -1,17 +1,17 @@
 train (t-jfov4ppwlhvtn8jqm6wgo61lt) {
   utterance ("[g:CommitOrder,r:CreateItem,r:CreateOrder] Order (3)[v:Quantity:3] (polo shirts)[v:SearchTerm]")
-  plan (dY5LCsJAEEQr6hg/O8XfDdyYSwiCK9F4gZA0ZMBJhk4LuvHsjhkQJuiiu+G9aihMsaBHZuyNkqbULMmFctJWsAnxvjZGy4kLYsxD5WE3z5QJeTUL1VHIYP0r3prtP/PSbu0s15ZYNDVYhsnzPatEy7PbL/1srEJ40FXhRadJShnn5ZXYYIIIPfQxgMIQMUYYO4aAqpZGLfWD71Xuxu5DuTTe)
-  last-modified (1559953393937)
+  plan (dY9LCsJAEEQraozxs1H8nsCNuYQgZCUaLzDEBhucGCYt6MazOyagTNTFdMN7VdCDAcZ0Uzo/U1Sc2Ei0p5Q4F8xdvL5ozbI1RzIYuaqC9bwhJVSphavijIXVORbSxe9apYa1moWY/Ytj+c882I5Vbi45GWEqMHGTu6vKhOVe/1bympi6cMPZsRK1SxJSJj0dyGj04aGBJlrw0UaADkJ00bMcXyYojVeaz8N7+3aHthnYFp4=)
+  last-modified (1560832166362)
 }
 train (t-jucbdo6f6g4lqt5wq2c53aka3) {
   utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (T-Shirt)[v:SearchTerm] for me")
-  plan (dY5BCsIwEEV/bavWpSLWG7ixlxAEV4L1AqUdaMDYMJ2FK89uTBBM0MX8gfc+zGCBNT0abW5Ujb1iqS7UkjKCbYgPg9ZKztwRYxUqD+M+UyPk1TJUJyGN8lfdmd0/81Q29oYHQyyKxviP+p3YhPCo7p0X0cWaGm77K7FGgQQTpMiQY4oZ5pbgi+WOJY75+WRmd2F9CrwA)
-  last-modified (1559953404668)
+  plan (dY5NCsIwEIVfbbVqXSnizwnc2EsIQleC9QKlHehA04Y0C1ee3dggkmAX8wa+7w0JVtjSsxCyobSvWen0TiWx1Di4+NIJwfqmKlLYuMpCv6+o0GTV0VVZy5qLJtMk+v9nVq29MwOxH6vjNGZebOIsVSdJaabe/37+SexceOW2ssJ7MadClfWDlECCABOEiDDFDDHmWGBpKDweDzwY+G++GZmdmE4IvAE=)
+  last-modified (1560832166394)
 }
 train (t-jweg6987nuvtqcn4ydv6n7bmf) {
   utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (2)[v:Quantity] (medium)[v:Size:Medium] shirts")
-  plan (dY5BCsIwEEV/1Vh1qSh6Azf2Eq5cifYERQccMDZMR1AXnt20wUWCBmYg773FYII5PSrrrlQ0FxYtjnQidopVjLe1tax7OZNgFqsA016oUgpqGqudksXyV96Z9T/zZr82TmpHokwNFnF5uFc3ZX2m95XtTo8o+UUYI0MPfQxgMESOkSeIWDtZx8J8n/G/3NfGl/gA)
-  last-modified (1551201433100)
+  plan (dY9BCsIwEEV/1VqrrhRFPYEbewlXXYn2BEUHHGjakI6gLjy7qUUkUQMzkPf+hwRjzOiaK11QUp/ZSHKgI7EWLF28rZRi2ZkTGUxd1UI/bygXatXKVWnJwnmRCqn6d61VE69mIRb/4lj/Mw+2a6NNpckIU425m9xf8lJYbv63smb7j8j4ThghQAdd9BCijwgDxBhaii/eTPDin3mf0N5i24psA08=)
+  last-modified (1560832166495)
 }
 train (t-jyfqvgzl5yz19s2roxyyzubhv) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (Extra Large)[v:Size:ExtraLarge]}")

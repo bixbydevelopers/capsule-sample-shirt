@@ -1,0 +1,7 @@
+structure (InitialItems) {
+  property (items) {
+    type (Item)
+    min (Required)
+    max (Many)
+  }
+}

@@ -1,10 +1,10 @@
 action (CreateOrder) {
   type (BeginTransaction)
   collect {
-    input (items) {
-      type (Item)
+    input (initialItems) {
+      type (InitialItems)
       min (Required)
-      max (Many)
+      max (One)
     }
   }
   output (Order)

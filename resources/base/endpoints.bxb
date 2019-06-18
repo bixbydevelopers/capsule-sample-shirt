@@ -7,7 +7,7 @@ endpoints {
       local-endpoint ("FindShirt.js")
     }
     action-endpoint (CreateOrder) {
-      accepted-inputs (items)
+      accepted-inputs (initialItems)
       local-endpoint ("CreateOrder.js")
     }
     action-endpoint (UpdateOrder) {
@@ -54,6 +54,10 @@ endpoints {
     action-endpoint (CreateItem) {
       accepted-inputs (shirt, quantity, size)
       local-endpoint ("CreateItem.js")
+    }
+    action-endpoint (CreateItems) {
+      accepted-inputs (item, item2, item3)
+      local-endpoint ("CreateItems.js")
     }
     action-endpoint (CreateAddedItems) {
       accepted-inputs (addedItem, addedItem2, addedItem3)

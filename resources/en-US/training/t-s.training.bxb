@@ -14,9 +14,9 @@ train (t-s9v9om8ukz3rlfexka7krfiff) {
   last-modified (1551201433404)
 }
 train (t-scdvkeh6ucbpa3awiw2c49yow) {
-  utterance ("[g:CommitOrder,r:example.shirt.UpdateOrder] Add a {[g:example.shirt.AddedItem] (small)[v:example.shirt.Size:Small] (t-shirt)[v:example.shirt.SearchTerm]} and a {[g:example.shirt.AddedItem2] (medium)[v:example.shirt.Size:Medium] (t-shirt)[v:example.shirt.SearchTerm]}")
+  utterance ("[g:CommitOrder,r:UpdateOrder] Add a {[g:AddedItem] (small)[v:Size:Small] (t-shirt)[v:SearchTerm]} and a {[g:AddedItem2] (medium)[v:Size:Medium] (t-shirt)[v:SearchTerm]}")
   plan (tZHPSgMxEMa/umu71tZq/9huQcGbl/bgG0ih4Elw9QGWZqABY0M2gnjoszvNgpiw8aRZmITvm9/MZIM5JvRRKv1Ky2orjV0+0Yaktsh9ebVTStpHI8hg5Fu1GOS/aFFaqq2bqLV/d+cKMz/lXggSD5ZUhetgDkMM/PCnETJa8i6OXP3aC0PfbupSI865jTl7yWGhzU6TsZIv/191G98pEItDDP/IWr6J2gjGKKg0m+0zGfVndYLLF/KTGrU5WjhCghTHaKODDCfo4hQ99HGGAc5xwd8QI4wxwSWmmCEHPKrtqI6juo5KeO85auCoPtdpOQrfMeU99RQEGYeV8Tnh2mPum3H3nPvylF8=)
-  last-modified (1560813243705)
+  last-modified (1560832167219)
 }
 train (t-siwq2u49bd22awnjrivrsgpw9) {
   utterance ([g:CommitOrder:continue:Order] Commit my order)
@@ -25,6 +25,6 @@ train (t-siwq2u49bd22awnjrivrsgpw9) {
 }
 train (t-sornusnv1lodewgn1wp1cgrve) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (henley)[v:SearchTerm]}, the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}, and the {[g:RemovedItem3] (large)[v:Size:Large] (pullover sweatshirt)[v:SearchTerm]} from my cart")
-  plan (tZLNToNAFEY/bUWwtVqwFup/3LixC30EExNXJqIPQOAmnaQIGcbGuOize2FMBQJqjGYyw505dw4fCTjGiF6DOJ3TNJsJqaYPFJJIFbzq8U0Sx0Ldy4gknCrSh7X+pzQKFGl01oqWL0WdYVIPEScLiu4UxRlOa0kk8ZVKh9d6GyffXP7izVf/5L3+S69PcwrVB3ObWDMJZDh7JPlb309+AZ1dI7uKmuy6vSAXbWQpeLlMZZKSVIL/m/bvqiX08xXj6uGteI40aPfUkvvijXCONayjgy42YGATJixsoYc+tjHADnYxhM3DwV5pjLCPMVx4mOAAhzgCah6j8BiFp1d4TPbZ3GHyfsB7Z+VxeOYelx0oJlZVt7Rq8vlEpbNMLK46nMLjasgZ8oT53kL/HQ==)
-  last-modified (1560817192581)
+  plan (tZLBTsJAEIZ/BbEIorQitKjgwcSLHPQRTEw4mVh9gKadhE1aaJbVGA88u9OuEbpp1RjNZrcz+898+7ddjNGj1yBJY5osZ0KqyQOFJFIFt7h9u0gSoe5lRBJOUdKbRv1TGgWKtHReKa2e83gJzzSRLF4omipKlhgbTiRxS6HCrezG6JvmL06+/ifuzV9yfYopVB/aoEwrVwIZzh5J/pb3kyugvWvJOGU6F0oEcenf021aso22ElPrclxWKSvBy1UqFylJJfi6VX8O48X8bEW/uHkn5pEWqjmGc1+8ES6whW3UUMcOGtiFhSb20EIb++jgAIfowubh4Ghj9HCMPgZw4WGIE5ziDCPAYDVyViNntXKWxUybKyzOO5w7BZbDM2N5zEE+8RnVN1atrJ8oVJpqk6Mauxly1GUvmdMsb6L9Dg==)
+  last-modified (1560832167292)
 }

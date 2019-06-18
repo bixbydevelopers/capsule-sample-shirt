@@ -1,7 +1,7 @@
 train (t-igs1x1lohxceai3fn1l2slis0) {
   utterance ([g:CommitOrder:continue:Shirt,r:CreateOrder,r:CreateItem] Buy it)
-  plan (Y+BgEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCKKrL0pNLEmFSAmhSnmWpOYySGBTDpbRwCVTlwkkdAuK8gtSi0oyU4vR3REMIhnYGRgZmBiYGVgYWBnYgDwGJD4rkM0AxyDADGSxAkkGAA==)
-  last-modified (1560812741023)
+  plan (dY5BCgIxDEW/jlp1qQjqCdw4l3A1K0FPMGjAwNQpaRauPLsZumpxCvkk7yVQrLGjT+tDR3V8sWh9owdxUBxyfOm9Z73KkwTbXCVY7gu1Skkdc9W8WbntGiUf/58ltSnODGI/to7TmPmyxTlIH0iUKZbfvw+JFSaYosIMcyzgsDSCgjmbkdXwKuucJX4=)
+  last-modified (1560832166256)
 }
 train (t-iv7m4bbb8k3n2tb3wgykthgz9) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder,r:GetQuantity] Change the quantity of the (polo shirt)[v:SearchTerm]")

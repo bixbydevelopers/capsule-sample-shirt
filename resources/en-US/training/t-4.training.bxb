@@ -1,10 +1,10 @@
 train (t-487yb5rc7x7wwqnylbs3rz156) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:example.shirt.RemovedItem] (oxford dress shirt)[v:example.shirt.SearchTerm]} and the {[g:example.shirt.RemovedItem2] (v-neck)[v:example.shirt.SearchTerm]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (oxford dress shirt)[v:SearchTerm]} and the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}")
   plan (rVHLCsJADBxtra1vK4r1ov6AB3/BkyfBxweUNmChi2W7iie/3fhA7NIqiBs2hJnJJBD00KezL5KYZuk+kmq2poCiRMHLwouDEJFayZAkelnqAWr6XRL6ih7UtJC6HO91ipG+hDicKFwqEikm2iaSuCWj8Aq7Mf7S/GHy/J++G4opUE9umMflM74M9luSv/rlnqp4yAAllGHARAUWqrDhoIY6GmiihTY66L7CBTS19aa2WW1wrnPd4Sjd1Xjm2zc17P1ZjBjs6LJji2dU4VwB)
-  last-modified (1560817579046)
+  last-modified (1560832165273)
 }
 train (t-4aoyln61j5c2cff1kbi3p5m68) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (1)[v:Quantity] (small)[v:Size:Small] (polo)[v:SearchTerm]} and {[g:AddedItem2] (2)[v:Quantity] (small)[v:Size:Small] (collar dress shirts)[v:SearchTerm]} to my cart")
-  plan (tZFfS8MwFMXPbN20bm627v8UfPPFPfgNRBB8Eq1+gLJcWMBuJc1A97DP7jVFMaHxSVu4Cefkd+9pihn69JblxSvNy6VUev5EC5KFxtiWb9d5LvWDEqSQ2FYlOudfCpFpqqwLr7XbmH2JkX3kRggS95ryEudODkUM/PCHHtLb8tqPnP06C7Ft102pEONc+pyd5HJVqHVBSkv++P/qW/ufBrb4uMlWWup3r+40ST+re4N3ciUqw4mdUqYWy2dS+Z/1cS4rlVuq1WZoYA8BQuyjiRYOcIgIR2ijg2N00cMJvzESnKKPAYYYYYwJpoBFNg3ZMmRkyIDXHndpG7JryA4rDUPiu4a8hpby9bhaxPuAZyScY8LzYk4y5Qyc+gM=)
-  last-modified (1560817062186)
+  plan (tZFfS8MwFMXPbN20bk5b938KvvniHvwGIgg+iVY/QFkuLGC3kmage9hn9y5FMaHxSVtI0nPyu/c0wRQ9es/y4o1m5UIqPXumOclCY2TLd6s8l/pRCVJIbKsSnf2vhcg0Vdal19quzbrE0N5yKwSJB015iQsnhyIGfvgDD+kteeNHzn/thdi267pUiHGufM5W8nBdqFVBSkv++f+qW3tPfVt8WmdLLfWHV3eKpLvRPcF7uRSV4cROKVPzxQup/M/qOIeVyg3ValM0sIcAIfbRRAsHOESEI7TRwTG6OMEpvzESnKGHPgYYYoQxJoBFNg3ZMmRkyIDnDvNtQ3YNuftuGBLfY8hzaClfj6tFvA64R8w5xtwv4SQTzsCpPwE=)
+  last-modified (1560832165317)
 }

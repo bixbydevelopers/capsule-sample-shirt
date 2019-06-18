@@ -5,8 +5,8 @@ train (t-0rwiea5s67kfb105zmd9lqt0b) {
 }
 train (t-0xt790ce3hpy5dmqj2hum0l4e) {
   utterance ([g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a shirt)
-  plan (Y+BgEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCKKrL0pNLEmFSAmhSnmWpOYySGBTDpbRwCVTlwkkdAuK8gtSi0oyU4vR3REMIhnYGRgZmBiYGVgYWBnYgDwGJD4rkM0AxyDADGSxAkkGAA==)
-  last-modified (1551201432013)
+  plan (dY5BCgIxDEW/jlp1qQjqCdw4l3A1K0FPMGjAwNQpaRauPLsZumpxCvkk7yVQrLGjT+tDR3V8sWh9owdxUBxyfOm9Z73KkwTbXCVY7gu1Skkdc9W8WbntGiUf/58ltSnODGI/to7TmPmyxTlIH0iUKZbfvw+JFSaYosIMcyzgsDSCgjmbkdXwKuucJX4=)
+  last-modified (1560832165038)
 }
 train (t-0yz4gb8mdusuwylvfoeo4i7th) {
   utterance ([g:CancelCommittedOrder] Cancel my latest order)
