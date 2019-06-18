@@ -20,8 +20,8 @@ train (t-7rqyhfcn6e503xio6q0l6z31s) {
 }
 train (t-7sxpgby1hd1mvniyiepohxriu) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (small)[v:Size:Small]}")
-  plan (hZBNCsIwEIVfrVr/FUWwbtQD2K0HcOVK8OcApR1soLEhjSAuPLuxFaRpxQwJM/O9NwnBEFO6+1zE5KURk8o7UEBMKLjF9jbhnKm9DEliUkR509CfRegrytHqJ3resjzF3Lgt8q8XCneKeIqlwSRpS0Hh/nRj8ceMzR/BM8jzNdPFWshEkFSs/OQjxRSoz9BZFctI5d+V5L4MohNJjrFB2IMwgoUabNTRQBMOWmijgy56WfQxAEqKllbY+uzqaGuKbMPIvquha1s739MsOC8=)
-  last-modified (1560812737694)
+  plan (hZBNCsIwEIVfrVr/RUWwbtQD6NYDuHIl+HOA0g420GhII4gLz+7YCtpWMUOGybzvTULQxZCunlQRLeJQaLPYkk9CGbjZ9uospTAbHZDGICulzRx/UIFnKJVmP6X7JaljjHO3hd7pSMHakIwxzWma2JIh3J9uTP6YsfwD3P20ngs+zJU+K9JGFJ+8o4h88xo6+qYlyte/K+Ce9sM9aYl+ThE3Qg8WSrBRRgVVOKihjgaaaCXRRocDBabGjM25yVHnbSUMXvldfa4Kd2x2P2dacB4=)
+  last-modified (1560835961834)
 }
 train (t-7vt2pu4so0p7xybeyspqig8wp) {
   utterance ([g:CommitOrder:continue:Shirt,r:CreateOrder,r:CreateItem] Buy this shirt)

@@ -6,7 +6,7 @@ action (SelectItem) {
       min (Optional)
     }
     input (sizeSearchTerm) {
-      type (SizeSearchTerm)
+      type (Size)
       min (Optional)
     }
     input (order) {

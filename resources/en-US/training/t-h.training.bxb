@@ -1,7 +1,7 @@
 train (t-h311p914zg94o13adhgr77dvq) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get {[g:AddedItem] (one)[v:Quantity:1] more (polo shirt)[v:SearchTerm]} and change the {[g:ChangedItem] (v-neck)[v:SearchTerm] to a (medium)[v:Size:Medium]}")
-  plan (hVFLT8JAEP60KLUgYhEoHHzcvMDVszEx8WS0+gOadmI3odAsS6Ic+O0O22LcpQ3Z7Ox0vsdsZzFCn76jLJ/RdJkKqabvFJPIFUZm+WmRZUK9yoQkeiZUFC3+Z55EigrorhbarHS+RGBSHpOEkhdF2RJj6x5pNP/aYdcWJonN/mmHNa64rRIa1qPatrg5IMbDAcImLvKJ4I9JLhc5SSV4Cr4p1GZBlZlG7uuQje07MJlvq2iuhPqxZxvSjGJV/kRQhWmk8vn36JGM0w+Se/RwG+2XeRbzpADqfazhhGJNGOMIx3DQwAlO0YSLM3hooY1zdHCBLi7ho6fXFfoYYIgA+FNtdU1WFiq3VLVY5XD0eXW0qs0K6I3y3O2GUYWVu5w5HLvc1+MbBNzXhfcL)
-  last-modified (1560817131178)
+  plan (hZFPT8JAEMWfFqUWRCwCRRP/3LzA1bMxMfFktPoBmnZiN6Gl2S6JeuCzO2wB6dKGbHZ3Om9+b7a7GKFP30GSTWmSx0KqyTuFJDKFUTn9NEsSoV5lRBK9slQkjfrPLAoUFdJdrbSY6ziHVy55jCKKXhQlOS6Nc8RB+rXWrg1NEpttscMaV9xWgSXrUW1b3OyB8bCnYBEW8VjwxziTs4ykEnwLbhnUZl6VmVbu65SF6TsoV77Ng1QJ9WPerU9TCtXqJ7wqTSuVz79THsgw/iC5U+4vV/NlnkUaFUK9j3E5vvglXOEAh7DQwBGO0YSNEzhooY1TdHCGLo9zuOjpcYE+BhjCAzbckmwyW3C25tpMtpizeHV5dDTnMgM9sdrXs7HJYiv6j22OLF673NvhU3jc24bzBw==)
+  last-modified (1560835962765)
 }
 train (t-hg3krq7e4zqq30hib9n12tqq6) {
   utterance ("[g:Size:prompt] I'm an (extra large)[v:Size:ExtraLarge]")

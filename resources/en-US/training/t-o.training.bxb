@@ -1,7 +1,7 @@
 train (t-o6k15ymxbtef23ladliazteab) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get rid of the {[g:RemovedItem] (small)[v:Size:Small] (logo t-shirt)[v:SearchTerm]}")
-  plan (jVDLbsIwEBwIb1pogYjHpe2tl/ITSEicKjXwAVGyEivFxHJMVfXAt9eJDyhuIpC19npnZnds+PDpJxQyoXV2ZKXXXxQRS41lubxJhWD9qWJSmJYhW3T4BxmHmiz0VgtdzkWeYeWaEOk3xTtNIsOr40SRkZQYy1o1Xm6I73qMVVnIcbo7seYwqfRhZRaaOLJ89KKOjvc65MJm+5AqlaQ0//+4gBKKdPXTgnzHvFzc8im2wMLtFKrouCclXO8B/xJ8NNCEhxba6KCLHvpmDTDEAx4xwhhPeMYEU8wAh+sV7Cu3ZyLnjg0PRaAis7fr2TaZZ7rlExro/gE=)
-  last-modified (1560832166618)
+  plan (hZDdCoJAEIWPmVn2B0WQ3VQv4Et01VXQzwOIDrjgoqxbRBc9e9tqhJvSDgwz852zOywmWNA95HlKQZEwIYMjRcRyCb8+3mWcM3kQMQnM66gcGvpLHoeSSrRtRc+rrguszCV4dqN4L4kX2BibCFKWmsJvdWP9x2y+fKKUIlmxZRPTpPELfuShiJIzCY6ZQdiDMIWFDmx04aAHF30M4GGoY4Qx0MBtlT0dluao8rf7HEf1tnK9b7LgvgA=)
+  last-modified (1560835963492)
 }
 train (t-oeitnhe1agi1rr3r0cewffyia) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (one)[v:Quantity:1] more (v-neck)[v:SearchTerm]} and {[g:AddedItem2] (one)[v:Quantity:1] more (sweatshirt)[v:SearchTerm]} ")
