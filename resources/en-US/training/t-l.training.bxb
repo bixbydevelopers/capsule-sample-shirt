@@ -3,6 +3,11 @@ train (t-l552p693f5ha9i780j5c4qfzq) {
   plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCTTVTkWJeSkMTAyMQMwAJBkZQIAJggE=)
   last-modified (1551201433201)
 }
+train (t-lkjwovpy7guhndd3838uf7s2g) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (2)[v:Quantity:2] (XL)[v:Size:ExtraLarge] (pullover sweatshirts)[v:SearchTerm]} from my cart")
+  plan (hZBNCsIwEIVfrVrrP4pi3agX6CVcuRL/DlDaAQONLWkq6sKzG2KhNCpmYJjM+154BANM6BbwNCY/OzMh/T2FxFIJr7peJ5wzuRURCYyr0ntp8Kc0CiS9pdVP6ZnrOcPcDMGTK0UbSTzD0kgiSFkqhPfTjcUfM6ZVYJcHF8nk3Ux0oJhCWXhm3zStfP2aDzwQ4flIgmNkKOxBGMJCDTbqaKAJBy24aKODrq4e+sAH0VKErXpHl6UJFL2cytNUd1s5Xf2eBecF)
+  last-modified (1560881420229)
+}
 train (t-lu9ty555mdz0cdsx8s2xyfik2) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] I want {[g:ChangedItem] (2)[v:Quantity:2] (extra smalls)[v:Size:ExtraSmall]}")
   plan (hZBNCsIwFISn1lr/F4qCbtQD6NYDuHIlKh6gtA8NtDWkT1AXPbuxLUijxYSEl/lm8oc+RnT3IhnSKrkIxasD+SQkY1KWN9coErxTASkMyygXDf9JBh5TjhaVKL1ldYKpcdrFi88UbJmiBHODKdKRkmNSmcbsTxjrP4bUz+ul0IulVFdJioW+8s9fGJfF/c2LWfDDfN+RQvK5uMHAYOJJ6MNCDTbqcNCAiyZaaOveQRc94IvameM9rIyimPPq0xyt2DrR0btYcF8=)

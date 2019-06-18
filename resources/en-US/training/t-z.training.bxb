@@ -13,3 +13,8 @@ train (t-zpxxdnt3h425qsxo95s73qmss) {
   plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
   last-modified (1559955718525)
 }
+train (t-zyz82pb8k825dgoga5hvrn9pr) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:RemovedItem] (logo tee)[v:SearchTerm]} to a {[g:AddedItem] (small)[v:Size:Small] (v-neck)[v:SearchTerm]}")
+  plan (hZHLTsMwEEUvTaC0ECgtpSkLHrtu6D8gJCRWSAQ+IIpHqqWaWI5BiEW/HcfhEbuOiJXRaM69MyMbM0zpIxdyTctqxZVePlFBXGrM3fJdKQTXj4qRwsRFTdHTv0iWa2rQdSfavNm8QupKbhkj9qBJVLjw9lBkDC0+63Bi7AJbS0PNLFl0kQ034UaqUpLS3Kx67t+XKN9/lrkKdXEU8043Lv8x+5MzWlOhv1kaYpYEX2tLnqti9UxqS57V0b/ke/7KGtDdx7v+jH8SUuyghwgxdrGHPvYxwBAHOESCIxxjhBN7xpjgFFOcAQFH3HJEJo7MGVjH0Khh/ybGrfyP4LdWf32TRSbW0xIzuWfy5As=)
+  last-modified (1560878171888)
+}

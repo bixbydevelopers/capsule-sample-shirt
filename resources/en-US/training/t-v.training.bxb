@@ -6,7 +6,7 @@ train (t-v3ev8ozc3d54sypdiqrcnmlmq) {
 train (t-v6lj8i56vguq2ktu8mlylu6n5) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (Large)[v:Size:Large]}")
   plan (hZBNCsIwEIVfrVr/RUWwbtQD6NYDuHIl+HOA0g420GhII4gLz+7YCtpWMUOGybzvTULQxZCunlQRLeJQaLPYkk9CGbjZ9uospTAbHZDGICulzRx/UIFnKJVmP6X7JaljjHO3hd7pSMHakIwxzWma2JIh3J9uTP6YsfwD3P20ngs+zJU+K9JGFJ+8o4h88xo6+qYlyte/K+Ce9sM9aYl+ThE3Qg8WSrBRRgVVOKihjgaaaCXRRocDBabGjM25yVHnbSUMXvldfa4Kd2x2P2dacB4=)
-  last-modified (1560835964843)
+  last-modified (1560881418463)
 }
 train (t-vcrh1pbsuatpygryt3jbbe9s6) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove {[g:RemovedItem] (Polo Shirt)[v:SearchTerm]} from my order")

@@ -1,3 +1,8 @@
+train (t-iefwd3fqnb1cvufcgjjxli455) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Switch the {[g:RemovedItem] (2)[v:Quantity:2] (collar dress shirts)[v:SearchTerm]} for an {[g:AddedItem] (oxford dress shirt)[v:SearchTerm]}")
+  plan (hZHdTsJAEIUPtIqggICU1gt/7ryRdzAmJl4ZRR+g6U7CJpRutovRG57dcVsDW9qYSWYnc843O9nFDFP6ilO1onm+lNrM3yghqQwit/2Ypak0L1qQxsSVimbF/6FEbKiQbhul7cbWOULX8iAEiWdDaY6ryh6aGNjTZw0kxq5ge2HdMKvcNSlbyele6UyRNpJXvay+V5p9/i1zUzfFcUSNNK7/gRG4htdNvDbSfFc3WtCKElMyYZ1mldpfPLDHOlm+kz6wL35z9fGf5FoUQvOcCC204cHHEY7RwQm66OEUZ+hjgCHHOUYY25jgAlMEQA3jl0yPqQEzHucRR9cyLcugzP5eXVS7c1d3+PQ4Bzx1yHe3ue7/AA==)
+  last-modified (1560878194581)
+}
 train (t-igs1x1lohxceai3fn1l2slis0) {
   utterance ([g:CommitOrder:continue:Shirt,r:CreateOrder,r:CreateItem] Buy it)
   plan (dY5BCgIxDEW/jlp1qQjqCdw4l3A1K0FPMGjAwNQpaRauPLsZumpxCvkk7yVQrLGjT+tDR3V8sWh9owdxUBxyfOm9Z73KkwTbXCVY7gu1Skkdc9W8WbntGiUf/58ltSnODGI/to7TmPmyxTlIH0iUKZbfvw+JFSaYosIMcyzgsDSCgjmbkdXwKuucJX4=)
