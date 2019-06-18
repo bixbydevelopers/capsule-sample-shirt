@@ -1,3 +1,0 @@
-enum (SizeSearchTerm) {
-  extends (Size)
-}
