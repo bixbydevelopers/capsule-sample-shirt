@@ -8,3 +8,8 @@ train (t-ghyru3mgyaspef8kuwmyna8hq) {
   plan (hVFLT8JAEP60KLUgYhEoHHzcvMDVszEx8WS0+gOadmI3odAsS6Ic+O0O22LcpQ3Z7Ox0vsdsZzFCn76jLJ/RdJkKqabvFJPIFUZm+WmRZUK9yoQkeiZUFC3+Z55EigrorhbarHS+RGBSHpOEkhdF2RJj6x5pNP/aYdcWJonN/mmHNa64rRIa1qPatrg5IMbDAcImLvKJ4I9JLhc5SSV4Cr4p1GZBlZlG7uuQje07MJlvq2iuhPqxZxvSjGJV/kRQhWmk8vn36JGM0w+Se/RwG+2XeRbzpADqfazhhGJNGOMIx3DQwAlO0YSLM3hooY1zdHCBLi7ho6fXFfoYYIgA+FNtdU1WFiq3VLVY5XD0eXW0qs0K6I3y3O2GUYWVu5w5HLvc1+MbBNzXhfcL)
   last-modified (1560817122416)
 }
+train (t-grvsa7x7ifqbyrkzq8pgwcl8f) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (sweatshirts)[v:SearchTerm] to (large)[v:Size:Large]}, the {[g:ChangedItem2] (t-shirts)[v:SearchTerm] to (small)[v:Size:Small]}, and add a {[g:AddedItem] (medium)[v:Size:Medium] (v-neck)[v:SearchTerm]}")
+  plan (nZJNT8JAEIZfLcqXgIJAQeUj8eAFDl48GxMTTyaiP6BpJ7IJhWZZE+OB3+50C5VuWjB00+72fWeemd0shmjSt+MHMxovp0Kq8Ru5JAKFTlJ+Wvi+UK/SI4lG0opEI/4j8BxFkTXMtFZfer2EnQx59DzyXhT5S3SNPqbO/HPj9QxPEsO2ctsZVAzSEhPoTmbZHR3d70rr76m5P+BhT8DKjdYjwT+jQC4Ckkrw6R6cWE8m6i7sNJh27rKclck1jnBCM3LVepd2mpfuONKdvpP0D+Sl3uPsIkb4JPyaV+xZzL3IyOYYhzoRP/Rv7RZHOIaFHE5wijwKKKKEMs5QQRU1nOMCdTRwiSZaaMNGJx5dXOEaN+ihjwEQk0JWnmlFHiGppFkFTapoUpVJllabTLRZD0kNrlZjCvSL9Rytczz/rRDrm0hsZWyeMv9ZXDfssMTd9llpcaehxnv8BQ==)
+  last-modified (1560879468984)
+}

@@ -1,3 +1,8 @@
+train (t-20po3ken2lb4cialowcgjpx9b) {
+  utterance ("[g:CommitOrder] Order an {[g:example.shirt.Item] (XS)[v:example.shirt.Size:ExtraSmall]} and {[g:Item2] (XL)[v:example.shirt.Size:ExtraLarge] (v-neck)[v:example.shirt.SearchTerm]} ")
+  plan (vY7LCsIwEEVv1ar1/UB8fIEbu/AXBMGVYP2BogMONFrSLMSF3+7UiNKgWwmTCfeemxkMMKJrrNKEwuzE2oQ7OhCnBtOivLooxWarj6QxLFpWdHlNsSFrzYrW5syG42RjSGXfY9YaODERMfmFY/7LubNci1RfUtKGKXPXz5nlv4ZF+Y1xUVzz+WgNZ2JEsT6c9qSVu1/EN/quwUMJZVTgo4oa6gjQQBMttOV00EUPfcCh/BdVk8qpuvDek/oUhLYd7w5Je1I9yXfl35K8gwc=)
+  last-modified (1560878655227)
+}
 train (t-2tzs0racs5zztz2qvbm77kx4m) {
   utterance ([g:CancelOrder] Cancel this order)
   plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2TsxLTs3xL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)

@@ -3,6 +3,11 @@ train (t-o6k15ymxbtef23ladliazteab) {
   plan (jVDLbsIwEBwIb1pogYjHpe2tl/ITSEicKjXwAVGyEivFxHJMVfXAt9eJDyhuIpC19npnZnds+PDpJxQyoXV2ZKXXXxQRS41lubxJhWD9qWJSmJYhW3T4BxmHmiz0VgtdzkWeYeWaEOk3xTtNIsOr40SRkZQYy1o1Xm6I73qMVVnIcbo7seYwqfRhZRaaOLJ89KKOjvc65MJm+5AqlaQ0//+4gBKKdPXTgnzHvFzc8im2wMLtFKrouCclXO8B/xJ8NNCEhxba6KCLHvpmDTDEAx4xwhhPeMYEU8wAh+sV7Cu3ZyLnjg0PRaAis7fr2TaZZ7rlExro/gE=)
   last-modified (1560832166618)
 }
+train (t-ob3se327317ycxv13auabqm4p) {
+  utterance ("[g:CommitOrder] Order {[g:Item] (one)[v:Quantity:1] (small)[v:Size:Small]} and {[g:Item2] (one)[v:Quantity:1] (large)[v:Size:Large] (polo shirt)[v:SearchTerm]}")
+  plan (tY/dagIxEIWPtv611lrX/ugTeKMXfQWh4FWx2xcIOuCAWZfsCLYXPruzpiAJ7mUTMknO+SYzwRDPdDA239Ks2LCT2RetiHPBKJTnO2tZPt2aHJLQ8mLMOzJC3hqH1iJjYbNdCNniepq3BlGainirwjGpco6sYZq7XU5OmIq4/ZJ5/7diLyG53JtMWH4q9ai5tIx4DcUPztbeiDpMybjV5pucjf+T8i9d1YaooY4b3KKBJlpoo4M73KOLB/TwqLOPJwyQABHZ+CPbyrZ0L8mu3mpn8rKgGX7343Iu2abWSfSl3rlKXe+dEw==)
+  last-modified (1560878601217)
+}
 train (t-oeitnhe1agi1rr3r0cewffyia) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (one)[v:Quantity:1] more (v-neck)[v:SearchTerm]} and {[g:AddedItem2] (one)[v:Quantity:1] more (sweatshirt)[v:SearchTerm]} ")
   plan (tZFPS8NAEMVfTWxjba2m9k8KCt682IPfQATBk2j1A4TuQBfcdtlsQS/97E43KN2l60kTmAnv7e/NJMEEA/oolX6nabWQxk5faE5SWxS+fL9SStonI8ig71u1GJx/06K0VFtXUWuzds8Vxv6ROyFIPFpSFS6DPQwxsOOPImQ08jaOXPw6C7lv75tSI865jjkbyeVGm5UmYyW//H/l7v1PQ198XpdLK+1nVA9CZtsafsEHuRS1Eaw9o9LMF69k1J/lTNDAARKkOEQTLWQ4QhvH6KCLE/RwijO+c/RxjgGGGGGMAvCopqNajmo7KuHeZbbjqJ6jGo7CT025p57yfe1qGfeEs3OenfEWBc/lLb8A)

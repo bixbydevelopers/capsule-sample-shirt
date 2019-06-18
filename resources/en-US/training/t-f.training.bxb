@@ -1,3 +1,8 @@
+train (t-f9rru46q0hqzv3wu6qxd8xajg) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (henley)[v:SearchTerm] to a (large)[v:Size:Large]}")
+  plan (hZBNCsIwEIVfrVr/FUWwbtQD2K0HcOVK8OcApR1soLEhjSAuPLuxFaRpxQwJM/O9NwnBEFO6+1zE5KURk8o7UEBMKLjF9jbhnKm9DEliUkR509CfRegrytHqJ3resjzF3Lgt8q8XCneKeIqlwSRpS0Hh/nRj8ceMzR/BM8jzNdPFWshEkFSs/OQjxRSoz9BZFctI5d+V5L4MohNJjrFB2IMwgoUabNTRQBMOWmijgy56WfQxAEqKllbY+uzqaGuKbMPIvquha1s739MsOC8=)
+  last-modified (1560878161232)
+}
 train (t-fb1bwa7ouzv4nggjulhghrg0d) {
   utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (men's)[v:Gender:Male] shirt")
   plan (dY/LCsIwEEVvbbVqXfnAxxe4sT8hKF0J+gWlHXCgaUOahSu/3bRBJMEu5g6ccwcSLLChVy5kRWn7ZKXTOxXEUmPv4nMjBOubKklh5SoL/b6iXJNVB1dlNWvOq0yTaP+fWbX0zgzEbqiO45B5s4mTVI0kpZla//mPLrF14YXr0oq1K65Ud19KEGCEEBHGmCDGFDPMDYXH454HPf/NNyOzE9MJgQ8=)
@@ -7,4 +12,14 @@ train (t-fircvzgetu1zb1rt1c7n9t3yy) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change that to {[g:ChangedItem] (3)[v:Quantity] (Polo Shirts)[v:SearchTerm]}")
   plan (hVDLbsIwEJw0TaEUChICQS8tH5Bc+wGcekK8PsBKVsQSBstZJHrJt3ebIKGEILzSenZnxmsbfYzorIzdU5Sl2nG0opi0ZUyr7fnRGM0Ll5DDsEqVzZp+axPFVFKzu1R+KnCGj9q0VB12lPwwmQxfNc6RWCqK6V03Ph+Y8f1AkMclDrUUoXVHS461XHlcNS5P6sCaf+tPWdOeYr4MmzRxBdP4pzdy5eJ0Q85gAA9P8PGMAC9ooY1XdPCGLnpFvAMNirYofMldCa9Q4JJLdN3/VyCVL86OnOah9Qc=)
   last-modified (1560812740221)
+}
+train (t-fmcxejyhuk8xunp5onvmerstq) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (polo shirt)[v:SearchTerm]} and remove the {[g:RemovedItem] (large)[v:Size:Large] (logo tee)[v:SearchTerm]} and {[g:RemovedItem2] (large)[v:Size:Large] (oxford dress shirt)[v:SearchTerm]}")
+  plan (7VLbTgIxED3IKoKAynVB5eIVRXnwD4yJCU8moh+wYSexCQubbjXGB77d2qrQTTf6pg9mspP2nJnTM5PFOar04gXhhAbRI+NicEdjYqFAw4SvZ0HAxC33iaNsUhqM1T+EvidIU91Eav6kzhFcs+TK98kfCgoitGI+OMmGJb6e0ImSSSjMtYkpppfEzJlMFyGfhcQFk1ab8X0Fs+dPMx2bilHRSOxG+5vmH+1dd2kq5nQ4ZYJ5E6uPxbzRLyzu8n8tX5UjmtBY2Ecbvef4H3/Dpr4m3LiSx8eP98T/nk5slyP2SlZsgBRWkIaDVawhg3VkkcMG8iigiE0ZW9hGCWVUUEUNdbhooIkd7GIPLbTRkdHFPg5wiCMc4wQ9nOJMRh+wqDsf6mmlv1DPW9SL8t5S6lmlXlHqOemkLZWhPp2dpbN50jfHuGsMRu0yCvlGSjrMyHkKapqanK+vkAJqbw==)
+  last-modified (1560877577926)
+}
+train (t-fnxhsuylw61f1emqb883rcbx8) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (v-neck)[v:SearchTerm] to a (small)[v:Size:Small]} and the {[g:ChangedItem2] (pullover sweatshirt)[v:SearchTerm] to an (extra small)[v:Size:ExtraSmall]}")
+  plan (nZLNboJAFIWPxSpVWy1WrW5sH0AXbvoAXXXVpD8PQOBGJnF0MoxJ04XP3pvBmswEJBEC3DnnfvcMBEwwop9Yqg0t80xos/yghIQymLry605KYd51ShpD1ypEr/9bpbGhwnqutA57W+eYeWlZvF1T+mZI5njyPE2MOB3TSvrM4NU5bF6TWd/wUtNwSIp6IXixUHqnSBvBn+Ji0HvVT9pQYo67eSzzyp1YJ9kXaXnhvNKfozok8hzxS6XaDA1cIUAT12ihjRA36KCLHm5xhz4GuEeE4el8wAhjwKFalmpbrmupDlOBXfeZjnhWjwnY6//e5GdRubp7hKwGPHvAuSGnjzmXd/kH)
+  last-modified (1560878343959)
 }
