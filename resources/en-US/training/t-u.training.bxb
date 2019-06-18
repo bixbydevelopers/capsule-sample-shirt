@@ -1,5 +1,5 @@
 train (t-uyrsdwhgz1r70gbj3yfcvibeu) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (large)[v:Size:Large] (sweatshirt)[v:Style:Sweatshirt]")
-  plan (dY5NCsIwEIVf1Na/nSLqDdzYSwiCK8GeoNiBDjQ2pLNQF57d2CCYqIt5i+97MwymWNC10KamrK3YSnaiM7ERrEO8a7RmOdqSLOah8jDuWyqEvJqF6iCksfpV78zmn3mwi62xjSErTG38R/5KLEO450vpRfRFznf6uiC3mjCBQg99DJAgxRAjjB3DB00cTR1XHfXzTjiruo3EtfEE)
-  last-modified (1559945985502)
+  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (large)[v:Size:Large] (sweatshirt)[v:SearchTerm]")
+  plan (dY5NCsIwEIVf1dS/nSLqDdzYSwiCK8F4gdIOdMDYMM1CXHh2Y4tigi7mLb7vDTOYYkG33NgLZU3F4rITFcTWYR3iXW0Mu6OUJJiHqoNxXyh31KlZqA6ODFa/6q3Z/DMP9rG1UlsSx9TEf+hXYhnCPV/LTkQXNeVSVGcSE/+n+U6YIEEPfQygkGKIEcae4Yuqlqae4DPvhLdJu6F8G08=)
+  last-modified (1560813124904)
 }

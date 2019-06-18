@@ -1,10 +1,20 @@
 train (t-8334cuuvv8n5co5rqd55ombx0) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (oxford dress shirt)[v:SearchTerm] sizes to (large)[v:Size:Large]}")
   plan (hZBNCsIwEIVfrVr/FUWwbtQD2K0HcOVK8OcApR1soLEhjSAuPLuxFaRpxQwJM/O9NwnBEFO6+1zE5KURk8o7UEBMKLjF9jbhnKm9DEliUkR509CfRegrytHqJ3resjzF3Lgt8q8XCneKeIqlwSRpS0Hh/nRj8ceMzR/BM8jzNdPFWshEkFSs/OQjxRSoz9BZFctI5d+V5L4MohNJjrFB2IMwgoUabNTRQBMOWmijgy56WfQxAEqKllbY+uzqaGuKbMPIvquha1s739MsOC8=)
-  last-modified (1560534326686)
+  last-modified (1560812738052)
+}
+train (t-85ttbk8pmov0804binicyzjtq) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (henley)[v:SearchTerm] to a (large)[v:Size:Large]} and add a {[g:AddedItem] (pullover sweatshirt)[v:SearchTerm]}")
+  plan (hZFPT8JAEMVfKVoERKEChYN/bl7g6tmYmHgysfoBmnZiN6HQbNfEeOCzM+yCoUsbOulmdt783m5mEWBIv1GWL2hepEKq+QfFJHKFSbn8ssoyod5lQhJ+WTJFq/8rTyJFRnqoldY/Oi8QlFuek4SSN0VZgal1jzRafu+1W0uTxGYH7LjGFfdVYMl6Unss7k7AeDrRsI5NPhO8meVylZNUgqcwKIPaLKgy08pjnbK2fa0ZhrSgWO0uG1RpWql85qP2SMbpJ8mj9nC72i/wKpaJEep9rCGE4o8whYMGXDRxhnN4aOECbXTQxSV6uMI1+hjo8HGDIUYYc+Cf2nIek4ZqaarDlMtrn6OnqS47OZoyn3PwN3fVvVbOPc5d9h2xv88nNzhvbwA=)
+  last-modified (1560817083250)
 }
 train (t-88czvbpceamwqhin4n80c9cq3) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Medium)[v:Size:Medium]}")
   plan (hZBNDoIwEIUfguIPbDQucKMeALYewJUrE40HIDCRJiBNqYlxwdmtFBdUiW3avpnvTaYtfCzpERc8p6jKmJDRiRJiXCLopvdlUTB5FCkJLLpIJw3/haexJI22vai+N7rCyuiWxbcrpQdJRYWNwQSpko4j6K3G+k8xdn8MdaJ1yFQQclFyEpKpK//8BeMdZ8opkW2nucHYk+DDwgA2HAwxgosxJpiqOYMHfDFbrbfDahjaXavPcFRsK7enTvcF)
-  last-modified (1560534336349)
+  last-modified (1560812738293)
+}
+train (t-8etf5aq9gdek6gn3v33gz7hoc) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (2)[v:Quantity] (collar dress shirts)[v:SearchTerm]} and a {[g:AddedItem2] (extra small)[v:Size:ExtraSmall] (logo tee)[v:SearchTerm]}")
+  plan (tZHPSgMxEMY/u2u7Vmvr1v4FBW9e7ME3EEHwJLr6AEsz0IBpQzYF9dBn72yWQhO6npQlk8l885uZTTDFgL5ypT9pViyksbM3mpPUFhM//LhSStoXI8ig70tVMMj/0CK3VEk3tdJm7fwCYz/lQQgSz5ZUgetgDkMM7OmjGrK25H09cvVrL6S+fKhLhTjltk7ZSDZ32qw0GSv55/+r7sF3GvrB13W+tNJ+h8lZacObepJLUQnBeBnlZr54J6P+rE5wKZn8IUxxhAYixDhGEy0kOEEbpzhDB+fooocL/lL0cYkBhhhhjAngUU1HtRzVdlTEe4dPJdV1VI8JuLWzMe+xF8Gev4sk7EVcO+XuievdKKfcAg==)
+  last-modified (1560817093715)
 }
