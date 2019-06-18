@@ -1,0 +1,10 @@
+train (t-ghkrtop5omvg4go8ymrjs7you) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get rid of the {[g:RemovedItem] (v-neck)[v:SearchTerm]} and add a {[g:AddedItem] (oxford dress shirt)[v:SearchTerm]}")
+  plan (hZHdSgMxEIXPtqu16mptrd164c+dN/YdpFDwSrD6AMtmoIHGDdkoXvXZjdmqmzRBAsMw35kzwwQXGNNnIeSaZvWKKz17ppK41Ji65XklBNdPipHCyEVN0dO/SlZoatBtFG3ebV4jdyUPjBF71CRqXHl7KDINLT6JdGLoAlvLQ2aW3MXIhptwL1UlSWluVr307yWqj59lbkIujmIa7cb1P83+5CWtqdRbloeYJcHf2pEXqly9kNqRL7+jf+QFf2MNiPtMkKCDLlLsYR89HKCPQxzhGBlOcIoBzuwbYoRzjIGAPm3puyYOzOtbfWL12Ma0lf8R/NZgHBPj0DNzMjOxY7LsCw==)
+  last-modified (1560817114573)
+}
+train (t-ghyru3mgyaspef8kuwmyna8hq) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity] (t-shirts)[v:SearchTerm]} and change the {[g:ChangedItem] (polo)[v:SearchTerm] to (XS)[v:Size:ExtraSmall]}")
+  plan (hVFLT8JAEP60KLUgYhEoHHzcvMDVszEx8WS0+gOadmI3odAsS6Ic+O0O22LcpQ3Z7Ox0vsdsZzFCn76jLJ/RdJkKqabvFJPIFUZm+WmRZUK9yoQkeiZUFC3+Z55EigrorhbarHS+RGBSHpOEkhdF2RJj6x5pNP/aYdcWJonN/mmHNa64rRIa1qPatrg5IMbDAcImLvKJ4I9JLhc5SSV4Cr4p1GZBlZlG7uuQje07MJlvq2iuhPqxZxvSjGJV/kRQhWmk8vn36JGM0w+Se/RwG+2XeRbzpADqfazhhGJNGOMIx3DQwAlO0YSLM3hooY1zdHCBLi7ho6fXFfoYYIgA+FNtdU1WFiq3VLVY5XD0eXW0qs0K6I3y3O2GUYWVu5w5HLvc1+MbBNzXhfcL)
+  last-modified (1560817122416)
+}

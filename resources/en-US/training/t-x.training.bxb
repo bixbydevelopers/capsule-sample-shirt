@@ -1,3 +1,8 @@
+train (t-xqqh3tgiq6ftpyhudhfrpdjte) {
+  utterance ("[g:Shirt] Show me all (dress shirts)[v:SearchTerm]")
+  plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1560812693135)
+}
 train (t-xrvrwhfi797644hz5qsv1uhc2) {
   utterance ([g:CancelCommittedOrder] Cancel my shirt order)
   plan (Y2BiEE2tSMwtyEnVK87ILCrRC0pNTs0sKGFQQhV2TsxLTs1xzs/NzSwpSU3xL0pJLWJgBEIGKAaSAA==)

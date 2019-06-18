@@ -1,12 +1,17 @@
 train (t-77ydft0732o3hxl7zdwz1u0rc) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] add {[g:AddedItem] (7)[v:Quantity] (henley shirts)[v:SearchTerm]} ")
   plan (fY/JCgIxEERrXMddFLeL4M2L/oMIgidx+4DBNBgwGjIR9OK3m8l4MMExh07Sr6pTQRs9ekRCXmgen7nS8x2diEuNkdte3oTgeqMYKXRdlDY9/VGySNMf/SRT/7rbc4yhK1kwRmytScQYe+EUGcMXH2Q40XGB7Q1/DbNkmkVe3JSZVDdJSnMTte8qt/foqrl++l/fJ9VPt+JXlgIvyZ4idTofSAm0ECCHPAooooQyQlRQRQ11NNA0FB+e93jV8sDydCV7wbnBeALjDM205J3wDQ==)
-  last-modified (1560530890479)
+  last-modified (1560812737165)
 }
 train (t-7907ye1h7qolqtjr8jm2zjhfl) {
   utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (medium)[v:Size:Medium] shirt")
   plan (dY5BCsJADEV/bdW6VQS9QTf2Eq5cCfYERT8YcOiQZiEuPLvTzsYpGkhI3gskWGHLZ+v8g3V/F7X6wivFG/YpPnbOiZ31RsUmVRFO95WtMap1qk5Gh92v9dFU/8xbQjl47TzVhP30j2ao02ONvIgSGWbIUWCOBZZhxhcZWDaSmDGK0JfB5cAH)
   last-modified (1559953213312)
+}
+train (t-7rhhbgzoqwvuxekecpsn67ewy) {
+  utterance ("[g:CommitOrder,r:example.shirt.UpdateOrder] Get {[g:AddedItem] (2)[v:example.shirt.Quantity:2] more (v-necks)[v:example.shirt.SearchTerm]}")
+  plan (fY/JCgIxEERrXMddFLeL4M2L/oMIgidx+4DBNBgwGjIR9OK3m8l4MMExh07Sr6pTQRs9ekRCXmgen7nS8x2diEuNkdte3oTgeqMYKXRdlDY9/VGySNMf/SRT/7rbc4yhK1kwRmytScQYe+EUGcMXH2Q40XGB7Q1/DbNkmkVe3JSZVDdJSnMTte8qt/foqrl++l/fJ9VPt+JXlgIvyZ4idTofSAm0ECCHPAooooQyQlRQRQ11NNA0FB+e93jV8sDydCV7wbnBeALjDM205J3wDQ==)
+  last-modified (1560814161849)
 }
 train (t-7rqyhfcn6e503xio6q0l6z31s) {
   utterance ("[g:Shirt] Show (Polo Shirts)[v:SearchTerm]")
@@ -16,7 +21,7 @@ train (t-7rqyhfcn6e503xio6q0l6z31s) {
 train (t-7sxpgby1hd1mvniyiepohxriu) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (small)[v:Size:Small]}")
   plan (hZBNCsIwEIVfrVr/FUWwbtQD2K0HcOVK8OcApR1soLEhjSAuPLuxFaRpxQwJM/O9NwnBEFO6+1zE5KURk8o7UEBMKLjF9jbhnKm9DEliUkR509CfRegrytHqJ3resjzF3Lgt8q8XCneKeIqlwSRpS0Hh/nRj8ceMzR/BM8jzNdPFWshEkFSs/OQjxRSoz9BZFctI5d+V5L4MohNJjrFB2IMwgoUabNTRQBMOWmijgy56WfQxAEqKllbY+uzqaGuKbMPIvquha1s739MsOC8=)
-  last-modified (1560534309438)
+  last-modified (1560812737694)
 }
 train (t-7vt2pu4so0p7xybeyspqig8wp) {
   utterance ([g:CommitOrder:continue:Shirt,r:CreateOrder,r:CreateItem] Buy this shirt)

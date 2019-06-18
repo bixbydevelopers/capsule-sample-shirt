@@ -1,12 +1,12 @@
 train (t-igs1x1lohxceai3fn1l2slis0) {
   utterance ([g:CommitOrder:continue:Shirt,r:CreateOrder,r:CreateItem] Buy it)
   plan (Y+BgEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCKKrL0pNLEmFSAmhSnmWpOYySGBTDpbRwCVTlwkkdAuK8gtSi0oyU4vR3REMIhnYGRgZmBiYGVgYWBnYgDwGJD4rkM0AxyDADGSxAkkGAA==)
-  last-modified (1560534369074)
+  last-modified (1560812741023)
 }
 train (t-iv7m4bbb8k3n2tb3wgykthgz9) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder,r:GetQuantity] Change the quantity of the (polo shirt)[v:SearchTerm]")
   plan (hZBNbsIwEIUfDZS/UqgqJOgC2gPAlgN0gVi10HIAKxk1ljCxJhMJNpwdK0GVYoLwSNbMvO/ZY2OAIR2UsTuap7FmmW8oJG0F43L7MzFGyxdHxHgtS0XT47c2UkKF9HFTOmV5nuLNuy1W+z+KVkImxbunMTlLiRjfdGN6x4zFHeAUFvlMu2JmObHEot3Ik7LxmxNjhaJ1pvai5egPtST5l7zX/tCOQrnMM6rScqXy269wxWH8S2zwghoeEKCOBh7RRAttdNDFE3p4zqMPVDItxwRu77mo5Qwuu58Vq+6qvjs5AM4=)
-  last-modified (1560534369344)
+  last-modified (1560812741203)
 }
 train (t-iws07glq1mghw46ipa72os5xa) {
   utterance ([g:CheckStatus] Check on my shirt order)
