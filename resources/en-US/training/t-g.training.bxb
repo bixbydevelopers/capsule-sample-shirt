@@ -6,10 +6,10 @@ train (t-ghkrtop5omvg4go8ymrjs7you) {
 train (t-ghyru3mgyaspef8kuwmyna8hq) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity] (t-shirts)[v:SearchTerm]} and change the {[g:ChangedItem] (polo)[v:SearchTerm] to (XS)[v:Size:ExtraSmall]}")
   plan (hZFPT8JAEMWfFqUWRCwCRRP/3LzA1bMxMfFktPoBmnZiN6Gl2S6JeuCzO2wB6dKGbHZ3Om9+b7a7GKFP30GSTWmSx0KqyTuFJDKFUTn9NEsSoV5lRBK9slQkjfrPLAoUFdJdrbSY6ziHVy55jCKKXhQlOS6Nc8RB+rXWrg1NEpttscMaV9xWgSXrUW1b3OyB8bCnYBEW8VjwxziTs4ykEnwLbhnUZl6VmVbu65SF6TsoV77Ng1QJ9WPerU9TCtXqJ7wqTSuVz79THsgw/iC5U+4vV/NlnkUaFUK9j3E5vvglXOEAh7DQwBGO0YSNEzhooY1TdHCGLo9zuOjpcYE+BhjCAzbckmwyW3C25tpMtpizeHV5dDTnMgM9sdrXs7HJYiv6j22OLF673NvhU3jc24bzBw==)
-  last-modified (1560835962706)
+  last-modified (1560881419251)
 }
 train (t-grvsa7x7ifqbyrkzq8pgwcl8f) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (sweatshirts)[v:SearchTerm] to (large)[v:Size:Large]}, the {[g:ChangedItem2] (t-shirts)[v:SearchTerm] to (small)[v:Size:Small]}, and add a {[g:AddedItem] (medium)[v:Size:Medium] (v-neck)[v:SearchTerm]}")
-  plan (nZJNT8JAEIZfLcqXgIJAQeUj8eAFDl48GxMTTyaiP6BpJ7IJhWZZE+OB3+50C5VuWjB00+72fWeemd0shmjSt+MHMxovp0Kq8Ru5JAKFTlJ+Wvi+UK/SI4lG0opEI/4j8BxFkTXMtFZfer2EnQx59DzyXhT5S3SNPqbO/HPj9QxPEsO2ctsZVAzSEhPoTmbZHR3d70rr76m5P+BhT8DKjdYjwT+jQC4Ckkrw6R6cWE8m6i7sNJh27rKclck1jnBCM3LVepd2mpfuONKdvpP0D+Sl3uPsIkb4JPyaV+xZzL3IyOYYhzoRP/Rv7RZHOIaFHE5wijwKKKKEMs5QQRU1nOMCdTRwiSZaaMNGJx5dXOEaN+ihjwEQk0JWnmlFHiGppFkFTapoUpVJllabTLRZD0kNrlZjCvSL9Rytczz/rRDrm0hsZWyeMv9ZXDfssMTd9llpcaehxnv8BQ==)
-  last-modified (1560879468984)
+  plan (nZJNT8JAEIZfLcqXoIJIQfm6GC9w8OLZmJh4MhH9AU07kU0oNMuSGA/8dqdbwHbTgqGbdrfvO/PM7GYxQIO+HT+Y0mgxEVKN3sklESi0kvLz3PeFepMeSdSTViQa8Z+B5yiKrEGmtVrq9QJ2MuTJ88h7VeQv0Db6mDizr43XNTxJDIvlNjOo6KclJtCtzLI7OnrYldbbU3N/wOOegJUbrYeCf4aBnAckleDTPTixlkzUXdhpMO3cZzkrk2sc4Zim5Kr1Lu00L91xpDv5IOkfyEu9x9lFjPBx+DWv2IuYeZGRzTEOdSx+6N/aHY5wDAs5nOAUeRRQRAllnKGCKs5xgUvUUMcVGrhGEzZa29HGDW7RQRc99PXAlhby8kws8ghpJc0raFpV0ypMs7TaYKrNekiz+S+sWmcS9Iv1HK1zPP+tsNU3kYhlxJ8yKxbX73CXJd5Jj5U2dx5qvN9f)
+  last-modified (1560881420731)
 }

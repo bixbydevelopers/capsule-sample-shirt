@@ -1,22 +1,22 @@
 train (t-8334cuuvv8n5co5rqd55ombx0) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (oxford dress shirt)[v:SearchTerm] sizes to (large)[v:Size:Large]}")
   plan (hZBNCsIwEIVfrVr/RUWwbtQD6NYDuHIl+HOA0g420GhII4gLz+7YCtpWMUOGybzvTULQxZCunlQRLeJQaLPYkk9CGbjZ9uospTAbHZDGICulzRx/UIFnKJVmP6X7JaljjHO3hd7pSMHakIwxzWma2JIh3J9uTP6YsfwD3P20ngs+zJU+K9JGFJ+8o4h88xo6+qYlyte/K+Ce9sM9aYl+ThE3Qg8WSrBRRgVVOKihjgaaaCXRRocDBabGjM25yVHnbSUMXvldfa4Kd2x2P2dacB4=)
-  last-modified (1560835961914)
+  last-modified (1560881417452)
 }
 train (t-8463bpttmfzrjhbyqe42hhvqw) {
   utterance ("[g:CommitOrder,r:UpdateOrder] Change the {[g:ChangedItem] (t-shirt)[v:SearchTerm] to (extra large)[v:Size:ExtraLarge]}")
-  plan (hZBNCsIwEIVfrVr/FUWwbtQD2K0HcOVK8OcApR1soLEhjSAuPLuxFaRpxQwJM/O9NwnBEFO6+1zE5KURk8o7UEBMKLjF9jbhnKm9DEliUkR509CfRegrytHqJ3resjzF3Lgt8q8XCneKeIqlwSRpS0Hh/nRj8ceMzR/BM8jzNdPFWshEkFSs/OQjxRSoz9BZFctI5d+V5L4MohNJjrFB2IMwgoUabNTRQBMOWmijgy56WfQxAEqKllbY+uzqaGuKbMPIvquha1s739MsOC8=)
-  last-modified (1560877541109)
+  plan (hZBNCsIwEIVfrVr/RUWwbtQD6NYDuHIl+HOA0g420GhII4gLz+7YCtpWMUOGybzvTULQxZCunlQRLeJQaLPYkk9CGbjZ9uospTAbHZDGICulzRx/UIFnKJVmP6X7JaljjHO3hd7pSMHakIwxzWma2JIh3J9uTP6YsfwD3P20ngs+zJU+K9JGFJ+8o4h88xo6+qYlyte/K+Ce9sM9aYl+ThE3Qg8WSrBRRgVVOKihjgaaaCXRRocDBabGjM25yVHnbSUMXvldfa4Kd2x2P2dacB4=)
+  last-modified (1560881419767)
 }
 train (t-85ttbk8pmov0804binicyzjtq) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (henley)[v:SearchTerm] to a (large)[v:Size:Large]} and add a {[g:AddedItem] (pullover sweatshirt)[v:SearchTerm]}")
   plan (hZFfS8MwFMWP67Rzm9OubusU/PPmy/bqswiCT4LVD1Daiw2sW0kjiA/97LtLW7FZy7gkucm5v3NDAg8T+gmSdEXLLBZSLd8pJJEqzOvHz5skEepNRiTh1qXi0Kj/TKNAUSHdt0r5t84zePWSpyii6FVRkuHKuEccrL8q7cbQJLHZP3bW4oq7JrBmPW9ti9sDMB4PFORhkS8Ebxap3KQkleBXGNdBbeY1mWnloU3JTV/jDX1aUajKy3pNmlYav3mvPJBh/EFyr9zfzeYPvIh1VAjtPsYj+OKXcI0jdGChi2OcwEYPp+hjgCHOMMI5LuBgrMPFJSaYYqYDf9yOtJktuJ7mBsxZPDscI80N2cthBnqgXKvRLU8rzcxt3lnsPeUeLnfvcN7fAg==)
-  last-modified (1560835961975)
+  last-modified (1560881419081)
 }
 train (t-88czvbpceamwqhin4n80c9cq3) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Medium)[v:Size:Medium]}")
   plan (hZBBCsIwEEW/Vq1aFVEEdaMeoN16AFeuBMUDlHbQgNGQRhAXPbtDK0jTFjMkmZn3fxKCEWb0CqW6UZBchTbBkSISymBRbO8eUgpz0DFpTIsob1r6s4pDQzna1KL0meUJltZt1/B+oXhvSCZYW0wTWwqKRa0bqz9mbP8I0ijPfcGFr/RDkTai/OQT3Sgy30PnVSwjlX83seTiTRijgSYctNBGBy666KEPD4MshhwoKbqscHj1WOsxRTZhZb/R4tph55B39wM=)
-  last-modified (1560835962057)
+  last-modified (1560881417464)
 }
 train (t-8etf5aq9gdek6gn3v33gz7hoc) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (2)[v:Quantity] (collar dress shirts)[v:SearchTerm]} and a {[g:AddedItem2] (extra small)[v:Size:ExtraSmall] (logo tee)[v:SearchTerm]}")

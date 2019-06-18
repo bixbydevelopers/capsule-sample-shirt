@@ -6,7 +6,7 @@ train (t-s19hikllsrvenjow0778h9qft) {
 train (t-s31tifgs6ps56sw9k6ugr73jn) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make the {[g:ChangedItem] (v-necks)[v:SearchTerm] an (extra small)[v:Size:ExtraSmall]}")
   plan (hZBNCsIwEIVfrVr/RUWwbtQD6NYDuHIl+HOA0g420GhII4gLz+7YCtpWMUOGybzvTULQxZCunlQRLeJQaLPYkk9CGbjZ9uospTAbHZDGICulzRx/UIFnKJVmP6X7JaljjHO3hd7pSMHakIwxzWma2JIh3J9uTP6YsfwD3P20ngs+zJU+K9JGFJ+8o4h88xo6+qYlyte/K+Ce9sM9aYl+ThE3Qg8WSrBRRgVVOKihjgaaaCXRRocDBabGjM25yVHnbSUMXvldfa4Kd2x2P2dacB4=)
-  last-modified (1560835964311)
+  last-modified (1560881418414)
 }
 train (t-s9v9om8ukz3rlfexka7krfiff) {
   utterance ([g:Shirt] Show a list of all shirts)
@@ -31,5 +31,5 @@ train (t-siwq2u49bd22awnjrivrsgpw9) {
 train (t-sornusnv1lodewgn1wp1cgrve) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (henley)[v:SearchTerm]}, the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}, and the {[g:RemovedItem3] (large)[v:Size:Large] (pullover sweatshirt)[v:SearchTerm]} from my cart")
   plan (zZJLTsMwEIa/0hIaUkrfNN0ULtAFHIEVKyQeB4iSkRqpUSPHIMSCs+O4RRArgQ1IeOTReP75ZmZhFkzlJcryjayKdar06k5iSXNNWE1fb7Ms1bcqEcW4Ku2STv1jnkRadtJFo/T2ZOOChbtEtn2W5EZLVnDubKLEIJWKsJFm+QP8zeTLP+p79Zt972Ujsd5r8zqtXolUvH4Q9V/61X6p5iEjR0lfhSUtDmjT4RCPI7r4HBPQ44Q+pwwYMmLMhCkzzio2JwSH9yzvWb5r+cDyfcO3TSYw0cC8Z9Zalmfvy9v54j+VD+8e3+TbZurQRBMzs9yofPv03gE=)
-  last-modified (1560835964609)
+  last-modified (1560881419677)
 }

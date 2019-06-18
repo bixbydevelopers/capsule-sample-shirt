@@ -1,7 +1,7 @@
 train (t-o6k15ymxbtef23ladliazteab) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get rid of the {[g:RemovedItem] (small)[v:Size:Small] (logo t-shirt)[v:SearchTerm]}")
   plan (hZDdCoJAEIWPmVn2B0WQ3VQv4Et01VXQzwOIDrjgoqxbRBc9e9tqhJvSDgwz852zOywmWNA95HlKQZEwIYMjRcRyCb8+3mWcM3kQMQnM66gcGvpLHoeSSrRtRc+rrguszCV4dqN4L4kX2BibCFKWmsJvdWP9x2y+fKKUIlmxZRPTpPELfuShiJIzCY6ZQdiDMIWFDmx04aAHF30M4GGoY4Qx0MBtlT0dluao8rf7HEf1tnK9b7LgvgA=)
-  last-modified (1560835963492)
+  last-modified (1560881419403)
 }
 train (t-ob3se327317ycxv13auabqm4p) {
   utterance ("[g:CommitOrder] Order {[g:Item] (one)[v:Quantity:1] (small)[v:Size:Small]} and {[g:Item2] (one)[v:Quantity:1] (large)[v:Size:Large] (polo shirt)[v:SearchTerm]}")
