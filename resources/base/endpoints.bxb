@@ -72,7 +72,7 @@ endpoints {
       local-endpoint ("CreateRemovedItems.js")
     }
     action-endpoint (SelectItem) {
-      accepted-inputs (searchTerm, items)
+      accepted-inputs (searchTerm, sizeSearchTerm, items)
       local-endpoint ("SelectItem.js")
     }
     action-endpoint (FindLastReceipt) {
