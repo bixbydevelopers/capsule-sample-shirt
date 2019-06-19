@@ -4,7 +4,7 @@ train (t-178yapxd8smk87kvkdw9wwev8) {
   last-modified (1560817052876)
 }
 train (t-19nv14jo4nxr1q09k4d8jk2bt) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (XS)[v:Size:ExtraLarge] (t-shirt)[v:SearchTerm]} from my cart")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (XL)[v:Size:ExtraLarge] (t-shirt)[v:SearchTerm]} from my cart")
   plan (hZDdCoJAEIWPmVn2B0WQ3VQv4Et01VXQzwOIDrjgoqxbRBc9e9tqhJvSDgwz852zOywmWNA95HlKQZEwIYMjRcRyCb8+3mWcM3kQMQnM66gcGvpLHoeSSrRtRc+rrguszCV4dqN4L4kX2BibCFKWmsJvdWP9x2y+fKKUIlmxZRPTpPELfuShiJIzCY6ZQdiDMIWFDmx04aAHF30M4GGoY4Qx0MBtlT0dluao8rf7HEf1tnK9b7LgvgA=)
-  last-modified (1560835961242)
+  last-modified (1560904622085)
 }
