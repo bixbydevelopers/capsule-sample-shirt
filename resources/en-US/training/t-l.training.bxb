@@ -5,6 +5,6 @@ train (t-l552p693f5ha9i780j5c4qfzq) {
 }
 train (t-lu9ty555mdz0cdsx8s2xyfik2) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] I want {[g:ChangedItem] (2)[v:Quantity:2] (extra smalls)[v:Size:ExtraSmall]}")
-  plan (hZBNCsIwFISn1lr/F4qCbtQD6NYDuHIlKh6gtA8NtDWkT1AXPbuxLUijxYSEl/lm8oc+RnT3IhnSKrkIxasD+SQkY1KWN9coErxTASkMyygXDf9JBh5TjhaVKL1ldYKpcdrFi88UbJmiBHODKdKRkmNSmcbsTxjrP4bUz+ul0IulVFdJioW+8s9fGJfF/c2LWfDDfN+RQvK5uMHAYOJJ6MNCDTbqcNCAiyZaaOveQRc94IvameM9rIyimPPq0xyt2DrR0btYcF8=)
-  last-modified (1560812742595)
+  plan (jVDLTsMwEJwQSsubtgRRLsCNS3vtB3DqCUHEB1jJilpKUsvZSsAh344bFyEvRMWWV7uemfWskSChd1Wagmb1UluevVBG2jAm4fXjqiw1P9mcLMYh5C8F/9XkislD951Qs27zGjfitaWq3ihfMJU17gRmyUkCxqRTjdsdYsx3EJrM51PtiqmxK0OWtbP8n1/w3TwkRlxUmrUq/h6glXloJGQbz9dddDx0IY20fxUyn9eqYs0f0mZKBWW8/SsxcrqJ0mCqPwkJIuwhxj56OEAfAxziyO1jnOAUZzjHBYYYYYxL4Bc3difkDtoYtVxso89+8u/ar56rY9dt6F6I0P8C)
+  last-modified (1560894362749)
 }

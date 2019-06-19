@@ -1,7 +1,7 @@
 train (t-0rwiea5s67kfb105zmd9lqt0b) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Large)[v:Size:Large]}")
-  plan (hZBBCsIwEEW/Vq1aFVEEdaMeoN16AFeuBMUDlHbQgNGQRhAXPbtDK0jTFjMkmZn3fxKCEWb0CqW6UZBchTbBkSISymBRbO8eUgpz0DFpTIsob1r6s4pDQzna1KL0meUJltZt1/B+oXhvSCZYW0wTWwqKRa0bqz9mbP8I0ijPfcGFr/RDkTai/OQT3Sgy30PnVSwjlX83seTiTRijgSYctNBGBy666KEPD4MshhwoKbqscHj1WOsxRTZhZb/R4tph55B39wM=)
-  last-modified (1560835961034)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Large)[v:NewSize:Large]}")
+  plan (hZHfDsEwFMY/hvkviAQ3eABuPYArNyTEAyzbCU2MpqsQF3t2Jx2RlWU9aXv6fb/TNi06GNDDC+WZFtFJKL3YkU9CaozS8uoahkJvVUAK/bSViBZ/kIGnKbFmmVZ8M3mEsXXaybscKVhrCiNMLU8Rl6SIUWY1JjnFWOYAsZ/kc8GLuVRXSUqL3yvv6Uy+fm86/OcZ5+/b9SxcPMn+lg3djdxFAUU4KKGMClxUUUMdDTRNtNDmwA9TZcbhscFRY6pgGLzHb/ZpDvcSKw5Xt3l2Xw==)
+  last-modified (1560894981817)
 }
 train (t-0xt790ce3hpy5dmqj2hum0l4e) {
   utterance ([g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a shirt)

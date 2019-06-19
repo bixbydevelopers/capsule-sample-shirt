@@ -1,7 +1,7 @@
 train (t-h311p914zg94o13adhgr77dvq) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get {[g:AddedItem] (one)[v:Quantity:1] more (polo shirt)[v:SearchTerm]} and change the {[g:ChangedItem] (v-neck)[v:SearchTerm] to a (medium)[v:Size:Medium]}")
-  plan (hZFPT8JAEMWfFqUWRCwCRRP/3LzA1bMxMfFktPoBmnZiN6Gl2S6JeuCzO2wB6dKGbHZ3Om9+b7a7GKFP30GSTWmSx0KqyTuFJDKFUTn9NEsSoV5lRBK9slQkjfrPLAoUFdJdrbSY6ziHVy55jCKKXhQlOS6Nc8RB+rXWrg1NEpttscMaV9xWgSXrUW1b3OyB8bCnYBEW8VjwxziTs4ykEnwLbhnUZl6VmVbu65SF6TsoV77Ng1QJ9WPerU9TCtXqJ7wqTSuVz79THsgw/iC5U+4vV/NlnkUaFUK9j3E5vvglXOEAh7DQwBGO0YSNEzhooY1TdHCGLo9zuOjpcYE+BhjCAzbckmwyW3C25tpMtpizeHV5dDTnMgM9sdrXs7HJYiv6j22OLF673NvhU3jc24bzBw==)
-  last-modified (1560835962765)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get {[g:AddedItem] (one)[v:Quantity:1] more (polo shirt)[v:SearchTerm]} and change the {[g:ChangedItem] (v-neck)[v:SearchTerm] to a (medium)[v:NewSize:Medium]}")
+  plan (hZJPT8JAEMUfglIBUcBC4eCfmxe4ejYmJl40Wv0ATTuRTSg0yxLRQz+7w66QdmlDN51O583v7Xa3GMKldRAnM5osp0KqyTuFJBKFYb78uIhjoV5lRBK9vGSKVv9nEgWKjHRbKqUrnS/h5VseooiiZ0XxEiNrHdNg/rXVrixNEptl2EGJK26KwJz1sHRaXB+AcX+gIQ1NPhb8Mk7kIiGpBO9CNw9qM6/ITCt3ZUpq+1pH/ELfvvgl9PPlt1UwV0L92Fvu04xC9f9tXpGmlcK/Yq89kOH0g+Reu7+J9oE9iXlkhHKfESo4QhU1HOMEdTg4RQNNtHCGNs5xgQ666OFSDxd9DOABO2rD1Zk0lKOpFnNNpqocezzamqpoylyVzF3bVZHJtrnDzyrHDs/a4NW4PK+Dxh8=)
+  last-modified (1560894991391)
 }
 train (t-hg3krq7e4zqq30hib9n12tqq6) {
   utterance ("[g:Size:prompt] I'm an (extra large)[v:Size:ExtraLarge]")

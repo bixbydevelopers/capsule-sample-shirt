@@ -30,7 +30,7 @@ action (CreateChangedItem) {
         }
         //the new size (straight from utterance) to be assigned to the item
         input (size) {
-          type (Size)
+          type (NewSize)
           min (Optional)
           plan-behavior (Direct)
         }
@@ -42,7 +42,7 @@ action (CreateChangedItem) {
         }
         //the new quantity (straight from utterance) to be assigned to the item
         input (quantity) {
-          type (Quantity)
+          type (NewQuantity)
           min (Optional)
           plan-behavior (Direct)
         }
