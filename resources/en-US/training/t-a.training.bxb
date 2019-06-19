@@ -1,5 +1,15 @@
+train (t-a8fomredic91q52k2z1vhfr26) {
+  utterance ("[g:CommitOrder] Buy {[g:Item] (2)[v:Quantity:2] (t-shirts)[v:SearchTerm]} and {[g:Item2] (3)[v:Quantity:3] (pullover sweatshirts)[v:SearchTerm]}")
+  plan (tY7LTgJBEEUvz+GhyFvxC9jIwl8gMWFFFH6gA5VQCT1MespEN3y7xbTBdMfZ6aKr0veeW1WYYEIfxmZHWuQHdrJ4ox1xJpiF8vJkLcva7clhFFpejHlHRshbj6G1SlnYHFdCNv895q1hFFMRD2U45mXOmbU8Ze6UkROmPD7/wjz/27JpSL6+m1RYPkv16LjNpeI+FF843XsjunBDxu0OW3L2z+aMUUEVNdTRQBMJWmijgy5ucIse7tDHAEOMlENENr7JlrLdgkwKslKQPw+a8B1XxddEe1P3jHVST/dU9df+Ag==)
+  last-modified (1560876723990)
+}
 train (t-aflxkc7uiph2pvz3cg1u4czlo) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity:3] (v-necks)[v:SearchTerm]} ")
   plan (fY/JCgIxEERrXMddFLeL4M2L/oMIgidx+4DBNBgwGjIR9OK3m8l4MMExh07Sr6pTQRs9ekRCXmgen7nS8x2diEuNkdte3oTgeqMYKXRdlDY9/VGySNMf/SRT/7rbc4yhK1kwRmytScQYe+EUGcMXH2Q40XGB7Q1/DbNkmkVe3JSZVDdJSnMTte8qt/foqrl++l/fJ9VPt+JXlgIvyZ4idTofSAm0ECCHPAooooQyQlRQRQ11NNA0FB+e93jV8sDydCV7wbnBeALjDM205J3wDQ==)
   last-modified (1560812738779)
+}
+train (t-ahufexv56yu3pkv93fqo7m9z4) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make that a {[g:ChangedItem] (large)[v:Size:Large] (pullover sweatshirt)[v:SearchTerm]} ")
+  plan (hZBNCsIwEIVfrVr/RUWwbtQD6NYDuHIl+HOA0g420GhII4gLz+7YCtpWMUOGybzvTULQxZCunlQRLeJQaLPYkk9CGbjZ9uospTAbHZDGICulzRx/UIFnKJVmP6X7JaljjHO3hd7pSMHakIwxzWma2JIh3J9uTP6YsfwD3P20ngs+zJU+K9JGFJ+8o4h88xo6+qYlyte/K+Ce9sM9aYl+ThE3Qg8WSrBRRgVVOKihjgaaaCXRRocDBabGjM25yVHnbSUMXvldfa4Kd2x2P2dacB4=)
+  last-modified (1560881420725)
 }

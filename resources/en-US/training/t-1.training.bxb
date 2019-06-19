@@ -1,3 +1,8 @@
+train (t-12kwp9iojfydskda0d3w550eh) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make that {[g:ChangedItem] (2)[v:Quantity] (sweatshirts)[v:SearchTerm]} and {[g:ChangedItem2] (3)[v:Quantity] (small)[v:Size:Small] (polos)[v:SearchTerm]}")
+  plan (nZJNbsIwEIUfhPLblgKFQrtoewBYdNMDsGJV9e8AVjJqLGGIHCO1XXD2OnYVYSshErEUj9+bb2ZkGVOM6ZuJZE2LNOZSLd4oJJ4ozFx5uRWCqxcZkcTItazo5X8mEVNkrcdSa78zcYpbr1vMNl8UrRSJFA+eJ0kjTsaslD5S+OkYdl/RszrhuSJhH9p4zvVhnshtQlJxfRUngxMXfN2xjeLqp1T3ruad1hSq/+mnRV6xw2QYf5AUJ9YrfEzlTYaew38Jd6ihjgANnKGJFtrooIseznGBS/RxhQGGGOEa43xNcAM4XNNwrZzsGa6rucBoA81nq2Y45P+G3m2EA/VQsV9Ha4Gu39eztPVc2QT1bNo/)
+  last-modified (1560881420798)
+}
 train (t-178yapxd8smk87kvkdw9wwev8) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] get rid of {[g:RemovedItem] (1)[v:Quantity:1] (polo shirt)[v:SearchTerm]} ")
   plan (hZDdCoJAEIWPmanZz0UU2U31Ar5EV11Ffw8gOqDgpqxr1E3P3qJGrCntwDA73znLYTHBnB4+yxLy8ijmwjtRQHEm4KrrXcpYLA48JI6ZiqplQ3/NQl9Qhbad6FWUc45VMwRL7xTuBbEcm0YSTtKiKNxON9Z/zFiogmPh30Qsns1EZ0ooELVn2cZK0vo1P3KfB9GFOMMUGnrQ0YeBAUxYsDGEg1FZY+CHW5LrsjuytJKj7t/pcwx506XLli9pMN8=)

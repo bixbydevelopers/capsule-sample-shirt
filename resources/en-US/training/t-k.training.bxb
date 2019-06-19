@@ -1,5 +1,10 @@
+train (t-khfl9towp5n2z9sz8blh5krde) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Switch the {[g:RemovedItem] (large)[v:Size:Large] (pullover sweatshirt)[v:SearchTerm]} for a {[g:AddedItem] (large)[v:Size:Large] (t-shirt)[v:SearchTerm]}")
+  plan (hZHdSsNAEIVPTbQ/Gq2tNYkX/tz1xr6DCIJXgtEHCNmBLnRN2KwiXvTZ3W6qZrcbzMIwnG/OzDBBghl95qJa0aJecqkWz1QQrxRSW74vheDqSTKSmNqoEZ3614rlihp004nW7yavkdgld4wRe1Qkalw6e0jShhaPO5yY2MBoia+ZIfMusuY63FayrEgqrle9cO8lyo+fZa59XayKtNONq3/M7uSMVlSoLUt8zBDv39opz2WxfCG5U55tonvkB/7GGtDdxzl/xr/Iq6XoYQ8BQuzjAH0MMMQIhzhChGOcYIxT8yaY4gwznCMGPJ6w5Ql0HOs3NJ6RznrGg20MW/kfwa/WfAOdB7r7Zmak58d6Zh/RNw==)
+  last-modified (1560881420398)
+}
 train (t-kyyni8bldfkix46xptkgvc7ls) {
   utterance ("[g:CommitOrder] Buy a {[g:Item] (large)[v:Size:Large] (V-Neck)[v:SearchTerm]} and a {[g:Item2] (small)[v:Size:Small] (polo shirt)[v:SearchTerm]}")
   plan (vY/LCsIwEEWvrz58axUfX+BGF/6CILgSrD9Q7IADRkuahbjw200bQRt0JwYyCfeeO5NgiCFdI5GcaJEeWarFjg7EicKkKK8uQrDaypgkgqJlRJuXFCky1rRobc6sODptFIn0c8xYfSumRYy/4Zh9c+6syzyRl4SkYkrt52fM8l/DwqxiVBTXfI6NYU0MKZKH456k+Fkf658h3+ijNkAJZVRQRQ0OXHjwUUcDTbTQRgdd9NBHoDlYZO1JNnLSzUlP50o5+drQCXO+12y5+u7k3X09aaC7O/Af)
-  last-modified (1560832503580)
+  last-modified (1560876677012)
 }
