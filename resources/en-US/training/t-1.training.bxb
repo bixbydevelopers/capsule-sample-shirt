@@ -1,7 +1,7 @@
 train (t-12kwp9iojfydskda0d3w550eh) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make that {[g:ChangedItem] (2)[v:Quantity] (sweatshirts)[v:SearchTerm]} and {[g:ChangedItem2] (3)[v:Quantity] (small)[v:Size:Small] (polos)[v:SearchTerm]}")
-  plan (nZLbTsJAEIZ/KXIQlJNV0Av1AeDCGx/AK240ij7App3YTShstks8XPDsDq2gXXtI2Kbb6fzzzcxOFkO49CFCNadJFEhtJs/kkVQGo7T7fhmG0jxqnzQGaSlxWvGvyheGEukmV1qvYjvChVUtEIs38qeGwgjXlqaJkVTEKJcuSHxbhF2V1CwPuCsJWHuJPZb8M1Z6qUgbyaPYG7SO80DvTyuxMNJ8FknuP2kmv8ie24zm5Jmfow2ztGxFaC94IR3umS/zpuUXucQBKnBQxSFqqKOBJo7QQhvHOEEHXfTQxwCncHG2e86BFFeLufqObLO14VrMObG3z7zLDOJ3u1f5m1jb9Vf9XU32OJy/w5Ub3FeXO6psuv0G)
-  last-modified (1560959665474)
+  plan (nZLdTsJAEIUPFPkVlF9BL9QHgAtvfACvvDL+PcCmndhNWGi2S6Je8OwOW0PYTUsT2qSdnjPfzMmmmGJM30IlS1qksdRm8UYhycRg5spPa6WkedERaQxdKxO9/s8kEoYy677Q2m5sneLa2xaL1RdFz4ZUijvP08SI0zErpI8MfjiG3ZbsLG94LGnYhlk9l/wxT/Q6IW0kH8XJ4MQFXzdiZaT5KdS9o3mnJYXmP/00z8t3hA7jD9LqxHm5P1PxkoHnyF/CDSqoIkANZ6ijgSZaaKODc3TRwwUu0ccAQ4ww3t8TXAEOV7dcw5JdZjuWazMXWK3P/Ij1iuWwf9b4nVU4UA+V7GqxFvD8Hmdpcqpdguou7R8=)
+  last-modified (1561058153481)
 }
 train (t-178yapxd8smk87kvkdw9wwev8) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] get rid of {[g:RemovedItem] (1)[v:Quantity:1] (polo shirt)[v:SearchTerm]} ")
@@ -10,6 +10,6 @@ train (t-178yapxd8smk87kvkdw9wwev8) {
 }
 train (t-19nv14jo4nxr1q09k4d8jk2bt) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (XL)[v:Size:ExtraLarge] (t-shirt)[v:SearchTerm]} from my cart")
-  plan (fY9NDoIwEIUfIqKoEBJxo16BS7hyZeLPAQhMQhMbSKksXHh2a8FQlNhJJp3vzetL4SOsWR1XORMyPlFKrJSIOrQvOGfyKDISCDrcAGPvWmaJpAbvBvHzru8V1mYgL2rKDpJ4ha2RKkit9tRo0IXNH5OZdKYbpbLlq2+u6c/3emuJSPMLCQ7foOxBCGBhBBtjOJjAxRQzeJjrWmAJDOi26p4uS+toezd9jqNmW7neL1lwXw==)
-  last-modified (1561055482844)
+  plan (jVDLbsIwEBwIb1pogYjHpe2tl/ITSEicKjXwAVGyEivFxHJMVfXAt9eJDyhuIpC19npnZnds+PDpJxQyoXV2ZKXXXxQRS41lubxJhWD9qWJSmJYhW3T4BxmHmiz0VgtdzkWeYeWaEOk3xTtNIsOr40SRkZQYy1o1Xm6I73qMVVnIcbo7seYwqfRhZRaaOLJ89KKOjvc65MJm+5AqlaQ0//+4gBKKdPXTgnzHvFzc8im2wMLtFKrouCclXO8B/xJ8NNCEhxba6KCLHvpmDTDEAx4xwhhPeMYEU8wAh+sV7Cu3ZyLnjg0PRaAis7fr2TaZZ7rlExro/gE=)
+  last-modified (1561058154211)
 }

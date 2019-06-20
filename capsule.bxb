@@ -1,6 +1,6 @@
 capsule {
-  id (viv.shirt)
-  version (2.12.7) // Updated SearchTerm coverage
+  id (example.shirt)
+  version (2.12.8) // Support adding and removing multiple items - removed find shirt examples
   format(3)
   runtime-flags {
     support-halt-effect-in-computed-inputs

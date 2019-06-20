@@ -14,7 +14,7 @@ train (t-zpxxdnt3h425qsxo95s73qmss) {
   last-modified (1559955718525)
 }
 train (t-zyz82pb8k825dgoga5hvrn9pr) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:RemovedItem] (logo tee)[v:SearchTerm]} to a {[g:AddedItem] (small)[v:Size:Small] (v-neck)[v:SearchTerm]}")
-  plan (hZHLTsMwEEUvTaC0ECgtpSkLHrtu6D8gJCRWSAQ+IIpHqqWaWI5BiEW/HcfhEbuOiJXRaM69MyMbM0zpIxdyTctqxZVePlFBXGrM3fJdKQTXj4qRwsRFTdHTv0iWa2rQdSfavNm8QupKbhkj9qBJVLjw9lBkDC0+63Bi7AJbS0PNLFl0kQ034UaqUpLS3Kx67t+XKN9/lrkKdXEU8043Lv8x+5MzWlOhv1kaYpYEX2tLnqti9UxqS57V0b/ke/7KGtDdx7v+jH8SUuyghwgxdrGHPvYxwBAHOESCIxxjhBN7xpjgFFOcAQFH3HJEJo7MGVjH0Khh/ybGrfyP4LdWf32TRSbW0xIzuWfy5As=)
-  last-modified (1560878171888)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:RemovedItem] (logo tee)[v:SearchTerm]} to a small {[g:AddedItem] (v-neck)[v:SearchTerm]}")
+  plan (hZHdSgMxEIXPtqu16mptrd164c+dN/YdpFDwSrD6AMtmoIHGDdkoXvXZjdmqmzRBAsMw35kzwwQXGNNnIeSaZvWKKz17ppK41Ji65XklBNdPipHCyEVN0dO/SlZoatBtFG3ebV4jdyUPjBF71CRqXHl7KDINLT6JdGLoAlvLQ2aW3MXIhptwL1UlSWluVr307yWqj59lbkIujmIa7cb1P83+5CWtqdRbloeYJcHf2pEXqly9kNqRL7+jf+QFf2MNiPtMkKCDLlLsYR89HKCPQxzhGBlOcIoBzuwbYoRzjIGAPm3puyYOzOtbfWL12Ma0lf8R/NZgHBPj0DNzMjOxY7LsCw==)
+  last-modified (1561058685157)
 }

@@ -1,12 +1,12 @@
 train (t-o6k15ymxbtef23ladliazteab) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get rid of the {[g:RemovedItem] (small)[v:Size:Small] (logo t-shirt)[v:SearchTerm]}")
-  plan (hZDdCoJAEIWPmVn2B0WQ3VQv4Et01VXQzwOIDrjgoqxbRBc9e9tqhJvSDgwz852zOywmWNA95HlKQZEwIYMjRcRyCb8+3mWcM3kQMQnM66gcGvpLHoeSSrRtRc+rrguszCV4dqN4L4kX2BibCFKWmsJvdWP9x2y+fKKUIlmxZRPTpPELfuShiJIzCY6ZQdiDMIWFDmx04aAHF30M4GGoY4Qx0MBtlT0dluao8rf7HEf1tnK9b7LgvgA=)
-  last-modified (1560881419403)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get rid of the small {[g:RemovedItem] (logo t-shirt)[v:SearchTerm]}")
+  plan (hZBNCsIwEIVfTbVaqxsRrBv1Ar2EK1eCPwcozUALDQ1pFFee3ZAWpLHFDMxk5nuPDMECa3qlQpaU1HmhdHKhjAqpEXfHx0qIQp8VJ4VVFzVDR3+XPNXUoMMgej/svcbWXUJUT+InTaLG3tlEkbF0FPGgG7s/ZvflK5WU6ZZt+pglvV/wI09Vlt9ICSzhYQQGH2NMEGCKGULMbURAD2UmhyY8S9Hmb9cc33TMOCJTgw8=)
+  last-modified (1561058570643)
 }
 train (t-ob3se327317ycxv13auabqm4p) {
   utterance ("[g:CommitOrder] Order {[g:Item] (one)[v:Quantity:1] (small)[v:Size:Small]} and {[g:Item2] (one)[v:Quantity:1] (large)[v:Size:Large] (polo shirt)[v:SearchTerm]}")
-  plan (tY/dTgIxEIUPKMuCCrqL+PME3MgFr2BiwpXR9QUamIRJ6LLpjol6wbM7a01IG/aSNp1OzvmmM8UEt/RlbLWleb1hJ/N3WhFXgodQft5Zy/Lq1uSQh5YXY96REfLWY2gtSxY226WQrY+XeSuLylTEfRuOWZuzZw1PldtV5ISpjsdvmMXJmk1D8u3TlMLy3apHwxVNxF0ovnC59kY0YUHGrTYf5Gz8n4J/6Kg2QQddnOEcPSToI8UAQ1zgElcYYaz7GjfIkAMR2fsnU2X7ejdkk3f+yMOBVvjbr0Oeap5on0xfGmmXXN9PMPgF)
-  last-modified (1560959673634)
+  plan (tY/dagIxEIWPtv611lrX/ugTeKMXfQWh4FWx2xcIOuCAWZfsCLYXPruzpiAJ7mUTMknO+SYzwRDPdDA239Ks2LCT2RetiHPBKJTnO2tZPt2aHJLQ8mLMOzJC3hqH1iJjYbNdCNniepq3BlGainirwjGpco6sYZq7XU5OmIq4/ZJ5/7diLyG53JtMWH4q9ai5tIx4DcUPztbeiDpMybjV5pucjf+T8i9d1YaooY4b3KKBJlpoo4M73KOLB/TwqLOPJwyQABHZ+CPbyrZ0L8mu3mpn8rKgGX7343Iu2abWSfSl3rlKXe+dEw==)
+  last-modified (1561058176975)
 }
 train (t-oeitnhe1agi1rr3r0cewffyia) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (one)[v:Quantity:1] more (v-neck)[v:SearchTerm]} and {[g:AddedItem2] (one)[v:Quantity:1] more (sweatshirt)[v:SearchTerm]} ")

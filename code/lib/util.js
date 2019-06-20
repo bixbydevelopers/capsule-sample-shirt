@@ -22,7 +22,7 @@ function findItemIndex(order, item) {
    return -1
 }
 
-function findItems(items, searchTerm, sizeSearchTerm) {
+function findItems(items, searchTerm) {
    var matches = []
    //a lot can be improved here to improve matching the items
    for (var i=0; i<items.length; i++) {
@@ -31,8 +31,6 @@ function findItems(items, searchTerm, sizeSearchTerm) {
       } else if (textLib.fuzzyMatch(items[i].shirt.style, searchTerm)) {
         matches.push(items[i])
       } else if (textLib.fuzzyMatch(items[i].shirt.brand, searchTerm)) {
-        matches.push(items[i])
-      } else if (String(items[i].size) == sizeSearchTerm) {
         matches.push(items[i])
       }
    }

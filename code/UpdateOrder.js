@@ -5,6 +5,7 @@ var lib = require("./lib/util.js");
 //UpdateOrder
 exports.function = function(order, addedItems, changedItems, removedItems) {
    //remove, change and then add
+   console.log(addedItems, changedItems, removedItems)
    order = remove(order, removedItems)
    order = change(order, changedItems)
    order = add(order, addedItems)
@@ -18,6 +19,7 @@ function change(order, changedItems) {
   
    [].concat(changedItems.items).forEach(function(changedItem) {
      var index = (order.items.length == 1) ? 0 : lib.findItemIndex(order, changedItem.item)
+     console.log("!", changedItem)
      if (index >= 0) {
        if (changedItem.newSize) {
          // check if a different item already exists with newSize
@@ -41,7 +43,7 @@ function change(order, changedItems) {
          order.totalPrice = Object.assign({}, order.totalPrice)
          order.totalPrice.value += order.items[index].shirt.price.value*(changedItem.newQuantity - oldQuantity)
        } else if (changedItem.newQuantity == 0) {
-          order = remove(order, changedItem)
+          order = remove(order, {items: changedItem})
        }
      } else {
        if (order.length) {

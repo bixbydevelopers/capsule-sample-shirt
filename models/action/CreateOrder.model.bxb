@@ -5,6 +5,9 @@ action (CreateOrder) {
       type (InitialItems)
       min (Required)
       max (One)
+      default-init {
+        intent: goal: CreateItems
+      }
     }
   }
   output (Order)

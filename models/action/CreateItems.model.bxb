@@ -5,6 +5,11 @@ action (CreateItems) {
       type (Item)
       min (Required)
       max (One)
+      default-init {
+       intent {
+         goal: CreateItem
+       }
+      }
     }
     input (item2) {
       type (Item2)

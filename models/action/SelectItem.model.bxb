@@ -5,10 +5,6 @@ action (SelectItem) {
       type (SearchTerm)
       min (Optional)
     }
-    input (sizeSearchTerm) {
-      type (Size)
-      min (Optional)
-    }
     input (order) {
       description (order that is being updated)
       type (Order)

@@ -26,25 +26,6 @@ Change the quantity of the Polo Shirt
 Click Yes
 ```
 
-## Finding shirts
-
-Example 1: List of all available shirts
-```
-Show a list of all shirts
-```
-
-Example 2: Find specific shirt
-
-```
-Show Polo Shirts
-```
-
-Example 3: Find shirt with specific brand
-
-```
-Show Ralph Lauren Shirts
-```
-
 ## Creating an order
 
 Example 1: No reference to a shirt. System will prompt for the user to pick a shirt from the list of all available shirts. User will also be prompted for size and quantity.
@@ -66,44 +47,52 @@ Example 3: User refers to the name of the item that should be added to the cart.
 Buy a Large Sweatshirt
 ```
 
-Example 4: User makes an order with multiple items. Note that this is not trainable today (because of NL training limitation) but you can try using aligned-nl
+Example 4: User makes an order with multiple items. 
 
 ```
-Order 2 Polo Shirts and 1V-Neck Shirt
+Order 2 Polo Shirts and 1 V-Neck Shirt
 ```
 
 ## Updating the order
 
 ### Adding an item to the cart
 
-Continue on an order. 
+Example 1. Continue on an order and add one more item. 
 
 ```
 Add 2 Medium Polo Shirts to my order
 ```
 
+Example 2. Continue on an order and add one two more items
+
+```
+Add 1 small polo and 2 small collar dress shirts to my cart 
+``` 
+
 ### Deleting an item from the cart
 
-Continue on an order. Similar behavior as changing size or quantity.
-
-Example: 
+Example 1: Remove an item from the order. 
 ```
 Remove Polo Shirt from my order
 ```
 
+Example 2: Remove multiple items.
+```
+Remove the polo shirt and the collar dress shirt
+```
+
 ### Changing shirt size
 
-Continue on an order.
-
-Example 1: This should work without any prompts if there is only a single item in the cart.
+Example 1: This works without any prompts if there is only a single item in the cart.
 If multiple items in the cart and none is referenced then user will be prompted to choose an item from the cart.
-If there is no items in the cart then this should just state that there's no items.
+If there is no items in the cart then it will just state that there's no items.
 
 ```
 Change the size to Large
 ```
 
-Example 2: Use a searchTerm to reference one of the items in the cart.
+Example 2: This works without any prompts if there is only a single Polo Shirt in the cart. You will be prompted to 
+choose one of polo shirts if multiple "Polo Shirts" in the cart (e.g. small one and a large one)
 
 ```
 Change the size of the Polo Shirt to small
@@ -111,47 +100,63 @@ Change the size of the Polo Shirt to small
 
 ### Changing shirt quantity
 
-Continue on an order. Same behavior as change size. 
-
-Example:
+Example: 
 
 ```
 Change that to 3 Polo Shirts
 ```
 
-### Changing and adding to the cart
-
-Continue on an order and change an item and add another item in one input.
+### Changing multiple items in the cart
 
 Example:
+ 
 ```
-Make that  a Large V-Neck and add an Oxford Dress Shirt
+Change the V-Neck to Small and the polo shirt to Large
 ```
+
+### Changing and adding to the cart
+
+Example: Continue on an order and change an item and add another item in one input.
+         
+```
+Make that a Large V-Neck and add an Oxford Dress Shirt
+```
+
+### Changing and removing from the cart
+
+Example: Continue on an order and change an item and remove another item in one input.
+         
+```
+Change the polo shirt to Large and remove the v-neck and the collar dress shirt
+```
+
 
 ### Changing shirt size without providing a value
 
-Continue on an order.
-
-Example 1:
+Example 1: Ask to change quantity without specifying the new size. You will be prompted to choose a shirt if 
+multiple items in the cart and then you will be prompted to provide the size.
 ```
 Change the size
 ```
 
-Example 2:
+Example 2: You will be prompted to choose a shirt if multiple "Polo Shirts" in the cart (e.g. small one and a large one)
+or you will be prompted to choose an item if no items matches "Polo Shirts". Then you will be prompted to provide the 
+size.
 ```
 Change the size of the Polo Shirt
 ```
 
 ### Changing shirt quantity without providing a value
 
-Continue on an order.
-
-Example 1:
+Example 1: Ask to change quantity without specifying the new quantity. You will be prompted to choose a shirt if 
+multiple items in the cart and then you will be prompted to provide the quantity.
 ```
 Change the quantity
 ```
 
-Example 2:
+Example 2: You will be prompted to choose a shirt if multiple "Polo Shirts" in the cart (e.g. small one and a large one)
+or you will be prompted to choose an item if no items matches "Polo Shirts". Then you will be prompted to provide the 
+quantity.
 ```
 Change the quantity of the Polo Shirt
 ```
