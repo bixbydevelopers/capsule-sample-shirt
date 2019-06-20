@@ -93,7 +93,7 @@ Change the size to Large
 ```
 
 Example 2: This works without any prompts if there is only a single Polo Shirt in the cart. You will be prompted to 
-choose one of polo shirts if multiple "Polo Shirts" in the cart (e.g. small one and a large one)
+choose one of polo shirts if multiple Polo Shirts are in the cart (e.g. small one and a large one)
 
 ```
 Change the size of the Polo Shirt to small
