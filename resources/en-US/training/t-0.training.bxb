@@ -1,5 +1,5 @@
 train (t-0rwiea5s67kfb105zmd9lqt0b) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the Size to {[g:ChangedItem] (Large)[v:Size:Large]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Large)[v:Size:Large]}")
   plan (hZBNDoIwEIUfguIPbDQucKMeALYewJUrE40HIDCRJiBNqYlxwdmtFBdUiW3avpnvTaYtfCzpERc8p6jKmJDRiRJiXCLopvdlUTB5FCkJLLpIJw3/haexJI22vai+N7rCyuiWxbcrpQdJRYWNwQSpko4j6K3G+k8xdn8MdaJ1yFQQclFyEpKpK//8BeMdZ8opkW2nucHYk+DDwgA2HAwxgosxJpiqOYMHfDFbrbfDahjaXavPcFRsK7enTvcF)
   last-modified (1561058152275)
 }

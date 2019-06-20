@@ -47,7 +47,7 @@ Example 3: User refers to the name of the item that should be added to the cart.
 Buy a Large Sweatshirt
 ```
 
-Example 4: User makes an order with multiple items. Note that currently adding up to 3 items in a single input is 
+Example 4: User makes an order with multiple items. Note that currently adding up to 3 items in a single utterance is 
 supported.
 
 ```
@@ -77,7 +77,7 @@ Example 1: Remove an item from the order.
 Remove Polo Shirt from my order
 ```
 
-Example 2: Remove multiple items. Note that currently removing up to 3 items in a single input is supported.
+Example 2: Remove multiple items. Note that currently removing up to 3 items in a single utterance is supported.
 ```
 Remove the polo shirt and the collar dress shirt
 ```
@@ -86,7 +86,7 @@ Remove the polo shirt and the collar dress shirt
 
 Example 1: This works without any prompts if there is only a single item in the cart.
 If multiple items in the cart and none is referenced then user will be prompted to choose an item from the cart.
-If there is no items in the cart then it will just state that there's no items.
+If there is no items in the cart then capsule will just state that there's no items.
 
 ```
 Change the size to Large
@@ -110,7 +110,7 @@ Change that to 3 Polo Shirts
 ### Changing multiple items in the cart
 
 Example: Changing sizes of two different items in the cart. Note that currently changing up to 3 items is supported in
-a single input.
+a single utterance.
  
 ```
 Change the V-Neck to Small and the polo shirt to Large
@@ -118,7 +118,7 @@ Change the V-Neck to Small and the polo shirt to Large
 
 ### Changing and adding to the cart
 
-Example: Continue on an order and change an item and add another item in one input.
+Example: Continue on an order and change an item and add another item in one utterance.
          
 ```
 Make that a Large V-Neck and add an Oxford Dress Shirt
@@ -126,7 +126,7 @@ Make that a Large V-Neck and add an Oxford Dress Shirt
 
 ### Changing and removing from the cart
 
-Example: Continue on an order and change an item and remove another item in one input.
+Example: Continue on an order and change an item and remove another item in one utterance.
          
 ```
 Change the polo shirt to Large and remove the v-neck and the collar dress shirt

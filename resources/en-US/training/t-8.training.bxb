@@ -14,7 +14,7 @@ train (t-85ttbk8pmov0804binicyzjtq) {
   last-modified (1561058160428)
 }
 train (t-88czvbpceamwqhin4n80c9cq3) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the Size to {[g:ChangedItem] (Medium)[v:Size:Medium]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Medium)[v:Size:Medium]}")
   plan (hZBNDoIwEIUfguIPbDQucKMeALYewJUrE40HIDCRJiBNqYlxwdmtFBdUiW3avpnvTaYtfCzpERc8p6jKmJDRiRJiXCLopvdlUTB5FCkJLLpIJw3/haexJI22vai+N7rCyuiWxbcrpQdJRYWNwQSpko4j6K3G+k8xdn8MdaJ1yFQQclFyEpKpK//8BeMdZ8opkW2nucHYk+DDwgA2HAwxgosxJpiqOYMHfDFbrbfDahjaXavPcFRsK7enTvcF)
   last-modified (1561058160790)
 }
