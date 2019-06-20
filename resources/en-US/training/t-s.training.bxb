@@ -1,20 +1,30 @@
 train (t-s19hikllsrvenjow0778h9qft) {
-  utterance ([g:CommitOrder:continue,r:UpdateOrder,r:GetSize] Change the size)
-  plan (hZBNCsIwEIVfrX+t3YkL3YgHaLcewIW4UhQPUJrBBhob0hHERc9uaEVtVSTw8vK+GSYJAkzoGiudUVSk0nC0p4SkZkyb8SpXSvLWCDIYN1EdtuqPWsRMNVr8ROWl8sXHtDQ+n0hsmBTmLWTIdrwXLP8UlEntQ2kPoTa5JsPSDv36jlkz3JlcaSZxkDdqf9WauIpbLQfKKOHH5QI46MBFFz30McDQLg8+RkCDuBX1rDoVwVNfzrW7bxV3)
-  last-modified (1557351489578)
+  utterance ([g:CommitOrder:continue,r:UpdateOrder,r:GetSize] Change the Size)
+  plan (hVDLCsIwEJxa31Yv4qFe1A+oVz/Ag3hSLH5AaRcNGBvSFcRDv93QFqFRKYHJZGeG3SwmmNEzkupG6+wqNK9PFJNQDL9e3qZSCj7ohDSmdaksWv6zSiKmUlr9lfJHwTPMrW7X6H6hZM8kMywtTZOJ1Bz+3zQWDWFsGgx5XPJAmEegdKpIszAj/9yC9Y+jTqViSkLxInvRO+KibEVCulHM1XATOGjBRRsddNFDHwMMzRnBwxj4Ut3CMTLoFCoqLBk+zDW3ZxBv)
+  last-modified (1560812743724)
 }
 train (t-s31tifgs6ps56sw9k6ugr73jn) {
-  utterance ("[g:CommitOrder,r:UpdateOrder] Make the {[g:ChangedItem] (v-necks)[v:SearchTerm] an (extra small)[v:Size:ExtraSmall]}")
-  plan (hY9LCsJADIb/Wmt9LxRB3YgH0K0HcOVK8HGAMg12oKPDdARx4dmNrYJTFSdMSPL9SQg6GNAlUjqleZZIY+cbEiS1xcgtL09KSbs2MRn0XVQUS/q9jiNLBZr+RLdzHmcf25LoeKB4ZUlhUkKGuONdsPgjuIkinklOZtqcNBkreenYbdxSSsI+hw6/sZx8vf5DHhmR7Mgo9EpEXgldeKjARxUBaghRRwPN3FpoAw6tMfXZN9hCJsi/618v4Nxn/5jiIbgD)
-  last-modified (1559953470470)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make the {[g:ChangedItem] (v-necks)[v:SearchTerm] an (extra small)[v:Size:ExtraSmall]}")
+  plan (hZBNCsIwEIVfrVr/FUWwbtQD2K0HcOVK8OcApR1soLEhjSAuPLuxFaRpxQwJM/O9NwnBEFO6+1zE5KURk8o7UEBMKLjF9jbhnKm9DEliUkR509CfRegrytHqJ3resjzF3Lgt8q8XCneKeIqlwSRpS0Hh/nRj8ceMzR/BM8jzNdPFWshEkFSs/OQjxRSoz9BZFctI5d+V5L4MohNJjrFB2IMwgoUabNTRQBMOWmijgy56WfQxAEqKllbY+uzqaGuKbMPIvquha1s739MsOC8=)
+  last-modified (1561058181724)
 }
-train (t-s9v9om8ukz3rlfexka7krfiff) {
-  utterance ([g:Shirt] Show a list of all shirts)
-  plan (Y2BkEE6tSMwtyEnVK87ILCrRCwaRDCDACCIA)
-  last-modified (1551201433404)
+train (t-scdvkeh6ucbpa3awiw2c49yow) {
+  utterance ("[g:CommitOrder,r:UpdateOrder] Add a {[g:AddedItem] (small)[v:Size:Small] (t-shirt)[v:SearchTerm]} and a {[g:AddedItem2] (medium)[v:Size:Medium] (t-shirt)[v:SearchTerm]}")
+  plan (tZHPSgMxEMa/umu71tZq/9huQcGbl/bgG0ih4Elw9QGWZqABY0M2gnjoszvNgpiw8aRZmITvm9/MZIM5JvRRKv1Ky2orjV0+0Yaktsh9ebVTStpHI8hg5Fu1GOS/aFFaqq2bqLV/d+cKMz/lXggSD5ZUhetgDkMM/PCnETJa8i6OXP3aC0PfbupSI865jTl7yWGhzU6TsZIv/191G98pEItDDP/IWr6J2gjGKKg0m+0zGfVndYLLF/KTGrU5WjhCghTHaKODDCfo4hQ99HGGAc5xwd8QI4wxwSWmmCEHPKrtqI6juo5KeO85auCoPtdpOQrfMeU99RQEGYeV8Tnh2mPum3H3nPvylF8=)
+  last-modified (1560832167219)
+}
+train (t-si2rs2er3g6s2waceogev1vre) {
+  utterance ("[g:CommitOrder] Order {[g:Item] (3)[v:Quantity] (small)[v:Size:Small] (t-shirts)[v:SearchTerm]}, a {[g:Item2] (small)[v:Size:Small] (polo)[v:SearchTerm]}, and {[g:Item3] (10)[v:Quantity] (large)[v:Size:Large] (v-necks)[v:SearchTerm]}")
+  plan (zZBfT8IwFMUP4oDJJgoOBv579UUe9COYmPBkdH6BBW5CEzqWribqg5/dS0vUNi7xRWOT3qbn3N/tSXGOhJ5zWa5oWi2F0tMHmpMoNcaufLOWUug7tSCFgWtZ0e9XlGuy1sS1ZoXQIl/NNMnqe8xafQ9jEWldOy7qnDfB5bJU65KUFlT58Tc9V3/52PWvPTZ0O++f8kIL/VKre+GyTcXIFW9FsbCGlzCjXM2Xj6Tkv5vj/W8mXunH2hka2EETuwjQQhsdhNhDFxFi7KOHAxyijwGOkGCIEVKMMcExTnDKLDw62NLBlu4w3zN029BdQ0dGbxj6c4OnuCc+nK/VrohvLc6Wco7Q5Ik5Z8KZmqyHiN8B)
+  last-modified (1560959674410)
 }
 train (t-siwq2u49bd22awnjrivrsgpw9) {
   utterance ([g:CommitOrder:continue:Order] Commit my order)
   plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
   last-modified (1551201433462)
+}
+train (t-sornusnv1lodewgn1wp1cgrve) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (henley)[v:SearchTerm]}, the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}, and the large {[g:RemovedItem3] (pullover sweatshirt)[v:SearchTerm]} from my cart")
+  plan (zZJNbsIwEIUfBNLQAA2/TViUcgEW9AhdsaoE9ABRMhKRsIgcF7Hq2ZkaUOsogQ1IteWRZ95887wwAgxoH4p0Q9NsnUg1XVBESaoQmOX3rRCJ+pAxSfRM6VjM9X+mcajoKE1Kpe8vfc8wyj9CbHcUzxWJDK+5l0hixOgISmmMr8AXnGd3mvt2y7lL2lCkTppfpBUroYzWK5L/ZV7hlyo3eUEFVViooQ4bD3DQwCNcNNFCG0/w0EEXPfQxwBDPxvaBHG1r2ta0o+m2pl2mLa64nHucD3lXNI1T/Dm1P/FXOUdzOVy12LHDjj779XXWQPMA)
+  last-modified (1561058622388)
 }

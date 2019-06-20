@@ -1,12 +1,17 @@
+train (t-iefwd3fqnb1cvufcgjjxli455) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Switch the {[g:RemovedItem] (2)[v:Quantity:2] (collar dress shirts)[v:SearchTerm]} for an {[g:AddedItem] (oxford dress shirt)[v:SearchTerm]}")
+  plan (hZHdTsJAEIUPtIqggICU1gt/7ryRdzAmJl4ZRR+g6U7CJpRutovRG57dcVsDW9qYSWYnc843O9nFDFP6ilO1onm+lNrM3yghqQwit/2Ypak0L1qQxsSVimbF/6FEbKiQbhul7cbWOULX8iAEiWdDaY6ryh6aGNjTZw0kxq5ge2HdMKvcNSlbyele6UyRNpJXvay+V5p9/i1zUzfFcUSNNK7/gRG4htdNvDbSfFc3WtCKElMyYZ1mldpfPLDHOlm+kz6wL35z9fGf5FoUQvOcCC204cHHEY7RwQm66OEUZ+hjgCHHOUYY25jgAlMEQA3jl0yPqQEzHucRR9cyLcugzP5eXVS7c1d3+PQ4Bzx1yHe3ue7/AA==)
+  last-modified (1560878194581)
+}
 train (t-igs1x1lohxceai3fn1l2slis0) {
-  utterance ([g:CommitOrder:continue:Shirt,r:example.shirt.CreateOrder,r:example.shirt.CreateItem] Buy it)
-  plan (Y+BgEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCKKrL0pNLEmFSAmhSnmWpOYySGBTDpbRwCVTlwkkdAuK8gtSi0oyU4vR3REMIhnYGRgZmBiYGVgYWBnYgDwGJD4rkM0AxyDADGSxAkkGAA==)
-  last-modified (1559946118558)
+  utterance ([g:CommitOrder:continue:Shirt,r:CreateOrder,r:CreateItem] Buy it)
+  plan (dY5BCgIxDEW/jlp1qQjqCdw4l3A1K0FPMGjAwNQpaRauPLsZumpxCvkk7yVQrLGjT+tDR3V8sWh9owdxUBxyfOm9Z73KkwTbXCVY7gu1Skkdc9W8WbntGiUf/58ltSnODGI/to7TmPmyxTlIH0iUKZbfvw+JFSaYosIMcyzgsDSCgjmbkdXwKuucJX4=)
+  last-modified (1560832166256)
 }
 train (t-iv7m4bbb8k3n2tb3wgykthgz9) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder,r:GetQuantity] Change the quantity of the (polo shirt)[v:SearchTerm]")
-  plan (hZBLagJBEIZ/HaOJRrOQQJJFxAPo1gO4EFcaHwdoZopMg+00ZQm68ew20yL2jGIXFFX1/fWg0cEnHZSxGxruUs0yXFBM2gq+w/I4M0bLjBNidEPkiwX92iZKyKP+Q3Ta5/GutC1V239KpkIGvQJich23gtETwSn28UC7ZGA5s8Si3dLfsHHOmbFCyd9ebUXLsXjUhOSKfkK0pA3Fcrnn6x7Lyd2PK8kVx+mK2OADFVQRoYYX1NHAK97QRAvvubWBEq87HjnfclbJOQLvI/9qLmu7iRFwBg==)
-  last-modified (1559953383743)
+  plan (hZBNbsIwEIUfDZS/UqgqJOgC2gPAlgN0gVi10HIAKxk1ljCxJhMJNpwdK0GVYoLwSNbMvO/ZY2OAIR2UsTuap7FmmW8oJG0F43L7MzFGyxdHxHgtS0XT47c2UkKF9HFTOmV5nuLNuy1W+z+KVkImxbunMTlLiRjfdGN6x4zFHeAUFvlMu2JmObHEot3Ik7LxmxNjhaJ1pvai5egPtST5l7zX/tCOQrnMM6rScqXy269wxWH8S2zwghoeEKCOBh7RRAttdNDFE3p4zqMPVDItxwRu77mo5Qwuu58Vq+6qvjs5AM4=)
+  last-modified (1560812741203)
 }
 train (t-iws07glq1mghw46ipa72os5xa) {
   utterance ([g:CheckStatus] Check on my shirt order)

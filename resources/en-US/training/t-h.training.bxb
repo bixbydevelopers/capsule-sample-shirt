@@ -1,10 +1,15 @@
+train (t-h311p914zg94o13adhgr77dvq) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get {[g:AddedItem] (one)[v:Quantity:1] more (polo shirt)[v:SearchTerm]} and change the {[g:ChangedItem] (v-neck)[v:SearchTerm] to a (medium)[v:Size:Medium]}")
+  plan (hVFLT8JAEP60KLUgYhEoHHzcvMDVszEx8WS0+gOadmI3odAsS6Ic+O0O22LcpQ3Z7Ox0vsdsZzFCn76jLJ/RdJkKqabvFJPIFUZm+WmRZUK9yoQkeiZUFC3+Z55EigrorhbarHS+RGBSHpOEkhdF2RJj6x5pNP/aYdcWJonN/mmHNa64rRIa1qPatrg5IMbDAcImLvKJ4I9JLhc5SSV4Cr4p1GZBlZlG7uuQje07MJlvq2iuhPqxZxvSjGJV/kRQhWmk8vn36JGM0w+Se/RwG+2XeRbzpADqfazhhGJNGOMIx3DQwAlO0YSLM3hooY1zdHCBLi7ho6fXFfoYYIgA+FNtdU1WFiq3VLVY5XD0eXW0qs0K6I3y3O2GUYWVu5w5HLvc1+MbBNzXhfcL)
+  last-modified (1561058168709)
+}
+train (t-h8vuljtrm4zz9uystgndon5ff) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] make that {[g:ChangedItem] (2)[v:Quantity:2] (t-shirts)[v:SearchTerm] in (extra large)[v:Size:ExtraLarge]}")
+  plan (hZDLTsMwEEVvG+iLPngIRNkAH9Bs+wGsWFW08AGWMyKW6tZyphJ0kW/vyEGCmFT1yPbY516PbVzilr6UdWtKi9x4TpekyTjGtL79srXW8MJn5HFTR9VmpP9wmWKq0PNRVO5CXuAhqparzSdlr0y2wFPEPImlppgedePxhBnzE4JSV/nMyGLm/NaRZyNXvqsb33Zqw4a/46esaE2af4rdN7FAGv/0n1x5nb+Tt7iOiNkTrtBCGwnOcI4OuuihjwEuMMQoxBgToEHTE00i41CiLxyh40/2O1etI+tE3INwZgvdAw==)
+  last-modified (1561058169067)
+}
 train (t-hg3krq7e4zqq30hib9n12tqq6) {
   utterance ("[g:Size:prompt] I'm an (extra large)[v:Size:ExtraLarge]")
   plan (Y2BiEEqtSMwtyEnVK87ILCrRC86sSsUqxgiEDAw8QMwExEA2AA==)
   last-modified (1559955636558)
-}
-train (t-hzit90zcj6gptfubpaa738v0n) {
-  utterance ("[g:Shirt] Find (pullover sweatshirts)[v:SearchTerm]")
-  plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
-  last-modified (1559953371498)
 }

@@ -1,0 +1,7 @@
+structure (RemovedItems) {
+  property (items) {
+    type (RemovedItem)
+    min (Required)
+    max (Many)
+  }
+}

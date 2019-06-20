@@ -1,11 +1,13 @@
 capsule {
   id (example.shirt)
-  version (2.12.7) // Updated SearchTerm coverage
+  version (2.12.8) // Support adding and removing multiple items - removed find shirt examples
   format(3)
   runtime-flags {
     support-halt-effect-in-computed-inputs
     modern-prompt-rejection
     concepts-inherit-super-type-features
+    allow-dialogs-on-detail-pages
+    no-fallback-to-result-collections
   }
   targets {
     target (bixby-mobile-en-US)

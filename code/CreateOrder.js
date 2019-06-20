@@ -1,15 +1,13 @@
 var dates = require('dates')
 var config = require('config')
 //CreateOrder
-exports.function = function(items) {
-  return items.map(function(item) {
-    return {
-      items: items,
-      totalPrice: calculateTotalPrice(items),
-      orderNumber: 23343,
-      holdTime: dates.ZonedDateTime.now("UTC").plusSeconds(parseInt(config.get("hold_time"))).getMillisFromEpoch()
-    }
-  })
+exports.function = function(initialItems) {
+  return {
+    items: initialItems.items,
+    totalPrice: calculateTotalPrice(initialItems.items),
+    orderNumber: 23343,
+    holdTime: dates.ZonedDateTime.now("UTC").plusSeconds(parseInt(config.get("hold_time"))).getMillisFromEpoch()
+  }
 }
 
 function calculateTotalPrice(items) {

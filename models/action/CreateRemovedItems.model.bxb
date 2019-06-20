@@ -1,0 +1,21 @@
+action (CreateRemovedItems) {
+  type (Constructor)
+  collect {
+    input (removedItem) {
+      type (RemovedItem)
+      min (Required)
+      max (One)
+    }
+    input (removedItem2) {
+      type (RemovedItem2)
+      min (Optional)
+      max (One)
+    }
+    input (removedItem3) {
+      type (RemovedItem3)
+      min (Optional)
+      max (One)
+    }
+  }
+  output (RemovedItems)
+}

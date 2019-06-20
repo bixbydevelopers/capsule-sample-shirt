@@ -1,0 +1,3 @@
+structure (RemovedItem3) {
+  role-of(RemovedItem)
+}

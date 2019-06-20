@@ -1,0 +1,15 @@
+train (t-487yb5rc7x7wwqnylbs3rz156) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (oxford dress shirt)[v:SearchTerm]} and the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}")
+  plan (rVHLCsJADBxtra1vK4r1ov6AB3/BkyfBxweUNmChi2W7iie/3fhA7NIqiBs2hJnJJBD00KezL5KYZuk+kmq2poCiRMHLwouDEJFayZAkelnqAWr6XRL6ih7UtJC6HO91ipG+hDicKFwqEikm2iaSuCWj8Aq7Mf7S/GHy/J++G4opUE9umMflM74M9luSv/rlnqp4yAAllGHARAUWqrDhoIY6GmiihTY66L7CBTS19aa2WW1wrnPd4Sjd1Xjm2zc17P1ZjBjs6LJji2dU4VwB)
+  last-modified (1560832165273)
+}
+train (t-4aoyln61j5c2cff1kbi3p5m68) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (1)[v:Quantity] (small)[v:Size:Small] (polo)[v:SearchTerm]} and {[g:AddedItem2] (2)[v:Quantity] (small)[v:Size:Small] (collar dress shirts)[v:SearchTerm]} to my cart")
+  plan (tZFfS8MwFMXPbN20bk5b938KvvniHvwGIgg+iVY/QFkuLGC3kmage9hn9y5FMaHxSVtI0nPyu/c0wRQ9es/y4o1m5UIqPXumOclCY2TLd6s8l/pRCVJIbKsSnf2vhcg0Vdal19quzbrE0N5yKwSJB015iQsnhyIGfvgDD+kteeNHzn/thdi267pUiHGufM5W8nBdqFVBSkv++f+qW3tPfVt8WmdLLfWHV3eKpLvRPcF7uRSV4cROKVPzxQup/M/qOIeVyg3ValM0sIcAIfbRRAsHOESEI7TRwTG6OMEpvzESnKGHPgYYYoQxJoBFNg3ZMmRkyIDnDvNtQ3YNuftuGBLfY8hzaClfj6tFvA64R8w5xtwv4SQTzsCpPwE=)
+  last-modified (1561058156126)
+}
+train (t-4ptbdf5t6ton607m5wsqkiz5a) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Switch the {[g:RemovedItem] (polo shirt)[v:SearchTerm]} with a {[g:AddedItem] (collar shirt)[v:SearchTerm]} ")
+  plan (hZHdSgMxEIXPtqu16mptrd164c+dN/YdpFDwSrD6AMtmoIHGDdkoXvXZjdmqmzRBAsMw35kzwwQXGNNnIeSaZvWKKz17ppK41Ji65XklBNdPipHCyEVN0dO/SlZoatBtFG3ebV4jdyUPjBF71CRqXHl7KDINLT6JdGLoAlvLQ2aW3MXIhptwL1UlSWluVr307yWqj59lbkIujmIa7cb1P83+5CWtqdRbloeYJcHf2pEXqly9kNqRL7+jf+QFf2MNiPtMkKCDLlLsYR89HKCPQxzhGBlOcIoBzuwbYoRzjIGAPm3puyYOzOtbfWL12Ma0lf8R/NZgHBPj0DNzMjOxY7LsCw==)
+  last-modified (1560878202398)
+}

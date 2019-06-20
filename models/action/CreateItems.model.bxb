@@ -1,0 +1,28 @@
+action (CreateItems) {
+  type (Constructor)
+  collect {
+    input (item) {
+      type (Item)
+      min (Required)
+      max (One)
+      default-init {
+       intent {
+         goal: CreateItem
+       }
+      }
+    }
+    input (item2) {
+      type (Item2)
+      min (Optional)
+      max (One)
+    }
+    input (item3) {
+      type (Item3)
+      min (Optional)
+      max (One)
+    }
+    
+    //more can be added if needed
+  }
+  output (InitialItems)
+}

@@ -1,3 +1,8 @@
+train (t-xnj2agljbjpdmx9lk7e7051qw) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (2)[v:Quantity] (henley tanks)[v:SearchTerm]} and remove the {[g:RemovedItem] (polo)[v:SearchTerm]} from my cart")
+  plan (hZHdTsJAEIUPtIqIVn4Eihf+3Hkj70BMTLwyij5A052ETVjabBejNzw767YQdunGbDKdne+cmckWYwzpJxH5kqbFgks1/aCUeK4wscvPmRBcvUlGEgMblUVH/5WzRFGJHrxoszZ5gdiWzBgj9qpIFLh19pCkDQd87HGibwNTi+uaGfLoIxuuw1Mus5yk4nrVka18XycrxdUvbtx3FNn3bsn7uu6WYuJ14+4fszt5TktKVcXiOmZI7V88kicyXXySPJLP/6L7+C98xUrg7xOjgSYChDjBKVo4Qxvn6OACl4hwhS566JszwDWGGAG1jvDAEejY06dtHA3jQBXDKse+vrtjn7f0N9Cxo6dFem5T59EW)
+  last-modified (1560878058801)
+}
 train (t-xrvrwhfi797644hz5qsv1uhc2) {
   utterance ([g:CancelCommittedOrder] Cancel my shirt order)
   plan (Y2BiEE2tSMwtyEnVK87ILCrRC0pNTs0sKGFQQhV2TsxLTs1xzs/NzSwpSU3xL0pJLWJgBEIGKAaSAA==)

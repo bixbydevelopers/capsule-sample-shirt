@@ -1,0 +1,7 @@
+structure (ChangedItems) {
+  property (items) {
+    type (ChangedItem)
+    min (Required)
+    max (Many)
+  }
+}

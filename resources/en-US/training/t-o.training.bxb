@@ -1,5 +1,20 @@
+train (t-o6k15ymxbtef23ladliazteab) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get rid of the small {[g:RemovedItem] (logo t-shirt)[v:SearchTerm]}")
+  plan (hZBNCsIwEIVfTbVaqxsRrBv1Ar2EK1eCPwcozUALDQ1pFFee3ZAWpLHFDMxk5nuPDMECa3qlQpaU1HmhdHKhjAqpEXfHx0qIQp8VJ4VVFzVDR3+XPNXUoMMgej/svcbWXUJUT+InTaLG3tlEkbF0FPGgG7s/ZvflK5WU6ZZt+pglvV/wI09Vlt9ICSzhYQQGH2NMEGCKGULMbURAD2UmhyY8S9Hmb9cc33TMOCJTgw8=)
+  last-modified (1561058570643)
+}
+train (t-ob3se327317ycxv13auabqm4p) {
+  utterance ("[g:CommitOrder] Order {[g:Item] (one)[v:Quantity:1] (small)[v:Size:Small]} and {[g:Item2] (one)[v:Quantity:1] (large)[v:Size:Large] (polo shirt)[v:SearchTerm]}")
+  plan (tY/dagIxEIWPtv611lrX/ugTeKMXfQWh4FWx2xcIOuCAWZfsCLYXPruzpiAJ7mUTMknO+SYzwRDPdDA239Ks2LCT2RetiHPBKJTnO2tZPt2aHJLQ8mLMOzJC3hqH1iJjYbNdCNniepq3BlGainirwjGpco6sYZq7XU5OmIq4/ZJ5/7diLyG53JtMWH4q9ai5tIx4DcUPztbeiDpMybjV5pucjf+T8i9d1YaooY4b3KKBJlpoo4M73KOLB/TwqLOPJwyQABHZ+CPbyrZ0L8mu3mpn8rKgGX7343Iu2abWSfSl3rlKXe+dEw==)
+  last-modified (1561058176975)
+}
+train (t-oeitnhe1agi1rr3r0cewffyia) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (one)[v:Quantity:1] more (v-neck)[v:SearchTerm]} and {[g:AddedItem2] (one)[v:Quantity:1] more (sweatshirt)[v:SearchTerm]} ")
+  plan (tZFPS8NAEMVfTWxjba2m9k8KCt682IPfQATBk2j1A4TuQBfcdtlsQS/97E43KN2l60kTmAnv7e/NJMEEA/oolX6nabWQxk5faE5SWxS+fL9SStonI8ig71u1GJx/06K0VFtXUWuzds8Vxv6ROyFIPFpSFS6DPQwxsOOPImQ08jaOXPw6C7lv75tSI865jjkbyeVGm5UmYyW//H/l7v1PQ198XpdLK+1nVA9CZtsafsEHuRS1Eaw9o9LMF69k1J/lTNDAARKkOEQTLWQ4QhvH6KCLE/RwijO+c/RxjgGGGGGMAvCopqNajmo7KuHeZbbjqJ6jGo7CT025p57yfe1qGfeEs3OenfEWBc/lLb8A)
+  last-modified (1560817152430)
+}
 train (t-ottu8a2d6xz20yt0jg4f7hhxc) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] add {[g:AddedItem] (20)[v:Quantity:20] (pullover sweatshirts)[v:SearchTerm]} ")
-  plan (fY/LCsIwEEWv1kd9LhRfS3du7D+IILgSrX5AaQYaMDXECLrptxtTERPQLGaGey4zN+hjRPdEyDNF14wrHR0oJS41Zq68vgjB9U4xUhi6qBQ9/0myRNMf//ynv7jZ+YqJa1kxRmyrSWDgAqtNvbyKzA5LFr9IwU1ZSnWRpDQ3B8euc39Lcs31w/9A/Kp+ug3PWQm8JDElKs2OpAR6qKCKADXU0UATIVpoo4OuIXiz4IuFllUsK1/tM5W9bnpg/G27u/EE)
-  last-modified (1559953431363)
+  plan (fY/JCgIxEERrXMddFLeL4M2L/oMIgidx+4DBNBgwGjIR9OK3m8l4MMExh07Sr6pTQRs9ekRCXmgen7nS8x2diEuNkdte3oTgeqMYKXRdlDY9/VGySNMf/SRT/7rbc4yhK1kwRmytScQYe+EUGcMXH2Q40XGB7Q1/DbNkmkVe3JSZVDdJSnMTte8qt/foqrl++l/fJ9VPt+JXlgIvyZ4idTofSAm0ECCHPAooooQyQlRQRQ11NNA0FB+e93jV8sDydCV7wbnBeALjDM205J3wDQ==)
+  last-modified (1560812742771)
 }

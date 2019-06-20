@@ -1,0 +1,5 @@
+train (t-p7f19zafryah1rkj0e9vg13cz) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] remove the small {[g:RemovedItem] (t-shirt)[v:SearchTerm]}")
+  plan (hZBNCsIwEIVfTbVaqxsRrBv1Ar2EK1eCPwcozUALDQ1pFFee3ZAWpLHFDMxk5nuPDMECa3qlQpaU1HmhdHKhjAqpEXfHx0qIQp8VJ4VVFzVDR3+XPNXUoMMgej/svcbWXUJUT+InTaLG3tlEkbF0FPGgG7s/ZvflK5WU6ZZt+pglvV/wI09Vlt9ICSzhYQQGH2NMEGCKGULMbURAD2UmhyY8S9Hmb9cc33TMOCJTgw8=)
+  last-modified (1561058588732)
+}

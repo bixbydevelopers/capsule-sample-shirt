@@ -1,5 +1,10 @@
 train (t-6izg5mtxx1642kdclje12xe28) {
   utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Order a (small)[v:Size:Small] (t-shirt)[v:SearchTerm]")
-  plan (dY5NCsIwEIVf1dS/nSLqDdzYSwiCK8F4gdIOdMDYMM1CXHh2Y4tigi7mLb7vDTOYYkG33NgLZU3F4rITFcTWYR3iXW0Mu6OUJJiHqoNxXyh31KlZqA6ODFa/6q3Z/DMP9rG1UlsSx9TEf+hXYhnCPV/LTkQXNeVSVGcSE/+n+U6YIEEPfQygkGKIEcae4Yuqlqae4DPvhLdJu6F8G08=)
-  last-modified (1559953195853)
+  plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7cYGBwk6yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3e+ZU6tgZiF2/+o4/jMvtnFSulWkDVMXnp9/ElsfXrgpnQh+zEnoorqTluF9OT8JC0QYYIgRxpggRoIpZphbjsDEvUkshfe+CduL+mVsV3gD)
+  last-modified (1560832165304)
+}
+train (t-6qwwk4l7xmswmo6olhx4rpryy) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (henley tank)[v:SearchTerm]}, the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}, and the {[g:RemovedItem3] (logo tee)[v:SearchTerm]}")
+  plan (zZJNbsIwEIUfBNLQAA2/TViUcgEW9AhdsaoE9ABRMhKRsIgcF7Hq2ZkaUOsogQ1IteWRZ95887wwAgxoH4p0Q9NsnUg1XVBESaoQmOX3rRCJ+pAxSfRM6VjM9X+mcajoKE1Kpe8vfc8wyj9CbHcUzxWJDK+5l0hixOgISmmMr8AXnGd3mvt2y7lL2lCkTppfpBUroYzWK5L/ZV7hlyo3eUEFVViooQ4bD3DQwCNcNNFCG0/w0EEXPfQxwBDPxvaBHG1r2ta0o+m2pl2mLa64nHucD3lXNI1T/Dm1P/FXOUdzOVy12LHDjj779XXWQPMA)
+  last-modified (1561058157176)
 }

@@ -1,5 +1,5 @@
-train (t-uyrsdwhgz1r70gbj3yfcvibeu) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (large)[v:Size:Large] (sweatshirt)[v:SearchTerm]")
+train (t-3rl2ywnywa5jht16rs86kqd2w) {
+  utterance ("[g:CommitOrder,r:CreateItem,r:CreateOrder] Buy a (extra large)[v:Size:ExtraLarge] (henley)[v:SearchTerm]")
   plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7cYGBwk6yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3e+ZU6tgZiF2/+o4/jMvtnFSulWkDVMXnp9/ElsfXrgpnQh+zEnoorqTluF9OT8JC0QYYIgRxpggRoIpZphbjsDEvUkshfe+CduL+mVsV3gD)
-  last-modified (1560832167076)
+  last-modified (1560832165226)
 }

@@ -1,20 +1,20 @@
 train (t-v3ev8ozc3d54sypdiqrcnmlmq) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder,r:GetSize] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm]}")
-  plan (zZFLbsIwEIZ/oDwSSikgJMoG9QCw5QAsKlagAgeIkhGxhIk1uFLFgrMzcoJEwqPbemR7PP83HluDLvr0G2izo8khVmwn3xSSMhYf+fAs0VrZBUfE6OWlNFjgNyYKLKXS50Pp9OP8w021ONhvKZpb0hgVJCbJuAamfwCnMPXHSg5jw4khtkqKDvOJK9pRaLNL/8ODlpxoIw9aqSMV2/RF1oWf/WFwT3PK3Q7e4AGH8ZpYo48SyqjgBVXUUEcDHnw08SrWwhvaeM+sA+TYWsbWHe0LW5GYLxlt4eDmZS1nO66Uy6jKuSW5nlQowTsD)
-  last-modified (1559953500158)
+  plan (zVHNTsJAEP74k59WEdAAXtQHgKsP4MF4woA+QNNO6CYs3UzXhHDg2Z1sa0JbkKs72ezM97Mzm8Ud7mkXaLOheRortvMlhaSMxbQIvyZaK7vgiBijIpWBJf2XiQJLGfV8ljp8uzzFQ6lbHGzXFL1b0imeShyTWAqK6Vk3Hi+Y8XJBcAizfKakmBlODLFV1ZFXtKHQ5pf+h4E+ONFGBlqpPZU/+Y2sg/96w+QU55iT/1+RBxzGn8QaY9RQRwNNtHCFNjroogcPPq5xI9HHLQYY5jECKvpOru86hy/6hmC+uAaihds4yur5eYz9rpbUffF70qkG7wc=)
+  last-modified (1560812744788)
 }
 train (t-v6lj8i56vguq2ktu8mlylu6n5) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (Large)[v:Size:Large]}")
-  plan (hY9LCsJADIb/Wmt9LxRB3YgH0K0HcOVK8HGAMg12oKPDdARx4dmNrYJTFSdMSPL9SQg6GNAlUjqleZZIY+cbEiS1xcgtL09KSbs2MRn0XVQUS/q9jiNLBZr+RLdzHmcf25LoeKB4ZUlhUkKGuONdsPgjuIkinklOZtqcNBkreenYbdxSSsI+hw6/sZx8vf5DHhmR7Mgo9EpEXgldeKjARxUBaghRRwPN3FpoAw6tMfXZN9hCJsi/618v4Nxn/5jiIbgD)
-  last-modified (1559953509778)
+  plan (hZBNCsIwEIVfrVr/FUWwbtQD2K0HcOVK8OcApR1soLEhjSAuPLuxFaRpxQwJM/O9NwnBEFO6+1zE5KURk8o7UEBMKLjF9jbhnKm9DEliUkR509CfRegrytHqJ3resjzF3Lgt8q8XCneKeIqlwSRpS0Hh/nRj8ceMzR/BM8jzNdPFWshEkFSs/OQjxRSoz9BZFctI5d+V5L4MohNJjrFB2IMwgoUabNTRQBMOWmijgy56WfQxAEqKllbY+uzqaGuKbMPIvquha1s739MsOC8=)
+  last-modified (1561058186111)
 }
 train (t-vcrh1pbsuatpygryt3jbbe9s6) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove {[g:RemovedItem] (Polo Shirt)[v:SearchTerm]} from my order")
-  plan (dY9BDoIwEEU/AorozpigG+MFuIQrVyaoByDwE0hoIKUaV57dpmUhFTvJzHTem6TFClu+ctE1TPuqlirNWLDuFHbj8akVolYXWVJiM0Z26Pj3rswVLTr+Re+H6Xt3O6NonyzPigIH5yGSeuNb2I+FKxsWamDJFDNk8hM/ei6L6kYpsIaHGXwECDHHAhGWJmLAIb7OkQ7PEAzZdvYE+uZrO9Y1/AA=)
-  last-modified (1559953520476)
+  plan (hZBNCsIwEIVfTbVaqxsRrBv1Ar2EK1eCPwcozUALDQ1pFFee3ZAWpLHFDMxk5nuPDMECa3qlQpaU1HmhdHKhjAqpEXfHx0qIQp8VJ4VVFzVDR3+XPNXUoMMgej/svcbWXUJUT+InTaLG3tlEkbF0FPGgG7s/ZvflK5WU6ZZt+pglvV/wI09Vlt9ICSzhYQQGH2NMEGCKGULMbURAD2UmhyY8S9Hmb9cc33TMOCJTgw8=)
+  last-modified (1560812745219)
 }
 train (t-ve2k5m14rohcx4wvbrap6b5pf) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (large)[v:Size:Large] (v-neck tee)[v:SearchTerm]}")
-  plan (fY7NCsIwEIRHq9Vq9aCIevTmRd9BBMGTYPUBSrNgwNgQI4iHPrtp/IFEaiDL7nzD7qCPEd1TIc+0vJ640ss9ZcSlxtSV17kQXO8UI4Whi16i5z9Klmr6459V+oub7a8Yu5YVY8S2mgQGLrDaxMuryOywZF5FCm7KQqpcktLcHPSCJmX1U2z4hb2AdzGhVGWnA6mffAl/EHqooY4ADTQRooU2InTQRWwI3iz4srZlkdFhf/ka7+4zN00XGH9sd4dP)
-  last-modified (1559953532729)
+  plan (fY/NCsIwEIRHa/2rfyiiXgRvXvQdRBA8CVYfoDQLBqyGNIJ48NmNsYKJ1kM2m/lmkwk66NM1SsSR5umBSzXfUkxcKIxseXlOEq42kpFEz0Yv0fHvBYsU/fFPcv33i+lTDG3LgjFia0VJirETTpIe+OCDnEl0bWC04a/LDJnmkTvXZSbkWZBUXEd1vhg+q5tixU/sBZwXQ4pkfNiR/MoX8huhjQKK8FCCjzIqqKKGOgI00ERLU2Tcs3jd8EAzmIVsL2Wnt+brztMzLfNO9QE=)
+  last-modified (1560812745397)
 }

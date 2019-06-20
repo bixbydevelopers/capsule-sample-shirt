@@ -1,0 +1,3 @@
+structure (ChangedItem3) {
+  role-of (ChangedItem)
+}

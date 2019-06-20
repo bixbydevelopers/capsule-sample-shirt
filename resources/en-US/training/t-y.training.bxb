@@ -1,15 +1,15 @@
-train (t-ykg55zhyo5sicuotzlat5xwd3) {
-  utterance ("[g:Shirt] Find (dress shirts)[v:SearchTerm]")
-  plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCQk01amJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
-  last-modified (1559953547826)
-}
 train (t-yst9jrc012ozcxprbshrf0ecr) {
   utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (3)[v:Quantity] (Large)[v:Size:Large] (Polo Shirts)[v:SearchTerm]")
-  plan (dY7LCsIwEEWvj7a+VoqvP3Bjf0IQXInWHwjtQAOmDekI6sJvN21BTNDFzMA5d+BigjndhdJXiqtcGo7PlJLUjLWLd6VSko8mI4OZq1ro5w0JplZNXXVgUlj9ijdm88+8pF1bbUpNhiVVWLjJ000ULPnh90vqjaUL97LIWuE1SUiYNL+QUX7vRD4JY3TQRQ99BAgRYYAhRpbC4UHDQ8vwGXzd2kTNX2B/8AY=)
-  last-modified (1559953557322)
+  plan (dY/LCsIwEEWvr9b3QvH5BW70JwShK9H6A0EHHDC1pCOoC7/d2G5MtItMwjn3wgR9jOiudHqhVXZmI6s9HYlTwczF66vWLFtzIoOhqwro5w0poULNXRUlLKwukZDO/tcKNfBqFmJaFseizLzYjmVqrikZYcowdpO7m0qE5eF/K/5MTFy44eRUCG+TmJQ5ng9ktL93zE9CDxVUUUMdDQQI0UQLbXTQtQY/Lsxd03I4B193YF+tvB/aLt4=)
+  last-modified (1560832167618)
+}
+train (t-yuhz7gffsryirb5cry9an2ron) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (Henley shirts)[v:SearchTerm]} and {[g:AddedItem2] (Polo shirt)[v:SearchTerm]}")
+  plan (tZHPSgMxEMa/uuu21tZq/+16UOitF3voGxRB8CTY+gBLM9BAY0M2gqc+e8cslCY0npSFmTDf/L6ZZFFgRN+l0luaVRtp7Oyd1iS1xb1fft4pJe2bEWQw8KW6GPR/aFFaqqVJVNp/uXOFwm9ZCEHi1ZKq8BjsYYiBEz2PkFHLeRx5+HUW+r58bkqNOGUaU/aSw5M2O03GSr78f/me/U9BcfkTwxd5kZ+iFoI1llSa9WZFRv2ZT4EGLpAgxSUyNNHCFdq4Rgdd3KCHW9zx18cAQ4wwRg54ROaIpiPajkg4dxzRc0TDETjGlHPqVRB0ZJwT9hyyd86zeKsD)
+  last-modified (1560813076402)
 }
 train (t-yyod5anwhb5pykxw15fqhlnj9) {
   utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (Men's)[v:Gender:Male] (Ralph Lauren)[v:SearchTerm] Shirt")
-  plan (dY49CsJAFIQnajRq5w/qDWzMJQTFSlAvEJKBLLjJ8rKFlWd3k6C4QYs3xffNg8EUSz4Sbe6Mq1yJjS9MqYzFxsf7Umtlz5JRMPdVC7t9YWLZqpmvTpYa61/1xmz/madysTNSGopVrLo7rnVi5cODKrJWLHxxZFFv6+y4MpE0v1E0JgjQQx8DhBhihAhjx/BFw4ZGjuBz74SzQfMRujZe)
-  last-modified (1559953570147)
+  plan (dY9LCsIwFEVv/VWrTvzgZwVO7CYEpSPBuoHQPmigactrBo5cu2mDgwQd5A7OuRdesMSWXkI1JcVtIVnHD8pINhoHF19qpaS+c06Mtass9PtMQpNVR1clldRSlIkm1f6eWbXyZgZi/6+O0z/zlibODdcNsZbU+uenXWLnwquscis2rrhR1X3JuyMlwVnxJFZYIMAAQ4wwxgQhppghwtxweCbsTWQonPdNmF7QL0Ozwgc=)
+  last-modified (1560832167680)
 }

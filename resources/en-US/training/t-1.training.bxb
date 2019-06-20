@@ -1,0 +1,15 @@
+train (t-12kwp9iojfydskda0d3w550eh) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make that {[g:ChangedItem] (2)[v:Quantity] (sweatshirts)[v:SearchTerm]} and {[g:ChangedItem2] (3)[v:Quantity] (small)[v:Size:Small] (polos)[v:SearchTerm]}")
+  plan (nZLdTsJAEIUPFPkVlF9BL9QHgAtvfACvvDL+PcCmndhNWGi2S6Je8OwOW0PYTUsT2qSdnjPfzMmmmGJM30IlS1qksdRm8UYhycRg5spPa6WkedERaQxdKxO9/s8kEoYy677Q2m5sneLa2xaL1RdFz4ZUijvP08SI0zErpI8MfjiG3ZbsLG94LGnYhlk9l/wxT/Q6IW0kH8XJ4MQFXzdiZaT5KdS9o3mnJYXmP/00z8t3hA7jD9LqxHm5P1PxkoHnyF/CDSqoIkANZ6ijgSZaaKODc3TRwwUu0ccAQ4ww3t8TXAEOV7dcw5JdZjuWazMXWK3P/Ij1iuWwf9b4nVU4UA+V7GqxFvD8Hmdpcqpdguou7R8=)
+  last-modified (1561058153481)
+}
+train (t-178yapxd8smk87kvkdw9wwev8) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] get rid of {[g:RemovedItem] (1)[v:Quantity:1] (polo shirt)[v:SearchTerm]} ")
+  plan (hZDdCoJAEIWPmanZz0UU2U31Ar5EV11Ffw8gOqDgpqxr1E3P3qJGrCntwDA73znLYTHBnB4+yxLy8ijmwjtRQHEm4KrrXcpYLA48JI6ZiqplQ3/NQl9Qhbad6FWUc45VMwRL7xTuBbEcm0YSTtKiKNxON9Z/zFiogmPh30Qsns1EZ0ooELVn2cZK0vo1P3KfB9GFOMMUGnrQ0YeBAUxYsDGEg1FZY+CHW5LrsjuytJKj7t/pcwx506XLli9pMN8=)
+  last-modified (1560817052876)
+}
+train (t-19nv14jo4nxr1q09k4d8jk2bt) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (XL)[v:Size:ExtraLarge] (t-shirt)[v:SearchTerm]} from my cart")
+  plan (jVDLbsIwEBwIb1pogYjHpe2tl/ITSEicKjXwAVGyEivFxHJMVfXAt9eJDyhuIpC19npnZnds+PDpJxQyoXV2ZKXXXxQRS41lubxJhWD9qWJSmJYhW3T4BxmHmiz0VgtdzkWeYeWaEOk3xTtNIsOr40SRkZQYy1o1Xm6I73qMVVnIcbo7seYwqfRhZRaaOLJ89KKOjvc65MJm+5AqlaQ0//+4gBKKdPXTgnzHvFzc8im2wMLtFKrouCclXO8B/xJ8NNCEhxba6KCLHvpmDTDEAx4xwhhPeMYEU8wAh+sV7Cu3ZyLnjg0PRaAis7fr2TaZZ7rlExro/gE=)
+  last-modified (1561058154211)
+}

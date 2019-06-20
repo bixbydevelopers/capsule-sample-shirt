@@ -78,10 +78,11 @@ confirmation-view {
                         //was to allow an ID as input to SelectItem and use `this.id` in the intent
                         intent {
                           goal {
-                            UpdateOrder
+                            CommitOrder
                             @context (Continuation) { Order }
                           }
                           value { SearchTerm$expr(item.shirt.title) }
+                          route { UpdateOrder }
                           route { GetQuantity }
                         }
                       }
@@ -96,10 +97,11 @@ confirmation-view {
                         // was to allow an ID as input to SelectItem and use `this.id` in the intent
                         intent {
                           goal {
-                            UpdateOrder
+                            CommitOrder
                             @context (Continuation) { Order }
                           }
                           value { SearchTerm$expr(item.shirt.title) }
+                          route { UpdateOrder }
                           route { GetSize }
                         }
                       }

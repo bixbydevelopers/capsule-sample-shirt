@@ -1,10 +1,10 @@
-train (t-l552p693f5ha9i780j5c4qfzq) {
-  utterance ("[g:Shirt] Show (Ralph Lauren)[v:Brand:RalphLauren] Shirts")
-  plan (Y2BmEE6tSMwtyEnVK87ILCrRCwaRDOKogm6ZeSkQCTTVTkWJeSkMTAyMQMwAJBkZQIAJggE=)
-  last-modified (1551201433201)
+train (t-lkjwovpy7guhndd3838uf7s2g) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (2)[v:Quantity:2] XL (pullover sweatshirts)[v:SearchTerm]} from my cart")
+  plan (hZDdCoJAEIWPmanZz0UU2U31Ar5EV11Ffw8gOqDgpqxr1E3P3qJGrCntwDA73znLYTHBnB4+yxLy8ijmwjtRQHEm4KrrXcpYLA48JI6ZiqplQ3/NQl9Qhbad6FWUc45VMwRL7xTuBbEcm0YSTtKiKNxON9Z/zFiogmPh30Qsns1EZ0ooELVn2cZK0vo1P3KfB9GFOMMUGnrQ0YeBAUxYsDGEg1FZY+CHW5LrsjuytJKj7t/pcwx506XLli9pMN8=)
+  last-modified (1561058539921)
 }
 train (t-lu9ty555mdz0cdsx8s2xyfik2) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] I want {[g:ChangedItem] (2)[v:Quantity:2] (extra smalls)[v:Size:ExtraSmall]}")
-  plan (hY9NCsIwEIVfrfV/pSjoRjxAu/UArlyJigcI7WADrYY4BXXRsxtbUVMVM2SYvO8NM0EPQzqLVCUUnGKpOdhQSFIxxra8OKap5JWOSGNgo1Ks+HcqEkwlmv1EeVbUp49psTjsKVoypZhWkCbT8W6Y/zHkYVn70jx8pY+KNEsz9Os/Rra4zsSBJV8wsfUtJRTyY4N+hckroQcHNbiow0MDTbRMtNFBF7CIW9D7dQqCZ34dzyiuyW3T7cC7AQ==)
-  last-modified (1559946478662)
+  plan (hZBNCsIwFISn1lr/F4qCbtQD6NYDuHIlKh6gtA8NtDWkT1AXPbuxLUijxYSEl/lm8oc+RnT3IhnSKrkIxasD+SQkY1KWN9coErxTASkMyygXDf9JBh5TjhaVKL1ldYKpcdrFi88UbJmiBHODKdKRkmNSmcbsTxjrP4bUz+ul0IulVFdJioW+8s9fGJfF/c2LWfDDfN+RQvK5uMHAYOJJ6MNCDTbqcNCAiyZaaOveQRc94IvameM9rIyimPPq0xyt2DrR0btYcF8=)
+  last-modified (1561058175850)
 }

@@ -1,0 +1,21 @@
+action (CreateChangedItems) {
+  type (Constructor)
+  collect {
+    input (changedItem) {
+      type (ChangedItem)
+      min (Required)
+      max (One)
+    }
+    input (changedItem2) {
+      type (ChangedItem2)
+      min (Optional)
+      max (One)
+    }
+    input (changedItem3) {
+      type (ChangedItem3)
+      min (Optional)
+      max (One)
+    }
+  }
+  output (ChangedItems)
+}
