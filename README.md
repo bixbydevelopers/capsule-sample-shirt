@@ -47,7 +47,8 @@ Example 3: User refers to the name of the item that should be added to the cart.
 Buy a Large Sweatshirt
 ```
 
-Example 4: User makes an order with multiple items. 
+Example 4: User makes an order with multiple items. Note that currently adding up to 3 items in a single input is 
+supported.
 
 ```
 Order 2 Polo Shirts and 1 V-Neck Shirt
@@ -63,7 +64,7 @@ Example 1. Continue on an order and add one more item.
 Add 2 Medium Polo Shirts to my order
 ```
 
-Example 2. Continue on an order and add one two more items
+Example 2. Continue on an order and add two more items
 
 ```
 Add 1 small polo and 2 small collar dress shirts to my cart 
@@ -76,7 +77,7 @@ Example 1: Remove an item from the order.
 Remove Polo Shirt from my order
 ```
 
-Example 2: Remove multiple items.
+Example 2: Remove multiple items. Note that currently removing up to 3 items in a single input is supported.
 ```
 Remove the polo shirt and the collar dress shirt
 ```
@@ -108,7 +109,8 @@ Change that to 3 Polo Shirts
 
 ### Changing multiple items in the cart
 
-Example:
+Example: Changing sizes of two different items in the cart. Note that currently changing up to 3 items is supported in
+a single input.
  
 ```
 Change the V-Neck to Small and the polo shirt to Large
