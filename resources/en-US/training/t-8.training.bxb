@@ -1,20 +1,20 @@
 train (t-8334cuuvv8n5co5rqd55ombx0) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (oxford dress shirt)[v:SearchTerm] sizes to (large)[v:NewSize:Large]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (oxford dress shirt)[v:SearchTerm] Sizes to (large)[v:Size:Large]}")
   plan (hVBLCsIwEH21/v8ggrpRD6BbD+DKjYLVA5R2sAGjIY0oLjy7YytIY8UMzO+9l0kGHfTp5kt1pHkcCW3mWwpIKINhtr08SynMRoek0ctCadPi71XoG0qh6U/ocUnyGCNrWuSfDhSuDMkYEwvTxJIMY/hTjfEfMRZ/CI8gzWeCi5nSZ0XaCH6ytbc1XT1xJ/snHh0pMO9ZgzwsQXJX+kX3dRDtSEt04aAAF0WUUEYFVdRQRwNNtBJrAzmMKjNc9k02J2Hg7dPsE1+nxJXLyjrf5qDyBA==)
   last-modified (1560894984268)
 }
 train (t-8463bpttmfzrjhbyqe42hhvqw) {
-  utterance ("[g:CommitOrder,r:UpdateOrder] Change the {[g:ChangedItem] (large)[v:Size:Large] (t-shirt)[v:SearchTerm] to (extra large)[v:NewSize:ExtraLarge]}")
-  plan (hVBdT4MwFD3IZBPRbRqT4Yv6A+B1P2BPvrhkmz+AwI00odKUGo0P/HZrS2KoEHqT+3XO6W0vVrijr4yLitKmZFKlB8qJCYW4397VnDO1lwVJ3PYh23T4r6LIFFnoaRRqP0ze4N6ZVmbvb1Q8K+INHh1Mkpb0GPGoGg8TYmwnCG1u84TpIhGyFiQV00929vZCn0f2Te5PjlRRrrpZmyHMIIMr/UfPZF6eSHLcOMjv4DU8nMHHDOcIMMcCFwhxiQhXxq6xBAY4C83xtY+MeYaDztvsL9oT6NrX6tDc6WH+Aw==)
-  last-modified (1560894984517)
+  utterance ("[g:CommitOrder,r:UpdateOrder] Change the large {[g:ChangedItem] (t-shirt)[v:SearchTerm] to (extra large)[v:Size:ExtraLarge]}")
+  plan (fZBNDoJADIUfogL+ERJxox4BNh7BlSsTfw5AoJFJRMgwunDh2a1gwqDGeZmm8/W1aQYuvJu4hWUqpAp3FJMoFPwGrfMsE2orE5JwG1wDzXcskkhRjZc/8eNa5SVm2vQ0upwo2SjKSiw0Lomtrar/swvzP01Y/Sk+4joPBD+CQuYFSSXa6+3pTLF6D5t+8op+/UnLFsk4PZDMMNGouBM8GOjARBc99GHBhoMBhhhVGmPCwpfHZo/Jcchy+BqVB+/YZPrpMTG5+zXTgPUE)
+  last-modified (1561056693379)
 }
 train (t-85ttbk8pmov0804binicyzjtq) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (henley)[v:SearchTerm] to a (large)[v:NewSize:Large]} and add a {[g:AddedItem] (pullover sweatshirt)[v:SearchTerm]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (henley)[v:SearchTerm] to a (large)[v:Size:Large]} and add a {[g:AddedItem] (pullover sweatshirt)[v:SearchTerm]}")
   plan (hZJPT8JAEMWfFC2CgoDQVhP/3LzA1bMxMfGiidUP0LQTuwmFZlmj8dDP7rBtDV3akM1sZ+fN7+1mt/AwoZ8gSRc0X8dCqvkbhSRSBa9aflwliVCvMiKJcVXKi0b/RxoFinLptlHKvnS+hltteYgiip4VJWtcGOeIg+VnqV0ZmiQ222KdBlfc1IEVa69xW1zvgXG/pyEL83wmeDFL5SolqQTfwqgKajO3zkwrd01KZvoad+jTgkJVHNat07RS+8w77YEM43eSO+3+ZjZf4Ekso1xo9jEuwRe/ZP6jL/Sty5c4QAsW2jjEEWx0cIwuejjBKfoY4AxDjPQY4xwTTOHA5YF/bkPazOZcR3M95iyehzz6mhuwo8MMdKD4ltEuqqW2nVscNq8s9p7yHi6fpMV59w8=)
   last-modified (1560894984772)
 }
 train (t-88czvbpceamwqhin4n80c9cq3) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Medium)[v:NewSize:Medium]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the Size to {[g:ChangedItem] (Medium)[v:Size:Medium]}")
   plan (hZHfDsEwFMY/hvkviAQ3eABuPYArNyTEAyzbCU2MpqsQF3t2Jx2RlWU9aXv6fb/TNi06GNDDC+WZFtFJKL3YkU9CaozS8uoahkJvVUAK/bSViBZ/kIGnKbFmmVZ8M3mEsXXaybscKVhrCiNMLU8Rl6SIUWY1JjnFWOYAsZ/kc8GLuVRXSUqL3yvv6Uy+fm86/OcZ5+/b9SxcPMn+lg3djdxFAUU4KKGMClxUUUMdDTRNtNDmwA9TZcbhscFRY6pgGLzHb/ZpDvcSKw5Xt3l2Xw==)
   last-modified (1560894985027)
 }

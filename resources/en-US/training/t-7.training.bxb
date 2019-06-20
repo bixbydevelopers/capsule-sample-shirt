@@ -19,7 +19,7 @@ train (t-7rqyhfcn6e503xio6q0l6z31s) {
   last-modified (1559953225149)
 }
 train (t-7sxpgby1hd1mvniyiepohxriu) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (small)[v:NewSize:Small]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the Size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (small)[v:Size:Small]}")
   plan (hVBLCsIwEH21/v8ggrpRD6BbD+DKjYLVA5R2sAGjIY0oLjy7YytIY8UMzO+9l0kGHfTp5kt1pHkcCW3mWwpIKINhtr08SynMRoek0ctCadPi71XoG0qh6U/ocUnyGCNrWuSfDhSuDMkYEwvTxJIMY/hTjfEfMRZ/CI8gzWeCi5nSZ0XaCH6ytbc1XT1xJ/snHh0pMO9ZgzwsQXJX+kX3dRDtSEt04aAAF0WUUEYFVdRQRwNNtBJrAzmMKjNc9k02J2Hg7dPsE1+nxJXLyjrf5qDyBA==)
   last-modified (1560894986799)
 }

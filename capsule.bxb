@@ -1,5 +1,5 @@
 capsule {
-  id (example.shirt)
+  id (viv.shirt)
   version (2.12.7) // Updated SearchTerm coverage
   format(3)
   runtime-flags {

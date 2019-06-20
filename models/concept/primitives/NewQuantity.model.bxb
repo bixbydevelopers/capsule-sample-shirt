@@ -1,3 +1,0 @@
-integer (NewQuantity) {
-  extends (Quantity)
-}

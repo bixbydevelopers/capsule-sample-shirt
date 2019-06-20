@@ -4,12 +4,12 @@ train (t-ghkrtop5omvg4go8ymrjs7you) {
   last-modified (1560817114573)
 }
 train (t-ghyru3mgyaspef8kuwmyna8hq) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity] (t-shirts)[v:SearchTerm]} and change the {[g:ChangedItem] (polo)[v:SearchTerm] to (XS)[v:NewSize:ExtraSmall]}")
-  plan (hZFPT8JAEMWfFqUWRCwCRRP/3LzA1bMxMfFktPoBmnZiN6Gl2S6JeuCzO2wB6dKGbHZ3Om9+b7a7GKFP30GSTWmSx0KqyTuFJDKFUTn9NEsSoV5lRBK9slQkjfrPLAoUFdJdrbSY6ziHVy55jCKKXhQlOS6Nc8RB+rXWrg1NEpttscMaV9xWgSXrUW1b3OyB8bCnYBEW8VjwxziTs4ykEnwLbhnUZl6VmVbu65SF6TsoV77Ng1QJ9WPerU9TCtXqJ7wqTSuVz79THsgw/iC5U+4vV/NlnkUaFUK9j3E5vvglXOEAh7DQwBGO0YSNEzhooY1TdHCGLo9zuOjpcYE+BhjCAzbckmwyW3C25tpMtpizeHV5dDTnMgM9sdrXs7HJYiv6j22OLF673NvhU3jc24bzBw==)
-  last-modified (1560881419251)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity] (t-shirts)[v:SearchTerm]} and change the {[g:ChangedItem] (polo)[v:SearchTerm] to (XS)[v:Size:ExtraSmall]}")
+  plan (hZJPT8JAEMUfglIBUcBC4eCfmxe4ejYmJl40Wv0ATTuRTSg0yxLRQz+7w66QdmlDN51O583v7Xa3GMKldRAnM5osp0KqyTuFJBKFYb78uIhjoV5lRBK9vGSKVv9nEgWKjHRbKqUrnS/h5VseooiiZ0XxEiNrHdNg/rXVrixNEptl2EGJK26KwJz1sHRaXB+AcX+gIQ1NPhb8Mk7kIiGpBO9CNw9qM6/ITCt3ZUpq+1pH/ELfvvgl9PPlt1UwV0L92Fvu04xC9f9tXpGmlcK/Yq89kOH0g+Reu7+J9oE9iXlkhHKfESo4QhU1HOMEdTg4RQNNtHCGNs5xgQ666OFSDxd9DOABO2rD1Zk0lKOpFnNNpqocezzamqpoylyVzF3bVZHJtrnDzyrHDs/a4NW4PK+Dxh8=)
+  last-modified (1560959669075)
 }
 train (t-grvsa7x7ifqbyrkzq8pgwcl8f) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity] (t-shirts)[v:SearchTerm]} and change the {[g:ChangedItem] (polo)[v:SearchTerm] to (XS)[v:NewSize:ExtraSmall]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity] (t-shirts)[v:SearchTerm]} and change the {[g:ChangedItem] (polo)[v:SearchTerm] to (XS)[v:Size:ExtraSmall]}")
   plan (hZJPT8JAEMUfglIBUcBC4eCfmxe4ejYmJl40Wv0ATTuRTSg0yxLRQz+7w66QdmlDN51O583v7Xa3GMKldRAnM5osp0KqyTuFJBKFYb78uIhjoV5lRBK9vGSKVv9nEgWKjHRbKqUrnS/h5VseooiiZ0XxEiNrHdNg/rXVrixNEptl2EGJK26KwJz1sHRaXB+AcX+gIQ1NPhb8Mk7kIiGpBO9CNw9qM6/ITCt3ZUpq+1pH/ELfvvgl9PPlt1UwV0L92Fvu04xC9f9tXpGmlcK/Yq89kOH0g+Reu7+J9oE9iXlkhHKfESo4QhU1HOMEdTg4RQNNtHCGNs5xgQ666OFSDxd9DOABO2rD1Zk0lKOpFnNNpqocezzamqpoylyVzF3bVZHJtrnDzyrHDs/a4NW4PK+Dxh8=)
   last-modified (1560894991026)
 }

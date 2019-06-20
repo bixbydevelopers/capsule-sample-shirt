@@ -1,10 +1,10 @@
 train (t-v3ev8ozc3d54sypdiqrcnmlmq) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder,r:GetSize] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder,r:GetSize] Change the Size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm]}")
   plan (zVHNTsJAEP74k59WEdAAXtQHgKsP4MF4woA+QNNO6CYs3UzXhHDg2Z1sa0JbkKs72ezM97Mzm8Ud7mkXaLOheRortvMlhaSMxbQIvyZaK7vgiBijIpWBJf2XiQJLGfV8ljp8uzzFQ6lbHGzXFL1b0imeShyTWAqK6Vk3Hi+Y8XJBcAizfKakmBlODLFV1ZFXtKHQ5pf+h4E+ONFGBlqpPZU/+Y2sg/96w+QU55iT/1+RBxzGn8QaY9RQRwNNtHCFNjroogcPPq5xI9HHLQYY5jECKvpOru86hy/6hmC+uAaihds4yur5eYz9rpbUffF70qkG7wc=)
   last-modified (1560812744788)
 }
 train (t-v6lj8i56vguq2ktu8mlylu6n5) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (Large)[v:NewSize:Large]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the Size of the {[g:ChangedItem] (Polo Shirt)[v:SearchTerm] to (Large)[v:Size:Large]}")
   plan (hVBLCsIwEH21/v8ggrpRD6BbD+DKjYLVA5R2sAGjIY0oLjy7YytIY8UMzO+9l0kGHfTp5kt1pHkcCW3mWwpIKINhtr08SynMRoek0ctCadPi71XoG0qh6U/ocUnyGCNrWuSfDhSuDMkYEwvTxJIMY/hTjfEfMRZ/CI8gzWeCi5nSZ0XaCH6ytbc1XT1xJ/snHh0pMO9ZgzwsQXJX+kX3dRDtSEt04aAAF0WUUEYFVdRQRwNNtBJrAzmMKjNc9k02J2Hg7dPsE1+nxJXLyjrf5qDyBA==)
   last-modified (1560895002704)
 }
