@@ -1,3 +1,8 @@
+train (t-uwyp13bszaq0i0key8u3r7ogw) {
+  utterance ("[g:Confirmation:prompt] (Yes)[v:Confirmation:true] please")
+  plan (Y2BikEqtSMwtyEnVK87ILCrRc87PS8ssyk0syczPwyvHCIQMDDxAzATEQDYA)
+  last-modified (1561679804762)
+}
 train (t-uyrsdwhgz1r70gbj3yfcvibeu) {
   utterance ("[g:CommitOrder] Buy a (large)[v:Size:Large] (sweatshirt)[v:SearchTerm]")
   plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7UaDgwQ7yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3f+ZU6tgZiF2fXUc+8yLbZyUbhVpw9SF5+efxNaHF25KJ4IfcxK6qO6kZXhfzk/CAhEGGGKEMSaIkWCKGeaWIzDx1ySWwnu/hO1GbvkG)

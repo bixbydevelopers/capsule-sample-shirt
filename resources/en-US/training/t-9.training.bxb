@@ -3,3 +3,8 @@ train (t-91wx1nahceyqu03ytu8m7gts1) {
   plan (hVBLDoIwEH0KCn5YGU1wox4Atx7AlSujxgM0MJEmoE0ZEt1wdhvQRFBim2bevE86LTxM6S5SldA6i6Xm9ZFCkorh1+ntLU0l73VEGpO6VJEN/1lFgqmSVq1SkZc4w7xxWyyuF4p2TGmGZUPTZCI1h9+axuJPGJs/hiKscCBNEyh9U6RZmpF//sKsTh5ycWXJj+b7TpRQyK8JPHTQhQUbPfThwMUAQ7NHGANfmlXqruFRHnyg97JNbxn3yFTnCQ==)
   last-modified (1561058161522)
 }
+train (t-9l7ohzzjku5ppb5t19j583nu2) {
+  utterance ("[g:Confirmation:prompt] (Yes)[v:Confirmation:true]")
+  plan (Y2BikEqtSMwtyEnVK87ILCrRc87PS8ssyk0syczPwyvHCIQMDDxAzATEQDYA)
+  last-modified (1561678895730)
+}
