@@ -13,6 +13,11 @@ train (t-oeitnhe1agi1rr3r0cewffyia) {
   plan (tZFPS8NAEMVfTWxjba2m9k8KCt682IPfQATBk2j1A4TuQBfcdtlsQS/97E43KN2l60kTmAnv7e/NJMEEA/oolX6nabWQxk5faE5SWxS+fL9SStonI8ig71u1GJx/06K0VFtXUWuzds8Vxv6ROyFIPFpSFS6DPQwxsOOPImQ08jaOXPw6C7lv75tSI865jjkbyeVGm5UmYyW//H/l7v1PQ198XpdLK+1nVA9CZtsafsEHuRS1Eaw9o9LMF69k1J/lTNDAARKkOEQTLWQ4QhvH6KCLE/RwijO+c/RxjgGGGGGMAvCopqNajmo7KuHeZbbjqJ6jGo7CT025p57yfe1qGfeEs3OenfEWBc/lLb8A)
   last-modified (1560817152430)
 }
+train (t-oi466l50bevhd4ibbdbvkinbk) {
+  utterance ("[g:CommitOrder] buy {[g:Item] (collar dress shirt)[v:SearchTerm]}, {[g:Item2] (v-neck tee)[v:SearchTerm]} and {[g:Item3] (polos)[v:SearchTerm]} ")
+  plan (zY7NTgIxFIU/xGEccURB5OcJ3MhCH8HEhJWJ+AITuAlNKEw6Xbjy2b3MkJhW2RIXPTc95349ZcpQPgtbbmRWrY3zs3dZiik9k9B+2Vlr/JtbiWMQRo0Z7zspvDTRNIzmW+NNsZl7sdXfWBP1I0xNxsfWeTiWfBmVx9LtSnHeSBV/f7/zdMqy51OVLfbKKDRfzXbVBFHjQgq3XH+Is//unQktzmhzTkKHlAsyLulyRc41PW64pc+AO4bcM2KsBBGTHJjkwKQ1062ZXs20aubnoGw4f2uqs6PNmfbm2trWW0b+DQ==)
+  last-modified (1561585121271)
+}
 train (t-ottu8a2d6xz20yt0jg4f7hhxc) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] add {[g:AddedItem] (20)[v:Quantity:20] (pullover sweatshirts)[v:SearchTerm]} ")
   plan (fY/JCgIxEERrXMddFLeL4M2L/oMIgidx+4DBNBgwGjIR9OK3m8l4MMExh07Sr6pTQRs9ekRCXmgen7nS8x2diEuNkdte3oTgeqMYKXRdlDY9/VGySNMf/SRT/7rbc4yhK1kwRmytScQYe+EUGcMXH2Q40XGB7Q1/DbNkmkVe3JSZVDdJSnMTte8qt/foqrl++l/fJ9VPt+JXlgIvyZ4idTofSAm0ECCHPAooooQyQlRQRQ11NNA0FB+e93jV8sDydCV7wbnBeALjDM205J3wDQ==)

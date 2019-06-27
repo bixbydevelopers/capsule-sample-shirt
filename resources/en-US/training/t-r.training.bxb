@@ -9,9 +9,9 @@ train (t-r9mjfyqotnxjv3cxmtdmm5se0) {
   last-modified (1561058179332)
 }
 train (t-ray7ht2iw17qsurzy2jssz9s9) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy an (XL)[v:Size:ExtraLarge] (sweatshirt)[v:SearchTerm]")
-  plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7cYGBwk6yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3e+ZU6tgZiF2/+o4/jMvtnFSulWkDVMXnp9/ElsfXrgpnQh+zEnoorqTluF9OT8JC0QYYIgRxpggRoIpZphbjsDEvUkshfe+CduL+mVsV3gD)
-  last-modified (1560832166931)
+  utterance ("[g:CommitOrder] Buy an (XL)[v:Size:ExtraLarge] (sweatshirt)[v:SearchTerm]")
+  plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7UaDgwQ7yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3f+ZU6tgZiF2fXUc+8yLbZyUbhVpw9SF5+efxNaHF25KJ4IfcxK6qO6kZXhfzk/CAhEGGGKEMSaIkWCKGeaWIzDx1ySWwnu/hO1GbvkG)
+  last-modified (1561585121940)
 }
 train (t-rek1nvwud344yd7y12ohbzrm9) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get rid of the {[g:RemovedItem] (polo shirts)[v:SearchTerm]} and the {[g:RemovedItem2] (dress shirts)[v:SearchTerm]}")
@@ -19,9 +19,9 @@ train (t-rek1nvwud344yd7y12ohbzrm9) {
   last-modified (1560817176080)
 }
 train (t-rgdjbupzhn46ql5igoi2a3n8b) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Order a (medium)[v:Size:Medium] (tee)[v:SearchTerm]")
-  plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7cYGBwk6yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3e+ZU6tgZiF2/+o4/jMvtnFSulWkDVMXnp9/ElsfXrgpnQh+zEnoorqTluF9OT8JC0QYYIgRxpggRoIpZphbjsDEvUkshfe+CduL+mVsV3gD)
-  last-modified (1560832167006)
+  utterance ("[g:CommitOrder] Order a (medium)[v:Size:Medium] (tee)[v:SearchTerm]")
+  plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7UaDgwQ7yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3f+ZU6tgZiF2fXUc+8yLbZyUbhVpw9SF5+efxNaHF25KJ4IfcxK6qO6kZXhfzk/CAhEGGGKEMSaIkWCKGeaWIzDx1ySWwnu/hO1GbvkG)
+  last-modified (1561585122182)
 }
 train (t-rnicdqtu93lxxilsvk312d79y) {
   utterance ("[g:Order#totalPrice:continue] What's the total")

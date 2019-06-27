@@ -15,8 +15,8 @@ train (t-scdvkeh6ucbpa3awiw2c49yow) {
 }
 train (t-si2rs2er3g6s2waceogev1vre) {
   utterance ("[g:CommitOrder] Order {[g:Item] (3)[v:Quantity] (small)[v:Size:Small] (t-shirts)[v:SearchTerm]}, a {[g:Item2] (small)[v:Size:Small] (polo)[v:SearchTerm]}, and {[g:Item3] (10)[v:Quantity] (large)[v:Size:Large] (v-necks)[v:SearchTerm]}")
-  plan (zZBfT8IwFMUP4oDJJgoOBv579UUe9COYmPBkdH6BBW5CEzqWribqg5/dS0vUNi7xRWOT3qbn3N/tSXGOhJ5zWa5oWi2F0tMHmpMoNcaufLOWUug7tSCFgWtZ0e9XlGuy1sS1ZoXQIl/NNMnqe8xafQ9jEWldOy7qnDfB5bJU65KUFlT58Tc9V3/52PWvPTZ0O++f8kIL/VKre+GyTcXIFW9FsbCGlzCjXM2Xj6Tkv5vj/W8mXunH2hka2EETuwjQQhsdhNhDFxFi7KOHAxyijwGOkGCIEVKMMcExTnDKLDw62NLBlu4w3zN029BdQ0dGbxj6c4OnuCc+nK/VrohvLc6Wco7Q5Ik5Z8KZmqyHiN8B)
-  last-modified (1560959674410)
+  plan (zZBfT8IwFMUP4oDJJgoOBv579UUe9COYmPBkdH6BBW5CEzqWribqg5/dS0vUNi7xRWOT3qbn3N/tSXGOhJ5zWa5oWi2F0tMHmpMoNcaufLOWUug7tSCFgWtZ0e9XlGuy1sS1ZoXQIl/NNMnqe8xafQ9jEWldOy7qnDfB5bJU65KUFlT58Tc9V3/52PWvPTZ0O++f8kIL/VKre+GyTcXIFW9FsbCGlzCjXM2Xj6Tkv5vj/W8mXunH2hka2EETuwjQQhsdhNhDFxFi7KOHAxyijwGOkGCIEVKMMcExTnDKLDw62NLBlu4w3zZ0z9BdQ0dGbxj6c4OnuCc+nK/VrohvLc6WcI7Q5Ik5Z8qZmqyHiN8B)
+  last-modified (1561585123823)
 }
 train (t-siwq2u49bd22awnjrivrsgpw9) {
   utterance ([g:CommitOrder:continue:Order] Commit my order)

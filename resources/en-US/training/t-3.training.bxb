@@ -1,5 +1,5 @@
 train (t-3rl2ywnywa5jht16rs86kqd2w) {
-  utterance ("[g:CommitOrder,r:CreateItem,r:CreateOrder] Buy a (extra large)[v:Size:ExtraLarge] (henley)[v:SearchTerm]")
-  plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7cYGBwk6yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3e+ZU6tgZiF2/+o4/jMvtnFSulWkDVMXnp9/ElsfXrgpnQh+zEnoorqTluF9OT8JC0QYYIgRxpggRoIpZphbjsDEvUkshfe+CduL+mVsV3gD)
-  last-modified (1560832165226)
+  utterance ("[g:CommitOrder] Buy a {[g:Item] (extra large)[v:Size:ExtraLarge] (henley)[v:SearchTerm]}")
+  plan (dY7LCsIwEEVvfbVa3Sji4wvc2J8QhK4E6w+EdqADTVvSLMSF325scJFgF7mLc+5kBits6SlkW1HSlax0cqecuNU4uPjSSMn6pgpS2LjKQr+vSGiy6uiqtGbNoko1ye7/mFVrb8xA7IfqOA2ZN5s4t6ppSWmmzj8/+yZ2LrxyXVjhbcxIqLx8kJL+fRm/CEsEGGGMCaaYIUSEORaIDYdnwt5EhsJ5v4RpBqYZ93/OPg==)
+  last-modified (1561585195850)
 }

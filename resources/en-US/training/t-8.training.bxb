@@ -13,6 +13,11 @@ train (t-85ttbk8pmov0804binicyzjtq) {
   plan (hZFPT8JAEMVfKVoERKEChYN/bl7g6tmYmHgysfoBmnZiN6HQbNfEeOCzM+yCoUsbOulmdt783m5mEWBIv1GWL2hepEKq+QfFJHKFSbn8ssoyod5lQhJ+WTJFq/8rTyJFRnqoldY/Oi8QlFuek4SSN0VZgal1jzRafu+1W0uTxGYH7LjGFfdVYMl6Unss7k7AeDrRsI5NPhO8meVylZNUgqcwKIPaLKgy08pjnbK2fa0ZhrSgWO0uG1RpWql85qP2SMbpJ8mj9nC72i/wKpaJEep9rCGE4o8whYMGXDRxhnN4aOECbXTQxSV6uMI1+hjo8HGDIUYYc+Cf2nIek4ZqaarDlMtrn6OnqS47OZoyn3PwN3fVvVbOPc5d9h2xv88nNzhvbwA=)
   last-modified (1561058160428)
 }
+train (t-887afmgmxcj47ov9o28nj83ti) {
+  utterance ("[g:CommitOrder] buy {[g:Item] (cowboy outfit)[v:SearchTerm]}, {[g:Item2] (v-neck tee)[v:SearchTerm]} and {[g:Item3] (polos)[v:SearchTerm]}")
+  plan (zY7NTgIxFIU/xGEccURB5OcJ3MhCH8HEhJWJ+AITuAlNKEw6Xbjy2b3MkJhW2RIXPTc95349ZcpQPgtbbmRWrY3zs3dZiik9k9B+2Vlr/JtbiWMQRo0Z7zspvDTRNIzmW+NNsZl7sdXfWBP1I0xNxsfWeTiWfBmVx9LtSnHeSBV/f7/zdMqy51OVLfbKKDRfzXbVBFHjQgq3XH+Is//unQktzmhzTkKHlAsyLulyRc41PW64pc+AO4bcM2KsBBGTHJjkwKQ1062ZXs20aubnoGw4f2uqs6PNmfbm2trWW0b+DQ==)
+  last-modified (1561585115515)
+}
 train (t-88czvbpceamwqhin4n80c9cq3) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Medium)[v:Size:Medium]}")
   plan (hZBNDoIwEIUfguIPbDQucKMeALYewJUrE40HIDCRJiBNqYlxwdmtFBdUiW3avpnvTaYtfCzpERc8p6jKmJDRiRJiXCLopvdlUTB5FCkJLLpIJw3/haexJI22vai+N7rCyuiWxbcrpQdJRYWNwQSpko4j6K3G+k8xdn8MdaJ1yFQQclFyEpKpK//8BeMdZ8opkW2nucHYk+DDwgA2HAwxgosxJpiqOYMHfDFbrbfDahjaXavPcFRsK7enTvcF)

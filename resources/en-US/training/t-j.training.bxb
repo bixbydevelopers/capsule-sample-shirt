@@ -9,14 +9,14 @@ train (t-jqanpqgg1lt28j4c8zc0e0xsq) {
   last-modified (1561058172248)
 }
 train (t-jucbdo6f6g4lqt5wq2c53aka3) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (T-Shirt)[v:SearchTerm] for me")
-  plan (dY5NCsIwEIVfbbVqXSnizwnc2EsIQleC9QKlHehA04Y0C1ee3dggkmAX8wa+7w0JVtjSsxCyobSvWen0TiWx1Di4+NIJwfqmKlLYuMpCv6+o0GTV0VVZy5qLJtMk+v9nVq29MwOxH6vjNGZebOIsVSdJaabe/37+SexceOW2ssJ7MadClfWDlECCABOEiDDFDDHmWGBpKDweDzwY+G++GZmdmE4IvAE=)
-  last-modified (1560832166394)
+  utterance ("[g:CommitOrder] Buy a (T-Shirt)[v:SearchTerm] for me")
+  plan (dY7LCsIwEEVv66O+Vor4+AI39icEoSvB+gOhHWigacM0C1d+u7FBJMEu5g6cM5cEK2zpKZSuKe0qySa9U0FSGxx8fGmVkubGJTE2vnIwvGcShpw6+iprpJGizgyp7n/NqXVQsxD7oXOchsxL2jhrbjWxkdSF388/iZ0Pr7IpnQhezElwUT2IFZaIEGOEMSaYIsEMcywsRcCTnkc9/803Y7tt5w0=)
+  last-modified (1561585119893)
 }
 train (t-jweg6987nuvtqcn4ydv6n7bmf) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (2)[v:Quantity] (medium)[v:Size:Medium] shirts")
-  plan (dY9BCsIwEEV/1VqrrhRFPYEbewlXXYn2BEUHHGjakI6gLjy7qUUkUQMzkPf+hwRjzOiaK11QUp/ZSHKgI7EWLF28rZRi2ZkTGUxd1UI/bygXatXKVWnJwnmRCqn6d61VE69mIRb/4lj/Mw+2a6NNpckIU425m9xf8lJYbv63smb7j8j4ThghQAdd9BCijwgDxBhaii/eTPDin3mf0N5i24psA08=)
-  last-modified (1560832166495)
+  utterance ("[g:CommitOrder] Buy (2)[v:Quantity] (medium)[v:Size:Medium] shirts")
+  plan (dY9NCsIwEIVfrX9VV4qinsCNvYSrrkR7gqADDjRtSEdQF57d1CKSagMzkO97DxJMMKeb0iajuLywlfhIJ2IjWPl4V2jNsrdnspj5qobNvCUlVKu1r5KchVWWCOnyf61W00bNQSzb4ti0mSe7tTW2MGSFqcTCTx6uKheWe/NbabWbj0j5QRgjQAchuuihjwGGiDByFD+8muDNv/M5obtFVesF)
+  last-modified (1561585120025)
 }
 train (t-jxjo06xh8mrsssu7g89r3mpsa) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Switch the {[g:ChangedItem] (logo tee)[v:SearchTerm] to a (large)[v:Size:Large]} and the {[g:ChangedItem2] (polo shirt)[v:SearchTerm] to an (extra large)[v:Size:ExtraLarge]}")
