@@ -212,6 +212,28 @@ What is the total price of the order
 
 ---
 
+## Managing vocabulary and out of Vocabulary
+
+The vocab files help with recognition. Especially in cases where an utterance is referring to multiple items (e.g. 
+`add Polo Shirt, Oxford Dress Shirt and V-Neck Tee`). Note that in this example the only way to distinguish `Polo Shirt`
+and `Oxford Dress Shirt` as there is no conjunction word (e.g. `and`) separating them and you cannot rely on 
+punctuations such as a comma to separate the list of items as the ASR won't add that commas anyway. 
+
+In the general case it's hard (maybe impossible) to get it right when the utterance includes two or more none vocabulary 
+items in a row without a conjunction word (probably impossible for humans as well). You can go up to your limit with 
+vocabulary but if your capsule needs to support out-of-vocabulary items then you also need to add training utterances 
+that include out-of-vocabulary items. For example you should add training with patterns: 
+`add X, Y and Z to my shopping list` or `add X, Y to my shopping list` where either X or Y (but not both) are out of 
+vocabulary (Z can be out of vocabulary too). Use one token, two token or three token words (or more) for out of 
+vocabulary items. Also add training with patterns like "add X and Y to my shopping list" or "add X to my shopping 
+list" where X (or Y or both) are out of vocabulary (and again, make sure to use different token sizes for out of 
+vocabulary items). What you should expect is for Bixby to learn to pick correct interpretation for cases where items are 
+separated by an "and" or when at least one of the items is in vocabulary (e.g. buy eggs banana", "buy foo bar banana", 
+"buy foo bar and bar foo"), otherwise (with proper training) Bixby will merge the two items into one. 
+
+If you need anything more than this then you need to write some code that can take an out of vocab string and parse 
+it into one, two or many items (maybe by querying an index of all products in the backend). 
+
 ## Additional Resources
 
 ### Your Source for Everything Bixby
