@@ -1,6 +1,13 @@
 capsule-info {
-  icon-asset (/images/icons/shirt.png)
-  description (Example shopping cart capsule)
-  display-name (Shirt Example)
-  developer-name (Viv Labs, Inc.)
-}
+  display-name (Shirt Sample Capsule)
+  dispatch-name (Shirt Sample Capsule)
+  developer-name (Bixby Sample Capsules)
+  icon-asset (/images/bixby-logo.png)
+  description ("A sample capsule to build a shoping cart for buying shirts.")
+  website-url (https://bixbydevelopers.com/dev/docs/sample-capsules/samples)
+  search-keywords {
+    keyword (sample capsule)
+    keyword (shoping cart)
+    keyword (buy shirts)
+  }
+} 

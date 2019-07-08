@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    utterance (Buy a shirt)
+    utterance (Buy a men's shirt)
+    utterance (Order 3 polo shirts)
+  }
+}
