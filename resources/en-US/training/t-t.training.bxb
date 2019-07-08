@@ -1,7 +1,7 @@
 train (t-t5qxevck0orfve5rowvt3dp6e) {
-  utterance ("[g:CommitOrder] Buy a {[g:Item](large)[v:Size:Large] (V-Neck)[v:SearchTerm]} and {[g:Item2](2)[v:Quantity:2] (small)[v:Size:Small] (polo shirts)[v:SearchTerm]}")
-  plan (tY9NTgJBEIUfKoPIjwgMKidwIwuuYGLCisB4gQ5UQiX0MOkpE3Th2S2mg6Y7sNNFd6fe+6peNUZIaW9ssaVJuWEnkyWtiAvBYyi/7Kxlmbs1OQxCy4sx78gIeWscWrOchc12JmTL023e6kdtKuLhHI6nc84X6/VcuF1BTpjKeP0DM/23sFFILt5NLiwf8RLZ4cZ9KL5yvvZGtElGxq02b+Tsn82J/p/xJ53UUtRwgUtcoY4EDVyjiRu00EYHXdyihzv0McBQSURs/YdtVWyjYts6o1axvwfa499jfaxQ0YkmpDqto3lDzUjQ/AY=)
-  last-modified (1560904403340)
+  utterance ("[g:CommitOrder] Buy a {[g:Item] (large)[v:Size:Large] (V-Neck)[v:SearchTerm]} and {[g:Item2] (2)[v:Quantity:2] (small)[v:Size:Small] (polo shirts)[v:SearchTerm]}")
+  plan (tY/JTgJBFEVvMwgNDsjk8AVuZOEvkJiwMtD+QAVewkuoplP9TNSF3+7rrqCpCux0UVW59543FKaY0LuxxY5m5ZadzFa0Ji4Ed6E931vL8uI25DAKI2/GvCMj5KP7MFrkLGx2CyFbHi/z0TAqUxO3p3A8nEq+WK/Hwu0LcsJUxutXzNO/DZuG5PLN5MLyES+RVTduQvOZ840Pok0yMm69fSVn/6xP9P+MP+moN0GCBppooY0zdNBFih76OMcFLnGFAa4xxAhjJRGx7R+2X7Odmu2qTmr290Br/HvQBwXlE+1WTUh15kDnNFSn3w==)
+  last-modified (1561585124422)
 }
 train (t-tfrxp4bk6rxg9881hehgv30s9) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make that a {[g:ChangedItem] (Large)[v:Size:Large] (V-Neck)[v:SearchTerm]}")

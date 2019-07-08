@@ -1,7 +1,7 @@
 train (t-6izg5mtxx1642kdclje12xe28) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Order a (small)[v:Size:Small] (t-shirt)[v:SearchTerm]")
-  plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7cYGBwk6yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3e+ZU6tgZiF2/+o4/jMvtnFSulWkDVMXnp9/ElsfXrgpnQh+zEnoorqTluF9OT8JC0QYYIgRxpggRoIpZphbjsDEvUkshfe+CduL+mVsV3gD)
-  last-modified (1560832165304)
+  utterance ("[g:CommitOrder] Order a (small)[v:Size:Small] (t-shirt)[v:SearchTerm]")
+  plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7UaDgwQ7yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3f+ZU6tgZiF2fXUc+8yLbZyUbhVpw9SF5+efxNaHF25KJ4IfcxK6qO6kZXhfzk/CAhEGGGKEMSaIkWCKGeaWIzDx1ySWwnu/hO1GbvkG)
+  last-modified (1561585114020)
 }
 train (t-6qwwk4l7xmswmo6olhx4rpryy) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (henley tank)[v:SearchTerm]}, the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}, and the {[g:RemovedItem3] (logo tee)[v:SearchTerm]}")

@@ -4,9 +4,9 @@ train (t-77ydft0732o3hxl7zdwz1u0rc) {
   last-modified (1560812737165)
 }
 train (t-7907ye1h7qolqtjr8jm2zjhfl) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (medium)[v:Size:Medium] shirt")
-  plan (dY7PCsIwDId/c/PfvCnC9Am8uJfwtJPgnqBowMDqSpuDePDZ7exBWlwgIXxfQoIVtvRU2nRUuztbqS90JTaCXYxPvdYsZ3sji02sAkznLSmhoPaxah4srLpGSLv/a0GtkzUPUY2N4zBm3uzL0djekBUml77fDjU91vKLUCLDBDkKTDHDHAssPUNCB5596S9DFL4vvc+BDw==)
-  last-modified (1560832165369)
+  utterance ("[g:CommitOrder] Buy a (medium)[v:Size:Medium] shirt")
+  plan (dY5NCsJADEa/1n/dKUL1BG7sJVx1JdgTFA0Y6Nghk4W48OxOnYXMYAcmhPe+kGCFLT0bY1sq3Z1Fywtdia1iF+NTZwzrWW4k2MQqwDQv1CgFtY9V9WDlpq2UjPs/FtQ6GfMQxVAchyHzZl+OVjpLokwuPb/ua7qs5hdhiQw5RhhjgilmmGPhGRLa8+xLfz+83Pc+/wE=)
+  last-modified (1561585114750)
 }
 train (t-7rhhbgzoqwvuxekecpsn67ewy) {
   utterance ("[g:CommitOrder,r:UpdateOrder] Get {[g:AddedItem] (2)[v:Quantity:2] more (v-necks)[v:SearchTerm]}")
@@ -19,7 +19,7 @@ train (t-7sxpgby1hd1mvniyiepohxriu) {
   last-modified (1561058158845)
 }
 train (t-7vt2pu4so0p7xybeyspqig8wp) {
-  utterance ([g:CommitOrder:continue:Shirt,r:CreateOrder,r:CreateItem] Buy this shirt)
-  plan (dY5BCgIxDEW/jlp1qQjqCdw4l3A1K0FPMGjAwNQpaRauPLsZumpxCvkk7yVQrLGjT+tDR3V8sWh9owdxUBxyfOm9Z73KkwTbXCVY7gu1Skkdc9W8WbntGiUf/58ltSnODGI/to7TmPmyxTlIH0iUKZbfvw+JFSaYosIMcyzgsDSCgjmbkdXwKuucJX4=)
-  last-modified (1560832165586)
+  utterance ([g:CommitOrder:continue:Shirt] Buy this shirt)
+  plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
+  last-modified (1561585115084)
 }

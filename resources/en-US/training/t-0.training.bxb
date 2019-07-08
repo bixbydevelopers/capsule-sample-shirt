@@ -4,9 +4,9 @@ train (t-0rwiea5s67kfb105zmd9lqt0b) {
   last-modified (1561058152275)
 }
 train (t-0xt790ce3hpy5dmqj2hum0l4e) {
-  utterance ([g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a shirt)
-  plan (dY5BCgIxDEW/jlp1qQjqCdw4l3A1K0FPMGjAwNQpaRauPLsZumpxCvkk7yVQrLGjT+tDR3V8sWh9owdxUBxyfOm9Z73KkwTbXCVY7gu1Skkdc9W8WbntGiUf/58ltSnODGI/to7TmPmyxTlIH0iUKZbfvw+JFSaYosIMcyzgsDSCgjmbkdXwKuucJX4=)
-  last-modified (1560832165038)
+  utterance ([g:CommitOrder] Buy a shirt)
+  plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
+  last-modified (1561585113038)
 }
 train (t-0yz4gb8mdusuwylvfoeo4i7th) {
   utterance ([g:CancelCommittedOrder] Cancel my latest order)

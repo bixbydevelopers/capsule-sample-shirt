@@ -1,7 +1,7 @@
 train (t-yst9jrc012ozcxprbshrf0ecr) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (3)[v:Quantity] (Large)[v:Size:Large] (Polo Shirts)[v:SearchTerm]")
-  plan (dY/LCsIwEEWvr9b3QvH5BW70JwShK9H6A0EHHDC1pCOoC7/d2G5MtItMwjn3wgR9jOiudHqhVXZmI6s9HYlTwczF66vWLFtzIoOhqwro5w0poULNXRUlLKwukZDO/tcKNfBqFmJaFseizLzYjmVqrikZYcowdpO7m0qE5eF/K/5MTFy44eRUCG+TmJQ5ng9ktL93zE9CDxVUUUMdDQQI0UQLbXTQtQY/Lsxd03I4B193YF+tvB/aLt4=)
-  last-modified (1560832167618)
+  utterance ("[g:CommitOrder] Buy (3)[v:Quantity] (Large)[v:Size:Large] (Polo Shirts)[v:SearchTerm]")
+  plan (dY9JCgIxEEW/Y7fjQnE8gRu9hCC4Em0vELSgC0zbpEtQF57daDYm6iKV8N7/UEEXA7oqnZ9oUaRsZLGjA3EumPh4edaaZWOOZND3lYNh3pAScmrqq3XGwuq0FtLF75pTvaBmIcb/4pj9Mw+2Y56bc05GmAoM/eT2ojJhuYXfSl4TIx+uODs6EWySkDKHdE9Gh3snfCd0UEIZFVRRQx0RYjTQRAtta/DloreLLYd38HFX7avh+k8=)
+  last-modified (1561585124839)
 }
 train (t-yuhz7gffsryirb5cry9an2ron) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (Henley shirts)[v:SearchTerm]} and {[g:AddedItem2] (Polo shirt)[v:SearchTerm]}")
@@ -9,7 +9,7 @@ train (t-yuhz7gffsryirb5cry9an2ron) {
   last-modified (1560813076402)
 }
 train (t-yyod5anwhb5pykxw15fqhlnj9) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (Men's)[v:Gender:Male] (Ralph Lauren)[v:SearchTerm] Shirt")
-  plan (dY9LCsIwFEVv/VWrTvzgZwVO7CYEpSPBuoHQPmigactrBo5cu2mDgwQd5A7OuRdesMSWXkI1JcVtIVnHD8pINhoHF19qpaS+c06Mtass9PtMQpNVR1clldRSlIkm1f6eWbXyZgZi/6+O0z/zlibODdcNsZbU+uenXWLnwquscis2rrhR1X3JuyMlwVnxJFZYIMAAQ4wwxgQhppghwtxweCbsTWQonPdNmF7QL0Ozwgc=)
-  last-modified (1560832167680)
+  utterance ("[g:CommitOrder] Buy a (Men's)[v:Gender:Male] (Ralph Lauren)[v:SearchTerm] Shirt")
+  plan (dY9LCsIwFEVv/VWrTvzgZwVO7CYEpSPBuoHQPuiDpi1pBo5cu6nBQYId5A7OuRdesMSWXkI2JcVtwUrHD8qIG42Diy+1lKzvKieFtass9PuKhCarjq5KKtYsykSTbP/PrFp5MwOx76vj1GfebOLcqLohpZla//y0S+xceOUqt2LjihtV3Ze8O1ISKiuepCQWCDDAECOMMUGIKWaIMDccngm/JjIUzvslTDewyw8=)
+  last-modified (1561585125219)
 }
