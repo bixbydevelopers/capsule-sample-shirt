@@ -1,3 +1,8 @@
+train (t-6hy0j55pimshov1x2nmkcc3u7) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (long sleeve jersey)[v:SearchTerm]} to my shopping cart")
+  plan (fY/LCsIwEEWv1vcTFLFuBHdu7D+IILgSrH5AMQMNGA1pBFf9dtPUhQnWLCYzc+5MbjDGjF6JkDeKspQrHZ3oSlxqLNz27iEE10fFSGHqorLp6S+SJZr+6FeV+vxp8wyhK9kyRuygSWRYeuYUmYEvPq+YxMQFthf+WmbJuork3ISNVA9JSnNj1ftiXETfxZ7fWQm8F2NK1DU9kxIYoYY6AjTQRAttdNBFD30MMDQMHxo4tGdpzdLyFHfjU5WxqAKjL/Z33g==)
+  last-modified (1562610351024)
+}
 train (t-6izg5mtxx1642kdclje12xe28) {
   utterance ("[g:CommitOrder] Order a (small)[v:Size:Small] (t-shirt)[v:SearchTerm]")
   plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7UaDgwQ7yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3f+ZU6tgZiF2fXUc+8yLbZyUbhVpw9SF5+efxNaHF25KJ4IfcxK6qO6kZXhfzk/CAhEGGGKEMSaIkWCKGeaWIzDx1ySWwnu/hO1GbvkG)

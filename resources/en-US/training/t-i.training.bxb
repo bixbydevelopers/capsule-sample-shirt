@@ -8,6 +8,11 @@ train (t-igs1x1lohxceai3fn1l2slis0) {
   plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
   last-modified (1561585118797)
 }
+train (t-iohmg8ew7rbtunczmmdshczh2) {
+  utterance ("[g:CommitOrder,r:CreateItem,r:CreateOrder] Order (2)[v:Quantity:2] (flannel shirts)[v:SearchTerm] ")
+  plan (dY9LCsJAEEQraozxs1H8nsCNuYQgZCUaLzDEBhucGCYt6MazOyagTNTFdMN7VdCDAcZ0Uzo/U1Sc2Ei0p5Q4F8xdvL5ozbI1RzIYuaqC9bwhJVSphavijIXVORbSxe9apYa1moWY/Ytj+c882I5Vbi45GWEqMHGTu6vKhOVe/1bympi6cMPZsRK1SxJSJj0dyGj04aGBJlrw0UaADkJ00bMcXyYojVeaz8N7+3aHthnYFp4=)
+  last-modified (1562610437357)
+}
 train (t-iv7m4bbb8k3n2tb3wgykthgz9) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder,r:GetQuantity] Change the quantity of the (polo shirt)[v:SearchTerm]")
   plan (hZBNbsIwEIUfDZS/UqgqJOgC2gPAlgN0gVi10HIAKxk1ljCxJhMJNpwdK0GVYoLwSNbMvO/ZY2OAIR2UsTuap7FmmW8oJG0F43L7MzFGyxdHxHgtS0XT47c2UkKF9HFTOmV5nuLNuy1W+z+KVkImxbunMTlLiRjfdGN6x4zFHeAUFvlMu2JmObHEot3Ik7LxmxNjhaJ1pvai5egPtST5l7zX/tCOQrnMM6rScqXy269wxWH8S2zwghoeEKCOBh7RRAttdNDFE3p4zqMPVDItxwRu77mo5Qwuu58Vq+6qvjs5AM4=)

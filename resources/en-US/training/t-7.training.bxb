@@ -23,3 +23,8 @@ train (t-7vt2pu4so0p7xybeyspqig8wp) {
   plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
   last-modified (1561585115084)
 }
+train (t-7x6uow4j9fq4xjrc76k3qdscd) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:example.shirt.AddedItem] (turtleneck)[v:example.shirt.SearchTerm]} to my cart")
+  plan (fY/LCsIwEEWv1vcTFLFuBHdu7D+IILgSrH5AMQMNGA1pBFf9dtPUhQnWLCYzc+5MbjDGjF6JkDeKspQrHZ3oSlxqLNz27iEE10fFSGHqorLp6S+SJZr+6FeV+vxp8wyhK9kyRuygSWRYeuYUmYEvPq+YxMQFthf+WmbJuork3ISNVA9JSnNj1ftiXETfxZ7fWQm8F2NK1DU9kxIYoYY6AjTQRAttdNBFD30MMDQMHxo4tGdpzdLyFHfjU5WxqAKjL/Z33g==)
+  last-modified (1562610296776)
+}
