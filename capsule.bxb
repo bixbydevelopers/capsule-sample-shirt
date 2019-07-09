@@ -17,10 +17,10 @@ capsule {
       as (core) 
     }
     import (viv.entity) {
-      as (entity) version(3.18.21)
+      as (entity) version(3.18.29)
     }
     import (viv.money) {
-      as (money) version (2.20.12)
+      as (money) version (2.20.19)
     }
     import (viv.time) { 
       as (time) version-from (entity)
