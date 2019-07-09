@@ -1,3 +1,8 @@
+train (t-46h7vxhcfu04mc91fotadwmad) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (hawaiian shirt)[v:SearchTerm] to (large)[v:Size:Large]} and remove the {[g:RemovedItem] (v-neck)[v:SearchTerm]} and the {[g:RemovedItem2] (collar dress shirt)[v:SearchTerm]}")
+  plan (zVLNToNAEP4U1NYCKrUK1UT7AO3Biw/gyZNJ1QcgMJFNukKW1RgPffYOUJOyBXvxIBs2M/P9zHdYXGNEX5HMFzQrUqH0bE4xiVwjbI4fMimFflIJKQybUD00+K95EmmqoUkntPyo6gJjY1savb9R8qhJFrg1MEUsaTDCTjVudohxv4OwjOt6KriZ5irLSWmxHXlOMvv8NXKDEXaq2yNvEro33/2l7zMtKNZrLGjD2pFIxekLqf/i1/pau5f4BiK+CRPsYR8WbBzgEEfooY9jDODAhYcTnOIMPoY4xwgXuESAsHHGuAK2POy1x2DDw608euxh8e3y1Oc+4NNnPaofLZVtzH5u8ytdLN5eJnI4q8epy96BtwI=)
+  last-modified (1562631713588)
+}
 train (t-487yb5rc7x7wwqnylbs3rz156) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (oxford dress shirt)[v:SearchTerm]} and the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}")
   plan (rVHLCsJADBxtra1vK4r1ov6AB3/BkyfBxweUNmChi2W7iie/3fhA7NIqiBs2hJnJJBD00KezL5KYZuk+kmq2poCiRMHLwouDEJFayZAkelnqAWr6XRL6ih7UtJC6HO91ipG+hDicKFwqEikm2iaSuCWj8Aq7Mf7S/GHy/J++G4opUE9umMflM74M9luSv/rlnqp4yAAllGHARAUWqrDhoIY6GmiihTY66L7CBTS19aa2WW1wrnPd4Sjd1Xjm2zc17P1ZjBjs6LJji2dU4VwB)

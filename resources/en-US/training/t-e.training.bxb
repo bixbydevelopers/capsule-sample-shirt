@@ -3,6 +3,11 @@ train (t-e0o0bkkgcqwi1rdtgc41uku2c) {
   plan (hZDdCoJAEIWPmanZz0UU2U31Ar5EV11Ffw8gOqDgpqxr1E3P3qJGrCntwDA73znLYTHBnB4+yxLy8ijmwjtRQHEm4KrrXcpYLA48JI6ZiqplQ3/NQl9Qhbad6FWUc45VMwRL7xTuBbEcm0YSTtKiKNxON9Z/zFiogmPh30Qsns1EZ0ooELVn2cZK0vo1P3KfB9GFOMMUGnrQ0YeBAUxYsDGEg1FZY+CHW5LrsjuytJKj7t/pcwx506XLli9pMN8=)
   last-modified (1560817105291)
 }
+train (t-e3g6vtu7e7ytncj8fovthj05u) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (V-Neck)[v:SearchTerm] to (Small)[v:Size:Small]} and add {[g:AddedItem] (4)[v:Quantity:4] (small)[v:Size:Small] (button down shirts)[v:SearchTerm]} ")
+  plan (hZFJT8MwEIVfF+hKKemWFInlxqW9ckZISJwQBH5AlIyopaaNHFcCDv3tTJ2CaidRY8Uaz5vvjRdMMaKvIE6WNE8XQqr5G4UkEgXPTD+u41ioFxmRxMCUsqRV/5FEgaJMui2Vthsdp3DNkocoouhZUZxiau1jEaw+/7QrS5PEZgfspMQVN0WgYe2VtsX1ERj3Rwq2YRbPBC9miVwnJJXgW3BMUJu5RWZauStTtrbv2Kx83QQrJdS3fbc+LSlU+0O4RZpWCp8/Vx7IcPFOMlfu72b7ZZ7EKsqEch/rcnzxQ4W5S1RQRQ11nOAUDTTRQhsddHGGHs7RxwUcDPQYYoQxJnDhAf/cjmwwm3HNPddhrsazw6OnuS5nK5rLvsrBXzeyyMUtjmvs3efuHvcZ8h6qvG7/Ag==)
+  last-modified (1562631503579)
+}
 train (t-e6h0m6a5c4azfjm3blewbub5o) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (graphic tee)[v:SearchTerm]} and add an {[g:AddedItem] (extra large)[v:Size:ExtraLarge] (v-neck)[v:SearchTerm]} instead")
   plan (hZHLTsMwEEUvTaC0ECgtpSkLHrtu6D8gJCRWSAQ+IIpHqqWaWI5BiEW/HcfhEbuOiJXRaM69MyMbM0zpIxdyTctqxZVePlFBXGrM3fJdKQTXj4qRwsRFTdHTv0iWa2rQdSfavNm8QupKbhkj9qBJVLjw9lBkDC0+63Bi7AJbS0PNLFl0kQ034UaqUpLS3Kx67t+XKN9/lrkKdXEU8043Lv8x+5MzWlOhv1kaYpYEX2tLnqti9UxqS57V0b/ke/7KGtDdx7v+jH8SUuyghwgxdrGHPvYxwBAHOESCIxxjhBN7xpjgFFOcAQFH3HJEJo7MGVjH0Khh/ybGrfyP4LdWf32TRSbW0xIzuWfy5As=)

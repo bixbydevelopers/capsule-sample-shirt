@@ -8,6 +8,11 @@ train (t-jqanpqgg1lt28j4c8zc0e0xsq) {
   plan (nZLPTgIxEMY/WIQVBZEVFC7qA8CBiw/gyZPx3wNsdiduEwpNtyTqgWd36Bpim102oU3b6Xzzm5k0xTVG9BVLtaR5nglt5q+UkFAGE9f9uJZSmGedkkbkSoXTi/9QaWyokO4rpe3G2jmmXrUsXn1S+mRI5rjzNE2MOBGTSvpA4sUh7LamZn3AQ03ANinsmeDLTOm1Im0EP8XR4NgFXzbxygjz7T/BGy0pMX9d3pRp5Uqsk+ydtDwyX+mnqS4y9BTxQ5iigSYCtHCCNjoIcYouznCOHvq4wACXGCLC1X6OMAYcqm2pjuV6vHZUl6nAegZMR5yvYSns9xafhQVP+T9C9gWcu899hLZ2c9flLw==)
   last-modified (1561058172248)
 }
+train (t-jtc68yyhmw8bkjmf3248co919) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make the {[g:ChangedItem] (turtleneck)[v:SearchTerm] an (extra-small)[v:Size:ExtraSmall]} and get rid of the {[g:RemovedItem] (extra small)[v:Size:ExtraSmall] (henley tank)[v:SearchTerm]} ")
+  plan (jVHRTsIwFD04FNDpFEQYYsQ3X+DVDzAx4ckE9AOW7UaasLGUagwPfLulXSLtOrFNu9t7zj33tMMduvQdpfmSJusF42Iyo5hYLhCa6edVmjLxyhPi6JiQTlr89zyJBGnooRLafqp4jYHVbRFlH5RMBaVrjCyMkywxGGFlNe4PFOPpAGEb63jM5GGc81VOXLCy5Rmlq68/LRuMsLLabXmfYHWe05JiUWB9F6aQ//w13UtDVpdpxgSLlu4HV2UaaltlDlO/dDxWIVv7uUsXi3i8eCNeuth8t6NnJl9YlmigWsdyPmcbcuZGqOEIHuo4xgkaaKKFU5zBxzku5AxwWcwrtNHBNbq4QQ99hBjgFkOgpFAvFJpKw1PfwFAI5NoptKRWTSmg2F0RjFxt76xHU8ae7NyTfnzpaij9NOD/AA==)
+  last-modified (1562631722721)
+}
 train (t-jucbdo6f6g4lqt5wq2c53aka3) {
   utterance ("[g:CommitOrder] Buy a {[g:Item] (T-Shirt)[v:SearchTerm]} for me")
   plan (dY7LCsIwEEVvrba+Vor4+AI39icEoStB/YHQDjTQtGGahSu/3dggkmAXcwfOmZkES2zoKZSuKesqySa7UUFSG+x9fG6VkubKJTHWvnIwnGcShpw6+CpvpJGizg2p7v+aU6tgzULshsZxHDIvaeOkudXERlIXfv/+SWx9eJFN6UTw4p0EF9WDWGGBCCPEGGOCBCmmmGFuKQKe9jzq+a++Gdue9LeSNw==)
