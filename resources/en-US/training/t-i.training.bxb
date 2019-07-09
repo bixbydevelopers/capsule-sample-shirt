@@ -1,3 +1,8 @@
+train (t-i0xkouu2aa0tfvtcnq5ej4gfb) {
+  utterance ("[g:CommitOrder] Buy a {[g:Item] (jersey)[v:SearchTerm]}, a {[g:Item2] (polo)[v:SearchTerm]}, and a {[g:Item3] (collar dress shirt)[v:SearchTerm]}")
+  plan (zY5NTgJBEIU/xGEccURB5OcEbmShRzAxYWUiXmACldAJDZOeXrjy7BYzJKZb2RIXXZV+r756xZShfBa23MisWhvnZ++yFFN6JqH8srPW+De3EscgtBoxnndSeGmsaWjNt8abYjP3Yqu/scbqR5iKjI+N83DM+TJaHku3K8V5I1V8/n7m6ZRhz6cKW+wro1B8NdtVY0SJCynccv0hzv67PRNanNHmnIQOKRdkXNLlipxretxwS58Bdwy5Z8RYCSImOTDJgenVTFoz3Zpp1czPQ9mw/66p9o5mZpqY6wVt/WXk3w==)
+  last-modified (1562623228766)
+}
 train (t-iefwd3fqnb1cvufcgjjxli455) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Switch the {[g:RemovedItem] (2)[v:Quantity:2] (collar dress shirts)[v:SearchTerm]} for an {[g:AddedItem] (oxford dress shirt)[v:SearchTerm]}")
   plan (hZHdTsJAEIUPtIqggICU1gt/7ryRdzAmJl4ZRR+g6U7CJpRutovRG57dcVsDW9qYSWYnc843O9nFDFP6ilO1onm+lNrM3yghqQwit/2Ypak0L1qQxsSVimbF/6FEbKiQbhul7cbWOULX8iAEiWdDaY6ryh6aGNjTZw0kxq5ge2HdMKvcNSlbyele6UyRNpJXvay+V5p9/i1zUzfFcUSNNK7/gRG4htdNvDbSfFc3WtCKElMyYZ1mldpfPLDHOlm+kz6wL35z9fGf5FoUQvOcCC204cHHEY7RwQm66OEUZ+hjgCHHOUYY25jgAlMEQA3jl0yPqQEzHucRR9cyLcugzP5eXVS7c1d3+PQ4Bzx1yHe3ue7/AA==)
@@ -9,9 +14,9 @@ train (t-igs1x1lohxceai3fn1l2slis0) {
   last-modified (1561585118797)
 }
 train (t-iohmg8ew7rbtunczmmdshczh2) {
-  utterance ("[g:CommitOrder,r:CreateItem,r:CreateOrder] Order (2)[v:Quantity:2] (flannel shirts)[v:SearchTerm] ")
-  plan (dY9LCsJAEEQraozxs1H8nsCNuYQgZCUaLzDEBhucGCYt6MazOyagTNTFdMN7VdCDAcZ0Uzo/U1Sc2Ei0p5Q4F8xdvL5ozbI1RzIYuaqC9bwhJVSphavijIXVORbSxe9apYa1moWY/Ytj+c882I5Vbi45GWEqMHGTu6vKhOVe/1bympi6cMPZsRK1SxJSJj0dyGj04aGBJlrw0UaADkJ00bMcXyYojVeaz8N7+3aHthnYFp4=)
-  last-modified (1562610437357)
+  utterance ("[g:CommitOrder] Order {[g:Item] (2)[v:Quantity:2] (flannel shirts)[v:SearchTerm]} ")
+  plan (dY/LCsIwEEWvWlufG8XnF7ixPyEIXYmPHwh2oANNLekIuvHbjRaUVLvIDJxzb0gwxIRuSucphUXCRsIDnYlzwcLFm4vWLDsTk8HYVSWs5g0poVItXRVlLKzSSEgX/2ulGlVqFmJeF8eqzjzYjnVuLjkZYSowdZP7q8qE5V791vE1MXPhlrO4FJWXHEmZc3IiozFAA0204KENHwE66KKHvuX4McHbNN7me/DZnt2+7b/u9J8=)
+  last-modified (1562621607400)
 }
 train (t-iv7m4bbb8k3n2tb3wgykthgz9) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder,r:GetQuantity] Change the quantity of the (polo shirt)[v:SearchTerm]")

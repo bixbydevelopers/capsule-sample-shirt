@@ -13,3 +13,8 @@ train (t-4ptbdf5t6ton607m5wsqkiz5a) {
   plan (hZHdSgMxEIXPtqu16mptrd164c+dN/YdpFDwSrD6AMtmoIHGDdkoXvXZjdmqmzRBAsMw35kzwwQXGNNnIeSaZvWKKz17ppK41Ji65XklBNdPipHCyEVN0dO/SlZoatBtFG3ebV4jdyUPjBF71CRqXHl7KDINLT6JdGLoAlvLQ2aW3MXIhptwL1UlSWluVr307yWqj59lbkIujmIa7cb1P83+5CWtqdRbloeYJcHf2pEXqly9kNqRL7+jf+QFf2MNiPtMkKCDLlLsYR89HKCPQxzhGBlOcIoBzuwbYoRzjIGAPm3puyYOzOtbfWL12Ma0lf8R/NZgHBPj0DNzMjOxY7LsCw==)
   last-modified (1560878202398)
 }
+train (t-4tvpvdkn48mwb7mkl2ipur9t7) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (small)[v:Size:Small] (henley tank)[v:SearchTerm]}, a {[g:AddedItem2] (large)[v:Size:Large] (pullover sweatshirt)[v:SearchTerm]}, and a {[g:AddedItem3] (3)[v:SearchTerm] (extra small)[v:Size:ExtraSmall] (button downs)[v:SearchTerm]} ")
+  plan (1ZJZT8JAFIUPglAQXEBWWWRxeZEH/QXGxMQnE6s/gDA3YRIrzXRMjA/8dm+nSuyEuoUXM5nJ9Jy53z2dFseo0svE8x9pHMyk0uM7mpL0NZpx+WrueVLfKkEKlbgVidb5B19MNEVWP9FaPJt9gEb8yKUQJG40eQG6Vg5FXPDJrydUJiLPf19ykVzS+TLed3Y5bq8KEZUY5zTJWUheznw190lpydf537gr/yhLdMPV/hDX8klEhhXDpYmazu5JeX9y1tV7XRzr4l35Sj/WTpDCBtLIYBNZ5OAgjwK2UEQJ29jBLvZQRgX7qKKGuhkNNNHCAdrooIseDtHHAEOMcATEeFnmZZmXN8SQlzO8kuGlTZfqO6/FbsgrG16NO1eYBTM/1oyZqaWeiblY7os8sMIr8lOaMww4qcPJR5ytzW8yNKqDwhs=)
+  last-modified (1562626895161)
+}

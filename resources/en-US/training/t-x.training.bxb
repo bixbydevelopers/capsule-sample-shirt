@@ -1,7 +1,22 @@
+train (t-xf8o2fzh91qj8zopn0guyhm2y) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (polo)[v:SearchTerm]} and {[g:AddedItem2] (hawaiian shirt)[v:SearchTerm]} to my shopping list")
+  plan (tZHPSgMxEMa/uuu21tZq/+16UOitF3voGxRB8CTY+gBLM9BAY0M2gqc+e8cslCY0npSFmTDf/L6ZZFFgRN+l0luaVRtp7Oyd1iS1xb1fft4pJe2bEWQw8KW6GPR/aFFaqqVJVNp/uXOFwm9ZCEHi1ZKq8BjsYYiBEz2PkFHLeRx5+HUW+r58bkqNOGUaU/aSw5M2O03GSr78f/me/U9BcfkTwxd5kZ+iFoI1llSa9WZFRv2ZT4EGLpAgxSUyNNHCFdq4Rgdd3KCHW9zx18cAQ4wwRg54ROaIpiPajkg4dxzRc0TDETjGlHPqVRB0ZJwT9hyyd86zeKsD)
+  last-modified (1562625585824)
+}
+train (t-xkzekmk3jxpm45y3zit0oot4b) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (medium)[v:Size:Medium] (v-neck)[v:SearchTerm]}, the {[g:RemovedItem2] (medium)[v:Size:Medium] (crew neck)[v:SearchTerm]}, and {[g:RemovedItem3] (large)[v:Size:Large] (t-shirt)[v:SearchTerm]}")
+  plan (7ZBbT8JAEIU/BRFFAUHkIsrFG6Igyk8wMeHJRPQHENiETSg0pRrjA7/dbTfBtGmVRx/oppOdOXP2zBnuyYnPgWFORHs+lpbdfhFDIU2borf8ODMMaT9bI2GR9UK66Ot/M0cDW2ioFgot3t37nJJ/CGP2IUY9Wxhzqr5JLKEono5iKJvKH+SVzGiWhnyT9qbSloNJ4ByapqGMj+ZIF8LaaYQhC6lCy7RmprBs+eviHtZrCbLeXa9l2dkXEzG0g631nUjeW3yS05EGCv6XBtZw/Cqs//eOb5d9+SVWrnXZYJMIUbaIsU2cHXV2SbDHPklSpDkgQ5ZDchyRp0CREseUOeGUClVq1Dnj3D0XXHJFg2ua3HBLizZ3dMCnE3GVfnRiATqxAJ246ikrzNGpuzpJVyelJigqDdyfgJvOop48vMaS6436S6gsolw47tLKb0dN2lQ+nVqa0jc=)
+  last-modified (1562630537816)
+}
 train (t-xnj2agljbjpdmx9lk7e7051qw) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (2)[v:Quantity] (henley tanks)[v:SearchTerm]} and remove the {[g:RemovedItem] (polo)[v:SearchTerm]} from my cart")
   plan (hZHdTsJAEIUPtIqIVn4Eihf+3Hkj70BMTLwyij5A052ETVjabBejNzw767YQdunGbDKdne+cmckWYwzpJxH5kqbFgks1/aCUeK4wscvPmRBcvUlGEgMblUVH/5WzRFGJHrxoszZ5gdiWzBgj9qpIFLh19pCkDQd87HGibwNTi+uaGfLoIxuuw1Mus5yk4nrVka18XycrxdUvbtx3FNn3bsn7uu6WYuJ14+4fszt5TktKVcXiOmZI7V88kicyXXySPJLP/6L7+C98xUrg7xOjgSYChDjBKVo4Qxvn6OACl4hwhS566JszwDWGGAG1jvDAEejY06dtHA3jQBXDKse+vrtjn7f0N9Cxo6dFem5T59EW)
   last-modified (1560878058801)
+}
+train (t-xrfg62n50mbiwjkoa4v1zm1jp) {
+  utterance ("[g:CommitOrder] Order an {[g:example.shirt.Item] (XL)[v:example.shirt.Size:ExtraLarge] (hooded sweatshirt)[v:SearchTerm]}, a {[g:example.shirt.Item2] (polo shirt)[v:example.shirt.SearchTerm]}, and a {[g:example.shirt.Item3] (small)[v:example.shirt.Size:Small] (v-neck)[v:example.shirt.SearchTerm]}")
+  plan (zZBNbsIwEIVfoQFS/kkpJHAANrBoj1AJiVWlpheIYCRGwhA5XiAWPXuHmI0NbFFtZey8N9/MyJhiSMdM5TtaFFvWZvFNa+LcIHblz4NSbL70hjQi17Kin68pM2StxLVWezac7VaGVHEbs9bAw0TE+F46ZvecX5Ywz/UhJ22YCn/8c877I5t9PKpZeo4YueKS9xtreB1TyvR6+0Na/bs63nulfKKb2hRPqKCKZwSooY4GQrygiRba6KCLHvoYIMIrhnjDCGPESGRPAI8MLmRwIZslWS/Jbkk2pGpPKDgfpIJ7Xke7QvmryRSJ3CLpEssUVVFCtP8A)
+  last-modified (1562624879860)
 }
 train (t-xrvrwhfi797644hz5qsv1uhc2) {
   utterance ([g:CancelCommittedOrder] Cancel my shirt order)

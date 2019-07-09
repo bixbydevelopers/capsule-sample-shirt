@@ -13,8 +13,18 @@ train (t-ahufexv56yu3pkv93fqo7m9z4) {
   plan (hZBNCsIwEIVfrVr/FUWwbtQD2K0HcOVK8OcApR1soLEhjSAuPLuxFaRpxQwJM/O9NwnBEFO6+1zE5KURk8o7UEBMKLjF9jbhnKm9DEliUkR509CfRegrytHqJ3resjzF3Lgt8q8XCneKeIqlwSRpS0Hh/nRj8ceMzR/BM8jzNdPFWshEkFSs/OQjxRSoz9BZFctI5d+V5L4MohNJjrFB2IMwgoUabNTRQBMOWmijgy56WfQxAEqKllbY+uzqaGuKbMPIvquha1s739MsOC8=)
   last-modified (1561058162657)
 }
+train (t-anr4xa1b4skqi0sxzgmn3obd3) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (4)[v:Quantity:4] (large)[v:Size:Large] (flannel shirts)[v:SearchTerm]}")
+  plan (fY/LDgExFIZ/xmXcb3HbSOxseAeRSKyE4QEmehJNDE2nEiw8uyoLLaNJb+f7TvMXDbTpEkbiQJN4z6WarGlHXCj07fLsFEVcLSUjiZaNXkXH3woWKvrjDxP9+9mcY/RsZcoYsYWiKMbACSdJN3zwbkInmjYwtd6vxwwZJZE718tYyJMgqbiO2rHN1Tk8Kq6u7teD5+qmm/MjewEnSUCh3O03JL9yB/xGqCOFNDxkkEUOefgooIgSyqigiprmeBueYxSNUdIUZuK9Z6zbc+T0ydN9ZfNeCv4D)
+  last-modified (1562626998724)
+}
 train (t-avbfxizm1em3muagjbrvsrajb) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (blouse)[v:SearchTerm]} to my shopping cart")
   plan (fY/LCsIwEEWv1vcTFLFuBHdu7D+IILgSrH5AMQMNGA1pBFf9dtPUhQnWLCYzc+5MbjDGjF6JkDeKspQrHZ3oSlxqLNz27iEE10fFSGHqorLp6S+SJZr+6FeV+vxp8wyhK9kyRuygSWRYeuYUmYEvPq+YxMQFthf+WmbJuork3ISNVA9JSnNj1ftiXETfxZ7fWQm8F2NK1DU9kxIYoYY6AjTQRAttdNBFD30MMDQMHxo4tGdpzdLyFHfjU5WxqAKjL/Z33g==)
   last-modified (1562610139059)
+}
+train (t-ayi6f5n8c4ra8q5z9928atwqo) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get rid of the {[g:RemovedItem] (crew neck)[v:SearchTerm]} and the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}")
+  plan (rVHLCsJADBxtra1vK4r1ov6AB3/BkyfBxweUNmChi2W7iie/3fhA7NIqiBs2hJnJJBD00KezL5KYZuk+kmq2poCiRMHLwouDEJFayZAkelnqAWr6XRL6ih7UtJC6HO91ipG+hDicKFwqEikm2iaSuCWj8Aq7Mf7S/GHy/J++G4opUE9umMflM74M9luSv/rlnqp4yAAllGHARAUWqrDhoIY6GmiihTY66L7CBTS19aa2WW1wrnPd4Sjd1Xjm2zc17P1ZjBjs6LJji2dU4VwB)
+  last-modified (1562629910138)
 }

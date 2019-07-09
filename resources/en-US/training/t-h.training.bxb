@@ -13,3 +13,13 @@ train (t-hg3krq7e4zqq30hib9n12tqq6) {
   plan (Y2BiEEqtSMwtyEnVK87ILCrRC86sSsUqxgiEDAw8QMwExEA2AA==)
   last-modified (1559955636558)
 }
+train (t-hge7wb9k0d5s6toqbv5lsm63w) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (collar dress shirt)[v:SearchTerm]} and {[g:AddedItem2] (tunic)[v:SearchTerm]} to my shopping cart")
+  plan (tZHPSgMxEMa/uuu21tZq/+16UOitF3voGxRB8CTY+gBLM9BAY0M2gqc+e8cslCY0npSFmTDf/L6ZZFFgRN+l0luaVRtp7Oyd1iS1xb1fft4pJe2bEWQw8KW6GPR/aFFaqqVJVNp/uXOFwm9ZCEHi1ZKq8BjsYYiBEz2PkFHLeRx5+HUW+r58bkqNOGUaU/aSw5M2O03GSr78f/me/U9BcfkTwxd5kZ+iFoI1llSa9WZFRv2ZT4EGLpAgxSUyNNHCFdq4Rgdd3KCHW9zx18cAQ4wwRg54ROaIpiPajkg4dxzRc0TDETjGlHPqVRB0ZJwT9hyyd86zeKsD)
+  last-modified (1562625744414)
+}
+train (t-hxibv149buubndcwcku3lye92) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove {[g:RemovedItem] (1)[v:Quantity:1] (logo t-shirt)[v:SearchTerm]} and add a {[g:AddedItem] (sleeveless tank)[v:SearchTerm]}")
+  plan (hZHdTsJAEIUPtIqggICU1gt/7ryRdzAmJl4ZRR+g6U7CJpRutovRG57dcVsDW9qYSWYnc843O9nFDFP6ilO1onm+lNrM3yghqQwit/2Ypak0L1qQxsSVimbF/6FEbKiQbhul7cbWOULX8iAEiWdDaY6ryh6aGNjTZw0kxq5ge2HdMKvcNSlbyele6UyRNpJXvay+V5p9/i1zUzfFcUSNNK7/gRG4htdNvDbSfFc3WtCKElMyYZ1mldpfPLDHOlm+kz6wL35z9fGf5FoUQvOcCC204cHHEY7RwQm66OEUZ+hjgCHHOUYY25jgAlMEQA3jl0yPqQEzHucRR9cyLcugzP5eXVS7c1d3+PQ4Bzx1yHe3ue7/AA==)
+  last-modified (1562627368103)
+}

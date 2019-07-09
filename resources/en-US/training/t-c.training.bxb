@@ -1,3 +1,8 @@
+train (t-ckd3gj0rizzqyh0nn6ueb75r4) {
+  utterance ("[g:CommitOrder] Order a {[g:Item] (large)[v:Size:Large] (oxford dress shirt)[v:SearchTerm]}, a {[g:Item2] (small)[v:Size:Small] (hooded sweatshirt)[v:SearchTerm]}, and a {[g:Item3] (extra-large)[v:Size:ExtraLarge] (henley)[v:SearchTerm]}")
+  plan (zZDLTgJBEEWP4oC8BEHeuncjC/0EExNWJo4/MIFK6ISBSU8vjAu/3WKGTbeSuCJ2MtWZe+tU3TR3DOQjSbONzPO1sW7+JksxmWPiy8+7NDXu1a7E0vetUgz7rSROSmvqW4utcSbZLJyk+e9YafUCTEXGx9q5P+Z8GS0Pmd1lYp2RPIy/73k85bKnUy2L95WRL76Y7ao0go2xJHa5fheb/rs5wXvF5lP+rN1yxjkVLoioUuOSOg2atGhzRYcu1/Toc8OAISPGTJgyU46AjA5kdCBrBdksyE5BdnV6Sym8D53g3z9reRr6V9UsM9001ATtIktFtTrtbw==)
+  last-modified (1562624794411)
+}
 train (t-cnk4g00a7c32a7628rvwzm9ss) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (2)[v:Quantity] (Medium)[v:Size:Medium] (Polo Shirts)[v:SearchTerm]} to my order")
   plan (fY/LDgExFIZ/xmXcb3HbSOxseAeRSKyE4QEmehJNDE2nEiw8uyoLLaNJb+f7TvMXDbTpEkbiQJN4z6WarGlHXCj07fLsFEVcLSUjiZaNXkXH3woWKvrjDxP9+9mcY/RsZcoYsYWiKMbACSdJN3zwbkInmjYwtd6vxwwZJZE718tYyJMgqbiO2rHN1Tk8Kq6u7teD5+qmm/MjewEnSUCh3O03JL9yB/xGqCOFNDxkkEUOefgooIgSyqigiprmeBueYxSNUdIUZuK9Z6zbc+T0ydN9ZfNeCv4D)
