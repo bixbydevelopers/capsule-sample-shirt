@@ -8,6 +8,8 @@ capsule {
     concepts-inherit-super-type-features
     allow-dialogs-on-detail-pages
     no-fallback-to-result-collections
+    no-filtering-with-validation
+    modern-default-view-behavior
   }
   targets {
     target (bixby-mobile-en-US)
