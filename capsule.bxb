@@ -1,6 +1,6 @@
 capsule {
   id (example.shirt)
-  version (2.12.8) // Support adding and removing multiple items - removed find shirt examples
+  version (2.12.9) // fix warnings
   format(3)
   runtime-flags {
     support-halt-effect-in-computed-inputs
