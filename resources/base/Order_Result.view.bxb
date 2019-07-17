@@ -18,7 +18,9 @@ result-view {
     } else-if ("size(this.items) == 1") {
       layout-macro (item-highlight) {
         param (item) {
-          expression (this.items)
+          if (size(this.items) == 1) {
+            expression (this.items)
+          }
         }
       }
     }
