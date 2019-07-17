@@ -1,6 +1,6 @@
 capsule {
   id (example.shirt)
-  version (2.12.9) // fix warnings
+  version (2.12.8) // Support adding and removing multiple items - removed find shirt examples
   format(3)
   runtime-flags {
     support-halt-effect-in-computed-inputs
@@ -8,8 +8,6 @@ capsule {
     concepts-inherit-super-type-features
     allow-dialogs-on-detail-pages
     no-fallback-to-result-collections
-    no-filtering-with-validation
-    modern-default-view-behavior
   }
   targets {
     target (bixby-mobile-en-US)
