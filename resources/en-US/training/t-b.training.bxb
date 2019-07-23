@@ -1,0 +1,20 @@
+train (t-b9pllhab3buds4g0bdar7nbhl) {
+  utterance ("[g:CommitOrder] Order a {[g:Item] (plaid shirt)[v:SearchTerm]}, a {[g:Item2] (logo tee)[v:SearchTerm]}, and a {[g:Item3] (pullover sweatshirt)[v:SearchTerm]}")
+  plan (zY5NTgJBEIU/xGEccURB5OcEbmShRzAxYWUiXmACldAJDZOeXrjy7BYzJKZb2RIXXZV+r756xZShfBa23MisWhvnZ++yFFN6JqH8srPW+De3EscgtBoxnndSeGmsaWjNt8abYjP3Yqu/scbqR5iKjI+N83DM+TJaHku3K8V5I1V8/n7m6ZRhz6cKW+wro1B8NdtVY0SJCynccv0hzv67PRNanNHmnIQOKRdkXNLlipxretxwS58Bdwy5Z8RYCSImOTDJgenVTFoz3Zpp1czPQ9mw/66p9o5mZpqY6wVt/WXk3w==)
+  last-modified (1562622304591)
+}
+train (t-bq1psd2vrbsgicrgax70im87b) {
+  utterance ("[g:CommitOrder] Order a {[g:Item] (v-neck)[v:SearchTerm]}, a {[g:Item2] (turtleneck)[v:SearchTerm]} and a {[g:Item3] (polo shirt)[v:SearchTerm]}")
+  plan (zY5NTgJBEIU/xGEccURB5OcEbmShRzAxYWUiXmACldAJDZOeXrjy7BYzJKZb2RIXXZV+r756xZShfBa23MisWhvnZ++yFFN6JqH8srPW+De3EscgtBoxnndSeGmsaWjNt8abYjP3Yqu/scbqR5iKjI+N83DM+TJaHku3K8V5I1V8/n7m6ZRhz6cKW+wro1B8NdtVY0SJCynccv0hzv67PRNanNHmnIQOKRdkXNLlipxretxwS58Bdwy5Z8RYCSImOTDJgenVTFoz3Zpp1czPQ9mw/66p9o5mZpqY6wVt/WXk3w==)
+  last-modified (1562624654542)
+}
+train (t-bseb844laxskx0dkjfss2t45f) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (2)[v:Quantity:2] (hawaiian shirts)[v:SearchTerm]}")
+  plan (fY/JCgIxEERrXMddFLeL4M2L/oMIgidx+4DBNBgwGjIR9OK3m8l4MMExh07Sr6pTQRs9ekRCXmgen7nS8x2diEuNkdte3oTgeqMYKXRdlDY9/VGySNMf/SRT/7rbc4yhK1kwRmytScQYe+EUGcMXH2Q40XGB7Q1/DbNkmkVe3JSZVDdJSnMTte8qt/foqrl++l/fJ9VPt+JXlgIvyZ4idTofSAm0ECCHPAooooQyQlRQRQ11NNA0FB+e93jV8sDydCV7wbnBeALjDM205J3wDQ==)
+  last-modified (1562624152244)
+}
+train (t-bvjym0fojkpgl7a9va1q4tnhi) {
+  utterance ("[g:CommitOrder] Order {[g:Item] (2)[v:Quantity:2] (extra small)[v:Size:ExtraSmall] (sweatshirt)[v:SearchTerm]}, {[g:Item2] (1)[v:Quantity:1] (large)[v:Size:Large] (turtleneck)[v:SearchTerm]} and {[g:Item3] (3)[v:Quantity:3] (XL)[v:Size:ExtraLarge] (polo shirts)[v:SearchTerm]}")
+  plan (zZDNTgIxFIUP4iAjM/InA4O/SzeywEcwMWFldHyBBm5CEzpMOjVRFz67dyibVkl0obFJb9Nz7nd7UlxiQC9CFSualEupzeSR5iQLg9SVb9dKSXOvF6TRdy0r+v2ahCFrjV1rlksjxWpmSJVfY9bqeRiLGO1qx9Uu511yuS70uiBtJJV+/Kpn+peP3fzaY4nb+fAsciPN6491L3RWVQxd8U7mC2t4yTMSer58Iq3+3Rzv3zP5Rt/WLlDDHurYR4AGDtBEiEO0ECHGEdrooIse+jjGAAmGGCHFGCc4xRnOmYbHB1s+2PJNnhCxXvGtDd/e8B12ImbhbPAc97Sr9qnaFfOtwQkTzhJyypQTxZy3SldnJ0T8AQ==)
+  last-modified (1562624926129)
+}

@@ -1,0 +1,15 @@
+train (t-58tqlaz4pga547bgnohyn2dr8) {
+  utterance ("[g:CommitOrder] Buy {[g:Item] (10)[v:Quantity:10] (small)[v:Size:Small] (plaid shirts)[v:SearchTerm]}")
+  plan (dY/LCsIwEEWvr/p2ofj8Ajf2JwShK9H6A0EHHDBtSUdQF367sd2YqItMwjl3hgkGGNNN6exCYX5mI+GejsSZYO7idao1y9acyGDkqhL6eUNKqFQLV0UJC6tLJKTz322lGnptFmL2L47lP/NkW1aZSTMywpRj4iZ3V5UIy93/VvyumLpww8mpFN4mMSlzPB/IaH/vmB+EPiqoooY6GgjQRAttdNBFzxp8uWbhWpbDOfi4G/YV2Cm9YnbwAg==)
+  last-modified (1562621630918)
+}
+train (t-5fx6lbhr39jcc2wrz9r6bkt50) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (extra-large)[v:example.shirt.Size:ExtraLarge] (oxford dress shirt)[v:example.shirt.SearchTerm]}, the {[g:RemovedItem2] (hawaiian shirt)[v:example.shirt.SearchTerm]}, and the {[g:RemovedItem3] (small)[v:example.shirt.Size:Small] (henley)[v:example.shirt.SearchTerm]} ")
+  plan (3VHBTgIxEH0IIiCCgriAIqCCHJSDfoKJCScT0Q/YsJPQhIVNqcZ44NvttkRp2VUTw8U0nUzmzXszr0UPFXpz/WBC/fmYcdF/pBGxQKBmlu9mvs/EA/eIo2xCumj1PweeK0hD7Vho8aLyOer2Ev7slbyBIH+OlrUJJ0kxOmqxbDR/IH8z+WZDurd/0v3N42uWhqw9BlMmmDuJfDdN01DJooWjq3Ht6MUhCybDdcBnAXHB1j96SBMaiaW1ahT2H0yvGXP5aPxEfM3YMIxwzOI9m3oa2LyO9QJD9k6RtSsksIUkUthGGjvIIIscdpHHHgooYh8HKKGMQ1RwpI6D6vLUUMcxTtDAKZpooY0znOMCHXRxCVjKaaWcjlDOyHkFqZxUmWMoOxIPlRtKuSInJZQyljG8qZW4evHZBaM/YSBfeE7mSblpR26flY7y0k9XVbLIfwA=)
+  last-modified (1562630622832)
+}
+train (t-5m5ekhya7iws4gm5oah658wrp) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make that a {[g:ChangedItem] (Large)[v:Size:Large] (V-Neck)[v:SearchTerm]} and add a {[g:AddedItem] (long sleeve jersey)[v:SearchTerm]}")
+  plan (hZFPT8JAEMVfKVoERKEChYN/bl7g6tmYmHgysfoBmnZiN6HQbNfEeOCzM+yCoUsbOulmdt783m5mEWBIv1GWL2hepEKq+QfFJHKFSbn8ssoyod5lQhJ+WTJFq/8rTyJFRnqoldY/Oi8QlFuek4SSN0VZgal1jzRafu+1W0uTxGYH7LjGFfdVYMl6Unss7k7AeDrRsI5NPhO8meVylZNUgqcwKIPaLKgy08pjnbK2fa0ZhrSgWO0uG1RpWql85qP2SMbpJ8mj9nC72i/wKpaJEep9rCGE4o8whYMGXDRxhnN4aOECbXTQxSV6uMI1+hjo8HGDIUYYc+Cf2nIek4ZqaarDlMtrn6OnqS47OZoyn3PwN3fVvVbOPc5d9h2xv88nNzhvbwA=)
+  last-modified (1562631402281)
+}

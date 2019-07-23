@@ -1,10 +1,25 @@
+train (t-6hy0j55pimshov1x2nmkcc3u7) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (long sleeve jersey)[v:SearchTerm]} to my shopping cart")
+  plan (fY/LCsIwEEWv1vcTFLFuBHdu7D+IILgSrH5AMQMNGA1pBFf9dtPUhQnWLCYzc+5MbjDGjF6JkDeKspQrHZ3oSlxqLNz27iEE10fFSGHqorLp6S+SJZr+6FeV+vxp8wyhK9kyRuygSWRYeuYUmYEvPq+YxMQFthf+WmbJuork3ISNVA9JSnNj1ftiXETfxZ7fWQm8F2NK1DU9kxIYoYY6AjTQRAttdNBFD30MMDQMHxo4tGdpzdLyFHfjU5WxqAKjL/Z33g==)
+  last-modified (1562610351024)
+}
 train (t-6izg5mtxx1642kdclje12xe28) {
-  utterance ("[g:CommitOrder] Order a (small)[v:Size:Small] (t-shirt)[v:SearchTerm]")
-  plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7UaDgwQ7yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3f+ZU6tgZiF2fXUc+8yLbZyUbhVpw9SF5+efxNaHF25KJ4IfcxK6qO6kZXhfzk/CAhEGGGKEMSaIkWCKGeaWIzDx1ySWwnu/hO1GbvkG)
-  last-modified (1561585114020)
+  utterance ("[g:CommitOrder] Order a {[g:Item] (small)[v:Size:Small] (t-shirt)[v:SearchTerm]}")
+  plan (dY7LCsIwEEVvfbVa3Sji4wvc2J8QhK4E6w+EdqADTVvSLMSF325scJFgF7mLc+5kBits6SlkW1HSlax0cqecuNU4uPjSSMn6pgpS2LjKQr+vSGiy6uiqtGbNoko1ye7/mFVrb8xA7IfqOA2ZN5s4t6ppSWmmzj8/+yZ2LrxyXVjhbcxIqLx8kJL+fRm/CEsEGGGMCaaYIUSEORaIDYdnwt5EhsJ5v4RpBqYZ93/OPg==)
+  last-modified (1562621887402)
 }
 train (t-6qwwk4l7xmswmo6olhx4rpryy) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (henley tank)[v:SearchTerm]}, the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}, and the {[g:RemovedItem3] (logo tee)[v:SearchTerm]}")
   plan (zZJNbsIwEIUfBNLQAA2/TViUcgEW9AhdsaoE9ABRMhKRsIgcF7Hq2ZkaUOsogQ1IteWRZ95887wwAgxoH4p0Q9NsnUg1XVBESaoQmOX3rRCJ+pAxSfRM6VjM9X+mcajoKE1Kpe8vfc8wyj9CbHcUzxWJDK+5l0hixOgISmmMr8AXnGd3mvt2y7lL2lCkTppfpBUroYzWK5L/ZV7hlyo3eUEFVViooQ4bD3DQwCNcNNFCG0/w0EEXPfQxwBDPxvaBHG1r2ta0o+m2pl2mLa64nHucD3lXNI1T/Dm1P/FXOUdzOVy12LHDjj779XXWQPMA)
   last-modified (1561058157176)
+}
+train (t-6ugsfplds7iy55n1drj72iypx) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (XL)[v:Size:ExtraLarge] (sleeveless tank)[v:SearchTerm]}, {[g:RemovedItem2] (v-neck)[v:SearchTerm]}, and the {[g:RemovedItem3] (polo)[v:SearchTerm]} from my cart")
+  plan (tZJdS8MwFIbf2TlXnVNX59b6sXkheOMu9CcIwq4Eqz+gtAcWWNeSRREv9ts9bfxoQ6si2pBDkvecJ2+aYIw+PQdxOqfJciakmtxRSCJVcMvL10kcC3UrI5JwypJeNPIf0ihQpKXTWmn1mI+X8EwTcfJE0VRRvMTYcCKJS0oZbm01Rt8Uf7Hz5T9xr/6S69OcQvWmDau0aiWQ4eye5G95P3kC2ruWjF2mC6FEMK+8PV2mpZ5RVmHqMx3ndcpKcLhIZZKSVIKfW/3vMA7mZxGD8uKNWERaqOcYzn3xQjhDA2uw0MQ6WthAGzY2sYUOttHFDrdd7KEHB/uF1scBBhjChYdDHOEYJxgBBquVs1o5q83MjNVllpXPujxzSiyHe8bymIO842PULESU4vvXKPSiavPIYjeZQ5vP0mHH2dxG5xU=)
+  last-modified (1562628147500)
+}
+train (t-6y04inqfr2oi2t9jcr03ghxyt) {
+  utterance ("[g:CommitOrder] Order a {[g:Item] (blouse)[v:SearchTerm]}, {[g:Item2] (v-neck)[v:SearchTerm]}, and {[g:Item3] (polo)[v:SearchTerm]}")
+  plan (zY5NTgJBEIU/xGEccURB5OcEbmShRzAxYWUiXmACldAJDZOeXrjy7BYzJKZb2RIXXZV+r756xZShfBa23MisWhvnZ++yFFN6JqH8srPW+De3EscgtBoxnndSeGmsaWjNt8abYjP3Yqu/scbqR5iKjI+N83DM+TJaHku3K8V5I1V8/n7m6ZRhz6cKW+wro1B8NdtVY0SJCynccv0hzv67PRNanNHmnIQOKRdkXNLlipxretxwS58Bdwy5Z8RYCSImOTDJgenVTFoz3Zpp1czPQ9mw/66p9o5mZpqY6wVt/WXk3w==)
+  last-modified (1562623695623)
 }

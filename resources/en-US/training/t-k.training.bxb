@@ -3,6 +3,16 @@ train (t-khfl9towp5n2z9sz8blh5krde) {
   plan (vVFNT4NAFJwK2g+lamstVAW9ebH/wZiY9GQi+gMI+5JuAi1ZVmM89Le7sDWFDUQPRggvj5k3w+wDASb0EaVZQvN8yYWcP1NMPJPw6vDDOk25fBKMBMZ1SoPG/GvGIkmaummlNm9ln8Otj9wzRmwhKc3hGzkEKUGFn7YoMaoTJeY2mZXMbRuz4arcZWKdkZBcRZ2Z+0rX799hrptcahNeqxrBD+Jf7V2rNGUkXay45FHSmGN33vy/FhdSQrFsPlpYVPPXPvIV04RrOkUiXr6Q+DsfYwch/6RGLEAHe7BgYx8H6KKHPgY4xBEcDHGs7hOcYoQxzjDBOaZw4WGGC1ziCj7QoLe3eqt02OmH6in0/VI/UH6dUo9ttSt9vdNvVVRfPdVb6qtFFkfl8lWWLpwv)
   last-modified (1561058174174)
 }
+train (t-knzqtyg5t9djc5c798pytsdd4) {
+  utterance ("[g:CommitOrder] Buy {[g:Item] (7)[v:Quantity:7] (polo shirts)[v:SearchTerm]} and {[g:Item2] (10)[v:Quantity:10] (hoodies)[v:SearchTerm]}")
+  plan (tY7LTgJBEEUvz+GhyFvxC9jIwl8gMWFFFH6gA5VQCT1MespEN3y7xbTBdMfZ6aKr0veeW1WYYEIfxmZHWuQHdrJ4ox1xJpiF8vJkLcva7clhFFpejHlHRshbj6G1SlnYHFdCNv895q1hFFMRD2U45mXOmbU8Ze6UkROmPD7/wjz/27JpSL6+m1RYPkv16LjNpeI+FF843XsjunBDxu0OW3L2z+aMUUEVNdTRQBMJWmijgy5ucIse7tDHAEOMlENENr7JlrLdgkwKslKQPw+a8B1XxddEe1P3jHVST/dU9df+Ag==)
+  last-modified (1562626003890)
+}
+train (t-kr1cex9izv68o0ygzamd2dz16) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove {[g:RemovedItem] (2)[v:Quantity:2] (t-shirts)[v:SearchTerm]}, {[g:RemovedItem2] (3)[v:Quantity:3] (hawaiian shirts)[v:SearchTerm]}, and {[g:RemovedItem3] (2)[v:Quantity:2] (small)[v:Size:Small] (pullover sweatshirts)[v:SearchTerm]}")
+  plan (vVJNTwIxEH0IIiIiAsuXIKAXLnLQn2Biwsko+gM27CQ0YWFTilEP/HZntyTQuqtGE7fZdjpv5s2btriEQ6+uH8xouJwKqYaPNCERKDRN9+3C94W6lx5JVExIO63458BzFWmonwitV5G9RMsW4S9eyBsp8pfoWUokcYoR0UzMRvebZNTMgIeVO1dCvX2h6Pqf6938qZ7FO6YZTdQGa8Rh8YgrJ9Mnkr/l+8mT0do1ZFUZzYUS7iz2tnWahspWWoyobTgGScha8HQVyEVAUgl+nkmXlnxMVsPjcEbddN6JuaeBZB6ro7F4JwyQwh7SyGAfWRwgh0PkcYQCjlHECUo4RRkVVHk4qO2MOhpoooUztNHBObrooY8L4BNjdsOYjRgLEWOOmascleN9ifeOxejwHDK2mQ3Rjx0rY6za3q4wolOGJ/wKbKVZ2SGrznOfFdbVibSH3jyKHw==)
+  last-modified (1562630873764)
+}
 train (t-kyyni8bldfkix46xptkgvc7ls) {
   utterance ("[g:CommitOrder] Buy a {[g:Item] (large)[v:Size:Large] (V-Neck)[v:SearchTerm]} and a {[g:Item2] (small)[v:Size:Small] (polo shirt)[v:SearchTerm]}")
   plan (vY/LCsIwEEWvrz58axUfX+BGF/6CILgSrD9Q7IADRkuahbjw200bQRt0JwYyCfeeO5NgiCFdI5GcaJEeWarFjg7EicKkKK8uQrDaypgkgqJlRJuXFCky1rRobc6sODptFIn0c8xYfSumRYy/4Zh9c+6syzyRl4SkYkrt52fM8l/DwqxiVBTXfI6NYU0MKZKH456k+Fkf658h3+ijNkAJZVRQRQ0OXHjwUUcDTbTQRgdd9NBHoDlYZO1JNnLSzUlP50o5+drQCXO+12y5+u7k3X09aaC7O/Af)
