@@ -18,3 +18,8 @@ train (t-ve2k5m14rohcx4wvbrap6b5pf) {
   plan (fY/NCsIwEIRHa/2rfyiiXgRvXvQdRBA8CVYfoDQLBqyGNIJ48NmNsYKJ1kM2m/lmkwk66NM1SsSR5umBSzXfUkxcKIxseXlOEq42kpFEz0Yv0fHvBYsU/fFPcv33i+lTDG3LgjFia0VJirETTpIe+OCDnEl0bWC04a/LDJnmkTvXZSbkWZBUXEd1vhg+q5tixU/sBZwXQ4pkfNiR/MoX8huhjQKK8FCCjzIqqKKGOgI00ERLU2Tcs3jd8EAzmIVsL2Wnt+brztMzLfNO9QE=)
   last-modified (1560812745397)
 }
+train (t-vvh5sdqsnmvxmwhuxqsrsp9xa) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (pullover sweatshirt)[v:SearchTerm]}, {[g:AddedItem2] (3)[v:Quantity:3] (crew necks)[v:SearchTerm]}, and {[g:AddedItem3] (7)[v:Quantity:7] (v-necks)[v:SearchTerm]}")
+  plan (1ZJdS8MwGIVPbd1HdU5b1626DzcRvHEX+gtEELwSnf6AsgYWsFtJM9Cb/XbfpjCWuijeaUPfpOfkfXJoi3O02HuUpG9snM24kONnNmU8lQh1+W6RJFw+ipgJ+LpViKX9r2kcSVZYQ6O1Wqp1ho6+5TaOWfwgWZKhX8ohGDVs+G1DpxF5/fuWG3NL79t4P9mebm8LUbQo59LkrDiVq1QsUiYkp9f537hb/6hAF5+W0Vxy+WHUS5BJXssf7p7P48IoxZ6wSExnL0wkf45zAQs7sOFgFxVUUUMdLvawjwYO0MQhjuDBxzFaCNBWo4OQxglO0UUPfQxwhiFGgMaqEKtCrLqi5ayqYjUUy1YnBMT36SlnNRXLUyxLsbCujrqtte5o7uZlfakuzTadPaI8IWV1KX9XKTW4nw==)
+  last-modified (1562626873058)
+}

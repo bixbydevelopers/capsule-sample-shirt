@@ -1,6 +1,6 @@
-description {
-  iconUrl (/images/icons/shirt.png)
+capsule-info {
+  icon-asset (/images/icons/shirt.png)
   description (Example shopping cart capsule)
-  displayName (Shirt Example)
-  companyName (Viv Labs, Inc.)
+  display-name (Shirt Example)
+  developer-name (Viv Labs, Inc.)
 }

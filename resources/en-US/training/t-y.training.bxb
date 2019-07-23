@@ -1,7 +1,12 @@
+train (t-yfbhwhwfyejqaj4mox7cniqf8) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (v-neck)[v:SearchTerm]} and the {[g:RemovedItem2] (crew neck)[v:SearchTerm]} ")
+  plan (rVHLCsJADBxtra1vK4r1ov6AB3/BkyfBxweUNmChi2W7iie/3fhA7NIqiBs2hJnJJBD00KezL5KYZuk+kmq2poCiRMHLwouDEJFayZAkelnqAWr6XRL6ih7UtJC6HO91ipG+hDicKFwqEikm2iaSuCWj8Aq7Mf7S/GHy/J++G4opUE9umMflM74M9luSv/rlnqp4yAAllGHARAUWqrDhoIY6GmiihTY66L7CBTS19aa2WW1wrnPd4Sjd1Xjm2zc17P1ZjBjs6LJji2dU4VwB)
+  last-modified (1562627566475)
+}
 train (t-yst9jrc012ozcxprbshrf0ecr) {
-  utterance ("[g:CommitOrder] Buy (3)[v:Quantity] (Large)[v:Size:Large] (Polo Shirts)[v:SearchTerm]")
-  plan (dY9JCgIxEEW/Y7fjQnE8gRu9hCC4Em0vELSgC0zbpEtQF57daDYm6iKV8N7/UEEXA7oqnZ9oUaRsZLGjA3EumPh4edaaZWOOZND3lYNh3pAScmrqq3XGwuq0FtLF75pTvaBmIcb/4pj9Mw+2Y56bc05GmAoM/eT2ojJhuYXfSl4TIx+uODs6EWySkDKHdE9Gh3snfCd0UEIZFVRRQx0RYjTQRAtta/DloreLLYd38HFX7avh+k8=)
-  last-modified (1561585124839)
+  utterance ("[g:CommitOrder] Buy {[g:Item] (3)[v:Quantity] (Large)[v:Size:Large] (Polo Shirts)[v:SearchTerm]}")
+  plan (dY/LCsIwEEWvr/p2ofj8Ajf2JwShK9H6A0EHHDBtSUdQF367sd2YqItMwjl3hgkGGNNN6exCYX5mI+GejsSZYO7idao1y9acyGDkqhL6eUNKqFQLV0UJC6tLJKTz322lGnptFmL2L47lP/NkW1aZSTMywpRj4iZ3V5UIy93/VvyumLpww8mpFN4mMSlzPB/IaH/vmB+EPiqoooY6GgjQRAttdNBFzxp8uWbhWpbDOfi4G/YV2Cm9YnbwAg==)
+  last-modified (1562621710419)
 }
 train (t-yuhz7gffsryirb5cry9an2ron) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (Henley shirts)[v:SearchTerm]} and {[g:AddedItem2] (Polo shirt)[v:SearchTerm]}")
@@ -9,7 +14,7 @@ train (t-yuhz7gffsryirb5cry9an2ron) {
   last-modified (1560813076402)
 }
 train (t-yyod5anwhb5pykxw15fqhlnj9) {
-  utterance ("[g:CommitOrder] Buy a (Men's)[v:Gender:Male] (Ralph Lauren)[v:SearchTerm] Shirt")
-  plan (dY9LCsIwFEVv/VWrTvzgZwVO7CYEpSPBuoHQPuiDpi1pBo5cu6nBQYId5A7OuRdesMSWXkI2JcVtwUrHD8qIG42Diy+1lKzvKieFtass9PuKhCarjq5KKtYsykSTbP/PrFp5MwOx76vj1GfebOLcqLohpZla//y0S+xceOUqt2LjihtV3Ze8O1ISKiuepCQWCDDAECOMMUGIKWaIMDccngm/JjIUzvslTDewyw8=)
-  last-modified (1561585125219)
+  utterance ("[g:CommitOrder] Buy a {[g:Item] (Men's)[v:Gender:Male] (Ralph Lauren)[v:SearchTerm]} Shirt")
+  plan (dY/LDoIwEEUvPkBBNz7i4wvcyE+YaFiZiD/QwCQ0odCULlz57RYaF2100bs4504zgyW29GJC1pR2FVc6fVBBXGocXHxpheD6rkpSWLvKQr+viGmy6uiqrOGaszrTJLrfY1atvDEDsf9Xx+mfeXMTZ6laSUpz6vz18z6xc+GVN6UVG1fcqOlP8vbIiamiepISWCDACGNMMEWICDPMESMxHJ6JBhMbCud9E6YZmGYy/Bl+AA==)
+  last-modified (1562621721966)
 }

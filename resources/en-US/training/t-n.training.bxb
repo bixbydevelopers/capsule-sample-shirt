@@ -1,0 +1,10 @@
+train (t-ndfjhjfm8vvj8mldwd42ivfdl) {
+  utterance ("[g:CommitOrder] Order a {[g:Item] (jersey)[v:SearchTerm]}, a {[g:Item2] (large)[v:Size:Large] (polo)[v:SearchTerm]}, and a {[g:Item3] (small)[v:Size:Small] (collar dress shirt)[v:SearchTerm]}")
+  plan (zZDBTsJAEIY/xQIVEQQRWnkAL3LQRzAx4WRifYEGJmETCs12D8aDz+7QctkCV+Judjb7//PNTJYpI/lOs3wts2JlrJt9ykJM7oh8+W2bZcZ92KVYhr5VifV8K6mTyop9a74xzqTruZOsOI5V1qCGqcjkVDpPp5xfo+E5t9tcrDNS1Mff5bycs9nruZolu8jYF9/NZlkZtY6JpHax+hKb/bs6tf9KzI8c1aZccEmDKwKatGgTck2HG7rc0qPPHQOG3DPigTETImLdj1Ajgz0Z7MlOSbZKsleSba3aVwrvoBX8+zBWK9RXU6cIdZ5Yu0Q6RUOVkO4f)
+  last-modified (1562623532517)
+}
+train (t-nkqh5h384skp7o6x9df1x5phz) {
+  utterance ("[g:CommitOrder] Buy an {[g:Item] (extra-large)[v:Size:ExtraLarge] (pullover sweatshirt)[v:SearchTerm]} and a {[g:Item2] (4)[v:SearchTerm] (medium)[v:Size:Medium] (dashikis)[v:SearchTerm]}")
+  plan (vZBNbsIwEIVf+E0KbSiQAj1BN2XRKyAhsapEeoEIRmKkOESOF6iLnr1jDEKxYFOh2vLYfu8bPcuYIKFDpsqc5tWOtZmvaUNcGszq8mKvFJtPvSWNUd1yos9rygw567VurQo2nOUrQ6q63uasodcmIqa3cLzdcn5Yynup9yVpw1T5z7fMx3+FpbZiUheXXGyd4SWmlOnN7ou0+pNzr2zvb1L+pqvaCwI00EQLbXTQRYgID+ihj0c8IcYAzxhihDESYeHR7RPdO9GxaJYOpT840pcF6XK7rX2ZZ92OUM6dY0okiQPJasg9+gU=)
+  last-modified (1562626468539)
+}
