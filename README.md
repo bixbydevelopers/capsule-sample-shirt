@@ -227,7 +227,7 @@ separate the list of items because Bixby ignores punctuations.
 
 If your capsule needs to support out-of-vocabulary terms, then you need to add training that include out-of-vocabulary 
 items, for example:  `buy foo and bar` or `buy foo and bar and foobar`. Make sure you add add variety of 
-out-of-vocabulary examples mixing out-of-vocabulary and vocabulary words and use out-of-vocabulary words of 
+out-of-vocabulary examples that mix out-of-vocabulary and vocabulary words. You should also use out-of-vocabulary words of 
 different sizes (one token words, two token words, etc.).
 
 What you should expect is for Bixby to learn to pick correct interpretation for cases where items are 
