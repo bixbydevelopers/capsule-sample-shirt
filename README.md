@@ -221,7 +221,7 @@ example:
 buy a Polo Shirt, Oxford Dress Shirt and V-Neck Tee
 ```
 
-Note that in above example the only way to distinguish `Polo Shirt` and `Oxford Dress Shirt` is to use vocabulary as 
+Note that in the above example ,the only way to distinguish `Polo Shirt` and `Oxford Dress Shirt` is to use vocabulary as 
 there is no conjunction word (e.g. `and`) separating them and you cannot rely on punctuations such as a comma to 
 separate the list of items as Bixby ignores punctuations. 
 
