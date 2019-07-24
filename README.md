@@ -230,7 +230,7 @@ items, for example:  `buy foo and bar` or `buy foo and bar and foobar`. Make sur
 out-of-vocabulary examples that mix out-of-vocabulary and vocabulary words. You should also use out-of-vocabulary words of 
 different sizes (one token words, two token words, etc.).
 
-What you should expect is for Bixby to learn to pick correct interpretation for cases where items are 
+You should expect Bixby to learn to pick the correct interpretation for cases where items are 
 separated by an "and" or when at least one of the items is in vocabulary (e.g. buy eggs banana", "buy foo bar banana", 
 "buy foo bar and bar foo"), otherwise (with proper training) Bixby will merge the two items into one. 
 
