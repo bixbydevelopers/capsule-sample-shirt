@@ -4,7 +4,7 @@ train (t-91wx1nahceyqu03ytu8m7gts1) {
   last-modified (1561058161522)
 }
 train (t-9l7ohzzjku5ppb5t19j583nu2) {
-  utterance ("[g:Confirmation:prompt] (Yes)[v:Confirmation:true]")
-  plan (Y2BikEqtSMwtyEnVK87ILCrRc87PS8ssyk0syczPwyvHCIQMDDxAzATEQDYA)
-  last-modified (1561678895730)
+  utterance ("[g:CommitConfirmation:prompt] (Yes)[v:CommitConfirmation:true]")
+  plan (Y2BiUEitSMwtyEnVK87ILCrRc87Pzc0scc7PS8ssyk0syczPI0IFIxAyMPAAMRMQA9kA)
+  last-modified (1563994609598)
 }

@@ -1,0 +1,14 @@
+vocab (CommitConfirmation) {
+  "true" {
+    "confirm"
+    "yeah"
+    "yep"
+    "yes"
+    "yup"
+  }
+  "false" {
+    "nah"
+    "no"
+    "nope"
+  }
+}

@@ -33,3 +33,8 @@ train (t-rnicdqtu93lxxilsvk312d79y) {
   plan (Y2BiEE6tSMwtyEnVK87ILCrRCyjKTE5FF/QvSkktYmAEQgYGJiAGswA=)
   last-modified (1559953726129)
 }
+train (t-rqzf61il1rebtmz9bggru7x02) {
+  utterance ("[g:CancelConfirmation:prompt] (no)[v:CancelConfirmation:false]")
+  plan (Y2BiUEitSMwtyEnVK87ILCrRc07MS07Ncc7PS8ssyk0syczPI0IFIxAyMPAAMRMQA9kA)
+  last-modified (1564003599983)
+}

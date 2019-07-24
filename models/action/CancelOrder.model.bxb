@@ -3,7 +3,16 @@ action (CancelOrder) {
   collect {
     input (order) {
       type (Order)
-      min (Required)
+      min (Optional)
+      validate {
+        if (!exists(order)) {
+          halt {
+            dialog {
+              template ("Okay.")
+            }
+          }
+        }
+      }
     }
   }
   output (Receipt)

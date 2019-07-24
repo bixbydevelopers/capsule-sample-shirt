@@ -14,9 +14,14 @@ train (t-xnj2agljbjpdmx9lk7e7051qw) {
   last-modified (1560878058801)
 }
 train (t-xrfg62n50mbiwjkoa4v1zm1jp) {
-  utterance ("[g:CommitOrder] Order an {[g:example.shirt.Item] (XL)[v:example.shirt.Size:ExtraLarge] (hooded sweatshirt)[v:SearchTerm]}, a {[g:example.shirt.Item2] (polo shirt)[v:example.shirt.SearchTerm]}, and a {[g:example.shirt.Item3] (small)[v:example.shirt.Size:Small] (v-neck)[v:example.shirt.SearchTerm]}")
+  utterance ("[g:CommitOrder] Order an {[g:Item] (XL)[v:Size:ExtraLarge] (hooded sweatshirt)[v:SearchTerm]}, a {[g:Item2] (polo shirt)[v:SearchTerm]}, and a {[g:Item3] (small)[v:Size:Small] (v-neck)[v:SearchTerm]}")
   plan (zZBNbsIwEIVfoQFS/kkpJHAANrBoj1AJiVWlpheIYCRGwhA5XiAWPXuHmI0NbFFtZey8N9/MyJhiSMdM5TtaFFvWZvFNa+LcIHblz4NSbL70hjQi17Kin68pM2StxLVWezac7VaGVHEbs9bAw0TE+F46ZvecX5Ywz/UhJ22YCn/8c877I5t9PKpZeo4YueKS9xtreB1TyvR6+0Na/bs63nulfKKb2hRPqKCKZwSooY4GQrygiRba6KCLHvoYIMIrhnjDCGPESGRPAI8MLmRwIZslWS/Jbkk2pGpPKDgfpIJ7Xke7QvmryRSJ3CLpEssUVVFCtP8A)
   last-modified (1562624879860)
+}
+train (t-xrtdo2ugi26griyeo7q04g9gv) {
+  utterance ("[g:CancelConfirmation:prompt] (Yes)[v:CancelConfirmation:true] please")
+  plan (Y2BiUEitSMwtyEnVK87ILCrRc07MS07Ncc7PS8ssyk0syczPI0IFIxAyMPAAMRMQA9kA)
+  last-modified (1564003948127)
 }
 train (t-xrvrwhfi797644hz5qsv1uhc2) {
   utterance ([g:CancelCommittedOrder] Cancel my shirt order)

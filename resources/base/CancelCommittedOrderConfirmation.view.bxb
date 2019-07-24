@@ -1,6 +1,6 @@
 confirmation-view {
   match {
-    Confirmation {
+    CancelConfirmation {
       confirming {
         CancelCommittedOrder (action)
       }

@@ -1,6 +1,6 @@
 confirmation-view {
   match {
-    Confirmation {
+    CommitConfirmation {
       confirming {
         CommitOrder (action)
       }

@@ -13,8 +13,13 @@ train (t-2lc3slrnri43uonvdtls7goe8) {
   plan (zZBfT8IwFMXPxCETJgoyGOKfR17gQT+CiQlPRucXaOAmNGFj6WqiPPjZvVtJTKsk+qCxSW/Tc+7v9qS4Qo9eRJqvaFospdLTR5qTzDViW75dp6nU92pBCl3bMqLbr0hoMtbQtmaZ1FKsZprS4mvMWB0HYxGDXe0Y73LeJJdJrtY5KS2pcOOXPdd/+djNrz0W2Z0PzyLTUr/+WHdCJ2VF3xbvZLYwhpM8IaHmyydS6b+b4/x7Ijf0be0SHvZQwz581HGABgIcookWQhyhjWOcoIMuTtFDhD4GiDHEGUY4xwXTcHh/y/tbvsETWqyXfLPi2xVvdK/iPzZ4jn2a5X2qZoV8q3PCiNMEnDLmRCHnHXG2GjsBwnc=)
   last-modified (1562622971959)
 }
-train (t-2tzs0racs5zztz2qvbm77kx4m) {
+train (t-2tzs0racs5zztz2qvbm77kx4l) {
   utterance ([g:CancelOrder] Cancel this order)
   plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2TsxLTs3xL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
   last-modified (1551201432083)
+}
+train (t-2tzs0racs5zztz2qvbm77kx4m) {
+  utterance ([g:CancelCommittedOrder] Cancel my order)
+  plan (Y2BiEE2tSMwtyEnVK87ILCrRC0pNTs0sKGFQQhV2TsxLTs1xzs/NzSwpSU3xL0pJLWJgBEIGKAaSAA==)
+  last-modified (1563997599436)
 }
