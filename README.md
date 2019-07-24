@@ -223,7 +223,7 @@ buy a Polo Shirt, Oxford Dress Shirt and V-Neck Tee
 
 Note that in the above example ,the only way to distinguish `Polo Shirt` and `Oxford Dress Shirt` is to use vocabulary as 
 there is no conjunction word (`and`) separating them and you cannot rely on punctuations such as a comma to 
-separate the list of items as Bixby ignores punctuations. 
+separate the list of items because Bixby ignores punctuations. 
 
 If your capsule needs to support out-of-vocabulary then you need to add training that include out-of-vocabulary 
 items, for example:  `buy foo and bar` or `buy foo and bar and foobar`. Make sure you add add variety of 
