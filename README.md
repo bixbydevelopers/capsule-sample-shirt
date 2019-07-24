@@ -214,7 +214,7 @@ What is the total price of the order
 
 ## Managing Vocabulary and Out-of-Vocabulary Terms
 
-The vocab files help with NL recognition, especially in cases where an utterance is referring to multiple items, for 
+The vocab files help with NL recognition, especially in cases where an utterance is referring to multiple items. For 
 example:
 
 ``` 
