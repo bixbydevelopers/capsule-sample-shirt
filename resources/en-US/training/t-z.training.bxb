@@ -3,10 +3,15 @@ train (t-z285r9g9qcqbpz6zl3e4xkhhi) {
   plan (rVHLCsJADBxtra1vK4r1ov6AB3/BkyfBxweUNmChi2W7iie/3fhA7NIqiBs2hJnJJBD00KezL5KYZuk+kmq2poCiRMHLwouDEJFayZAkelnqAWr6XRL6ih7UtJC6HO91ipG+hDicKFwqEikm2iaSuCWj8Aq7Mf7S/GHy/J++G4opUE9umMflM74M9luSv/rlnqp4yAAllGHARAUWqrDhoIY6GmiihTY66L7CBTS19aa2WW1wrnPd4Sjd1Xjm2zc17P1ZjBjs6LJji2dU4VwB)
   last-modified (1560817227400)
 }
+train (t-zj6ceyx9uxpl4hm0ezf9t9fsr) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (oxford dress shirt)[v:SearchTerm]} and a {[g:AddedItem2] (blouse)[v:SearchTerm]}")
+  plan (tZHPSgMxEMa/uuu21tZq/+16UOitF3voGxRB8CTY+gBLM9BAY0M2gqc+e8cslCY0npSFmTDf/L6ZZFFgRN+l0luaVRtp7Oyd1iS1xb1fft4pJe2bEWQw8KW6GPR/aFFaqqVJVNp/uXOFwm9ZCEHi1ZKq8BjsYYiBEz2PkFHLeRx5+HUW+r58bkqNOGUaU/aSw5M2O03GSr78f/me/U9BcfkTwxd5kZ+iFoI1llSa9WZFRv2ZT4EGLpAgxSUyNNHCFdq4Rgdd3KCHW9zx18cAQ4wwRg54ROaIpiPajkg4dxzRc0TDETjGlHPqVRB0ZJwT9hyyd86zeKsD)
+  last-modified (1562625667176)
+}
 train (t-zoi8m5pwtqcsfqh32rqro0e3u) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy (4)[v:Quantity:4] (medium)[v:Size:Medium] (sweatshirts)[v:SearchTerm]")
-  plan (dY/LCsIwEEWvr9b3QvH5BW70JwShK9H6A0EHHDC1pCOoC7/d2G5MtItMwjn3wgR9jOiudHqhVXZmI6s9HYlTwczF66vWLFtzIoOhqwro5w0poULNXRUlLKwukZDO/tcKNfBqFmJaFseizLzYjmVqrikZYcowdpO7m0qE5eF/K/5MTFy44eRUCG+TmJQ5ng9ktL93zE9CDxVUUUMdDQQI0UQLbXTQtQY/Lsxd03I4B193YF+tvB/aLt4=)
-  last-modified (1560832167823)
+  utterance ("[g:CommitOrder] Buy {[g:Item] (4)[v:Quantity:4] (medium)[v:Size:Medium] (sweatshirts)[v:SearchTerm]}")
+  plan (dY/LCsIwEEWvr/p2ofj8Ajf2JwShK9H6A0EHHDBtSUdQF367sd2YqItMwjl3hgkGGNNN6exCYX5mI+GejsSZYO7idao1y9acyGDkqhL6eUNKqFQLV0UJC6tLJKTz322lGnptFmL2L47lP/NkW1aZSTMywpRj4iZ3V5UIy93/VvyumLpww8mpFN4mMSlzPB/IaH/vmB+EPiqoooY6GgjQRAttdNBFzxp8uWbhWpbDOfi4G/YV2Cm9YnbwAg==)
+  last-modified (1562621743242)
 }
 train (t-zpxxdnt3h425qsxo95s73qmss) {
   utterance ("[g:Shirt:prompt] (Oxford dress shirt)[v:SearchTerm]")

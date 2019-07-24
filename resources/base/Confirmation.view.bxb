@@ -1,6 +1,6 @@
 confirmation-view {
   match {
-    Confirmation {
+    CommitConfirmation {
       confirming {
         CommitOrder (action)
       }
@@ -8,6 +8,8 @@ confirmation-view {
   }
 
   message ("Are you sure you want to buy this?")
+
+  mode (Transactional)
 
   // Confirming with a `value: Confirmation(true)` doesn't work without this block. DO NOT remove confirm-options.
   confirm-options {

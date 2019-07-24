@@ -15,8 +15,8 @@ train (t-scdvkeh6ucbpa3awiw2c49yow) {
 }
 train (t-si2rs2er3g6s2waceogev1vre) {
   utterance ("[g:CommitOrder] Order {[g:Item] (3)[v:Quantity] (small)[v:Size:Small] (t-shirts)[v:SearchTerm]}, a {[g:Item2] (small)[v:Size:Small] (polo)[v:SearchTerm]}, and {[g:Item3] (10)[v:Quantity] (large)[v:Size:Large] (v-necks)[v:SearchTerm]}")
-  plan (zZBfT8IwFMUP4oDJJgoOBv579UUe9COYmPBkdH6BBW5CEzqWribqg5/dS0vUNi7xRWOT3qbn3N/tSXGOhJ5zWa5oWi2F0tMHmpMoNcaufLOWUug7tSCFgWtZ0e9XlGuy1sS1ZoXQIl/NNMnqe8xafQ9jEWldOy7qnDfB5bJU65KUFlT58Tc9V3/52PWvPTZ0O++f8kIL/VKre+GyTcXIFW9FsbCGlzCjXM2Xj6Tkv5vj/W8mXunH2hka2EETuwjQQhsdhNhDFxFi7KOHAxyijwGOkGCIEVKMMcExTnDKLDw62NLBlu4w3zN029BdQ0dGbxj6c4OnuCc+nK/VrohvLc6Wco7Q5Ik5Z8KZmqyHiN8B)
-  last-modified (1560959674410)
+  plan (zZBfT8IwFMUP4oDJJgoOBv579UUe9COYmPBkdH6BBW5CEzqWribqg5/dS0vUNi7xRWOT3qbn3N/tSXGOhJ5zWa5oWi2F0tMHmpMoNcaufLOWUug7tSCFgWtZ0e9XlGuy1sS1ZoXQIl/NNMnqe8xafQ9jEWldOy7qnDfB5bJU65KUFlT58Tc9V3/52PWvPTZ0O++f8kIL/VKre+GyTcXIFW9FsbCGlzCjXM2Xj6Tkv5vj/W8mXunH2hka2EETuwjQQhsdhNhDFxFi7KOHAxyijwGOkGCIEVKMMcExTnDKLDw62NLBlu4w3zZ0z9BdQ0dGbxj6c4OnuCc+nK/VrohvLc6WcI7Q5Ik5Z8qZmqyHiN8B)
+  last-modified (1561585123823)
 }
 train (t-siwq2u49bd22awnjrivrsgpw9) {
   utterance ([g:CommitOrder:continue:Order] Commit my order)
@@ -24,7 +24,12 @@ train (t-siwq2u49bd22awnjrivrsgpw9) {
   last-modified (1551201433462)
 }
 train (t-sornusnv1lodewgn1wp1cgrve) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (henley)[v:SearchTerm]}, the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}, and the large {[g:RemovedItem3] (pullover sweatshirt)[v:SearchTerm]} from my cart")
-  plan (zZJNbsIwEIUfBNLQAA2/TViUcgEW9AhdsaoE9ABRMhKRsIgcF7Hq2ZkaUOsogQ1IteWRZ95887wwAgxoH4p0Q9NsnUg1XVBESaoQmOX3rRCJ+pAxSfRM6VjM9X+mcajoKE1Kpe8vfc8wyj9CbHcUzxWJDK+5l0hixOgISmmMr8AXnGd3mvt2y7lL2lCkTppfpBUroYzWK5L/ZV7hlyo3eUEFVViooQ4bD3DQwCNcNNFCG0/w0EEXPfQxwBDPxvaBHG1r2ta0o+m2pl2mLa64nHucD3lXNI1T/Dm1P/FXOUdzOVy12LHDjj779XXWQPMA)
-  last-modified (1561058622388)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (henley)[v:SearchTerm]}, the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}, and the {[g:RemovedItem3] (large)[v:Size:Large] (pullover sweatshirt)[v:SearchTerm]} from my cart")
+  plan (tZLBTsJAEIZ/BbEIorQitKjgwcSLHPQRTEw4mVh9gKadhE1aaJbVGA88u9OuEbpp1RjNZrcz+898+7ddjNGj1yBJY5osZ0KqyQOFJFIFt7h9u0gSoe5lRBJOUdKbRv1TGgWKtHReKa2e83gJzzSRLF4omipKlhgbTiRxS6HCrezG6JvmL06+/ifuzV9yfYopVB/aoEwrVwIZzh5J/pb3kyugvWvJOGU6F0oEcenf021aso22ElPrclxWKSvBy1UqFylJJfi6VX8O48X8bEW/uHkn5pEWqjmGc1+8ES6whW3UUMcOGtiFhSb20EIb++jgAIfowubh4Ghj9HCMPgZw4WGIE5ziDCPAYDVyViNntXKWxUybKyzOO5w7BZbDM2N5zEE+8RnVN1atrJ8oVJpqk6Mauxly1GUvmdMsb6L9Dg==)
+  last-modified (1562628265357)
+}
+train (t-sqsx7n9cjz0vwm9phdsfc17fr) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (large)[v:Size:Large] (dashiki)[v:SearchTerm]}, the {[g:RemovedItem2] (large)[v:Size:Large] (polo shirt)[v:SearchTerm]}, and add a {[g:AddedItem] (henley tank)[v:SearchTerm]}")
+  plan (7VLbTsJAED1IFVFA5VpQuYgXFOXBPzAmJjyZiH5AQzdhkxaa7WqMD3y7w64K27TRN30wk052z5k5e2ZSXKLCXh0/8NggnHAhBw9szHggUTfh25nvc3kvXCZQMikNRuqfAteRTFOdRGr+rM4hbLPkxnWZO5TMD9GM+BCMGlb4WkIniiahMDtOTDG9JGbOKV0FYhYwITlZbUT35c9ePs2041SMinpiN1rfNP9o77pLUxGnwymX3PFifSznDX9hcdf/a/mqHDGPjWX8aKNFjv7xd3zqasKOKjliPHlk4u/pRHY54m8sFhsghTWkYWEdG8hgE1lsYRs55FHADsUu9lBECWVUUEUNNupoYB8HOEQTLbQpOjhCF8c4wSnO0MM5LtCnQIy69aGeVvpL9VyMeoHuTaWeVeplpd4ihxVShvp0tlbO5knfLOOuMRi1qyjohRQ5zNA8eZqmT966NNMCyaP6Dg==)
+  last-modified (1562630217763)
 }

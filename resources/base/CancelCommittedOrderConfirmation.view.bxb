@@ -1,0 +1,68 @@
+confirmation-view {
+  match {
+    CancelConfirmation {
+      confirming {
+        CancelCommittedOrder (action)
+      }
+    }
+  }
+  
+  message {
+    template ("Are you sure you want to cancel this order?")
+  }
+
+  mode (PositiveEmphasis)
+
+  // Confirming with a `value: Confirmation(true)` doesn't work without this block. DO NOT remove confirm-options.
+  confirm-options {
+    on-confirm {
+      if (false) {
+        halt {
+          dialog ("")
+        }
+      }
+    }
+    label {
+      if (exists(action.receipt)) {
+        template ("Yes")
+      }
+    }
+  }
+  abort-options {
+    on-abort {
+      intent { //The intent to execute when user aborts the confirmation
+        goal {CheckStatus}
+      }
+    }
+    label {
+      template ("No")
+    }    
+  }
+
+  render {
+    layout {
+      section {
+        content {
+          title-area {
+            halign (Center)
+            slot1 {
+              text {
+                value ("#{value(action.receipt.order.totalPrice)}")
+                style (Title_XL)
+              }
+            }
+          }
+          for-each (action.receipt.order.items) {
+            as (item) {
+              layout-macro (item-highlight) {
+                param (item) {
+                  expression (item)
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

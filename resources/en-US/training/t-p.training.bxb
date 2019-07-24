@@ -1,5 +1,10 @@
 train (t-p7f19zafryah1rkj0e9vg13cz) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] remove the small {[g:RemovedItem] (t-shirt)[v:SearchTerm]}")
-  plan (hZBNCsIwEIVfTbVaqxsRrBv1Ar2EK1eCPwcozUALDQ1pFFee3ZAWpLHFDMxk5nuPDMECa3qlQpaU1HmhdHKhjAqpEXfHx0qIQp8VJ4VVFzVDR3+XPNXUoMMgej/svcbWXUJUT+InTaLG3tlEkbF0FPGgG7s/ZvflK5WU6ZZt+pglvV/wI09Vlt9ICSzhYQQGH2NMEGCKGULMbURAD2UmhyY8S9Hmb9cc33TMOCJTgw8=)
-  last-modified (1561058588732)
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] remove the {[g:RemovedItem] (small)[v:Size:Small] (t-shirt)[v:SearchTerm]}")
+  plan (jVDLbsIwEBwIb1pogYjHpe2tl/ITSEicKjXwAVGyEivFxHJMVfXAt9eJDyhuIpC19npnZnds+PDpJxQyoXV2ZKXXXxQRS41lubxJhWD9qWJSmJYhW3T4BxmHmiz0VgtdzkWeYeWaEOk3xTtNIsOr40SRkZQYy1o1Xm6I73qMVVnIcbo7seYwqfRhZRaaOLJ89KKOjvc65MJm+5AqlaQ0//+4gBKKdPXTgnzHvFzc8im2wMLtFKrouCclXO8B/xJ8NNCEhxba6KCLHvpmDTDEAx4xwhhPeMYEU8wAh+sV7Cu3ZyLnjg0PRaAis7fr2TaZZ7rlExro/gE=)
+  last-modified (1562628275125)
+}
+train (t-phrro9tmifg63spk8bk1hrngh) {
+  utterance ("[g:CommitConfirmation:prompt] (No)[v:CommitConfirmation:false]")
+  plan (Y2BiUEitSMwtyEnVK87ILCrRc87Pzc0scc7PS8ssyk0syczPI0IFIxAyMPAAMRMQA9kA)
+  last-modified (1563994749642)
 }

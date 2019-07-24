@@ -1,15 +1,25 @@
+train (t-0caa3sh6x6mpa3l44td2fwqhn) {
+  utterance ("[g:CommitOrder] Order a {[g:Item] (hawaiian shirt)[v:SearchTerm]}")
+  plan (dY7LCsIwEEVvrba+Vor4+AI39icEoStB/YHQDjTQtGGahSu/3dggkmAXcwfOmZkES2zoKZSuKesqySa7UUFSG+x9fG6VkubKJTHWvnIwnGcShpw6+CpvpJGizg2p7v+aU6tgzULshsZxHDIvaeOkudXERlIXfv/+SWx9eJFN6UTw4p0EF9WDWGGBCCPEGGOCBCmmmGFuKQKe9jzq+a++Gdue9LeSNw==)
+  last-modified (1562622003187)
+}
+train (t-0dgr5o3iloblf3z9sk8fvxbhs) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity:3] (extra large)[v:Size:ExtraLarge] (hoodies)[v:SearchTerm]} to my shopping list")
+  plan (fY/LDgExFIZ/xmXcb3HbSOxseAeRSKyE4QEmehJNDE2nEiw8uyoLLaNJb+f7TvMXDbTpEkbiQJN4z6WarGlHXCj07fLsFEVcLSUjiZaNXkXH3woWKvrjDxP9+9mcY/RsZcoYsYWiKMbACSdJN3zwbkInmjYwtd6vxwwZJZE718tYyJMgqbiO2rHN1Tk8Kq6u7teD5+qmm/MjewEnSUCh3O03JL9yB/xGqCOFNDxkkEUOefgooIgSyqigiprmeBueYxSNUdIUZuK9Z6zbc+T0ydN9ZfNeCv4D)
+  last-modified (1562620600345)
+}
+train (t-0q1rhv879q8zjflr5d42xqcrm) {
+  utterance ("[g:CommitOrder] Buy {[g:Item] (7)[v:Quantity:7] (XL)[v:Size:ExtraLarge] (t-shirts)[v:SearchTerm]}, {[g:Item2] (6)[v:Quantity:6] (XS)[v:Size:ExtraSmall] (hoodies)[v:SearchTerm]}, and {[g:Item3] (5)[v:Quantity:5] (XS)[v:Size:ExtraSmall] (pullover sweatshirts)[v:SearchTerm]}")
+  plan (zZBfS8MwFMVPnd1W1zrdXLfOv4++uAf9CIKwJ9H6Bcp2YYGlK2kE9cHP7m0zGIkO9EExkBtyzv3dHIILDOglk8WSJuVCKD15pBmJQiOx5duVlELfqzkp9G3LiG6/okyTsca2Nc2FFtlyqkmWX2PG6jkYixhta8flNuddcLkq1KogpQWVbvyq5/ovH7v5tcdiu/PhOcu10K8/1p3QaVUxtMU7kc+N4SRPKVOzxRMp+e/mOP+eijf6tnYODztoYBc+mmihjQB76CBEhH10cYBD9NDHEQaIMcQICcY4xglOccY0HN5f8/6ab/OEkPWK79Z8p+bD2vFqfrPBc+zTLO9TNSviW5MTxpwl4JRVqojzJpyswU6A6AM=)
+  last-modified (1562625046696)
+}
 train (t-0rwiea5s67kfb105zmd9lqt0b) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Large)[v:Size:Large]}")
   plan (hZBNDoIwEIUfguIPbDQucKMeALYewJUrE40HIDCRJiBNqYlxwdmtFBdUiW3avpnvTaYtfCzpERc8p6jKmJDRiRJiXCLopvdlUTB5FCkJLLpIJw3/haexJI22vai+N7rCyuiWxbcrpQdJRYWNwQSpko4j6K3G+k8xdn8MdaJ1yFQQclFyEpKpK//8BeMdZ8opkW2nucHYk+DDwgA2HAwxgosxJpiqOYMHfDFbrbfDahjaXavPcFRsK7enTvcF)
   last-modified (1561058152275)
 }
 train (t-0xt790ce3hpy5dmqj2hum0l4e) {
-  utterance ([g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a shirt)
-  plan (dY5BCgIxDEW/jlp1qQjqCdw4l3A1K0FPMGjAwNQpaRauPLsZumpxCvkk7yVQrLGjT+tDR3V8sWh9owdxUBxyfOm9Z73KkwTbXCVY7gu1Skkdc9W8WbntGiUf/58ltSnODGI/to7TmPmyxTlIH0iUKZbfvw+JFSaYosIMcyzgsDSCgjmbkdXwKuucJX4=)
-  last-modified (1560832165038)
-}
-train (t-0yz4gb8mdusuwylvfoeo4i7th) {
-  utterance ([g:CancelCommittedOrder] Cancel my latest order)
-  plan (Y2BiEE2tSMwtyEnVK87ILCrRC0pNTs0sKGFQQhV2TsxLTs1xzs/NzSwpSU3xL0pJLWJgBEIGKAaSAA==)
-  last-modified (1551201431941)
+  utterance ([g:CommitOrder] Buy a shirt)
+  plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2zs/NzSzxL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
+  last-modified (1561585113038)
 }

@@ -212,6 +212,31 @@ What is the total price of the order
 
 ---
 
+## Managing Vocabulary and Out-of-Vocabulary Terms
+
+The vocab files help with NL recognition, especially in cases where an utterance is referring to multiple items. For 
+example:
+
+``` 
+buy a Polo Shirt, Oxford Dress Shirt and V-Neck Tee
+```
+
+Note that in the above example ,the only way to distinguish `Polo Shirt` and `Oxford Dress Shirt` is to use vocabulary as 
+there is no conjunction word (`and`) separating them and you cannot rely on punctuations such as a comma to 
+separate the list of items because Bixby ignores punctuations. 
+
+If your capsule needs to support out-of-vocabulary terms, then you need to add training that include out-of-vocabulary 
+items, for example:  `buy foo and bar` or `buy foo and bar and foobar`. Make sure you add add variety of 
+out-of-vocabulary examples that mix out-of-vocabulary and vocabulary words. You should also use out-of-vocabulary words of 
+different sizes (one token words, two token words, etc.).
+
+You should expect Bixby to learn to pick the correct interpretation for cases where items are 
+separated by an "and" or when at least one of the items is in vocabulary (e.g. buy eggs banana", "buy foo bar banana", 
+"buy foo bar and bar foo"), otherwise (with proper training) Bixby will merge the two items into one. 
+
+If you need anything more than this then you need to write some code that can take an out of vocab string and parse 
+it into one, two or many items (maybe by querying an index of all products in the backend). 
+
 ## Additional Resources
 
 ### Your Source for Everything Bixby

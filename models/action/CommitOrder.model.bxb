@@ -8,7 +8,7 @@ action (CommitOrder) {
   }
 
   confirm {
-    by (Confirmation)
+    by (CommitConfirmation)
   }
 
   output (Receipt)

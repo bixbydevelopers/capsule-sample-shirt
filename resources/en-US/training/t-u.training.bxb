@@ -1,5 +1,25 @@
+train (t-ukulv7v7zqt4vadgnvbq29ksj) {
+  utterance ("[g:CommitOrder] Order {[g:Item] (3)[v:Quantity:3] (hawaiian shirts)[v:SearchTerm]} and {[g:Item2] (4)[v:Quantity:4] (v-necks)[v:SearchTerm]}")
+  plan (tY7LTgJBEEUvz+GhyFvxC9jIwl8gMWFFFH6gA5VQCT1MespEN3y7xbTBdMfZ6aKr0veeW1WYYEIfxmZHWuQHdrJ4ox1xJpiF8vJkLcva7clhFFpejHlHRshbj6G1SlnYHFdCNv895q1hFFMRD2U45mXOmbU8Ze6UkROmPD7/wjz/27JpSL6+m1RYPkv16LjNpeI+FF843XsjunBDxu0OW3L2z+aMUUEVNdTRQBMJWmijgy5ucIse7tDHAEOMlENENr7JlrLdgkwKslKQPw+a8B1XxddEe1P3jHVST/dU9df+Ag==)
+  last-modified (1562622919899)
+}
+train (t-us7db80lv81kfys7ai5aoudl6) {
+  utterance ("[g:CancelConfirmation:prompt] (yes)[v:CancelConfirmation:true]")
+  plan (Y2BiUEitSMwtyEnVK87ILCrRc07MS07Ncc7PS8ssyk0syczPI0IFIxAyMPAAMRMQA9kA)
+  last-modified (1564003446907)
+}
+train (t-uvtmp8d9m97f7xha24fivx2yj) {
+  utterance ("[g:CommitOrder] Buy a {[g:Item] (polo)[v:SearchTerm]}, a {[g:Item2] (jersey)[v:SearchTerm]}, and a {[g:Item3] (collar dress shirt)[v:SearchTerm]}")
+  plan (zY7NTgIxFIU/xGEccURB5OcJ3MhCH8HEhJWJ+AITuAlNKEw6Xbjy2b3MkJhW2RIXPTc95349ZcpQPgtbbmRWrY3zs3dZiik9k9B+2Vlr/JtbiWMQRo0Z7zspvDTRNIzmW+NNsZl7sdXfWBP1I0xNxsfWeTiWfBmVx9LtSnHeSBV/f7/zdMqy51OVLfbKKDRfzXbVBFHjQgq3XH+Is//unQktzmhzTkKHlAsyLulyRc41PW64pc+AO4bcM2KsBBGTHJjkwKQ1062ZXs20aubnoGw4f2uqs6PNmfbm2trWW0b+DQ==)
+  last-modified (1562625136471)
+}
+train (t-uwyp13bszaq0i0key8u3r7ogw) {
+  utterance ("[g:CommitConfirmation:prompt] (Yes)[v:CommitConfirmation:true] please")
+  plan (Y2BiUEitSMwtyEnVK87ILCrRc87Pzc0scc7PS8ssyk0syczPI0IFIxAyMPAAMRMQA9kA)
+  last-modified (1563994612537)
+}
 train (t-uyrsdwhgz1r70gbj3yfcvibeu) {
-  utterance ("[g:CommitOrder,r:CreateOrder,r:CreateItem] Buy a (large)[v:Size:Large] (sweatshirt)[v:SearchTerm]")
-  plan (dY5LCsIwFEVv/bX+Jor4WYETuwlB6EiwbiC0D/qgaUOagThw7cYGBwk6yB2ccy95WGJDDyFVTWlXsTbpjQpiZbD38bmVks1Vl6Sx9pWDYV+TMOTUwVdZw4ZFnRmS3e+ZU6tgZiF2/+o4/jMvtnFSulWkDVMXnp9/ElsfXrgpnQh+zEnoorqTluF9OT8JC0QYYIgRxpggRoIpZphbjsDEvUkshfe+CduL+mVsV3gD)
-  last-modified (1560832167076)
+  utterance ("[g:CommitOrder] Buy a {[g:Item] (large)[v:Size:Large] (sweatshirt)[v:SearchTerm]}")
+  plan (dY7LCsIwEEVvfbVa3Sji4wvc2J8QhK4E6w+EdqADTVvSLMSF325scJFgF7mLc+5kBits6SlkW1HSlax0cqecuNU4uPjSSMn6pgpS2LjKQr+vSGiy6uiqtGbNoko1ye7/mFVrb8xA7IfqOA2ZN5s4t6ppSWmmzj8/+yZ2LrxyXVjhbcxIqLx8kJL+fRm/CEsEGGGMCaaYIUSEORaIDYdnwt5EhsJ5v4RpBqYZ93/OPg==)
+  last-modified (1562621700827)
 }

@@ -1,5 +1,10 @@
 train (t-m4zxh03hutbdbu6m9o38havaz) {
-  utterance ("[g:CommitOrder,r:CreateItem,r:CreateOrder] Buy (2)[v:Quantity:2] (small)[v:Size:Small] (t-shirts)[v:SearchTerm]")
-  plan (dY/LCsIwEEWvr9b3QvH5BW70JwShK9H6A0EHHDC1pCOoC7/d2G5MtItMwjn3wgR9jOiudHqhVXZmI6s9HYlTwczF66vWLFtzIoOhqwro5w0poULNXRUlLKwukZDO/tcKNfBqFmJaFseizLzYjmVqrikZYcowdpO7m0qE5eF/K/5MTFy44eRUCG+TmJQ5ng9ktL93zE9CDxVUUUMdDQQI0UQLbXTQtQY/Lsxd03I4B193YF+tvB/aLt4=)
-  last-modified (1560832166579)
+  utterance ("[g:CommitOrder] Buy {[g:Item] (2)[v:Quantity:2] (small)[v:Size:Small] (t-shirts)[v:SearchTerm]}")
+  plan (dY/LCsIwEEWvr/p2ofj8Ajf2JwShK9H6A0EHHDBtSUdQF367sd2YqItMwjl3hgkGGNNN6exCYX5mI+GejsSZYO7idao1y9acyGDkqhL6eUNKqFQLV0UJC6tLJKTz322lGnptFmL2L47lP/NkW1aZSTMywpRj4iZ3V5UIy93/VvyumLpww8mpFN4mMSlzPB/IaH/vmB+EPiqoooY6GgjQRAttdNBFzxp8uWbhWpbDOfi4G/YV2Cm9YnbwAg==)
+  last-modified (1561585247425)
+}
+train (t-mssy46i436nut1yvgjkh8b1pg) {
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (button down shirt)[v:SearchTerm]} and a {[g:AddedItem2] (logo tee)[v:SearchTerm]} ")
+  plan (tZHPSgMxEMa/uuu21tZq/+16UOitF3voGxRB8CTY+gBLM9BAY0M2gqc+e8cslCY0npSFmTDf/L6ZZFFgRN+l0luaVRtp7Oyd1iS1xb1fft4pJe2bEWQw8KW6GPR/aFFaqqVJVNp/uXOFwm9ZCEHi1ZKq8BjsYYiBEz2PkFHLeRx5+HUW+r58bkqNOGUaU/aSw5M2O03GSr78f/me/U9BcfkTwxd5kZ+iFoI1llSa9WZFRv2ZT4EGLpAgxSUyNNHCFdq4Rgdd3KCHW9zx18cAQ4wwRg54ROaIpiPajkg4dxzRc0TDETjGlHPqVRB0ZJwT9hyyd86zeKsD)
+  last-modified (1562625591923)
 }
