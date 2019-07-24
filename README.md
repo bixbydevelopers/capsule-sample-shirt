@@ -212,7 +212,7 @@ What is the total price of the order
 
 ---
 
-## Managing vocabulary and out of Vocabulary
+## Managing Vocabulary and Out-of-Vocabulary Terms
 
 The vocab files help with NL recognition, especially in cases where an utterance is referring to multiple items, for 
 example:
