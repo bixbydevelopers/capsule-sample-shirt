@@ -225,7 +225,7 @@ Note that in the above example ,the only way to distinguish `Polo Shirt` and `Ox
 there is no conjunction word (`and`) separating them and you cannot rely on punctuations such as a comma to 
 separate the list of items because Bixby ignores punctuations. 
 
-If your capsule needs to support out-of-vocabulary then you need to add training that include out-of-vocabulary 
+If your capsule needs to support out-of-vocabulary terms, then you need to add training that include out-of-vocabulary 
 items, for example:  `buy foo and bar` or `buy foo and bar and foobar`. Make sure you add add variety of 
 out-of-vocabulary examples mixing out-of-vocabulary and vocabulary words and use out-of-vocabulary words of 
 different sizes (one token words, two token words, etc.).
