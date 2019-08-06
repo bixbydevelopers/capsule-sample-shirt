@@ -1,6 +1,6 @@
 capsule {
   id (example.shirt)
-  version (2.12.9) // OOV Training 
+  version (2.12.10) // remove warnings
   format(3)
   runtime-flags {
     support-halt-effect-in-computed-inputs
@@ -8,6 +8,8 @@ capsule {
     concepts-inherit-super-type-features
     allow-dialogs-on-detail-pages
     no-fallback-to-result-collections
+    no-filtering-with-validation
+    modern-default-view-behavior
   }
   targets {
     target (bixby-mobile-en-US)

@@ -47,7 +47,7 @@ confirmation-view {
             halign (Center)
             slot1 {
               text {
-                value ("#{value(action.receipt.order.totalPrice)}")
+                value ("[#{value(action.receipt.order.totalPrice)}]")
                 style (Title_XL)
               }
             }
