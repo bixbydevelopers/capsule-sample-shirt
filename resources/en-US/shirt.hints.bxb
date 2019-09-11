@@ -1,7 +1,7 @@
 hints {
   uncategorized {
-    utterance (Buy a shirt)
-    utterance (Buy a men's shirt)
-    utterance (Order 3 polo shirts)
+    hint (In Shirt Sample Capsule, buy a shirt)
+    hint (In Shirt Sample Capsule, buy a men's shirt)
+    hint (Ask Shirt Sample Capsule to order 3 polo shirts)
   }
 }
