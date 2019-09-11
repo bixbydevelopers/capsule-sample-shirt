@@ -19,7 +19,7 @@ action (CreateChangedItem) {
     }
 
     //the input group representing the target properties to be updated
-    input-group (changed-item-properties) {
+    input-group (changedItemProperties) {
       requires (OneOrMoreOf)
       collect {
 
