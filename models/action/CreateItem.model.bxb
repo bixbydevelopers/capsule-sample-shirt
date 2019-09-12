@@ -11,7 +11,7 @@ action (CreateItem) {
         }
       }
     }
-    input-group (item-properties) {
+    input-group (itemProperties) {
       requires (OneOrMoreOf)
       collect {
         input (size) {
