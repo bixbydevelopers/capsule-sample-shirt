@@ -1,12 +1,12 @@
 train (t-h311p914zg94o13adhgr77dvq) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get {[g:AddedItem] (one)[v:Quantity:1] more (polo shirt)[v:SearchTerm]} and change the {[g:ChangedItem] (v-neck)[v:SearchTerm] to a (medium)[v:Size:Medium]}")
-  plan (hVFLT8JAEP60KLUgYhEoHHzcvMDVszEx8WS0+gOadmI3odAsS6Ic+O0O22LcpQ3Z7Ox0vsdsZzFCn76jLJ/RdJkKqabvFJPIFUZm+WmRZUK9yoQkeiZUFC3+Z55EigrorhbarHS+RGBSHpOEkhdF2RJj6x5pNP/aYdcWJonN/mmHNa64rRIa1qPatrg5IMbDAcImLvKJ4I9JLhc5SSV4Cr4p1GZBlZlG7uuQje07MJlvq2iuhPqxZxvSjGJV/kRQhWmk8vn36JGM0w+Se/RwG+2XeRbzpADqfazhhGJNGOMIx3DQwAlO0YSLM3hooY1zdHCBLi7ho6fXFfoYYIgA+FNtdU1WFiq3VLVY5XD0eXW0qs0K6I3y3O2GUYWVu5w5HLvc1+MbBNzXhfcL)
-  last-modified (1561058168709)
+  plan (hZHdToNAEIWPUi3SWiu1LfTCnyvveucDGBMTr/xBH4DARDYplCzbRHvBs7tdqLpbSLPZYTJnvjPLLnyM6StM8wXNi4RxMX+jiFgu4Ovlh2WaMvHMY+IY6VJVNPo/8jgUVEk3rVK5UnkBT2+5j2OKnwSlBWbGOZIw+9xql4bGSZr9Y6ctrrhuAjVrv3UsrvbAuNvTUEZ/+Qtf5sQFk3fg6piy8pqslHLbppRMt53oja+rMBNMfJsXG9CCIlH/gdekKaXx7XfaQx4l78R32oNNNJ/lkWVxJbT7GHcTsDVhhgMcwkIHRzhGFzZO4KCHPk4xwBmGOIeLkVoXGGOCKTzgl9pwXUlWlF1TPUlZMrpyDRTVlwTURv3d7o5WhZHbMrNkHMq5jjyBJ+facH4A)
+  last-modified (1569018750336)
 }
 train (t-h8vuljtrm4zz9uystgndon5ff) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] make that {[g:ChangedItem] (2)[v:Quantity:2] (t-shirts)[v:SearchTerm] in (extra large)[v:Size:ExtraLarge]}")
-  plan (hZDLTsMwEEVvG+iLPngIRNkAH9Bs+wGsWFW08AGWMyKW6tZyphJ0kW/vyEGCmFT1yPbY516PbVzilr6UdWtKi9x4TpekyTjGtL79srXW8MJn5HFTR9VmpP9wmWKq0PNRVO5CXuAhqparzSdlr0y2wFPEPImlppgedePxhBnzE4JSV/nMyGLm/NaRZyNXvqsb33Zqw4a/46esaE2af4rdN7FAGv/0n1x5nb+Tt7iOiNkTrtBCGwnOcI4OuuihjwEuMMQoxBgToEHTE00i41CiLxyh40/2O1etI+tE3INwZgvdAw==)
-  last-modified (1561058169067)
+  plan (hZBNbsIwEIUfDRB+S0vVCroBLsCOE7DqqvSHA1jJqLGESeRMJGCRs2M5lSAmER7ZHvt7z2MbT3ilg1DJjpZpJDUvvykgmTCm5e11rJTkTx2SxksZFZuOfpuEgqlAi1qUZzZP8e5Ui8T+j8IPJpVi7jBNxlJSTGvdmN0xY3VHkAeXfKPjhDRLc+G3su0rE3uWfHQf8kM7Cvi/1KSKWVL5ozdyoYPol7TC2CHyRHhGAw/w0EQLbfjooIse+hhgaOMRI6BC0zEaz4wDE13DYTuusstctLZZe8bds2c24J8B)
+  last-modified (1569018750392)
 }
 train (t-hg3krq7e4zqq30hib9n12tqq6) {
   utterance ("[g:Size:prompt] I'm an (extra large)[v:Size:ExtraLarge]")
@@ -15,11 +15,11 @@ train (t-hg3krq7e4zqq30hib9n12tqq6) {
 }
 train (t-hge7wb9k0d5s6toqbv5lsm63w) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (collar dress shirt)[v:SearchTerm]} and {[g:AddedItem2] (tunic)[v:SearchTerm]} to my shopping cart")
-  plan (tZHPSgMxEMa/uuu21tZq/+16UOitF3voGxRB8CTY+gBLM9BAY0M2gqc+e8cslCY0npSFmTDf/L6ZZFFgRN+l0luaVRtp7Oyd1iS1xb1fft4pJe2bEWQw8KW6GPR/aFFaqqVJVNp/uXOFwm9ZCEHi1ZKq8BjsYYiBEz2PkFHLeRx5+HUW+r58bkqNOGUaU/aSw5M2O03GSr78f/me/U9BcfkTwxd5kZ+iFoI1llSa9WZFRv2ZT4EGLpAgxSUyNNHCFdq4Rgdd3KCHW9zx18cAQ4wwRg54ROaIpiPajkg4dxzRc0TDETjGlHPqVRB0ZJwT9hyyd86zeKsD)
-  last-modified (1562625744414)
+  plan (tZHPagIxEMY/3XVt1ar1T3c9WPDUmwffoBQKnlpq+wCLGTDQ6JJNwZPP3mkWxATTk7IwE+ab3zeTLDKMaZ+r4pvm5UZqM/+gNcnCYOKWX3ZKSfOmBWkMXakqev1fhcgNVdIsKB1+7LlE5rY8C0FiaUiVePT20MTAiZ4GyKDlIoxM/52FgSufm1IhVnkKKQfJ4V3vCtJG8t2vZHv2L3nF1V/03+NVbkUleFusKNfrzSdpdTGfDDXUESFGAwmauMEtWmijgzt00UMf9/wNMMQIYzwgBRwisUTTEi1LRJw7luhZomYJHGPMOXYq8DoSzhF7jtg75Vm81S8=)
+  last-modified (1569018750503)
 }
 train (t-hxibv149buubndcwcku3lye92) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove {[g:RemovedItem] (1)[v:Quantity:1] (logo t-shirt)[v:SearchTerm]} and add a {[g:AddedItem] (sleeveless tank)[v:SearchTerm]}")
-  plan (hZHdTsJAEIUPtIqggICU1gt/7ryRdzAmJl4ZRR+g6U7CJpRutovRG57dcVsDW9qYSWYnc843O9nFDFP6ilO1onm+lNrM3yghqQwit/2Ypak0L1qQxsSVimbF/6FEbKiQbhul7cbWOULX8iAEiWdDaY6ryh6aGNjTZw0kxq5ge2HdMKvcNSlbyele6UyRNpJXvay+V5p9/i1zUzfFcUSNNK7/gRG4htdNvDbSfFc3WtCKElMyYZ1mldpfPLDHOlm+kz6wL35z9fGf5FoUQvOcCC204cHHEY7RwQm66OEUZ+hjgCHHOUYY25jgAlMEQA3jl0yPqQEzHucRR9cyLcugzP5eXVS7c1d3+PQ4Bzx1yHe3ue7/AA==)
-  last-modified (1562627368103)
+  plan (hZHdTsJAEIUPtIqggICU1gt/rrzjHYyJiVf+oA/QdCdhE0qb7WL0hmd33NbALm3MJLOTOeebnexihil9xWm+onmxlErP3yghmWtEdvshS1Opn5UghYktlU3H/5GLWFMp3TZK242pC4S25V4IEk+a0gJXzh6KGNjTZw0kxrZgemHdMKPcNSlbyelFZTkpLXnTS/e50uzzb5ebuiGWI2qkcf0PjMA2vG7itZb6291oQStKdMWEdZpRaj/xwB6rZPlO6sC++M3u2z/KtSiF5jkRWmjDg48jHKODE3TRwynO0McAQ45zjDA2McEFpgiAGsavmB5TA2Y8ziOOrmFahkGV/b26rHbnru7w6XEOeOqQ725z3f8B)
+  last-modified (1569018750563)
 }

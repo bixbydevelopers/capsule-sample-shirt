@@ -5,13 +5,13 @@ train (t-z285r9g9qcqbpz6zl3e4xkhhi) {
 }
 train (t-zj6ceyx9uxpl4hm0ezf9t9fsr) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (oxford dress shirt)[v:SearchTerm]} and a {[g:AddedItem2] (blouse)[v:SearchTerm]}")
-  plan (tZHPSgMxEMa/uuu21tZq/+16UOitF3voGxRB8CTY+gBLM9BAY0M2gqc+e8cslCY0npSFmTDf/L6ZZFFgRN+l0luaVRtp7Oyd1iS1xb1fft4pJe2bEWQw8KW6GPR/aFFaqqVJVNp/uXOFwm9ZCEHi1ZKq8BjsYYiBEz2PkFHLeRx5+HUW+r58bkqNOGUaU/aSw5M2O03GSr78f/me/U9BcfkTwxd5kZ+iFoI1llSa9WZFRv2ZT4EGLpAgxSUyNNHCFdq4Rgdd3KCHW9zx18cAQ4wwRg54ROaIpiPajkg4dxzRc0TDETjGlHPqVRB0ZJwT9hyyd86zeKsD)
-  last-modified (1562625667176)
+  plan (tZHPagIxEMY/3XVt1ar1T3c9WPDUmwffoBQKnlpq+wCLGTDQ6JJNwZPP3mkWxATTk7IwE+ab3zeTLDKMaZ+r4pvm5UZqM/+gNcnCYOKWX3ZKSfOmBWkMXakqev1fhcgNVdIsKB1+7LlE5rY8C0FiaUiVePT20MTAiZ4GyKDlIoxM/52FgSufm1IhVnkKKQfJ4V3vCtJG8t2vZHv2L3nF1V/03+NVbkUleFusKNfrzSdpdTGfDDXUESFGAwmauMEtWmijgzt00UMf9/wNMMQIYzwgBRwisUTTEi1LRJw7luhZomYJHGPMOXYq8DoSzhF7jtg75Vm81S8=)
+  last-modified (1569018756233)
 }
 train (t-zoi8m5pwtqcsfqh32rqro0e3u) {
   utterance ("[g:CommitOrder] Buy {[g:Item] (4)[v:Quantity:4] (medium)[v:Size:Medium] (sweatshirts)[v:SearchTerm]}")
-  plan (dY/LCsIwEEWvr/p2ofj8Ajf2JwShK9H6A0EHHDBtSUdQF367sd2YqItMwjl3hgkGGNNN6exCYX5mI+GejsSZYO7idao1y9acyGDkqhL6eUNKqFQLV0UJC6tLJKTz322lGnptFmL2L47lP/NkW1aZSTMywpRj4iZ3V5UIy93/VvyumLpww8mpFN4mMSlzPB/IaH/vmB+EPiqoooY6GgjQRAttdNBFzxp8uWbhWpbDOfi4G/YV2Cm9YnbwAg==)
-  last-modified (1562621743242)
+  plan (dY9JDsIwDEU/U5lZgBgvwI5LICF1xVAuEFFLtURKlRoJWHB2QrshARZxove+LQcDjOmmdHamVZ6wkdWBTsSZYO7i9UVrlq2JyWDkqhL6eUNKqFQLV4UpC6tzKKTz322lGnptFmL2L47lP/NkW3bmkpERphwTN7i/qlRY7v6vonfF1IUbTuNSeItEpMwpOZLR/toRPwh9VFBFDXU0EKCJFtrooIueNfhyzcK1LIdz8HE37CuwU3rF7OAF)
+  last-modified (1569018756271)
 }
 train (t-zpxxdnt3h425qsxo95s73qmss) {
   utterance ("[g:Shirt:prompt] (Oxford dress shirt)[v:SearchTerm]")
@@ -20,6 +20,6 @@ train (t-zpxxdnt3h425qsxo95s73qmss) {
 }
 train (t-zyz82pb8k825dgoga5hvrn9pr) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:RemovedItem] (logo tee)[v:SearchTerm]} to a small {[g:AddedItem] (v-neck)[v:SearchTerm]}")
-  plan (hZHdSgMxEIXPtqu16mptrd164c+dN/YdpFDwSrD6AMtmoIHGDdkoXvXZjdmqmzRBAsMw35kzwwQXGNNnIeSaZvWKKz17ppK41Ji65XklBNdPipHCyEVN0dO/SlZoatBtFG3ebV4jdyUPjBF71CRqXHl7KDINLT6JdGLoAlvLQ2aW3MXIhptwL1UlSWluVr307yWqj59lbkIujmIa7cb1P83+5CWtqdRbloeYJcHf2pEXqly9kNqRL7+jf+QFf2MNiPtMkKCDLlLsYR89HKCPQxzhGBlOcIoBzuwbYoRzjIGAPm3puyYOzOtbfWL12Ma0lf8R/NZgHBPj0DNzMjOxY7LsCw==)
-  last-modified (1561058685157)
+  plan (hZHdTsMwDIVPt8IYUBgbYx0X/Fxxt3dAkyZxBWLwAFVjaZEWWqUBcbVnx6QDmi4RimRZ/o6PLQcXGNNnpso1zaqV1Gb2TDnJ0mDqlueFUtI8akEaIxfVxZb+tRSZoRrdBtHm3eYVUldyLwSJB0OqwlVrD03c0OCTQCeGLrC11GdmyV2IbCSHJ12UpI3kTS/b51LFx88uNz4TRzENduP6n+b25CWtKTdblvqYJd7P2pFnOl+9kN6RL79j+8YL+SZqEPaZIEIHXcTYwz56OEAfhzjCMRKc4BQDnNk3xAjnGAMefdzQdzkO+PWtPrJ6bGPcyP8Ifmtgx4gdejwn4YkdzpIv)
+  last-modified (1569018756357)
 }

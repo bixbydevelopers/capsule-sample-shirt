@@ -1,10 +1,10 @@
 train (t-3r5y2str3x8b19m2xzi5g4und) {
   utterance ("[g:CommitOrder] Order a {[g:Item] (turtleneck)[v:SearchTerm]}, a {[g:Item2] (v-neck)[v:SearchTerm]} and a {[g:Item3] (polo shirt)[v:SearchTerm]}")
-  plan (zY5NTgJBEIU/xGEccURB5OcEbmShRzAxYWUiXmACldAJDZOeXrjy7BYzJKZb2RIXXZV+r756xZShfBa23MisWhvnZ++yFFN6JqH8srPW+De3EscgtBoxnndSeGmsaWjNt8abYjP3Yqu/scbqR5iKjI+N83DM+TJaHku3K8V5I1V8/n7m6ZRhz6cKW+wro1B8NdtVY0SJCynccv0hzv67PRNanNHmnIQOKRdkXNLlipxretxwS58Bdwy5Z8RYCSImOTDJgenVTFoz3Zpp1czPQ9mw/66p9o5mZpqY6wVt/WXk3w==)
-  last-modified (1562622197769)
+  plan (zY7NTgIxFIU/xGEccURB5OcF3LHQRzAxYaURX2ACN6EJhUmnC1c+u5cZEtMqW+Ki56bn3K+nTBnKZ2HLjcyqtXF+9i5LMaVnEtrPO2uNf3UrcQzCqDHjfSeFlyaahtF8a7wpNnMvtvoba6J+hKnJ+Ng6D8eSL6Py5nalOG+kin+/X3k8YdfTiboWe2UUmi9mu2qCqHAhhVuuP8TZf/fOhBZntDknoUPKBRmXdLki55oeN9zSZ8AdQ+4ZMVaCiEkOTHJg0prp1kyvZlo183NQNpy/NdXZ0eZMe3NtbestI/8G)
+  last-modified (1569018746345)
 }
 train (t-3rl2ywnywa5jht16rs86kqd2w) {
   utterance ("[g:CommitOrder] Buy a {[g:Item] (extra large)[v:Size:ExtraLarge] (henley)[v:SearchTerm]}")
-  plan (dY7LCsIwEEVvfbVa3Sji4wvc2J8QhK4E6w+EdqADTVvSLMSF325scJFgF7mLc+5kBits6SlkW1HSlax0cqecuNU4uPjSSMn6pgpS2LjKQr+vSGiy6uiqtGbNoko1ye7/mFVrb8xA7IfqOA2ZN5s4t6ppSWmmzj8/+yZ2LrxyXVjhbcxIqLx8kJL+fRm/CEsEGGGMCaaYIUSEORaIDYdnwt5EhsJ5v4RpBqYZ93/OPg==)
-  last-modified (1561585195850)
+  plan (dY7LDoIwEEUvvkDRjcb4+AF3/ISJCSuN+AMNTMIkFEjpwrjw2600LtrIondxzp3OYIUtPYVsK0q6kpVO7pQTtxoHF58bKVlfVUEKG1dZ6PcVCU1WHV2V1qxZVKkm2f0fs2rtjRmI/VAdpyHzZhM31bSkNFPnX599EzsXXrgurPAWZiRUXj5ISf+8jF+EJQKMMMYEU8wQIsIcC8SGwzNhbyJD4bxfwjQD04z7P2cf)
+  last-modified (1569018746402)
 }

@@ -1,10 +1,10 @@
 train (t-d8v4qgmripgghf6pv7win3102) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Get {[g:ChangedItem] (3)[v:Quantity:3]} of them")
-  plan (hVBLDoIwEH0KCn5YGU1wox4Atx7AlSujxgM0MJEmoE0ZEt1wdhvQRFBim2bevE86LTxM6S5SldA6i6Xm9ZFCkorh1+ntLU0l73VEGpO6VJEN/1lFgqmSVq1SkZc4w7xxWyyuF4p2TGmGZUPTZCI1h9+axuJPGJs/hiKscCBNEyh9U6RZmpF//sKsTh5ycWXJj+b7TpRQyK8JPHTQhQUbPfThwMUAQ7NHGANfmlXqruFRHnyg97JNbxn3yFTnCQ==)
-  last-modified (1561058163703)
+  plan (hZBNDoIwEIWfgoIiK6MJbtQLsPMErlz5Fw9AYCJN+EsZEt1wdhvQKCixTdPX973JtIWNGd28OIvIzUMh2T2RTyJjOE17m8ax4L0MSGLaRLXZyl+ywGOq0boTlUWlcyxa3UIvuVKwY4pzrFpMkippJJzOaiz/FGPzJ1D6b32QaUaShbrwzz+YN81j4SUs+N5+3Zki8vnZ30YPfWjQMcAQBkyMMFbTwgT4YlrFTeWjWvhQr6Grs6bSltqNBw==)
+  last-modified (1569018749198)
 }
 train (t-dlsu2m4b0xqytk1if71udyi1n) {
   utterance ("[g:CommitOrder] Order a {[g:Item] (turtleneck)[v:SearchTerm]}")
-  plan (dY7LCsIwEEVvrba+Vor4+AI39icEoStB/YHQDjTQtGGahSu/3dggkmAXcwfOmZkES2zoKZSuKesqySa7UUFSG+x9fG6VkubKJTHWvnIwnGcShpw6+CpvpJGizg2p7v+aU6tgzULshsZxHDIvaeOkudXERlIXfv/+SWx9eJFN6UTw4p0EF9WDWGGBCCPEGGOCBCmmmGFuKQKe9jzq+a++Gdue9LeSNw==)
-  last-modified (1562621559931)
+  plan (dY7LCsJADEVvrba+Vor4+AF3/QlB6EpRf6C0gQY6bUln4cpvd+wgMoNd5AbOSTKDJTb0zFRbUdKVLDq5UU7cauxdfGqUYn2RggRrV1nozwtlmqw6uCqtWXNWpZpU93/NqpW3ZiB2Q+M4DpkXm7hK05Jops7//f2T2LrwzHVhhffgnTLJyweJwgIBRggxxgQRYkwxw9xQeDzuedDzX30zND3qb0Vv)
+  last-modified (1569018749258)
 }
