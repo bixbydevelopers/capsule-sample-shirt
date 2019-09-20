@@ -1,10 +1,10 @@
 train (t-m4zxh03hutbdbu6m9o38havaz) {
   utterance ("[g:CommitOrder] Buy {[g:Item] (2)[v:Quantity:2] (small)[v:Size:Small] (t-shirts)[v:SearchTerm]}")
-  plan (dY/LCsIwEEWvr/p2ofj8Ajf2JwShK9H6A0EHHDBtSUdQF367sd2YqItMwjl3hgkGGNNN6exCYX5mI+GejsSZYO7idao1y9acyGDkqhL6eUNKqFQLV0UJC6tLJKTz322lGnptFmL2L47lP/NkW1aZSTMywpRj4iZ3V5UIy93/VvyumLpww8mpFN4mMSlzPB/IaH/vmB+EPiqoooY6GgjQRAttdNBFzxp8uWbhWpbDOfi4G/YV2Cm9YnbwAg==)
-  last-modified (1561585247425)
+  plan (dY9JDsIwDEU/U5lZgBgvwI5LICF1xVAuEFFLtURKlRoJWHB2QrshARZxove+LQcDjOmmdHamVZ6wkdWBTsSZYO7i9UVrlq2JyWDkqhL6eUNKqFQLV4UpC6tzKKTz322lGnptFmL2L47lP/NkW3bmkpERphwTN7i/qlRY7v6vonfF1IUbTuNSeItEpMwpOZLR/toRPwh9VFBFDXU0EKCJFtrooIueNfhyzcK1LIdz8HE37CuwU3rF7OAF)
+  last-modified (1569018751922)
 }
 train (t-mssy46i436nut1yvgjkh8b1pg) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (button down shirt)[v:SearchTerm]} and a {[g:AddedItem2] (logo tee)[v:SearchTerm]} ")
-  plan (tZHPSgMxEMa/uuu21tZq/+16UOitF3voGxRB8CTY+gBLM9BAY0M2gqc+e8cslCY0npSFmTDf/L6ZZFFgRN+l0luaVRtp7Oyd1iS1xb1fft4pJe2bEWQw8KW6GPR/aFFaqqVJVNp/uXOFwm9ZCEHi1ZKq8BjsYYiBEz2PkFHLeRx5+HUW+r58bkqNOGUaU/aSw5M2O03GSr78f/me/U9BcfkTwxd5kZ+iFoI1llSa9WZFRv2ZT4EGLpAgxSUyNNHCFdq4Rgdd3KCHW9zx18cAQ4wwRg54ROaIpiPajkg4dxzRc0TDETjGlHPqVRB0ZJwT9hyyd86zeKsD)
-  last-modified (1562625591923)
+  plan (tZHPagIxEMY/3XVt1ar1T3c9WPDUmwffoBQKnlpq+wCLGTDQ6JJNwZPP3mkWxATTk7IwE+ab3zeTLDKMaZ+r4pvm5UZqM/+gNcnCYOKWX3ZKSfOmBWkMXakqev1fhcgNVdIsKB1+7LlE5rY8C0FiaUiVePT20MTAiZ4GyKDlIoxM/52FgSufm1IhVnkKKQfJ4V3vCtJG8t2vZHv2L3nF1V/03+NVbkUleFusKNfrzSdpdTGfDDXUESFGAwmauMEtWmijgzt00UMf9/wNMMQIYzwgBRwisUTTEi1LRJw7luhZomYJHGPMOXYq8DoSzhF7jtg75Vm81S8=)
+  last-modified (1569018751978)
 }

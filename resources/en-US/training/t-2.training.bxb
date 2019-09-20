@@ -1,22 +1,22 @@
 train (t-20eorrv3cuu5dx4pg34fg3svy) {
   utterance ("[g:CommitOrder] Order a {[g:Item] (large)[v:Size:Large] (hooded sweatshirt)[v:SearchTerm]}, a {[g:Item2] (small)[v:Size:Small] (oxford dress shirt)[v:SearchTerm]}, and a {[g:Item3] (extra-large)[v:Size:ExtraLarge] (henley)[v:SearchTerm]}")
-  plan (zZDLTgJBEEWP4oC8BEHeuncjC/0EExNWJo4/MIFK6ISBSU8vjAu/3WKGTbeSuCJ2MtWZe+tU3TR3DOQjSbONzPO1sW7+JksxmWPiy8+7NDXu1a7E0vetUgz7rSROSmvqW4utcSbZLJyk+e9YafUCTEXGx9q5P+Z8GS0Pmd1lYp2RPIy/73k85bKnUy2L95WRL76Y7ao0go2xJHa5fheb/rs5wXvF5lP+rN1yxjkVLoioUuOSOg2atGhzRYcu1/Toc8OAISPGTJgyU46AjA5kdCBrBdksyE5BdnV6Sym8D53g3z9reRr6V9UsM9001ATtIktFtTrtbw==)
-  last-modified (1562622428914)
+  plan (zZDLTgJBEEWP4oC8BEHeunbHQj/BxISVxvEHJlAJnTAw6emFceG3W8yw6VYSV8ROpjpzb52qm+aOgXwkabaReb421s3fZCkmc0x8+WmXpsa92JVY+r5VimG/lcRJaU19a7E1ziSbhZM0/x0rrV6Aqcj4WDv3x5wvo+XV7jKxzkgept+3PJxw1+OJdsX7ysgXn812VRrBwlgSu1y/i03/3ZzguWLzKX/WbjnjnAoXRFSpcUmdBk1atLmiQ5drevS5YcCQEWMmTJkpR0BGBzI6kLWCbBZkpyC7Or2lFN6HTvDvn7U8Df2rapaZbhpqgnaRpaJanfY3)
+  last-modified (1569018745960)
 }
 train (t-20po3ken2lb4cialowcgjpx9b) {
   utterance ("[g:CommitOrder] Order an {[g:Item] (XS)[v:Size:ExtraSmall]} and {[g:Item2] (XL)[v:Size:ExtraLarge] (v-neck)[v:SearchTerm]} ")
-  plan (vY7LCsIwEEVv1ar1/UB8fIEbu/AXBMGVYP2BogMONFrSLMSF3+7UiNKgWwmTCfeemxkMMKJrrNKEwuzE2oQ7OhCnBtOivLooxWarj6QxLFpWdHlNsSFrzYrW5syG42RjSGXfY9YaODERMfmFY/7LubNci1RfUtKGKXPXz5nlv4ZF+Y1xUVzz+WgNZ2JEsT6c9qSVu1/EN/quwUMJZVTgo4oa6gjQQBMttOV00EUPfcCh/BdVk8qpuvDek/oUhLYd7w5Je1I9yXfl35K8gwc=)
-  last-modified (1560881420652)
+  plan (vY7LCsIwEEVvfba+H4iPH3Dnwl8QBFeK9QdKHXDA1JJmIS78dqdGlAbdSphMuPfczGCAEV0jlZ5pkZ1Ym8WeYuLUYFqUVxel2Gz1kTSGRcuKLq8pMmStWdHaJGw4Om8Mqex7zFoDJyYiJr9wzH85d5Zrpy8pacOUudvnyPJPs8L8xrgorjk5WsMZGFKk49OBtHLXC/lG3zV4KKGMCqqooQ4fARpoooW2nA666KEPOFT1RdWlcsoX3ntSn4LQtuPdIWlPqif5rvxbknfwAA==)
+  last-modified (1569018745901)
 }
 train (t-2lc3slrnri43uonvdtls7goe8) {
   utterance ("[g:CommitOrder] Order {[g:Item] (2)[v:Quantity:2] (extra small)[v:Size:ExtraSmall] (turtlenecks)[v:SearchTerm]}, {[g:Item2] (1)[v:Quantity:1] (large)[v:Size:Large] (sweatshirt)[v:SearchTerm]} and {[g:Item3] (3)[v:Quantity:3] (XL)[v:Size:ExtraLarge] (polo shirts)[v:SearchTerm]}")
-  plan (zZBfT8IwFMXPxCETJgoyGOKfR17gQT+CiQlPRucXaOAmNGFj6WqiPPjZvVtJTKsk+qCxSW/Tc+7v9qS4Qo9eRJqvaFospdLTR5qTzDViW75dp6nU92pBCl3bMqLbr0hoMtbQtmaZ1FKsZprS4mvMWB0HYxGDXe0Y73LeJJdJrtY5KS2pcOOXPdd/+djNrz0W2Z0PzyLTUr/+WHdCJ2VF3xbvZLYwhpM8IaHmyydS6b+b4/x7Ijf0be0SHvZQwz581HGABgIcookWQhyhjWOcoIMuTtFDhD4GiDHEGUY4xwXTcHh/y/tbvsETWqyXfLPi2xVvdK/iPzZ4jn2a5X2qZoV8q3PCiNMEnDLmRCHnHXG2GjsBwnc=)
-  last-modified (1562622971959)
+  plan (zZBfT8IwFMXPxCETJggyGOKfN9540I9gYsKTf+YXWOAmNKFj6WqiPPjZvVtJTKsk+qCxSW/Tc+7v9qS4RJ9eUpmvaFoshdLTR5qTyDViW75ZSyn0nVqQQs+2jOj2K0o1GWtkW7NMaJGuZppk8TVmrK6DsYjhrnZMdjlvgsu9WuektKDCTV+2XP3hW9e/9VZkNz48p5kW+vXHupM5KSsGtngrsoUxnOAJpWq+fCIl/90c59sTsaFvaxfwsIca9uGjjgM0EOAQTbQQ4ghtdHCMLno4QR8RBhgixginGOMM50zD4f0t72/5Bk9osV7yzYpvV7zRvYr/2OA59mmW96maFfKtzgkjThNwypgThZx3zNlq7AQI3wE=)
+  last-modified (1569018746046)
 }
 train (t-2tzs0racs5zztz2qvbm77kx4l) {
   utterance ([g:CancelOrder] Cancel this order)
-  plan (Y2BmEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2TsxLTs3xL0pJLWIQRpWCCDIxMAIxA5BkZGCA0QA=)
-  last-modified (1551201432083)
+  plan (Y2BiEE2tSMwtyEnVK87ILCrRC0pNTs0sKGGQRBV2TsxLTs3xL0pJLWJgBEIGKAaSAA==)
+  last-modified (1569018746131)
 }
 train (t-2tzs0racs5zztz2qvbm77kx4m) {
   utterance ([g:CancelCommittedOrder] Cancel my order)

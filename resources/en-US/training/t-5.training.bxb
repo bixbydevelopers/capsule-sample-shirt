@@ -1,15 +1,15 @@
 train (t-58tqlaz4pga547bgnohyn2dr8) {
   utterance ("[g:CommitOrder] Buy {[g:Item] (10)[v:Quantity:10] (small)[v:Size:Small] (plaid shirts)[v:SearchTerm]}")
-  plan (dY/LCsIwEEWvr/p2ofj8Ajf2JwShK9H6A0EHHDBtSUdQF367sd2YqItMwjl3hgkGGNNN6exCYX5mI+GejsSZYO7idao1y9acyGDkqhL6eUNKqFQLV0UJC6tLJKTz322lGnptFmL2L47lP/NkW1aZSTMywpRj4iZ3V5UIy93/VvyumLpww8mpFN4mMSlzPB/IaH/vmB+EPiqoooY6GgjQRAttdNBFzxp8uWbhWpbDOfi4G/YV2Cm9YnbwAg==)
-  last-modified (1562621630918)
+  plan (dY9JDsIwDEU/U5lZgBgvwI5LICF1xVAuEFFLtURKlRoJWHB2QrshARZxove+LQcDjOmmdHamVZ6wkdWBTsSZYO7i9UVrlq2JyWDkqhL6eUNKqFQLV4UpC6tzKKTz322lGnptFmL2L47lP/NkW3bmkpERphwTN7i/qlRY7v6vonfF1IUbTuNSeItEpMwpOZLR/toRPwh9VFBFDXU0EKCJFtrooIueNfhyzcK1LIdz8HE37CuwU3rF7OAF)
+  last-modified (1569018746816)
 }
 train (t-5fx6lbhr39jcc2wrz9r6bkt50) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (extra-large)[v:Size:ExtraLarge] (oxford dress shirt)[v:SearchTerm]}, the {[g:RemovedItem2] (hawaiian shirt)[v:SearchTerm]}, and the {[g:RemovedItem3] (small)[v:Size:Small] (henley)[v:SearchTerm]} ")
-  plan (3VHBTgIxEH0IIiCCgriAIqCCHJSDfoKJCScT0Q/YsJPQhIVNqcZ44NvttkRp2VUTw8U0nUzmzXszr0UPFXpz/WBC/fmYcdF/pBGxQKBmlu9mvs/EA/eIo2xCumj1PweeK0hD7Vho8aLyOer2Ev7slbyBIH+OlrUJJ0kxOmqxbDR/IH8z+WZDurd/0v3N42uWhqw9BlMmmDuJfDdN01DJooWjq3Ht6MUhCybDdcBnAXHB1j96SBMaiaW1ahT2H0yvGXP5aPxEfM3YMIxwzOI9m3oa2LyO9QJD9k6RtSsksIUkUthGGjvIIIscdpHHHgooYh8HKKGMQ1RwpI6D6vLUUMcxTtDAKZpooY0znOMCHXRxCVjKaaWcjlDOyHkFqZxUmWMoOxIPlRtKuSInJZQyljG8qZW4evHZBaM/YSBfeE7mSblpR26flY7y0k9XVbLIfwA=)
-  last-modified (1562630622832)
+  plan (3VHBTgIxEH0IIiCCgriAIqACHgwH/QQTE04a0Q/YsJPQhIVNqcZ44NvttkRp2VUTw8U0nUzmzXszr8UlKvTm+sGE+vMx46L/SCNigUDNLN/OfJ+Je+4RR9mEdNHqfw48V5CG2rHQ4kXlc9TtJfzZK3kDQf4cLWsTTpJidNRi2Wj+QP5m8vWGdG/+pPubx9csDVl7DKZMMHcS+W6apqGSRQtHV+Pa0YtDFkyGBz4LiAu2/s9DmtBILJ1Vo7B/4HnNl8tH4yfia76GYYRjFu/Y1NPA5nWsBxiyd4qsXSGBLSSRwjbS2EEGWeSwizz2UEAR+zhACWUcooIjdRxUl6eGOo5xggZO0UQLbZzhHBfooIseYCmnlXI6Qjkj5xWkclJljqHsSDxUbijlipyUUMpYxvCmVuLqxWcXjP6EgXzhOZkn5aYduX1WOspLP11VySL/AQ==)
+  last-modified (1569018746873)
 }
 train (t-5m5ekhya7iws4gm5oah658wrp) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make that a {[g:ChangedItem] (Large)[v:Size:Large] (V-Neck)[v:SearchTerm]} and add a {[g:AddedItem] (long sleeve jersey)[v:SearchTerm]}")
-  plan (hZFPT8JAEMVfKVoERKEChYN/bl7g6tmYmHgysfoBmnZiN6HQbNfEeOCzM+yCoUsbOulmdt783m5mEWBIv1GWL2hepEKq+QfFJHKFSbn8ssoyod5lQhJ+WTJFq/8rTyJFRnqoldY/Oi8QlFuek4SSN0VZgal1jzRafu+1W0uTxGYH7LjGFfdVYMl6Unss7k7AeDrRsI5NPhO8meVylZNUgqcwKIPaLKgy08pjnbK2fa0ZhrSgWO0uG1RpWql85qP2SMbpJ8mj9nC72i/wKpaJEep9rCGE4o8whYMGXDRxhnN4aOECbXTQxSV6uMI1+hjo8HGDIUYYc+Cf2nIek4ZqaarDlMtrn6OnqS47OZoyn3PwN3fVvVbOPc5d9h2xv88nNzhvbwA=)
-  last-modified (1562631402281)
+  plan (hZHPTsJAEMa/UrQIiEIFCgf/nLxx8wGMiYknjdUHaNqJ3YRCs10T44FnZ9iCsksbdrKbyXzz+3YziwBD+omyfE6zIhVSzd4pJpErTMzy0zLLhHqVCUn4plQWrf7PPIkUldJdrbT61nmBwGx5TBJKXhRlBabWO9Jo8bXTri1NEpvtseMaV9xWgYb1pPZa3ByB8XCkYRX/529ymZNUgmcwMDFtFVRZaeW+TlkJ09YaYEhzitX2pUGVppXKPz5oj2ScfpA8aA83pz3+Z7FISqHex5pBKH4JUzhowEUTJziFhxbO0EYHXZyjhwtcoo+BDh9XGGKEMQf+qA3nMVlSLU11mHL57HP0NNVlJ0dT5XL2dnNb3Wlm7nHusu+I/X2+ucF5ew0=)
+  last-modified (1569018746933)
 }

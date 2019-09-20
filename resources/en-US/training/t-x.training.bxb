@@ -1,22 +1,22 @@
 train (t-xf8o2fzh91qj8zopn0guyhm2y) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (polo)[v:SearchTerm]} and {[g:AddedItem2] (hawaiian shirt)[v:SearchTerm]} to my shopping list")
-  plan (tZHPSgMxEMa/uuu21tZq/+16UOitF3voGxRB8CTY+gBLM9BAY0M2gqc+e8cslCY0npSFmTDf/L6ZZFFgRN+l0luaVRtp7Oyd1iS1xb1fft4pJe2bEWQw8KW6GPR/aFFaqqVJVNp/uXOFwm9ZCEHi1ZKq8BjsYYiBEz2PkFHLeRx5+HUW+r58bkqNOGUaU/aSw5M2O03GSr78f/me/U9BcfkTwxd5kZ+iFoI1llSa9WZFRv2ZT4EGLpAgxSUyNNHCFdq4Rgdd3KCHW9zx18cAQ4wwRg54ROaIpiPajkg4dxzRc0TDETjGlHPqVRB0ZJwT9hyyd86zeKsD)
-  last-modified (1562625585824)
+  plan (tZHPagIxEMY/3XVt1ar1T3c9WPDUmwffoBQKnlpq+wCLGTDQ6JJNwZPP3mkWxATTk7IwE+ab3zeTLDKMaZ+r4pvm5UZqM/+gNcnCYOKWX3ZKSfOmBWkMXakqev1fhcgNVdIsKB1+7LlE5rY8C0FiaUiVePT20MTAiZ4GyKDlIoxM/52FgSufm1IhVnkKKQfJ4V3vCtJG8t2vZHv2L3nF1V/03+NVbkUleFusKNfrzSdpdTGfDDXUESFGAwmauMEtWmijgzt00UMf9/wNMMQIYzwgBRwisUTTEi1LRJw7luhZomYJHGPMOXYq8DoSzhF7jtg75Vm81S8=)
+  last-modified (1569018755732)
 }
 train (t-xkzekmk3jxpm45y3zit0oot4b) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (medium)[v:Size:Medium] (v-neck)[v:SearchTerm]}, the {[g:RemovedItem2] (medium)[v:Size:Medium] (crew neck)[v:SearchTerm]}, and {[g:RemovedItem3] (large)[v:Size:Large] (t-shirt)[v:SearchTerm]}")
-  plan (7ZBbT8JAEIU/BRFFAUHkIsrFG6Igyk8wMeHJRPQHENiETSg0pRrjA7/dbTfBtGmVRx/oppOdOXP2zBnuyYnPgWFORHs+lpbdfhFDIU2borf8ODMMaT9bI2GR9UK66Ot/M0cDW2ioFgot3t37nJJ/CGP2IUY9Wxhzqr5JLKEono5iKJvKH+SVzGiWhnyT9qbSloNJ4ByapqGMj+ZIF8LaaYQhC6lCy7RmprBs+eviHtZrCbLeXa9l2dkXEzG0g631nUjeW3yS05EGCv6XBtZw/Cqs//eOb5d9+SVWrnXZYJMIUbaIsU2cHXV2SbDHPklSpDkgQ5ZDchyRp0CREseUOeGUClVq1Dnj3D0XXHJFg2ua3HBLizZ3dMCnE3GVfnRiATqxAJ246ikrzNGpuzpJVyelJigqDdyfgJvOop48vMaS6436S6gsolw47tLKb0dN2lQ+nVqa0jc=)
-  last-modified (1562630537816)
+  plan (7ZBbT8JAEIU/BRFFAUHkIsrFC4qKKD/BxIQnjegPIHQTNqFASjXGB367227UtGmVRx/oppOdOXP2zBluyIn3vjkdidZsKC279SQGQk5tit7y3cQ0pf1gGcIi64V00df/MjX6ttBQLRSav7r3GSX/EObkTRhdW5gzqr5JLKEono5iKJvKH+SFzGiWhnyTdsfSlv1R4ByapqGMj+ZIF8LaaYQhc6nCozWZCsuWv+7tdrmVAOed5Va+GntiJAZ2sLOeE8l7i/dybGig4H+pbw2Gz8L6f+/4VtmTH2LhWocVVokQZY0Y68TZUGeTBFtskyRFmh0yZNklxx55ChQpsU+ZAw6pUKVGnSOO3XPCKQ3OOKfJBZdc0eKaNvh0Iq7Sj04sQCcWoBNXPWWFOTp1Vyfp6qTUBEWlgfsTcNNZ1JOH1/jmeqP+EiqLKBeOu7Ty21aTNpVPp5am9Ak=)
+  last-modified (1569018755790)
 }
 train (t-xnj2agljbjpdmx9lk7e7051qw) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (2)[v:Quantity] (henley tanks)[v:SearchTerm]} and remove the {[g:RemovedItem] (polo)[v:SearchTerm]} from my cart")
-  plan (hZHdTsJAEIUPtIqIVn4Eihf+3Hkj70BMTLwyij5A052ETVjabBejNzw767YQdunGbDKdne+cmckWYwzpJxH5kqbFgks1/aCUeK4wscvPmRBcvUlGEgMblUVH/5WzRFGJHrxoszZ5gdiWzBgj9qpIFLh19pCkDQd87HGibwNTi+uaGfLoIxuuw1Mus5yk4nrVka18XycrxdUvbtx3FNn3bsn7uu6WYuJ14+4fszt5TktKVcXiOmZI7V88kicyXXySPJLP/6L7+C98xUrg7xOjgSYChDjBKVo4Qxvn6OACl4hwhS566JszwDWGGAG1jvDAEejY06dtHA3jQBXDKse+vrtjn7f0N9Cxo6dFem5T59EW)
-  last-modified (1560878058801)
+  plan (hZHLbsIwEEUvJC2ltCmPAqGLPlbd8Q8VUqWu+qD9gCgeCUuYRI6p2g3fjusEhE2sytJkPOfemZGDMYb0k4h8SdNiwaWaflBKPFeY2OVZJgRXr5KRxMBGZdHRf+UsUVSiBy/arE1eILYlT4wRe1EkCtw6e0jShgM+9jjRt4GpxXXNDHn0kQ3X4U1mOUnF9aYjW/i+TlaKq1/cuM8osu/djvd1zS3FxOvG3T9md/KclpSqisV1zJDan3gkT2S6+CR5JJ//Rfftn/mKlcDfJ0YDTQQIcYJTtHCGNs7RwQUuEeEKXfTQN2eAawwxAmod4YEj0LGnT9s4GsaBKoZVjn19d8c+b+lvoGNHT4v03KbOoy0=)
+  last-modified (1569018755847)
 }
 train (t-xrfg62n50mbiwjkoa4v1zm1jp) {
   utterance ("[g:CommitOrder] Order an {[g:Item] (XL)[v:Size:ExtraLarge] (hooded sweatshirt)[v:SearchTerm]}, a {[g:Item2] (polo shirt)[v:SearchTerm]}, and a {[g:Item3] (small)[v:Size:Small] (v-neck)[v:SearchTerm]}")
-  plan (zZBNbsIwEIVfoQFS/kkpJHAANrBoj1AJiVWlpheIYCRGwhA5XiAWPXuHmI0NbFFtZey8N9/MyJhiSMdM5TtaFFvWZvFNa+LcIHblz4NSbL70hjQi17Kin68pM2StxLVWezac7VaGVHEbs9bAw0TE+F46ZvecX5Ywz/UhJ22YCn/8c877I5t9PKpZeo4YueKS9xtreB1TyvR6+0Na/bs63nulfKKb2hRPqKCKZwSooY4GQrygiRba6KCLHvoYIMIrhnjDCGPESGRPAI8MLmRwIZslWS/Jbkk2pGpPKDgfpIJ7Xke7QvmryRSJ3CLpEssUVVFCtP8A)
-  last-modified (1562624879860)
+  plan (zZDLbsIwEEVvSwOklPIIrwT23bGgn4CExArU9AciGImRMESOF1UXfHuHmI1d2CJsZezcO2dmZEzQp59M5XuaFjvWZvpFG+LcIHbl+VEpNiu9JY3Itazo52vKDFkrca3lgQ1n+6UhVVzHrNX1MBExupWOj1vOiSWs9TEnbZgKf/pzyuyOvT7v1Cs9RwxdccGHrTW8hillerP7Jq0ero73XCn/0lVtgic8o4IXBKiihjpCvKKBNzTxjhba6KCLCD30McAQI8RIZI8BjwwuZHAhGyVZK8lWSdalalsoOB+kgnv+j3aF8leVKRK5RdIllikqooRo/gE=)
+  last-modified (1569018755905)
 }
 train (t-xrtdo2ugi26griyeo7q04g9gv) {
   utterance ("[g:CancelConfirmation:prompt] (Yes)[v:CancelConfirmation:true] please")

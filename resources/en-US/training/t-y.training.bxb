@@ -5,16 +5,16 @@ train (t-yfbhwhwfyejqaj4mox7cniqf8) {
 }
 train (t-yst9jrc012ozcxprbshrf0ecr) {
   utterance ("[g:CommitOrder] Buy {[g:Item] (3)[v:Quantity] (Large)[v:Size:Large] (Polo Shirts)[v:SearchTerm]}")
-  plan (dY/LCsIwEEWvr/p2ofj8Ajf2JwShK9H6A0EHHDBtSUdQF367sd2YqItMwjl3hgkGGNNN6exCYX5mI+GejsSZYO7idao1y9acyGDkqhL6eUNKqFQLV0UJC6tLJKTz322lGnptFmL2L47lP/NkW1aZSTMywpRj4iZ3V5UIy93/VvyumLpww8mpFN4mMSlzPB/IaH/vmB+EPiqoooY6GgjQRAttdNBFzxp8uWbhWpbDOfi4G/YV2Cm9YnbwAg==)
-  last-modified (1562621710419)
+  plan (dY9JDsIwDEU/U5lZgBgvwI5LICF1xVAuEFFLtURKlRoJWHB2QrshARZxove+LQcDjOmmdHamVZ6wkdWBTsSZYO7i9UVrlq2JyWDkqhL6eUNKqFQLV4UpC6tzKKTz322lGnptFmL2L47lP/NkW3bmkpERphwTN7i/qlRY7v6vonfF1IUbTuNSeItEpMwpOZLR/toRPwh9VFBFDXU0EKCJFtrooIueNfhyzcK1LIdz8HE37CuwU3rF7OAF)
+  last-modified (1569018756083)
 }
 train (t-yuhz7gffsryirb5cry9an2ron) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (Henley shirts)[v:SearchTerm]} and {[g:AddedItem2] (Polo shirt)[v:SearchTerm]}")
-  plan (tZHPSgMxEMa/uuu21tZq/+16UOitF3voGxRB8CTY+gBLM9BAY0M2gqc+e8cslCY0npSFmTDf/L6ZZFFgRN+l0luaVRtp7Oyd1iS1xb1fft4pJe2bEWQw8KW6GPR/aFFaqqVJVNp/uXOFwm9ZCEHi1ZKq8BjsYYiBEz2PkFHLeRx5+HUW+r58bkqNOGUaU/aSw5M2O03GSr78f/me/U9BcfkTwxd5kZ+iFoI1llSa9WZFRv2ZT4EGLpAgxSUyNNHCFdq4Rgdd3KCHW9zx18cAQ4wwRg54ROaIpiPajkg4dxzRc0TDETjGlHPqVRB0ZJwT9hyyd86zeKsD)
-  last-modified (1560813076402)
+  plan (tZHPagIxEMY/3XVt1ar1T3c9WPDUmwffoBQKnlpq+wCLGTDQ6JJNwZPP3mkWxATTk7IwE+ab3zeTLDKMaZ+r4pvm5UZqM/+gNcnCYOKWX3ZKSfOmBWkMXakqev1fhcgNVdIsKB1+7LlE5rY8C0FiaUiVePT20MTAiZ4GyKDlIoxM/52FgSufm1IhVnkKKQfJ4V3vCtJG8t2vZHv2L3nF1V/03+NVbkUleFusKNfrzSdpdTGfDDXUESFGAwmauMEtWmijgzt00UMf9/wNMMQIYzwgBRwisUTTEi1LRJw7luhZomYJHGPMOXYq8DoSzhF7jtg75Vm81S8=)
+  last-modified (1569018756117)
 }
 train (t-yyod5anwhb5pykxw15fqhlnj9) {
   utterance ("[g:CommitOrder] Buy a {[g:Item] (Men's)[v:Gender:Male] (Ralph Lauren)[v:SearchTerm]} Shirt")
-  plan (dY/LDoIwEEUvPkBBNz7i4wvcyE+YaFiZiD/QwCQ0odCULlz57RYaF2100bs4504zgyW29GJC1pR2FVc6fVBBXGocXHxpheD6rkpSWLvKQr+viGmy6uiqrOGaszrTJLrfY1atvDEDsf9Xx+mfeXMTZ6laSUpz6vz18z6xc+GVN6UVG1fcqOlP8vbIiamiepISWCDACGNMMEWICDPMESMxHJ6JBhMbCud9E6YZmGYy/Bl+AA==)
-  last-modified (1562621721966)
+  plan (dY/LDoIwEEUvPkBBNz7i4wfc8RMmGlYa8QcamIQmFMjQhSu/3QJx0UYXvYtz7jQzWGJLL6GakuK2kKzjB2UkG42Djc+1UlLfOCfG2lYDdPtMQtOgjrZKKqmlKBNNqv09NqiVM2Yg9v/qOP0zb2niznVDrCW17vZpl9jZ8CKrfBAbW1yp6i5y1khJcFY8iRUW8DDCGBNM4SPADHOEiAyHY4LehIbCet+EaXqmGfV/+h8=)
+  last-modified (1569018756156)
 }

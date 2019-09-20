@@ -1,15 +1,15 @@
 train (t-w2uucv3b390heo3e1w48ji04u) {
   utterance ("[g:CommitOrder] Order a {[g:Item] (logo tee)[v:SearchTerm]}, a {[g:Item2] (plaid shirt)[v:SearchTerm]}, and a {[g:Item3] (pullover sweatshirt)[v:SearchTerm]}")
-  plan (zY5NTgJBEIU/xGEccURB5OcEbmShRzAxYWUiXmACldAJDZOeXrjy7BYzJKZb2RIXXZV+r756xZShfBa23MisWhvnZ++yFFN6JqH8srPW+De3EscgtBoxnndSeGmsaWjNt8abYjP3Yqu/scbqR5iKjI+N83DM+TJaHku3K8V5I1V8/n7m6ZRhz6cKW+wro1B8NdtVY0SJCynccv0hzv67PRNanNHmnIQOKRdkXNLlipxretxwS58Bdwy5Z8RYCSImOTDJgenVTFoz3Zpp1czPQ9mw/66p9o5mZpqY6wVt/WXk3w==)
-  last-modified (1562624706211)
+  plan (zY5NTgJBEIU/xGEccURB5OcC7ljoEUxMWGnEC0ygEjqhYdLTC1ee3WKGxHQrW+Kiq9Lv1VevmDKUz8KWG5lVa+P87F2WYkrPJJSfd9Ya/+pW4hiEViPG804KL401Da351nhTbOZebPU31lj9CFOR8bFxHo45X0bLm9uV4ryRKr5+P/J4wqynE2Ut9pVRKL6Y7aoxosCFFG65/hBn/92eCS3OaHNOQoeUCzIu6XJFzjU9brilz4A7htwzYqwEEZMcmOTA9GomrZluzbRq5uehbNh/11R7RzMzTcz1grb+MvJv)
+  last-modified (1569018755550)
 }
 train (t-wob48d5x7x7vpbu85hzh6lazg) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (large)[v:Size:Large] (v-neck)[v:SearchTerm]} and the {[g:RemovedItem2] (small)[v:Size:Small] (v-neck)[v:SearchTerm]}")
-  plan (7VDLTsMwEJyS0oZXSVtKk/JoAj1woQd+AQmpJyQCHxAlK9VS0kSOQYhDvx03RiBbCXDgiC2tdnd2xuPFJUb0GmVFSvNyybiYP1BMrBDw9PZtnmVM3POEOIY6pJrG/FORRIIUFDRC6+cqLzExTWT5CyULQVkJ33DCSVK0Ca+RjekP5F99RrEUZDhdrJhgUVrrQ9EUNDBom6fdpnFcNSFrJsN1wfOCuGDfLu7mfy2fkyGlFIv6r4WbiLHevGOrRAGuqRTxePlI/O90jB2E7I1qezO0sAULbWyjgy5s7Mi7iz3s4wA9HMJBHwMMcYQRjjGGCw8TeU9wijOcYwofAS4AQ8mqtL6UOjVKtqzdSqlXKXnyvValhI+oZ6pqa7XqQZtVx5a5JZ340p0jvQbSXxfOOw==)
-  last-modified (1562628349293)
+  plan (7VDLTsMwEJyS0oZXSVtKk/JoApW49cAvICH1BCLwAVGyUi0lTeQYhDj023FjELKVAAeO2NJqd2dnPF5cYkSvUVakNC+XjIv5A8XECgFPb9/kWcbEHU+IY6hDqmnMPxVJJEhBQSO0fq7yEhPTRJa/ULIQlJXwDSecJEWb8BrZmP5A/tVnFEtBhtPFigkWpbU+FE1BA4O2edptGsdVE7JmMtzzvCAu2Ld7u/7fyudgSCnFov5n4SZirDdv2SpRgGsqRTxePhL/Ox1jBSF7o9reDC1swUIb2+igCxs78u5iD/s4QA+HcNDHAEMcYYRjjOHCw0TeE5ziDOeYwkeAC8BQsiqtL6VOjZIta7dS6lVKnnyvVSnhI+qZqtparXrQZtWxZW5JJ75050ivgfTXhfMO)
+  last-modified (1569018755614)
 }
 train (t-wvjz0p49sqgobffu84t93wlgc) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity:3] (collar dress shirts)[v:SearchTerm]}, {[g:AddedItem2] (2)[v:Quantity:2] (t-shirts)[v:SearchTerm]}, and a {[g:AddedItem3] (long sleeve jersey)[v:SearchTerm]} to my cart")
-  plan (1ZJfT8IwFMXP3IQxRXATGMof0Zj4Ig/6CYyJiU9G0Q+wsCY0cbB0JdEXPrt3XULopBrfdM1uu3N6fz3ZhnO02HuUpG9snM24kONnNmU8lejq8t0iSbh8FDETCHSrEEv7X9M4kqywRkZrtVTrDKG+5TaOWfwgWZJhUMohGDVs+B1DpxF5/fuWG3NL/9t4P9m+bm8LUbQo59LkrDiVq1QsUiYkp9f537hb/6i2Lj4to7nk8sOolyCTvJY/3D2fx4VRij1hkZjOXphI/hznAhZ2YMPBLiqowkUNHvawjzoO0EATh/AR4AgttNFRI6TRxTFO0EMfAwxxihHOAI1VIVaFWDVFy1lVxaorlq1OCIjZpKec1VAsX7EsxcK6Ouq21rqjuZuX9aV6NNt0dkgJXco9JKWnFBfeJw==)
-  last-modified (1562626917148)
+  plan (1ZJfT8IwFMXP3IQxRXATGCogGOMbD/oJjImJT/5BP8DCmtDEwdKVRF/47N51xtBJNb7pmt115/T+erIOp2ix1yhJX9g4m3Ehx49syngq0dXl60WScHknYiYQ6FYhltY/p3EkWWENjdZqqeYZQn3JVRyz+FayJEO/lEMwaljzO4ZOI/Li9y2X5pbet/F+sn3d3hSiaFHOuclZcSr3YpEyITl9zf+F3fg7tXXxYRnNJZdvRr0EmeS1fGo3fB4XRin1hEViOntiIvlznDNY2IINB9uooAoXNXjYwS7q2EMDTezDR4ADtNBGR42QRheHOMIxeuhjgBMMMQI0VoVYFWLVFC1n1RWrqli22iEgZpPeclZDsXzFshQLn9VRt1XSnY/5+mV9qR49bdo1pLQu5R6QMlKKC+8d)
+  last-modified (1569018755677)
 }

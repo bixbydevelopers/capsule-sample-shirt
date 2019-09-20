@@ -1,25 +1,25 @@
 train (t-f9rru46q0hqzv3wu6qxd8xajg) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (henley)[v:SearchTerm] to a (large)[v:Size:Large]}")
-  plan (hZBNCsIwEIVfrVr/FUWwbtQD2K0HcOVK8OcApR1soLEhjSAuPLuxFaRpxQwJM/O9NwnBEFO6+1zE5KURk8o7UEBMKLjF9jbhnKm9DEliUkR509CfRegrytHqJ3resjzF3Lgt8q8XCneKeIqlwSRpS0Hh/nRj8ceMzR/BM8jzNdPFWshEkFSs/OQjxRSoz9BZFctI5d+V5L4MohNJjrFB2IMwgoUabNTRQBMOWmijgy56WfQxAEqKllbY+uzqaGuKbMPIvquha1s739MsOC8=)
-  last-modified (1561058165494)
+  plan (hZBNDoIwEIUfIiriXzQm4ka9gDtP4MqVxp8DEJhIEyqk1MS48OxWNCEUDJ10Mp3vvWlTDDGlh8eTiNZpyIRcH8knlki4xfY25pzJvQhIYFJE36amvySBJ+mLVn/R657VKebabaF3u1Kwk8RTLDUmSFkKCvevG4saMzY1gpef1wcRJyQkKz/4RBH58jdyVsUyUvlzJbkn/PBMgmOsEfYkjGCgARNNWGihjQ5sdOGgl0UfA6Ck6CiFqbKjwlYU2YZW5ctSZ1M5P9MMtN8=)
+  last-modified (1569018749783)
 }
 train (t-fb1bwa7ouzv4nggjulhghrg0d) {
   utterance ("[g:CommitOrder] Buy a (men's)[v:Gender:Male] shirt")
-  plan (dY/LCsIwEEVv66O+Vj7w8QVu7E8ISleCfkGxAw40bUhn4cpvN20QSdDF3IFz5kKCGVb0zJUuKW0ebCS90p1YC7Y+PtZKsVxMQQYLXzkY3hvKhZza+SqrWDgvMyHV/K45NQ9qFmLz7xz7f+bFNg7a1JqMMDXh829tYu3DE1eFE0tfnKlqvzRFhBg99DHAEAlGGGNiKQKedDzq+Hc+GdttO28=)
-  last-modified (1561585116557)
+  plan (dY9JCsJAEEV/4hCnlQMOF3CXSwhKVoqeICQFFqST0KmFK89uJ41IN2ZRv+C9+tCNBTb0SlVdUNw8WUt8p4y4FuxdfKqUYrnqnDRWrrLQv9eUCll1cFVSsnBaJEKq+V+zaunVDMSu7xzHPvNmEzdd1aSFqfFf/2gTWxeeucytWLviQmX7ozkChBhgiBHGiDDBFDND4fGo40HHf/PN0GzT+QA=)
+  last-modified (1569018749837)
 }
 train (t-fircvzgetu1zb1rt1c7n9t3yy) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change that to {[g:ChangedItem] (3)[v:Quantity] (Polo Shirts)[v:SearchTerm]}")
-  plan (hVDLbsIwEJw0TaEUChICQS8tH5Bc+wGcekK8PsBKVsQSBstZJHrJt3ebIKGEILzSenZnxmsbfYzorIzdU5Sl2nG0opi0ZUyr7fnRGM0Ll5DDsEqVzZp+axPFVFKzu1R+KnCGj9q0VB12lPwwmQxfNc6RWCqK6V03Ph+Y8f1AkMclDrUUoXVHS461XHlcNS5P6sCaf+tPWdOeYr4MmzRxBdP4pzdy5eJ0Q85gAA9P8PGMAC9ooY1XdPCGLnpFvAMNirYofMldCa9Q4JJLdN3/VyCVL86OnOah9Qc=)
-  last-modified (1561058166203)
+  plan (hZDLCsIwEEVvrVrfCqJYN+oPuPMLXLny/QGhHWzA1JKOoBu/3dgK0loxA5PJ3HPzQhcDugkVnWkeB1LzfEceyYjhZtvLi1KS19onjX5WSps5/hj5gimVZj+lxzWpY4xzpwUiPJG/YlIxpjlNk7FkCPenG5M/Ziz+AA/vU2/0JSLN0lx4mLVtryJkyff8Q/Z0Jo/fR42KtEQp/NEvXGgvOJBW6MFCCTbKqKAKBzXU0UATLbST6AAFRM0QtsktE1ZC4J3T6jO/RsWsbONsmN0sOE8=)
+  last-modified (1569018749895)
 }
 train (t-fmcxejyhuk8xunp5onvmerstq) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (polo shirt)[v:SearchTerm]} and remove the large {[g:RemovedItem] (logo tee)[v:SearchTerm]} and large {[g:RemovedItem2] (oxford dress shirt)[v:SearchTerm]}")
-  plan (rZLbSsNAEIb/mqit9mDPSStW77yxF76BCIJXgtUHCNmBLjQmbFbxqs/uuok2WXYVxCzMzsw3/8wQFqcY03uUZBta5msu5PKRYuKZRFhP36ZJwuWDYCQwrKMiadQ/ZyySVKALJ9q+aj9HUC+5YYzYvaQkx5mxhyAlqPCpQ4lBHehcYGumyaWLbLkyV5lIMxKSq1Vn5v9K0revZc5tXWoVoVONxS/iHyZf/2ffFW0oliULbMxOIhGvn0j8tZ/1VbmHGOWrT2s+hjv+wgrg7rNAA3vw4GMfBzhEEy0c4RhtdNBFDyfoY4AhRhhjgun3CRBihjlg0fulvl3Rd5XeU7av/Ik6La1vaD1K61f8XbzLVb8ibqrbU1Pnalqgpo101EHvAw==)
-  last-modified (1561058474513)
+  plan (rZLbSsNAEIb/mqit9mDPSStWr7zrhW8gguCVYvUBQnagC40Jm1W86rO7bqJNll0FMQuzM/PNPzOExSnG9B4l2YaW+ZoLuXykmHgmEdbTN2mScHkvGAkM66hIGvXPGYskFejCibav2s8R1EuuGSN2JynJcWbsIUgJKnzqUGJQBzoX2JppcukiW67Mg0gzEpKrTWfm70rSt69dzm1NahWhU43FL+IfJl/9Z98VbSiWJQtszE4iEa+fSPy1n/VRuYcY5atPa76FW/7CCuDus0ADe/DgYx8HOEQTLRzhGG100EUPJ+hjgCFGGGOC6fcJEGKGOWDR+6W+XdF3ld5Ttq/8iTotrW9oPUrrV/xdvMtVvyJuqttTU+dqWqCmjXTUQe8D)
+  last-modified (1569018749954)
 }
 train (t-fnxhsuylw61f1emqb883rcbx8) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (v-neck)[v:SearchTerm] to a (small)[v:Size:Small]} and the {[g:ChangedItem2] (pullover sweatshirt)[v:SearchTerm] to an (extra small)[v:Size:ExtraSmall]}")
-  plan (nZLNTsJAFIUPFKGCAhZRYKM+AF2w8QFcuTLx5wGa9sZOwsBkOibGBc/uZUpIZtLShDZp75xzv3umzeAeU/pNpFpTXORCm/idUhLKYO7KL1sphXnTGWlMXKsUvf4vlSWGSuup1tr92LrAwkvLk803Za+GZIFHz9PEiNMxr6VPDF6dwh4aMpsbnhsadmlZLwUvlkpvFWkj+FecDXqf+kFrSs1hN7Mqr9pJdJp/kpZnzqs8HPUhkeeIP6rUFmihjQAdXKCLHkJcoo8BrnCNIUYY4wYRJsf7FlPcAQ7VtVTPcgNL9ZkK7HrEdGSntSyF47PD77JydfcKWQ149phTQ5ve3u/yHw==)
-  last-modified (1561058167119)
+  plan (nZLNboJAFIWP4g/1D4v1d1P7Ai6a9AlcudJU+wAEbsokjpJhmjRd8Owdh8ZmJiCJTAJ3zrnfPQMBU4zpO+DJkVZpzIRcvVNILJGYm/L6zDmTWxGRwMi0ctHq/0iiQFJuvZRa2ZeuUyystDg4fVK0kcRTLC1PkEKMjnkpfWPw6y3suSKzuuGtoiEL/+udOCckJFMf4k7Mes09HSmUfyeZFXnFTiDC+ECC3zmv8McoD/Eth/1QobZADXU4aKCJFtpw8YAOuuihjwE8DPEIH6PresIYE8CgWppqa66rqY6iHL33FO3raTVN4XpvqGdembp5uUp11OyhSnV1ev1yyl8=)
+  last-modified (1569018750091)
 }
