@@ -8,7 +8,7 @@ action (CommitOrder) {
   }
 
   confirm {
-    by (CommitConfirmation)
+    by (core.Confirmation)
   }
 
   output (Receipt)

@@ -34,7 +34,7 @@ train (t-7vt2pu4so0p7xybeyspqig8wp) {
   last-modified (1561585115084)
 }
 train (t-7x6uow4j9fq4xjrc76k3qdscd) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (turtleneck)[v:SearchTerm]} to my cart")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (polo)[v:SearchTerm]} to my cart")
   plan (fY/LCsIwEEWv1kd9gyLWjeDKXf9BBMGVYvUDSjPQgNGSRnDVbzdNXZhgzWIyM+fO5AYTzOkVi+xGYZ5yqcIzJcQzhaXd3j2E4OooGUnMbFQ1Hf01Y7GiP/p1rb54mjxHYEu2jBE7KBI5Vo45SXrgiy9qJjG1gekFv5YZsqkjBdfhJB8ZScW1U+eHURldE3t+ZxVwHowolkl6ISkwRgNNeGihjQ668NFDHwMMMdIMH+pZtG9ow9DqlHfrU1WxrDytL/f7bw==)
-  last-modified (1569018747722)
+  last-modified (1569867093150)
 }

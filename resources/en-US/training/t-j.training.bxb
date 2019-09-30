@@ -9,9 +9,9 @@ train (t-jqanpqgg1lt28j4c8zc0e0xsq) {
   last-modified (1569018751066)
 }
 train (t-jtc68yyhmw8bkjmf3248co919) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make the {[g:ChangedItem] (turtleneck)[v:SearchTerm] an (extra-small)[v:Size:ExtraSmall]} and get rid of the {[g:RemovedItem] (extra small)[v:Size:ExtraSmall] (henley tank)[v:SearchTerm]} ")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Make the {[g:ChangedItem] (pullover)[v:SearchTerm] an (extra-small)[v:Size:ExtraSmall]} and get rid of the {[g:RemovedItem] (extra small)[v:Size:ExtraSmall] (henley tank)[v:SearchTerm]} ")
   plan (jVFdT8IwFD0IylB0CiIMMeKTb7z5C0xMeNKA/oBlu5EmjC1dNYYHfrulXQLtOnHNurt7Pu5Zhzv06CdMsiVN8gXjYjKjiFgmEJjt5zRJmHjlMXF0TUg3Lf5HFoeCNPRQCW2+VJ1jaE1bhKtPiqeCkhxjC+MkJQYjqFTj/oAYTwcIm2hXv/E0Iy5YOfCMkvT7z8AGI6hUuwPvE6zJc1pSJAps4MIU8p9/pmdpyJoyXTHBwqX7uJVMQx1L5gi1o+OxCtkw87RL3xXyaPFOvPRd8+2Ovtl8YatYA9U+VvA5W5OzN0YNR6ijgWOcoAkPLZziDG2c40IuH5fFukIHXVyjhxv0MUCAIW4xAkoOjcLBUx519fQNB1/eW4eW9KopBxS7q4LRq+2968uTdV1O7ss8bZlqJPM00f4F)
-  last-modified (1569018751126)
+  last-modified (1569867191954)
 }
 train (t-jucbdo6f6g4lqt5wq2c53aka3) {
   utterance ("[g:CommitOrder] Buy a {[g:Item] (T-Shirt)[v:SearchTerm]} for me")

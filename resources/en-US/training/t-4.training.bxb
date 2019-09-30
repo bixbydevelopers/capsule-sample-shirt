@@ -1,7 +1,7 @@
 train (t-46h7vxhcfu04mc91fotadwmad) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (hawaiian shirt)[v:SearchTerm] to (large)[v:Size:Large]} and remove the {[g:RemovedItem] (v-neck)[v:SearchTerm]} and the {[g:RemovedItem2] (collar dress shirt)[v:SearchTerm]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (polo shirt)[v:SearchTerm] to (large)[v:Size:Large]} and remove the {[g:RemovedItem] (v-neck)[v:SearchTerm]} and the {[g:RemovedItem2] (collar dress shirt)[v:SearchTerm]}")
   plan (zVJLTsMwEH2QAC1NQkkpJAUJeoEukHoCVqxABQ4QJSMSqSaRYxBi0bPXSYuoXZtuWGDL1njeZ97CuMKQPhNWzWlS5wUXkxmlVFQCsdq+KxkrxAPPiGOgQqumxn+pskTQChpbocV7W9cYadPy5O2VsntBrMaNhnGSEoURW9W43iHGdAdhkf7Uj7ysiItiO/CMWPnxa2CFEVvV5sCbBPvk27/0faI5pWKNRSbMjCQ8zZ+J/xc/41+1Dwk1pPgijLGHfThwcYBDHKGDLo7RgwcfAU7QxylCDHCGIc5xgQixske4BLY83LVHb8PDbz060sORty+7oXxHcnelHu2BoXK13vetr8bFkdObRJ7MGsjUzdtDsAQ=)
-  last-modified (1569018746464)
+  last-modified (1569866803918)
 }
 train (t-487yb5rc7x7wwqnylbs3rz156) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (oxford dress shirt)[v:SearchTerm]} and the {[g:RemovedItem2] (v-neck)[v:SearchTerm]}")

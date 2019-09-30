@@ -3,7 +3,7 @@ action (CancelCommittedOrder) {
   type (CancelActivity)
 
   confirm {
-    by (CancelConfirmation)
+    by (core.Confirmation)
   }
 
   collect {

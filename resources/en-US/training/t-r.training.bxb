@@ -24,17 +24,12 @@ train (t-rgdjbupzhn46ql5igoi2a3n8b) {
   last-modified (1569018753098)
 }
 train (t-rn8k9vkhst0p5emnc4uuh7yqm) {
-  utterance ("[g:CommitOrder] Order a {[g:Item] (hawaiian shirt)[v:SearchTerm]}, a {[g:Item2] (polo shirt)[v:SearchTerm]}, and a {[g:Item3] (V-neck)[v:SearchTerm]} ")
+  utterance ("[g:CommitOrder] Order a {[g:Item] (pullover)[v:SearchTerm]}, a {[g:Item2] (polo shirt)[v:SearchTerm]}, and a {[g:Item3] (V-neck)[v:SearchTerm]} ")
   plan (zY5NTgJBEIU/xGEccURB5OcC7ljoEUxMWGnEC0ygEjqhYdLTC1ee3WKGxHQrW+Kiq9Lv1VevmDKUz8KWG5lVa+P87F2WYkrPJJSfd9Ya/+pW4hiEViPG804KL401Da351nhTbOZebPU31lj9CFOR8bFxHo45X0bLm9uV4ryRKr5+P/J4wqynE2Ut9pVRKL6Y7aoxosCFFG65/hBn/92eCS3OaHNOQoeUCzIu6XJFzjU9brilz4A7htwzYqwEEZMcmOTA9GomrZluzbRq5uehbNh/11R7RzMzTcz1grb+MvJv)
-  last-modified (1569018753155)
+  last-modified (1569866909404)
 }
 train (t-rnicdqtu93lxxilsvk312d79y) {
   utterance ("[g:Order#totalPrice:continue] What's the total")
   plan (Y2BiEE6tSMwtyEnVK87ILCrRCyjKTE5FF/QvSkktYmAEQgYGJiAGswA=)
   last-modified (1559953726129)
-}
-train (t-rqzf61il1rebtmz9bggru7x02) {
-  utterance ("[g:CancelConfirmation:prompt] (no)[v:CancelConfirmation:false]")
-  plan (Y2BiUEitSMwtyEnVK87ILCrRc07MS07Ncc7PS8ssyk0syczPI0IFIxAyMPAAMRMQA9kA)
-  last-modified (1564003599983)
 }

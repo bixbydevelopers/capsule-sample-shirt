@@ -1,0 +1,29 @@
+confirmation-view {
+  match {
+    core.Confirmation {
+      confirming {
+        CommitOrder (action) {
+          from-input {
+            Order {
+              from-output {
+                UpdateOrder (update)
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  message ("[#{title(joinAs('input', update.changedItems.items, update.addedItems.items, update.removedItems.items))}. ]Are you sure you want to buy this?")
+
+  mode (Transactional)
+
+  render {
+    layout-macro (CommitOrder_Section) {
+      param (commitOrder) {
+        expression (action)
+      }
+    }
+  }
+}

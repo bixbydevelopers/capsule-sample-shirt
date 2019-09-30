@@ -9,9 +9,9 @@ train (t-8463bpttmfzrjhbyqe42hhvqw) {
   last-modified (1569018747838)
 }
 train (t-85sguyo0zyzfyxfe6qco7nhwn) {
-  utterance ("[g:CommitOrder] Buy {[g:Item] (7)[v:Quantity:7] (XL)[v:Size:ExtraLarge] (hoodies)[v:SearchTerm]}, {[g:Item2] (6)[v:Quantity:6] (XS)[v:Size:ExtraSmall] (t-shirts)[v:SearchTerm]}, and {[g:Item3] (5)[v:Quantity:5] (XS)[v:Size:ExtraSmall] (pullover sweatshirts)[v:SearchTerm]}")
+  utterance ("[g:CommitOrder] Buy {[g:Item] (7)[v:Quantity:7] (XL)[v:Size:ExtraLarge] (henley tops)[v:SearchTerm]}, {[g:Item2] (6)[v:Quantity:6] (XS)[v:Size:ExtraSmall] (t-shirts)[v:SearchTerm]}, and {[g:Item3] (5)[v:Quantity:5] (XS)[v:Size:ExtraSmall] (pullover sweatshirts)[v:SearchTerm]}")
   plan (zZBLTwIxFIUP4sCMzPgAGRjEx84dC/0JJiasfIx/oIGb0IQOk05N1IW/3TuUTaskutDYpLfpOfe7PSku0KcXocolTaqF1GbySDOSpUHmyjcrpaS503PS6LmWFf1+TcKQtUauNS2kkWI5NaSqrzFrdT2MRQy3teNym/MuudzrVUnaSKr89HXL1R++df1bb6Vu48OzKIw0rz/Wvcx5XTFwxVtZzK3hBc9J6NniibT6d3O8b8/lG31bO0cDO2hiFwFaaCNEhD10ECPBPg5wiCN00cMx+kgxwBAZRjjBGKc4YxoeH2z4YMOHPCHms+Y7a7695mPWQ2bhbPAc97Sr8analfCtxQnHnCTilBmnSjhvytma7ERIPgA=)
-  last-modified (1569018747896)
+  last-modified (1569882167976)
 }
 train (t-85ttbk8pmov0804binicyzjtq) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the {[g:ChangedItem] (henley)[v:SearchTerm] to a (large)[v:Size:Large]} and add a {[g:AddedItem] (pullover sweatshirt)[v:SearchTerm]}")
@@ -29,9 +29,9 @@ train (t-88czvbpceamwqhin4n80c9cq3) {
   last-modified (1569018748071)
 }
 train (t-8bo4bpnqg9uoa924ai2upna7v) {
-  utterance ("[g:CommitOrder] Order a {[g:Item] (polo shirt)[v:SearchTerm]}, a {[g:Item2] (hawaiian shirt)[v:SearchTerm]}, and a {[g:Item3] (V-neck)[v:SearchTerm]} ")
-  plan (zY5NTgJBEIU/xGEccURB5OcC7ljoEUxMWGnEC0ygEjqhYdLTC1ee3WKGxHQrW+Kiq9Lv1VevmDKUz8KWG5lVa+P87F2WYkrPJJSfd9Ya/+pW4hiEViPG804KL401Da351nhTbOZebPU31lj9CFOR8bFxHo45X0bLm9uV4ryRKr5+P/J4wqynE2Ut9pVRKL6Y7aoxosCFFG65/hBn/92eCS3OaHNOQoeUCzIu6XJFzjU9brilz4A7htwzYqwEEZMcmOTA9GomrZluzbRq5uehbNh/11R7RzMzTcz1grb+MvJv)
-  last-modified (1569018748128)
+  utterance ("[g:CommitOrder] Order a {[g:Item] (polo shirt)[v:SearchTerm]}, a {[g:Item2] (collar shirt)[v:SearchTerm]}, and a {[g:Item3] (V-neck)[v:SearchTerm]} ")
+  plan (zY7NTgIxFIU/xGEccURB5OcF3LHQRzAxYaURX2ACN6EJhUmnC1c+u5cZEtMqW+Ki56bn3K+nTBnKZ2HLjcyqtXF+9i5LMaVnEtrPO2uNf3UrcQzCqDHjfSeFlyaahtF8a7wpNnMvtvoba6J+hKnJ+Ng6D8eSL6Py5nalOG+kin+/X3k8YdfTiboWe2UUmi9mu2qCqHAhhVuuP8TZf/fOhBZntDknoUPKBRmXdLki55oeN9zSZ8AdQ+4ZMVaCiEkOTHJg0prp1kyvZlo183NQNpy/NdXZ0eZMe3NtbestI/8G)
+  last-modified (1569866759005)
 }
 train (t-8etf5aq9gdek6gn3v33gz7hoc) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (2)[v:Quantity] (collar dress shirts)[v:SearchTerm]} and a {[g:AddedItem2] (extra small)[v:Size:ExtraSmall] (logo tee)[v:SearchTerm]}")

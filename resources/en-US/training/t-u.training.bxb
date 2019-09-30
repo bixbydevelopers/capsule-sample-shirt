@@ -1,22 +1,12 @@
 train (t-ukulv7v7zqt4vadgnvbq29ksj) {
-  utterance ("[g:CommitOrder] Order {[g:Item] (3)[v:Quantity:3] (hawaiian shirts)[v:SearchTerm]} and {[g:Item2] (4)[v:Quantity:4] (v-necks)[v:SearchTerm]}")
+  utterance ("[g:CommitOrder] Order {[g:Item] (3)[v:Quantity:3] (polo shirts)[v:SearchTerm]} and {[g:Item2] (4)[v:Quantity:4] (v-necks)[v:SearchTerm]}")
   plan (tY5NTgJBEIUfCAyIojIg4AXcseAKJiSs/MELdIZKqIQeJj1lghvPbjFtJN1xdrjoqvR736sqjDGmg7HFjubllp3M3ygjLgSzUH7aW8vy7DbkkIaWF2PekRHy1kNorXIWNruVkC3/jnlrGMVUxLQOx2Od88VaXty+ICdMZXz9EVn81677EHz9MLmwfNbq0W3rY8UkFJecb7wRHbgm47LtOzl7tjkjNNDEBVpoo4MEXfRwiT6ucI0BbnCLOwyRKoeIbP+QXWX7FZlUZKMiTw+a8B2/iq+J9o7uGemkge5p6q/3DQ==)
-  last-modified (1569018754541)
-}
-train (t-us7db80lv81kfys7ai5aoudl6) {
-  utterance ("[g:CancelConfirmation:prompt] (yes)[v:CancelConfirmation:true]")
-  plan (Y2BiUEitSMwtyEnVK87ILCrRc07MS07Ncc7PS8ssyk0syczPI0IFIxAyMPAAMRMQA9kA)
-  last-modified (1564003446907)
+  last-modified (1569866927157)
 }
 train (t-uvtmp8d9m97f7xha24fivx2yj) {
   utterance ("[g:CommitOrder] Buy a {[g:Item] (polo)[v:SearchTerm]}, a {[g:Item2] (jersey)[v:SearchTerm]}, and a {[g:Item3] (collar dress shirt)[v:SearchTerm]}")
   plan (zY5NTgJBEIU/xGEccURB5OcC7ljoEUxMWGnEC0ygEjqhYdLTC1ee3WKGxHQrW+Kiq9Lv1VevmDKUz8KWG5lVa+P87F2WYkrPJJSfd9Ya/+pW4hiEViPG804KL401Da351nhTbOZebPU31lj9CFOR8bFxHo45X0bLm9uV4ryRKr5+P/J4wqynE2Ut9pVRKL6Y7aoxosCFFG65/hBn/92eCS3OaHNOQoeUCzIu6XJFzjU9brilz4A7htwzYqwEEZMcmOTA9GomrZluzbRq5uehbNh/11R7RzMzTcz1grb+MvJv)
   last-modified (1569018755001)
-}
-train (t-uwyp13bszaq0i0key8u3r7ogw) {
-  utterance ("[g:CommitConfirmation:prompt] (Yes)[v:CommitConfirmation:true] please")
-  plan (Y2BiUEitSMwtyEnVK87ILCrRc87Pzc0scc7PS8ssyk0syczPI0IFIxAyMPAAMRMQA9kA)
-  last-modified (1563994612537)
 }
 train (t-uyrsdwhgz1r70gbj3yfcvibeu) {
   utterance ("[g:CommitOrder] Buy a {[g:Item] (large)[v:Size:Large] (sweatshirt)[v:SearchTerm]}")

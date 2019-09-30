@@ -1,3 +1,0 @@
-boolean (CommitConfirmation) {
-  extends (core.Confirmation)
-}
