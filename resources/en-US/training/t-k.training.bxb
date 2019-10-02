@@ -4,14 +4,14 @@ train (t-khfl9towp5n2z9sz8blh5krde) {
   last-modified (1569018751471)
 }
 train (t-knzqtyg5t9djc5c798pytsdd4) {
-  utterance ("[g:CommitOrder] Buy {[g:Item] (7)[v:Quantity:7] (polo shirts)[v:SearchTerm]} and {[g:Item2] (10)[v:Quantity:10] (hoodies)[v:SearchTerm]}")
+  utterance ("[g:CommitOrder] Buy {[g:Item] (7)[v:Quantity:7] (polo shirts)[v:SearchTerm]} and {[g:Item2] (10)[v:Quantity:10] (henley tops)[v:SearchTerm]}")
   plan (tY5NTgJBEIUfCAyIojIg4AXcseAKJiSs/MELdIZKqIQeJj1lghvPbjFtJN1xdrjoqvR736sqjDGmg7HFjubllp3M3ygjLgSzUH7aW8vy7DbkkIaWF2PekRHy1kNorXIWNruVkC3/jnlrGMVUxLQOx2Od88VaXty+ICdMZXz9EVn81677EHz9MLmwfNbq0W3rY8UkFJecb7wRHbgm47LtOzl7tjkjNNDEBVpoo4MEXfRwiT6ucI0BbnCLOwyRKoeIbP+QXWX7FZlUZKMiTw+a8B2/iq+J9o7uGemkge5p6q/3DQ==)
-  last-modified (1569018751528)
+  last-modified (1569882180222)
 }
 train (t-kr1cex9izv68o0ygzamd2dz16) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove {[g:RemovedItem] (2)[v:Quantity:2] (t-shirts)[v:SearchTerm]}, {[g:RemovedItem2] (3)[v:Quantity:3] (hawaiian shirts)[v:SearchTerm]}, and {[g:RemovedItem3] (2)[v:Quantity:2] (small)[v:Size:Small] (pullover sweatshirts)[v:SearchTerm]}")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove {[g:RemovedItem] (2)[v:Quantity:2] (t-shirts)[v:SearchTerm]}, {[g:RemovedItem2] (3)[v:Quantity:3] (v-necks)[v:SearchTerm]}, and {[g:RemovedItem3] (2)[v:Quantity:2] (small)[v:Size:Small] (pullover sweatshirts)[v:SearchTerm]}")
   plan (vVLbTgIxED0IIiIiAstNENAHfeJBP8HEhCcv6Ads2ElowsKmFKM+8O3ObkmgdVeNJm6z7XTOzJkzbXEOh15dP5jSYDERUg0eaUwiUGia7pu57wt1Jz2SqJiQdlrxz4HnKtJQPxFaLSN7gZYtwp+/kDdU5C/Qs5RI4hQjopmYje43yaiZAQ9Ld6aEevtC0dU/17v+Uz2Ld0RTGqs11ojD4hFXjidPJH/L95Mno7VryKoynAkl3Gnsbes0DZWttBhRm3BcJCErwdO9nAckleDXmXRnyadk9TsKZ9RN562YeRpI5rEaGol3wiVS2EEaGewiiz3ksI88DlDAIYo4QgnHKKOCKg8Hta1RRwNNtHCCNjo4RRc99HEGfGLMrhmzEWMhYswxc5Wjcrwv8d6xGB2eQ8Y2syH6sWVljFXbmxVGdMrwhF+BrTQr22fVee6zwro6kfbQm0fxAw==)
-  last-modified (1569018751587)
+  last-modified (1569866871913)
 }
 train (t-kyyni8bldfkix46xptkgvc7ls) {
   utterance ("[g:CommitOrder] Buy a {[g:Item] (large)[v:Size:Large] (V-Neck)[v:SearchTerm]} and a {[g:Item2] (small)[v:Size:Small] (polo shirt)[v:SearchTerm]}")

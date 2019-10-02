@@ -4,7 +4,7 @@ train (t-d8v4qgmripgghf6pv7win3102) {
   last-modified (1569018749198)
 }
 train (t-dlsu2m4b0xqytk1if71udyi1n) {
-  utterance ("[g:CommitOrder] Order a {[g:Item] (turtleneck)[v:SearchTerm]}")
+  utterance ("[g:CommitOrder] Order a {[g:Item] (pullover)[v:SearchTerm]}")
   plan (dY7LCsJADEVvrba+Vor4+AF3/QlB6EpRf6C0gQY6bUln4cpvd+wgMoNd5AbOSTKDJTb0zFRbUdKVLDq5UU7cauxdfGqUYn2RggRrV1nozwtlmqw6uCqtWXNWpZpU93/NqpW3ZiB2Q+M4DpkXm7hK05Jops7//f2T2LrwzHVhhffgnTLJyweJwgIBRggxxgQRYkwxw9xQeDzuedDzX30zND3qb0Vv)
-  last-modified (1569018749258)
+  last-modified (1569867173956)
 }

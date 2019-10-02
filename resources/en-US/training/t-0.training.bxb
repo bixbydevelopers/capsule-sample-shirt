@@ -1,17 +1,12 @@
-train (t-0caa3sh6x6mpa3l44td2fwqhn) {
-  utterance ("[g:CommitOrder] Order a {[g:Item] (hawaiian shirt)[v:SearchTerm]}")
-  plan (dY7LCsJADEVvrba+Vor4+AF3/QlB6EpRf6C0gQY6bUln4cpvd+wgMoNd5AbOSTKDJTb0zFRbUdKVLDq5UU7cauxdfGqUYn2RggRrV1nozwtlmqw6uCqtWXNWpZpU93/NqpW3ZiB2Q+M4DpkXm7hK05Jops7//f2T2LrwzHVhhffgnTLJyweJwgIBRggxxgQRYkwxw9xQeDzuedDzX30zND3qb0Vv)
-  last-modified (1569018745367)
-}
 train (t-0dgr5o3iloblf3z9sk8fvxbhs) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity:3] (extra large)[v:Size:ExtraLarge] (hoodies)[v:SearchTerm]} to my shopping list")
+  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add {[g:AddedItem] (3)[v:Quantity:3] (extra large)[v:Size:ExtraLarge] (pullover sweatshirts)[v:SearchTerm]} to my shopping list")
   plan (fY/JCsIwFEVvrUOts+K0EVy58x9EEFw5VD+gmAcGrJY0grrw243RhYnWQKZ3zgs3aKBNlzCKDzRO9lzI8Zp2xGOJvlmenqKIy4VgJNAy0ato+duYhZL++MNU/37W5wQ9U5kwRmwuKUowsMIJUg0fvJvSiaYJdK336zFNRmnkztWyFKeYhOQqaccUV+fwKLm82j8PnqsdbsaP7AWsIAGFYrffkPiKHfAboQ4HGbjIIoc8CvBQhI8SyqigiprieBuuZfjaKCkKPfHes8btOfLq5Kq+sn7PgfcA)
-  last-modified (1569018745453)
+  last-modified (1569882125465)
 }
 train (t-0q1rhv879q8zjflr5d42xqcrm) {
-  utterance ("[g:CommitOrder] Buy {[g:Item] (7)[v:Quantity:7] (XL)[v:Size:ExtraLarge] (t-shirts)[v:SearchTerm]}, {[g:Item2] (6)[v:Quantity:6] (XS)[v:Size:ExtraSmall] (hoodies)[v:SearchTerm]}, and {[g:Item3] (5)[v:Quantity:5] (XS)[v:Size:ExtraSmall] (pullover sweatshirts)[v:SearchTerm]}")
-  plan (zZBfT8IwFMXPxCETJggyGOKfN9540I9gYsKTf+YXWOAmNKFj6WqiPPjZvVtJTKsk+qCxSW/Tc+7v9qS4RJ9eUpmvaFoshdLTR5qTyDViW75ZSyn0nVqQQs+2jOj2K0o1GWtkW7NMaJGuZppk8TVmrK6DsYjhrnZMdjlvgsu9WuektKDCTV+2XP3hW9e/9VZkNz48p5kW+vXHupM5KSsGtngrsoUxnOAJpWq+fCIl/90c59sTsaFvaxfwsIca9uGjjgM0EOAQTbQQ4ghtdHCMLno4QR8RBhgixginGOMM50zD4f0t72/5Bk9osV7yzYpvV7zRvYr/2OA59mmW96maFfKtzgkjThNwypgThZx3zNlq7AQI3wE=)
-  last-modified (1569018745524)
+  utterance ("[g:CommitOrder] Buy {[g:Item] (7)[v:Quantity:7] (XL)[v:Size:ExtraLarge] (t-shirts)[v:SearchTerm]}, {[g:Item2] (6)[v:Quantity:6] (XS)[v:Size:ExtraSmall] (henley tops)[v:SearchTerm]}, and {[g:Item3] (5)[v:Quantity:5] (XS)[v:Size:ExtraSmall] (pullover sweatshirts)[v:SearchTerm]}")
+  plan (zZBfT8IwFMXPxCGTTRRkMPz75hsP8BFMTHjyz/wCC9yEJnQsXU3UBz+7dyuJaZVEHzQ26W16zv3dnhSX6NNzJosVjculUHr8QHMShUZiy9drKYW+VQtS6NmWEd1+RZkmY41sa5YLLbLVTJMsv8aM1XUwFjHc1o6rbc6b4HKn1gUpLah001ctkz98a/pbb8V24/1TlmuhX36sO5nTqmJgizciXxjDCZ5SpubLR1Ly381xvj0Vr/Rt7QIedtDALnw0sYcWAuyjjRARDtDBIY7QRQ/H6CPGAEMkGOEEpzjDOdNweH/D+xu+xRNC1iu+U/Ptmg9rx6v5jw2eY59meZ+qWRHfmpww5iwBp6xSRZw34WQNdgJE7w==)
+  last-modified (1569882201964)
 }
 train (t-0rwiea5s67kfb105zmd9lqt0b) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Change the size to {[g:ChangedItem] (Large)[v:Size:Large]}")

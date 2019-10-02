@@ -1,8 +1,3 @@
-train (t-xf8o2fzh91qj8zopn0guyhm2y) {
-  utterance ("[g:CommitOrder:continue,r:UpdateOrder] Add a {[g:AddedItem] (polo)[v:SearchTerm]} and {[g:AddedItem2] (hawaiian shirt)[v:SearchTerm]} to my shopping list")
-  plan (tZHPagIxEMY/3XVt1ar1T3c9WPDUmwffoBQKnlpq+wCLGTDQ6JJNwZPP3mkWxATTk7IwE+ab3zeTLDKMaZ+r4pvm5UZqM/+gNcnCYOKWX3ZKSfOmBWkMXakqev1fhcgNVdIsKB1+7LlE5rY8C0FiaUiVePT20MTAiZ4GyKDlIoxM/52FgSufm1IhVnkKKQfJ4V3vCtJG8t2vZHv2L3nF1V/03+NVbkUleFusKNfrzSdpdTGfDDXUESFGAwmauMEtWmijgzt00UMf9/wNMMQIYzwgBRwisUTTEi1LRJw7luhZomYJHGPMOXYq8DoSzhF7jtg75Vm81S8=)
-  last-modified (1569018755732)
-}
 train (t-xkzekmk3jxpm45y3zit0oot4b) {
   utterance ("[g:CommitOrder:continue,r:UpdateOrder] Remove the {[g:RemovedItem] (medium)[v:Size:Medium] (v-neck)[v:SearchTerm]}, the {[g:RemovedItem2] (medium)[v:Size:Medium] (crew neck)[v:SearchTerm]}, and {[g:RemovedItem3] (large)[v:Size:Large] (t-shirt)[v:SearchTerm]}")
   plan (7ZBbT8JAEIU/BRFFAUHkIsrFC4qKKD/BxIQnjegPIHQTNqFASjXGB367227UtGmVRx/oppOdOXP2zBluyIn3vjkdidZsKC279SQGQk5tit7y3cQ0pf1gGcIi64V00df/MjX6ttBQLRSav7r3GSX/EObkTRhdW5gzqr5JLKEono5iKJvKH+SFzGiWhnyTdsfSlv1R4ByapqGMj+ZIF8LaaYQhc6nCozWZCsuWv+7tdrmVAOed5Va+GntiJAZ2sLOeE8l7i/dybGig4H+pbw2Gz8L6f+/4VtmTH2LhWocVVokQZY0Y68TZUGeTBFtskyRFmh0yZNklxx55ChQpsU+ZAw6pUKVGnSOO3XPCKQ3OOKfJBZdc0eKaNvh0Iq7Sj04sQCcWoBNXPWWFOTp1Vyfp6qTUBEWlgfsTcNNZ1JOH1/jmeqP+EiqLKBeOu7Ty21aTNpVPp5am9Ak=)
@@ -17,11 +12,6 @@ train (t-xrfg62n50mbiwjkoa4v1zm1jp) {
   utterance ("[g:CommitOrder] Order an {[g:Item] (XL)[v:Size:ExtraLarge] (hooded sweatshirt)[v:SearchTerm]}, a {[g:Item2] (polo shirt)[v:SearchTerm]}, and a {[g:Item3] (small)[v:Size:Small] (v-neck)[v:SearchTerm]}")
   plan (zZDLbsIwEEVvSwOklPIIrwT23bGgn4CExArU9AciGImRMESOF1UXfHuHmI1d2CJsZezcO2dmZEzQp59M5XuaFjvWZvpFG+LcIHbl+VEpNiu9JY3Itazo52vKDFkrca3lgQ1n+6UhVVzHrNX1MBExupWOj1vOiSWs9TEnbZgKf/pzyuyOvT7v1Cs9RwxdccGHrTW8hillerP7Jq0ero73XCn/0lVtgic8o4IXBKiihjpCvKKBNzTxjhba6KCLCD30McAQI8RIZI8BjwwuZHAhGyVZK8lWSdalalsoOB+kgnv+j3aF8leVKRK5RdIllikqooRo/gE=)
   last-modified (1569018755905)
-}
-train (t-xrtdo2ugi26griyeo7q04g9gv) {
-  utterance ("[g:CancelConfirmation:prompt] (Yes)[v:CancelConfirmation:true] please")
-  plan (Y2BiUEitSMwtyEnVK87ILCrRc07MS07Ncc7PS8ssyk0syczPI0IFIxAyMPAAMRMQA9kA)
-  last-modified (1564003948127)
 }
 train (t-xrvrwhfi797644hz5qsv1uhc2) {
   utterance ([g:CancelCommittedOrder] Cancel my shirt order)
