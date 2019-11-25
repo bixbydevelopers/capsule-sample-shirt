@@ -20,26 +20,29 @@ activity-support {
         }
         detail-view {
           render {
-            layout-macro (common:orderTotalDisplay) {
-              param (total) {
-                dialog-template ("#{value(order.totalPrice)}")
-              }
-              param (line1) {
-                if ("size(order.items) > 0") {
-                  dialog-template ("#{value(order.items[0])}")
-                }
-              }
-              param (line2) {
-                if ("size(order.items) > 1") {
-                  dialog-template ("#{value(order.items[1])}")
-                }
-              }
-              param (line3) {
-                if ("size(order.items) > 2") {
-                  dialog-template ("and #{size(order.items) - 2} more...")
-                }
-              }
+            layout-match (this) {
+              mode (Details)
             }
+            // layout-macro (common:orderTotalDisplay) {
+            //   param (total) {
+            //     dialog-template ("#{value(order.totalPrice)}")
+            //   }
+            //   param (line1) {
+            //     if ("size(order.items) > 0") {
+            //       dialog-template ("#{value(order.items[0])}")
+            //     }
+            //   }
+            //   param (line2) {
+            //     if ("size(order.items) > 1") {
+            //       dialog-template ("#{value(order.items[1])}")
+            //     }
+            //   }
+            //   param (line3) {
+            //     if ("size(order.items) > 2") {
+            //       dialog-template ("and #{size(order.items) - 2} more...")
+            //     }
+            //   }
+            // }
           }
         }
       }
@@ -59,26 +62,29 @@ activity-support {
         }
         detail-view {
           render {
-            layout-macro (common:orderTotalDisplay) {
-              param (total) {
-                dialog-template ("#{value(order.totalPrice)}")
-              }
-              param (line1) {
-                if ("size(order.items) > 0") {
-                  dialog-template ("#{value(order.items[0])}")
-                }
-              }
-              param (line2) {
-                if ("size(order.items) > 1") {
-                  dialog-template ("#{value(order.items[1])}")
-                }
-              }
-              param (line3) {
-                if ("size(order.items) > 2") {
-                  dialog-template ("and #{size(order.items) - 2} more...")
-                }
-              }
+            layout-match (this) {
+              mode (Details)
             }
+            // layout-macro (common:orderTotalDisplay) {
+            //   param (total) {
+            //     dialog-template ("#{value(order.totalPrice)}")
+            //   }
+            //   param (line1) {
+            //     if ("size(order.items) > 0") {
+            //       dialog-template ("#{value(order.items[0])}")
+            //     }
+            //   }
+            //   param (line2) {
+            //     if ("size(order.items) > 1") {
+            //       dialog-template ("#{value(order.items[1])}")
+            //     }
+            //   }
+            //   param (line3) {
+            //     if ("size(order.items) > 2") {
+            //       dialog-template ("and #{size(order.items) - 2} more...")
+            //     }
+            //   }
+            // }
           }
         }
       }
@@ -97,26 +103,29 @@ activity-support {
         }
         detail-view {
           render {
-            layout-macro (common:orderTotalDisplay) {
-              param (total) {
-                dialog-template ("#{value(order.totalPrice)}")
-              }
-              param (line1) {
-                if ("size(order.items) > 0") {
-                  dialog-template ("#{value(order.items[0])}")
-                }
-              }
-              param (line2) {
-                if ("size(order.items) > 1") {
-                  dialog-template ("#{value(order.items[1])}")
-                }
-              }
-              param (line3) {
-                if ("size(order.items) > 2") {
-                  dialog-template ("and #{size(order.items) - 2} more...")
-                }
-              }
+            layout-match (this) {
+              mode (Details)
             }
+            // layout-macro (common:orderTotalDisplay) {
+            //   param (total) {
+            //     dialog-template ("#{value(order.totalPrice)}")
+            //   }
+            //   param (line1) {
+            //     if ("size(order.items) > 0") {
+            //       dialog-template ("#{value(order.items[0])}")
+            //     }
+            //   }
+            //   param (line2) {
+            //     if ("size(order.items) > 1") {
+            //       dialog-template ("#{value(order.items[1])}")
+            //     }
+            //   }
+            //   param (line3) {
+            //     if ("size(order.items) > 2") {
+            //       dialog-template ("and #{size(order.items) - 2} more...")
+            //     }
+            //   }
+            // }
           }
         }
       }

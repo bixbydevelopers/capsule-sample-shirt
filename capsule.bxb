@@ -1,6 +1,6 @@
 capsule {
   id (example.shirt)
-  version (2.12.10) // remove warnings
+  version (2.12.10)
   format(3)
   runtime-flags {
     support-halt-effect-in-computed-inputs
@@ -20,10 +20,10 @@ capsule {
       as (core) 
     }
     import (viv.entity) {
-      as (entity) version(3.20.5)
+      as (entity) version(4.0.3) 
     }
     import (viv.money) {
-      as (money) version (2.22.3)
+      as (money) version (2.22.21)
     }
     import (viv.time) { 
       as (time) version-from (entity)
@@ -34,5 +34,11 @@ capsule {
     import (viv.image) {
       as (image) version-from (common)
     }
+  }
+  store-countries {
+    all
+  }
+  store-sections {
+    section (Shopping)
   }
 }
