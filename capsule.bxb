@@ -19,20 +19,11 @@ capsule {
     import (viv.core) { 
       as (core) 
     }
-    import (viv.entity) {
-      as (entity) version(4.0.3) 
-    }
     import (viv.money) {
       as (money) version (2.22.21)
     }
     import (viv.time) { 
-      as (time) version-from (entity)
-    }
-    import (viv.common) {
-      as (common) version-from (entity)
-    }
-    import (viv.image) {
-      as (image) version-from (common)
+      as (time) version (3.1.23)
     }
   }
   store-countries {
