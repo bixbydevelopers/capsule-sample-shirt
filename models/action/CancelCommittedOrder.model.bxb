@@ -25,7 +25,7 @@ action (CancelCommittedOrder) {
             }
           }
         }
-        if (receipt.orderState != 'Ordered') {
+        if (exists(receipt) && receipt.orderState != 'Ordered') {
           halt {
             dialog{
               template("This order is already #{value (receipt.orderState)}!")

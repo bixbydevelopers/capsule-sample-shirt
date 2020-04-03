@@ -29,7 +29,7 @@ action (CreateItem) {
             //picks Medium, otherwise pick first item from the list of candidates
             with-rule {
               select-min {
-                expression (size == 'Medium' ? 0 : 1)
+                expression (exists(size) && size == 'Medium' ? 0 : 1)
               }
             }
             with-learning {
