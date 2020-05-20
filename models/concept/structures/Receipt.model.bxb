@@ -11,7 +11,7 @@ structure (Receipt) {
   property(statusRefreshTime) {
     type(time.DateTime)
     visibility(Private)
-    min (Optional)
+    min (Required)
   }
   features {activity}
 }

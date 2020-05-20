@@ -18,7 +18,7 @@ result-view {
           }
           for-each (this.order.items) {
             as (item) {
-              layout-macro (item-highlight) {
+              layout-macro (item-highlight-area) {
                 param (item) {
                   expression (item)
                 }
