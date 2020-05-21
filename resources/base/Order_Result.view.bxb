@@ -7,16 +7,15 @@ result-view {
     if ("size(this.items) > 1") {
       list-of (this.items) {
         where-each (item) {
-          layout-macro (item-highlight) {
+          layout-macro (item-highlight-area) {
             param (item) {
               expression (item)
             }
           }
         }
-        has-details (false)
       }
     } else-if ("size(this.items) == 1") {
-      layout-macro (item-highlight) {
+      layout-macro (item-highlight-card) {
         param (item) {
           expression (this.items) //the above check is not removing the empty warning. VIV-31715
         }

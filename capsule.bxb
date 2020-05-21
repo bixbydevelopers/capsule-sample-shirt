@@ -2,10 +2,11 @@ capsule {
   id (example.shirt)
   version (2.12.10)
   format(3)
-  runtime-version (2) {
+  runtime-version (7) {
     overrides {
       allow-dialogs-on-detail-pages (true)
       no-fallback-to-result-collections (true)
+      no-fallback-dialog-in-views (false)
     }
   }
   targets {

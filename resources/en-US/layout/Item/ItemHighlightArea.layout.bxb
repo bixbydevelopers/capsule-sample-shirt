@@ -1,4 +1,4 @@
-layout-macro-def (item-highlight-card) {
+layout-macro-def (item-highlight-area) {
   params {
     param (item) {
       type (Item)
@@ -6,7 +6,7 @@ layout-macro-def (item-highlight-card) {
     }
   }
   content {
-    thumbnail-card {
+    thumbnail-area {
       image-url {
         template ("[#{value(item.shirt.images[0].url)}]")
       }
@@ -34,9 +34,6 @@ layout-macro-def (item-highlight-card) {
             }
           }
         }
-      }
-      on-click {
-        view-for (item)
       }
     }
   }
