@@ -12,7 +12,7 @@ module.exports = [
   },
   {
     $id: 2,
-    title: "Polo Shirt",
+    title: "Polo Shirts",
     price: { value: 19, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "TommyHilfiger",
     gender: "Male",
@@ -23,7 +23,7 @@ module.exports = [
   },
   {
     $id: 3,
-    title: "Collar Dress Shirt",
+    title: "Collar Dress Shirts",
     price: { value: 53.95, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "TommyHilfiger",
     gender: "Male",
@@ -34,7 +34,7 @@ module.exports = [
   },
   {
     $id: 4,
-    title: "Crew Neck Sweatshirt",
+    title: "Crew Neck Sweatshirts",
     price: { value: 53.95, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "TommyHilfiger",
     gender: "Female",
@@ -56,7 +56,7 @@ module.exports = [
   },
   {
     $id: 6,
-    title: "Pony Logo T-Shirt",
+    title: "Pony Logo T-Shirts",
     price: { value: 26, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "RalphLauren",
     gender: "Male",
@@ -67,7 +67,7 @@ module.exports = [
   },
   {
     $id: 7,
-    title: "Oxford Dress Shirt",
+    title: "Oxford Dress Shirts",
     price: { value: 26, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "RalphLauren",
     gender: "Male",
@@ -78,7 +78,7 @@ module.exports = [
   },
   {
     $id: 8,
-    title: "Pullover Sweatshirt",
+    title: "Pullover Sweatshirts",
     price: { value: 24.80, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "RalphLauren",
     gender: "Female",
@@ -89,7 +89,7 @@ module.exports = [
   },
   {
     $id: 9,
-    title: "Striped Cotton Henley Top",
+    title: "Striped Cotton Henley Tops",
     price: { value: 34.95, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "RalphLauren",
     gender: "Female",

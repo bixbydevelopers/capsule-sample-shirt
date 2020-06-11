@@ -1,4 +1,3 @@
-var textLib = require('textLib')
 exports.findItem = findItem
 exports.findItemIndex = findItemIndex
 exports.findShirtsWithSize = findShirtsWithSize
@@ -26,11 +25,11 @@ function findItems(items, searchTerm) {
    var matches = []
    //a lot can be improved here to improve matching the items
    for (var i=0; i<items.length; i++) {
-      if (textLib.fuzzyMatch(items[i].shirt.title, searchTerm)) {
+      if (shirts[i.title].toLowerCase().includes(searchTerm.toString().toLowerCase())) {
         matches.push(items[i])
-      } else if (textLib.fuzzyMatch(items[i].shirt.style, searchTerm)) {
+      } else if (items[i].shirt.style.toLowerCase().includes(searchTerm.toString().toLowerCase())) {
         matches.push(items[i])
-      } else if (textLib.fuzzyMatch(items[i].shirt.brand, searchTerm)) {
+      } else if (items[i].shirt.brand.toLowerCase().includes(searchTerm.toString().trim().toLowerCase())) {
         matches.push(items[i])
       }
    }
@@ -50,7 +49,7 @@ function findShirtsWithSize(order, shirt, size) {
 function findShirts(shirts, searchTerm) {
    var matches = []
    for (var i=0; i<shirts.length; i++) {
-      if (textLib.fuzzyMatch(shirts[i].title, searchTerm)) {
+      if (shirts[i].title.toLowerCase().includes(searchTerm.toString().toLowerCase())) {
         matches.push(shirts[i])
       }
    }
