@@ -1,6 +1,4 @@
-var textLib = require('textLib')
 var lib = require("./lib/util");
-
 const SHIRTS = require("./lib/shirts");
 
 // FindShirt
@@ -10,13 +8,13 @@ exports.function = function(searchTerm, style, brand, gender, minPrice, maxPrice
     records = lib.findShirts(SHIRTS, searchTerm)
   }
   if (brand) {
-    records = records.filter(function (record) { return textLib.fuzzyMatch(record.brand, brand)})
+    records = records.filter(function (record) { return record.brand.toLowerCase() == brand.toString().toLowerCase()})
   }
   if (style) {
-    records = records.filter(function (record) { return textLib.fuzzyMatch(record.style, style)})
+    records = records.filter(function (record) { return record.style.toLowerCase() == style.toString().toLowerCase()})
   }
   if (gender) {
-    records = records.filter(function (record) { return record.gender.toLowerCase() == gender.toLowerCase()})
+    records = records.filter(function (record) { return record.gender.toLowerCase() == gender.toString().toLowerCase()})
   }
   if (minPrice) {
     records = records.filter(function (record) { return record.price.value > minPrice.value})

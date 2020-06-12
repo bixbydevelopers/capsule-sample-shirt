@@ -35,9 +35,6 @@ layout-macro-def (item-highlight-card) {
           }
         }
       }
-      on-click {
-        view-for (item)
-      }
     }
   }
 }
