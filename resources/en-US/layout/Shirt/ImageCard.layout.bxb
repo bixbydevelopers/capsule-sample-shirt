@@ -34,9 +34,6 @@ layout-macro-def (shirt-image-card) {
           }
         }
       }
-      on-click {
-        view-for (shirt)
-      }
     }
   }
 }
