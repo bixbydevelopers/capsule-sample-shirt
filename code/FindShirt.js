@@ -1,5 +1,4 @@
 var lib = require("./lib/util");
-
 const SHIRTS = require("./lib/shirts");
 
 // FindShirt

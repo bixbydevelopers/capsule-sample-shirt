@@ -25,7 +25,7 @@ function findItems(items, searchTerm) {
    var matches = []
    //a lot can be improved here to improve matching the items
    for (var i=0; i<items.length; i++) {
-      if (shirts[i.title].toLowerCase().includes(searchTerm.toString().toLowerCase())) {
+      if (items[i].shirt.title.concat("s").toLowerCase().includes(searchTerm.toString().toLowerCase())) {
         matches.push(items[i])
       } else if (items[i].shirt.style.toLowerCase().includes(searchTerm.toString().toLowerCase())) {
         matches.push(items[i])
@@ -49,7 +49,7 @@ function findShirtsWithSize(order, shirt, size) {
 function findShirts(shirts, searchTerm) {
    var matches = []
    for (var i=0; i<shirts.length; i++) {
-      if (shirts[i].title.toLowerCase().includes(searchTerm.toString().toLowerCase())) {
+      if (shirts[i].title.concat("s").toLowerCase().includes(searchTerm.toString().toLowerCase())) {
         matches.push(shirts[i])
       }
    }
