@@ -2,7 +2,7 @@ module.exports = [
   {
     $id: 1,
     title: "V-Neck Tee",
-    keywords: ["v-neck", "v-necks", "v-neck tee", "v-neck tees", "tees"],
+    keywords: ["v-necks", "v-neck t-shirts", "v-neck tees", "tees", "t-shirts"],
     price: { value: 14.95, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "TommyHilfiger",
     gender: "Male",
@@ -14,7 +14,7 @@ module.exports = [
   {
     $id: 2,
     title: "Polo Shirt",
-    keywords: ["polo shirt", "polo shirts", "polos"],
+    keywords: ["polo shirts", "polos"],
     price: { value: 19, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "TommyHilfiger",
     gender: "Male",
@@ -26,7 +26,7 @@ module.exports = [
   {
     $id: 3,
     title: "Collar Dress Shirt",
-    keywords: ["collar dress shirt", "collar dress shirts", "dress shirt", "dress shirts"],
+    keywords: ["collar dress shirts", "dress shirts"],
     price: { value: 53.95, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "TommyHilfiger",
     gender: "Male",
@@ -38,7 +38,7 @@ module.exports = [
   {
     $id: 4,
     title: "Crew Neck Sweatshirt",
-    keywords: ["crew neck", "crew necks", "crew neck sweatshirt", "crew neck sweatshirts", "sweatshirts"],
+    keywords: ["crew necks", "crew neck sweatshirts", "sweatshirts"],
     price: { value: 53.95, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "TommyHilfiger",
     gender: "Female",
@@ -50,7 +50,7 @@ module.exports = [
   {
     $id: 5,
     title: "Cotton Henley Tank",
-    keywords: ["henleys", "cotton henley tank", "cotton henley tanks", "cotton henleys", "henly tanks", "henly tank", "tank", "tanks"],
+    keywords: ["henleys", "cotton henley tanks", "cotton henleys", "henly tanks", "tanks"],
     price: { value: 22.69, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "TommyHilfiger",
     gender: "Female",
@@ -62,7 +62,7 @@ module.exports = [
   {
     $id: 6,
     title: "Pony Logo T-Shirt",
-    keywords: ["pony logo shirt", "pony logo shirts", "pony logo t-shirt", "pony logo t-shirts", "pony logo tees", "pony logo tee", "tees"],
+    keywords: ["pony logo shirts", "pony logo t-shirts", "pony logo tees", "tees"],
     price: { value: 26, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "RalphLauren",
     gender: "Male",
@@ -74,7 +74,7 @@ module.exports = [
   {
     $id: 7,
     title: "Oxford Dress Shirt",
-    keywords: ["dress shirts", "dress shirt", "oxford dress shirt", "oxford dress shirts", "oxford dress", "oxford shirt", "oxford shirts"],
+    keywords: ["dress shirts", "oxford dress shirts", "oxford dress", "oxford shirts"],
     price: { value: 26, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "RalphLauren",
     gender: "Male",
@@ -86,7 +86,7 @@ module.exports = [
   {
     $id: 8,
     title: "Pullover Sweatshirt",
-    keywords: ["sweatshirts", "pullovers", "pullover", "pullover sweatshirt", "pullover sweatshirts"],
+    keywords: ["sweatshirts", "pullovers", "pullover sweatshirts"],
     price: { value: 24.80, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "RalphLauren",
     gender: "Female",
@@ -98,7 +98,7 @@ module.exports = [
   {
     $id: 9,
     title: "Striped Cotton Henley Top",
-    keywords: ["henleys", "henley top", "henley tops", "striped cotton heley top", "striped cotton heley tops", "striped cotton tops", "striped cotton top", "striped cotton henley", "striped cotton henleys", "striped heley", "striped heleys", "striped henley tops", "striped henley top"],
+    keywords: ["henleys", "henley tops", "striped cotton heley tops", "striped cotton tops", "striped cotton henleys", "striped heleys", "striped henley tops"],
     price: { value: 34.95, currencyType: {currencyCode: "USD", prefixSymbol: "$"} },
     brand: "RalphLauren",
     gender: "Female",
