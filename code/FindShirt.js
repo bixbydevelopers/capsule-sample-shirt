@@ -8,10 +8,10 @@ exports.function = function(searchTerm, style, brand, gender, minPrice, maxPrice
     records = lib.findShirts(SHIRTS, searchTerm)
   }
   if (brand) {
-    records = records.filter(function (record) { return record.brand.toLowerCase().includes(brand.toString().trim().toLowerCase())})
+    records = records.filter(function (record) { return record.brand.toLowerCase() == brand.toString().toLowerCase()})
   }
   if (style) {
-    records = records.filter(function (record) { return record.style.toLowerCase().includes(style.toString().toLowerCase())})
+    records = records.filter(function (record) { return record.style.toLowerCase() == style.toString().toLowerCase()})
   }
   if (gender) {
     records = records.filter(function (record) { return record.gender.toLowerCase() == gender.toString().toLowerCase()})
