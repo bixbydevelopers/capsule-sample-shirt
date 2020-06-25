@@ -64,13 +64,16 @@ function remove(order, removedItems) {
      var index = lib.findItemIndex(order, removedItem.item)
      if (index >= 0) {
        // deep copy of order.totalPrice, because it refers to the same object as order.items[index].shirt.price for some reason...
-       order.totalPrice = Object.assign({}, order.totalPrice)
-       order.totalPrice.value -= order.items[index].shirt.price.value*removedItem.removedQuantity;
-       order.items[index].quantity -= removedItem.removedQuantity;
-       // delete the item if the quantity is zero
-       if (order.items[index].quantity === 0) {
-         order.items.splice(index, 1)
-       }
+      order.totalPrice = Object.assign({}, order.totalPrice)
+      if (removedItem.removedQuantity >= order.items[index].quantity) {
+        //remove the item
+        order.totalPrice.value -= order.items[index].shirt.price.value*order.items[index].quantity;
+        order.items.splice(index, 1)
+      } else {
+        // remove only the specified quantity
+        order.items[index].quantity -= removedItem.removedQuantity;
+        order.totalPrice.value -= order.items[index].shirt.price.value*removedItem.removedQuantity;
+      }
      } else {
        if (order.length) {
          throw fail.checkedError("NoMatch", "NoMatch")
