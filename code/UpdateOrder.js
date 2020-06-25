@@ -60,13 +60,17 @@ function remove(order, removedItems) {
    if (!removedItems) {
      return order
    }
-   [].concat(removedItems.items).forEach(function(removedItems) {
-     var index = lib.findItemIndex(order, removedItems.item)
+   [].concat(removedItems.items).forEach(function(removedItem) {
+     var index = lib.findItemIndex(order, removedItem.item)
      if (index >= 0) {
        // deep copy of order.totalPrice, because it refers to the same object as order.items[index].shirt.price for some reason...
        order.totalPrice = Object.assign({}, order.totalPrice)
-       order.totalPrice.value -= order.items[index].shirt.price.value*order.items[index].quantity
-       order.items.splice(index, 1)
+       order.totalPrice.value -= order.items[index].shirt.price.value*removedItem.removedQuantity;
+       order.items[index].quantity -= removedItem.removedQuantity;
+       // delete the item if the quantity is zero
+       if (order.items[index].quantity === 0) {
+         order.items.splice(index, 1)
+       }
      } else {
        if (order.length) {
          throw fail.checkedError("NoMatch", "NoMatch")
