@@ -2,5 +2,5 @@ dialog (Input) {
   match {
     RemovedItem (removedItem)
   }
-  template ("Removed #{value (removedItem.item)}")
+  template ("Removed[ #{value (removedItem.removedQuantity)}] #{value (removedItem.item.shirt.title)}")
 }
