@@ -6,13 +6,15 @@ layout-macro-def (shirt-size) {
     }
   }
   content {
-    title-area {
-      halign (Center)
-      slot2 {
-        single-line {
-          text {
-            value ("#{value(size)}")
-            style (Title_M)
+    title-card {
+      title-area {
+        halign (Center)
+        slot2 {
+          single-line {
+            text {
+              value ("#{value(size)}")
+              style (Title_M)
+            }
           }
         }
       }
