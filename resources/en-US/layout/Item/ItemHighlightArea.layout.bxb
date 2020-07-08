@@ -6,7 +6,7 @@ layout-macro-def (item-highlight-area) {
     }
   }
   content {
-    thumbnail-area {
+    thumbnail-card {
       image-url {
         template ("[#{value(item.shirt.images[0].url)}]")
       }
