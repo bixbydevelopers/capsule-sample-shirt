@@ -20,7 +20,7 @@ capsule {
       as (money) version (2.22.43)
     }
     import (viv.time) { 
-      as (time) version (3.1.115)
+      as (time) version (3.3.34)
     }
   }
   store-countries {

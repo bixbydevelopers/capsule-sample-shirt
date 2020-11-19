@@ -37,7 +37,8 @@ action (SelectItem) {
         on-catch {
           //prompt for matched items, clear searchTerm
           prompt (items) {
-            min (1) max (1) 
+            required-value (true)
+            single-value (true)
             candidates (matches)
           }
         }
@@ -48,7 +49,8 @@ action (SelectItem) {
       ordered-effects {
         drop (searchTerm)
         prompt (items) {
-          min (1) max (1) 
+          required-value (true)
+          single-value (true)
           candidates (items)
         }
       }
