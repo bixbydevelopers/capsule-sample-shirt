@@ -6,7 +6,7 @@ input-view {
   render {
     selection-of (this) {
       where-each (one) {
-        layout-macro (item-highlight-card) {
+        macro (item-highlight-card) {
           param (item) {
             expression (one)
           }
