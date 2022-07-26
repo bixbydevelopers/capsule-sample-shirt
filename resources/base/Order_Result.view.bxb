@@ -7,7 +7,7 @@ result-view {
     if ("size(this.items) > 1") {
       list-of (this.items) {
         where-each (item) {
-          layout-macro (item-highlight-area) {
+          macro (item-highlight-area) {
             param (item) {
               expression (item)
             }

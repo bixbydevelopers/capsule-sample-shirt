@@ -46,7 +46,7 @@ confirmation-view {
           }
           for-each (action.receipt.order.items) {
             as (item) {
-              layout-macro (item-highlight-area) {
+              macro (item-highlight-area) {
                 param (item) {
                   expression (item)
                 }

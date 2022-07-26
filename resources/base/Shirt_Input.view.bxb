@@ -6,7 +6,7 @@ input-view {
   render {
     selection-of (this) {
       where-each (one) {
-        layout-macro (shirt-image-card) {
+        macro (shirt-image-card) {
           param (shirt) {
             expression (one)
           }

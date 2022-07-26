@@ -5,7 +5,7 @@ result-view {
     if ("size(this) > 1") {
       list-of (this) {
         where-each (shirt) {
-          layout-macro (shirt-image-card) {
+          macro (shirt-image-card) {
             param (shirt) {
               expression (shirt)
             }
@@ -14,12 +14,12 @@ result-view {
       }
     } else-if ("size(this) == 1") {
       layout {
-        layout-macro (shirt-image-carousel) {
+        macro (shirt-image-carousel) {
           param (shirt) {
             expression (this)
           }
         }
-        layout-macro (shirt-details) {
+        macro (shirt-details) {
           param (shirt) {
             expression (this)
           }

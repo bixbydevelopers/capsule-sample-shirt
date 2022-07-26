@@ -4,7 +4,7 @@ input-view {
 
     selection-of (sizes) {
       where-each (size) {
-        layout-macro (shirt-size) {
+        macro (shirt-size) {
           param (size) {
             expression (size)
           }
