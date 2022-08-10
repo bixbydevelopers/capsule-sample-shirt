@@ -1,4 +1,4 @@
-layout-macro-def (shirt-details) {
+macro-def (shirt-details) {
   params {
     param (shirt) {
       type (Shirt)

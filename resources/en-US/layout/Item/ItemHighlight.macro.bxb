@@ -1,4 +1,4 @@
-layout-macro-def (item-highlight-area) {
+macro-def (item-highlight-card) {
   params {
     param (item) {
       type (Item)

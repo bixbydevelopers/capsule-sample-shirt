@@ -1,4 +1,4 @@
-layout-macro-def (shirt-image-carousel) {
+macro-def (shirt-image-carousel) {
   params {
     param (shirt) {
       type (Shirt)

@@ -1,4 +1,4 @@
-layout-macro-def (CommitOrder_Section) {
+macro-def (CommitOrder_Section) {
 	params {
 		param (commitOrder) {
 			type (CommitOrder)
