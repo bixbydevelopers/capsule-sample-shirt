@@ -15,9 +15,15 @@ result-view {
         }
       }
     } else-if ("size(this.items) == 1") {
-      layout-macro (item-highlight-card) {
-        param (item) {
-          expression (this.items) //the above check is not removing the empty warning. VIV-31715
+      layout {
+        section {
+          content {
+            macro (item-highlight-card) {
+              param (item) {
+                expression (this.items) //the above check is not removing the empty warning. VIV-31715
+              }
+            }
+          }
         }
       }
     }
