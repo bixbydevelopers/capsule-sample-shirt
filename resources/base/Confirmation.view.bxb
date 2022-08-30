@@ -12,10 +12,12 @@ confirmation-view {
 	mode (Transactional)
 	
 	render {
-		layout-macro (CommitOrder_Section) {
-			param (commitOrder) {
-				expression (action)
-			}
-		}
+    layout {
+      macro (CommitOrder_Section) {
+        param (commitOrder) {
+          expression (action)
+        }
+      }
+    }
 	}
 }

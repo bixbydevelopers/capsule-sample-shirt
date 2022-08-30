@@ -1,4 +1,4 @@
-layout-macro-def (shirt-image-card) {
+macro-def (shirt-image-card) {
   params {
     param (shirt) {
       type (Shirt)
