@@ -4,10 +4,7 @@ import console from 'console';
 import http from 'http';
 //CommitOrder
 export default function ({ order, $vivContext }) {
-  
   ZonedDateTime.setVivContext($vivContext);
-  console.log(ZonedDateTime.now().plusSeconds(parseInt(config.get('status_refresh_time'))))
-  console.log(config.get('status_refresh_time'))
   //pay(order.totalPrice.value, order.totalPrice.currencyType.currencyCode, order.items)
   return {
     order: order,
