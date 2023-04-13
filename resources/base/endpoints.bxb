@@ -7,7 +7,7 @@ endpoints {
       local-endpoint ("FindShirt.js")
     }
     action-endpoint (CreateOrder) {
-      accepted-inputs (initialItems,$vivContext)
+      accepted-inputs (initialItems, $vivContext)
       local-endpoint ("CreateOrder.js")
     }
     action-endpoint (UpdateOrder) {
@@ -19,7 +19,7 @@ endpoints {
       local-endpoint ("CancelOrder.js")
     }
     action-endpoint (CommitOrder) {
-      accepted-inputs (order,$vivContext)
+      accepted-inputs (order, $vivContext)
       local-endpoint ("CommitOrder.js")
 
        //Samsung pay is still under construction
@@ -44,11 +44,11 @@ endpoints {
 //       }
     }
     action-endpoint (CheckStatus) {
-      accepted-inputs (receipt,$vivContext)
+      accepted-inputs (receipt, $vivContext)
       local-endpoint ("CheckStatus.js")
     }
     action-endpoint (CancelCommittedOrder) {
-      accepted-inputs (receipt,$vivContext)
+      accepted-inputs (receipt, $vivContext)
       local-endpoint ("CancelCommittedOrder.js")
     }
     action-endpoint (CreateItem) {
