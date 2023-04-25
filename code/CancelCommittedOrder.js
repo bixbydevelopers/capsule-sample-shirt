@@ -1,10 +1,14 @@
-var dates = require('dates')
-var config = require('config')
+import ZonedDateTime from './lib/zoned-date-time-polyfill.js';
+import config from 'config';
+import console from 'console';
 //CancelCommittedOrder
-exports.function = function(receipt) {
-  if (receipt.orderState == "Ordered") {
-    receipt.orderState = "Cancelled"
+export default function ({ receipt, $vivContext }) {
+  ZonedDateTime.setVivContext($vivContext);
+  if (receipt.orderState == 'Ordered') {
+    receipt.orderState = 'Cancelled';
   }
-  receipt.statusRefreshTime = dates.ZonedDateTime.now().plusSeconds(parseInt(config.get("status_refresh_time"))).getDateTime()
-  return receipt
+  receipt.statusRefreshTime = ZonedDateTime.now()
+    .plusSeconds(parseInt(config.get('status_refresh_time')))
+    .getDateTime();
+  return receipt;
 }
